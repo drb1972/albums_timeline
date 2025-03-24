@@ -20,7 +20,8 @@ if 'selected_ids_list' not in st.session_state:
     st.session_state.selected_ids_list = []
 if 'token' not in st.session_state:
     st.session_state.token = False
-
+if 'album_data' not in st.session_state:
+    st.session_state.album_data = {"items": []}
 
 if not st.session_state.token:
     # Read input.yaml
@@ -63,32 +64,15 @@ with st.sidebar:
                         break
 
                 # Check if selected_band and artist_id are provided
-                if selected_band and artist_id:
-                    # Load the current content of 'input.yaml' into a variable
-                    with open('input.yaml', 'r') as f:
-                        input_data = yaml.safe_load(f)
+                if selected_band and artist_id and selected_band not in st.session_state.selected_bands_list:
+                    st.session_state.selected_bands_list.append(selected_band)
+                    st.session_state.selected_ids_list.append(artist_id)
+                    with st.spinner(text="Building Timeline"):
+                        albums_data = cf.get_albums(st.session_state.access_token, selected_band, artist_id)
+                    for album in albums_data["items"]:
+                        if album not in st.session_state.album_data["items"]:
+                            st.session_state.album_data["items"].append(album)
 
-                    # Sanitize selected_band value for use as a key
-                    band_key = selected_band.lower().replace(' ', '_')
-
-                    # Check if the band is already in the dictionary
-                    if band_key not in input_data["bands"]:
-                        input_data["bands"][band_key] = {
-                            "band_name": selected_band,
-                            "band_id": artist_id
-                        }
-
-                        # Write the updated data back to 'input.yaml' only once all changes are done
-                        with open('input.yaml', 'w') as f:
-                            yaml.safe_dump(input_data, f)
-
-                        # Notify the user and trigger external script
-                        with st.spinner(text="Building Timeline"):
-                            os.system("python get_albums.py")
-
-                    if selected_band not in st.session_state.selected_bands_list:
-                        st.session_state.selected_bands_list.append(selected_band)
-                        st.session_state.selected_ids_list.append(artist_id)
 
 
     
@@ -134,8 +118,8 @@ if st.session_state.selected_bands_list!=[]:
     events = []
     #- Read each band json file
     for item in st.session_state.selected_ids_list: 
-        with open(f'./bands/{item}.json', 'r') as f:
-            band = json.load(f)
+        band = [band for band in st.session_state.album_data["items"] if band["artist_id"]==item][0]
+
 
         band_name = band["band"]
         band_spotify_url = band["band_spotify_url"]
