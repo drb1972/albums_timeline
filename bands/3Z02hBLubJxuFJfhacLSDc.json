@@ -1,0 +1,3497 @@
+{
+    "band": "Bryan Adams",
+    "band_spotify_url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc",
+    "band_link_text": "Open Album in Spotify Bryan Adams",
+    "albums": [
+        {
+            "id": "0YekjLUnlDoXrLWGUa9RmK",
+            "name": "Waking Up The Neighbours - Live At The Royal Albert Hall",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27304a9b7b3b1cf1294b4e67c0e",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485104a9b7b3b1cf1294b4e67c0e",
+            "total_tracks": 15,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2023-12-08",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "12",
+            "album_spotify_url": "https://open.spotify.com/album/0YekjLUnlDoXrLWGUa9RmK",
+            "tracks": [
+                {
+                    "name": "Is Your Mama Gonna Miss Ya? - Live At The Royal Albert Hall",
+                    "track_number": 1,
+                    "duration": "3:32",
+                    "track_spotify_url": "https://open.spotify.com/track/2EPVYQhpgxHkQQsOEYg40S"
+                },
+                {
+                    "name": "Hey Honey - I'm Packin' You In! - Live At The Royal Albert Hall",
+                    "track_number": 2,
+                    "duration": "3:15",
+                    "track_spotify_url": "https://open.spotify.com/track/1FZwZPdyV0tcuiWs8RPuBa"
+                },
+                {
+                    "name": "Can't Stop This Thing We Started - Live At The Royal Albert Hall",
+                    "track_number": 3,
+                    "duration": "4:56",
+                    "track_spotify_url": "https://open.spotify.com/track/0d8hMoBS3fkPsTMJn3xv9y"
+                },
+                {
+                    "name": "Thought I'd Died And Gone To Heaven - Live At The Royal Albert Hall",
+                    "track_number": 4,
+                    "duration": "3:35",
+                    "track_spotify_url": "https://open.spotify.com/track/4xqP7nk5wkzY3xU7JNj4c6"
+                },
+                {
+                    "name": "Not Guilty - Live At The Royal Albert Hall",
+                    "track_number": 5,
+                    "duration": "3:32",
+                    "track_spotify_url": "https://open.spotify.com/track/0PRg89pWHypfNmdKOdhuxg"
+                },
+                {
+                    "name": "Vanishing - Live At The Royal Albert Hall",
+                    "track_number": 6,
+                    "duration": "4:51",
+                    "track_spotify_url": "https://open.spotify.com/track/790ju3oc9r8yincLXpaQD7"
+                },
+                {
+                    "name": "House Arrest - Live At The Royal Albert Hall",
+                    "track_number": 7,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/4a2OJlfTqpgTizupUew4UG"
+                },
+                {
+                    "name": "Do I Have To Say The Words? - Live At The Royal Albert Hall",
+                    "track_number": 8,
+                    "duration": "5:23",
+                    "track_spotify_url": "https://open.spotify.com/track/14dJnK0yPjBhqPvgJSMyob"
+                },
+                {
+                    "name": "There Will Never Be Another Tonight - Live At The Royal Albert Hall",
+                    "track_number": 9,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/72sUjUhvhmnAO4iKGzSoW6"
+                },
+                {
+                    "name": "All I Want Is You - Live At The Royal Albert Hall",
+                    "track_number": 10,
+                    "duration": "3:52",
+                    "track_spotify_url": "https://open.spotify.com/track/3pVBFqBRVRzkDpPBInqFzZ"
+                },
+                {
+                    "name": "Depend On Me - Live At The Royal Albert Hall",
+                    "track_number": 11,
+                    "duration": "4:09",
+                    "track_spotify_url": "https://open.spotify.com/track/6jZ0HTTaXjQJqLCU17Rnt7"
+                },
+                {
+                    "name": "Touch The Hand - Live At The Royal Albert Hall",
+                    "track_number": 12,
+                    "duration": "3:11",
+                    "track_spotify_url": "https://open.spotify.com/track/2npfu4JKSEX0OTwNeYinvQ"
+                },
+                {
+                    "name": "If You Wanna Leave Me (Can I Come Too?) - Live At The Royal Albert Hall",
+                    "track_number": 13,
+                    "duration": "4:05",
+                    "track_spotify_url": "https://open.spotify.com/track/3uL6acAdVAN8B6rl6GUSMi"
+                },
+                {
+                    "name": "Don't Drop That Bomb On Me - Live At The Royal Albert Hall",
+                    "track_number": 14,
+                    "duration": "6:57",
+                    "track_spotify_url": "https://open.spotify.com/track/38ciymEiCS69hHXUC8PASJ"
+                },
+                {
+                    "name": "(Everything I Do) I Do It For You - Live At The Royal Albert Hall",
+                    "track_number": 15,
+                    "duration": "7:41",
+                    "track_spotify_url": "https://open.spotify.com/track/70ESbn1FggGDs4RA7cNIQV"
+                }
+            ]
+        },
+        {
+            "id": "2AOmH2Fft5U8Ypm25f4MbL",
+            "name": "Into The Fire - Live At The Royal Albert Hall",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273ad5d61b76e56ec838a1b3492",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ad5d61b76e56ec838a1b3492",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2023-12-08",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "12",
+            "album_spotify_url": "https://open.spotify.com/album/2AOmH2Fft5U8Ypm25f4MbL",
+            "tracks": [
+                {
+                    "name": "Into The Fire - Live At The Royal Albert Hall",
+                    "track_number": 1,
+                    "duration": "4:19",
+                    "track_spotify_url": "https://open.spotify.com/track/3Zktd3tdbrIWykqiSdwvJD"
+                },
+                {
+                    "name": "Heat Of The Night - Live At The Royal Albert Hall",
+                    "track_number": 2,
+                    "duration": "4:48",
+                    "track_spotify_url": "https://open.spotify.com/track/0teITi3lTZno9RIvumtOBu"
+                },
+                {
+                    "name": "Victim Of Love - Live At The Royal Albert Hall",
+                    "track_number": 3,
+                    "duration": "3:55",
+                    "track_spotify_url": "https://open.spotify.com/track/2Hg36CqAORBWWYoCsqztBW"
+                },
+                {
+                    "name": "Another Day - Live At The Royal Albert Hall",
+                    "track_number": 4,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/69vstjSHYNY1MsSDQu9Sfx"
+                },
+                {
+                    "name": "Native Son - Live At The Royal Albert Hall",
+                    "track_number": 5,
+                    "duration": "6:12",
+                    "track_spotify_url": "https://open.spotify.com/track/6dZNlqdCavNhnpI6SY10PB"
+                },
+                {
+                    "name": "Only The Strong Survive - Live At The Royal Albert Hall",
+                    "track_number": 6,
+                    "duration": "2:49",
+                    "track_spotify_url": "https://open.spotify.com/track/50MXnTv5Md8JCAgH6j9wvY"
+                },
+                {
+                    "name": "Rebel - Live At The Royal Albert Hall",
+                    "track_number": 7,
+                    "duration": "3:45",
+                    "track_spotify_url": "https://open.spotify.com/track/2luH0pg1x85N3F9CS8yF2k"
+                },
+                {
+                    "name": "Remembrance Day - Live At The Royal Albert Hall",
+                    "track_number": 8,
+                    "duration": "5:45",
+                    "track_spotify_url": "https://open.spotify.com/track/6GxA134ND7kDAWuFkXxyTY"
+                },
+                {
+                    "name": "Hearts On Fire - Live At The Royal Albert Hall",
+                    "track_number": 9,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/0KK8JYKZa8xRgmTHTPEBvk"
+                },
+                {
+                    "name": "Home Again - Live At The Royal Albert Hall",
+                    "track_number": 10,
+                    "duration": "4:19",
+                    "track_spotify_url": "https://open.spotify.com/track/4I3u4bYL0iEqBquKLP38i3"
+                }
+            ]
+        },
+        {
+            "id": "5ol5EQxk9OUHUh7JXb061Z",
+            "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27303181e24abf9ca789dbaf358",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485103181e24abf9ca789dbaf358",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2023-02-03",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "02",
+            "album_spotify_url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z",
+            "tracks": [
+                {
+                    "name": "The Only One - Live at The Royal Albert Hall",
+                    "track_number": 1,
+                    "duration": "3:00",
+                    "track_spotify_url": "https://open.spotify.com/track/2wdHBKf2XcCdR5K5W6bVEE"
+                },
+                {
+                    "name": "Take Me Back - Live at The Royal Albert Hall",
+                    "track_number": 2,
+                    "duration": "4:20",
+                    "track_spotify_url": "https://open.spotify.com/track/0VWOarrMk40Bk44y5jxAqm"
+                },
+                {
+                    "name": "This Time - Live at The Royal Albert Hall",
+                    "track_number": 3,
+                    "duration": "3:23",
+                    "track_spotify_url": "https://open.spotify.com/track/6Mw9bFc81qguHM6DKuqDXf"
+                },
+                {
+                    "name": "I'm Ready - Live At The Royal Albert Hall",
+                    "track_number": 4,
+                    "duration": "4:02",
+                    "track_spotify_url": "https://open.spotify.com/track/0kfPFvb6ayDmcwTfscuRei"
+                },
+                {
+                    "name": "What's It Gonna Be - Live At The Royal Albert Hall",
+                    "track_number": 5,
+                    "duration": "3:21",
+                    "track_spotify_url": "https://open.spotify.com/track/3C1bOtw1asfakqJ7YksXXx"
+                },
+                {
+                    "name": "Don't Leave Me Lonely - Live At The Royal Albert Hall",
+                    "track_number": 6,
+                    "duration": "3:00",
+                    "track_spotify_url": "https://open.spotify.com/track/7LSodHwl8mujRhJ4kYZ6qi"
+                },
+                {
+                    "name": "Let Him Know - Live at The Royal Albert Hall",
+                    "track_number": 7,
+                    "duration": "2:56",
+                    "track_spotify_url": "https://open.spotify.com/track/0QJpLo78V4G5hh2JUic5H8"
+                },
+                {
+                    "name": "The Best Was Yet To Come - Live at The Royal Albert Hall",
+                    "track_number": 8,
+                    "duration": "2:58",
+                    "track_spotify_url": "https://open.spotify.com/track/77ZehZHZTxmV2d148qFDRl"
+                },
+                {
+                    "name": "Cuts Like A Knife - Live at The Royal Albert Hall",
+                    "track_number": 9,
+                    "duration": "5:08",
+                    "track_spotify_url": "https://open.spotify.com/track/3RJMghkQRY5PTApCj5wCnw"
+                },
+                {
+                    "name": "Straight From The Heart - Live at The Royal Albert Hall",
+                    "track_number": 10,
+                    "duration": "3:02",
+                    "track_spotify_url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
+                }
+            ]
+        },
+        {
+            "id": "0gM0ulzUDQmNHQgbjvu4El",
+            "name": "Classic Pt. II",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273f42983db3b0a3b011a5c673e",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851f42983db3b0a3b011a5c673e",
+            "total_tracks": 7,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2022-07-29",
+            "release_date_precision": "day",
+            "release_year": "2022",
+            "release_month": "07",
+            "album_spotify_url": "https://open.spotify.com/album/0gM0ulzUDQmNHQgbjvu4El",
+            "tracks": [
+                {
+                    "name": "Can't Stop This Thing We Started (Classic Version)",
+                    "track_number": 1,
+                    "duration": "4:39",
+                    "track_spotify_url": "https://open.spotify.com/track/77mgwlnYnNwz53t1nLeHUN"
+                },
+                {
+                    "name": "Cuts Like A Knife (Classic Version)",
+                    "track_number": 2,
+                    "duration": "5:23",
+                    "track_spotify_url": "https://open.spotify.com/track/0NYVGVVkNXQbM0kqpLdu68"
+                },
+                {
+                    "name": "Back To You (Classic Version)",
+                    "track_number": 3,
+                    "duration": "4:27",
+                    "track_spotify_url": "https://open.spotify.com/track/03B0Ev13orOF0twVLQg6de"
+                },
+                {
+                    "name": "When You Love Someone (Classic Version)",
+                    "track_number": 4,
+                    "duration": "3:11",
+                    "track_spotify_url": "https://open.spotify.com/track/2Lr5vCKpMG3lI3eNFilDBa"
+                },
+                {
+                    "name": "Have You Ever Really Loved A Woman? (Classic Version)",
+                    "track_number": 5,
+                    "duration": "4:48",
+                    "track_spotify_url": "https://open.spotify.com/track/4NWU2qjoCRbXAQG5sSYQ4K"
+                },
+                {
+                    "name": "When You're Gone (Classic Version)",
+                    "track_number": 6,
+                    "duration": "3:21",
+                    "track_spotify_url": "https://open.spotify.com/track/3igRudEJLuWBumYOdPXQxc"
+                },
+                {
+                    "name": "Here I Am (Classic Version)",
+                    "track_number": 7,
+                    "duration": "4:36",
+                    "track_spotify_url": "https://open.spotify.com/track/29tnryGLEZCD6rpMncxU9S"
+                }
+            ]
+        },
+        {
+            "id": "03XgnNQDve2dWqBG1ARjvR",
+            "name": "Classic",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273f3aa1a682c2d3360ec3d9523",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851f3aa1a682c2d3360ec3d9523",
+            "total_tracks": 8,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2022-04-01",
+            "release_date_precision": "day",
+            "release_year": "2022",
+            "release_month": "04",
+            "album_spotify_url": "https://open.spotify.com/album/03XgnNQDve2dWqBG1ARjvR",
+            "tracks": [
+                {
+                    "name": "Summer of 69 (Classic Version)",
+                    "track_number": 1,
+                    "duration": "4:08",
+                    "track_spotify_url": "https://open.spotify.com/track/45sqV0WhglbGJswa6SiC0v"
+                },
+                {
+                    "name": "(Everything I Do) I Do It For You (Classic Version)",
+                    "track_number": 2,
+                    "duration": "6:27",
+                    "track_spotify_url": "https://open.spotify.com/track/7oqzLiHp3lioANSdax78El"
+                },
+                {
+                    "name": "Heaven (Classic Version)",
+                    "track_number": 3,
+                    "duration": "4:23",
+                    "track_spotify_url": "https://open.spotify.com/track/4UXmNkaf9TmW2gZ2vYs2GO"
+                },
+                {
+                    "name": "Run To You (Classic Version)",
+                    "track_number": 4,
+                    "duration": "4:17",
+                    "track_spotify_url": "https://open.spotify.com/track/0gLEDVr1QbNtqTR00P1D8N"
+                },
+                {
+                    "name": "Please Forgive Me (Classic Version)",
+                    "track_number": 5,
+                    "duration": "5:12",
+                    "track_spotify_url": "https://open.spotify.com/track/6PpkGvvtmLahruv3sttVzw"
+                },
+                {
+                    "name": "Straight From The Heart (Classic Version)",
+                    "track_number": 6,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/75fPtHAuD5LASwWJOkqud8"
+                },
+                {
+                    "name": "Hidin' From Love (Classic Version)",
+                    "track_number": 7,
+                    "duration": "3:03",
+                    "track_spotify_url": "https://open.spotify.com/track/7nSILinDTz0iDXXXDZe0Tp"
+                },
+                {
+                    "name": "Teacher Teacher (Classic Version)",
+                    "track_number": 8,
+                    "duration": "3:22",
+                    "track_spotify_url": "https://open.spotify.com/track/03mAe0jQTmEJPCXTklk9pL"
+                }
+            ]
+        },
+        {
+            "id": "4UTnmsmUfpex7nAxmrtaFt",
+            "name": "So Happy It Hurts",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273a553617f3cca458d90ef4217",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a553617f3cca458d90ef4217",
+            "total_tracks": 12,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2022-03-11",
+            "release_date_precision": "day",
+            "release_year": "2022",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/4UTnmsmUfpex7nAxmrtaFt",
+            "tracks": [
+                {
+                    "name": "So Happy It Hurts",
+                    "track_number": 1,
+                    "duration": "3:35",
+                    "track_spotify_url": "https://open.spotify.com/track/3pwyxtKttUfugQybBFkJrJ"
+                },
+                {
+                    "name": "Never Gonna Rain",
+                    "track_number": 2,
+                    "duration": "3:17",
+                    "track_spotify_url": "https://open.spotify.com/track/1NFr0cxH24vNGwD1VnzUML"
+                },
+                {
+                    "name": "You Lift Me Up",
+                    "track_number": 3,
+                    "duration": "3:08",
+                    "track_spotify_url": "https://open.spotify.com/track/08FmYg2qrBHn8S2q6pivva"
+                },
+                {
+                    "name": "I've Been Looking For You",
+                    "track_number": 4,
+                    "duration": "2:00",
+                    "track_spotify_url": "https://open.spotify.com/track/3ZwG3UUOzlx9BvuyysttZV"
+                },
+                {
+                    "name": "Always Have, Always Will",
+                    "track_number": 5,
+                    "duration": "3:46",
+                    "track_spotify_url": "https://open.spotify.com/track/2s1dj8gyGXobvs3w03fGPD"
+                },
+                {
+                    "name": "On The Road",
+                    "track_number": 6,
+                    "duration": "2:48",
+                    "track_spotify_url": "https://open.spotify.com/track/2HRnxrCND7eVG5yMCPtMZP"
+                },
+                {
+                    "name": "Kick Ass",
+                    "track_number": 7,
+                    "duration": "5:37",
+                    "track_spotify_url": "https://open.spotify.com/track/5LGgOc9vjVBFZRAV5qyDb0"
+                },
+                {
+                    "name": "I Ain't Worth Shit Without You",
+                    "track_number": 8,
+                    "duration": "3:11",
+                    "track_spotify_url": "https://open.spotify.com/track/1i5Im4NqzqHe4vNXiNOAXC"
+                },
+                {
+                    "name": "Let's Do This",
+                    "track_number": 9,
+                    "duration": "3:18",
+                    "track_spotify_url": "https://open.spotify.com/track/6c8YHNt0DPQ1Tsj2YNLZ7f"
+                },
+                {
+                    "name": "Just Like Me, Just Like You",
+                    "track_number": 10,
+                    "duration": "2:10",
+                    "track_spotify_url": "https://open.spotify.com/track/1JMzxwGDUUzTzDsPHXSU6k"
+                },
+                {
+                    "name": "Just About Gone",
+                    "track_number": 11,
+                    "duration": "2:50",
+                    "track_spotify_url": "https://open.spotify.com/track/6KWTiRYFUtbPqY14GYo5MC"
+                },
+                {
+                    "name": "These Are The Moments That Make Up My Life",
+                    "track_number": 12,
+                    "duration": "3:25",
+                    "track_spotify_url": "https://open.spotify.com/track/1ETxKuJ09sPAHXg8GFyEsJ"
+                }
+            ]
+        },
+        {
+            "id": "2XCxWoX7mg3BVJO78pNJSe",
+            "name": "Pretty Woman - The Musical",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273704d2d28e4dd990f2f4e77fd",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851704d2d28e4dd990f2f4e77fd",
+            "total_tracks": 16,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2022-03-04",
+            "release_date_precision": "day",
+            "release_year": "2022",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/2XCxWoX7mg3BVJO78pNJSe",
+            "tracks": [
+                {
+                    "name": "Welcome To Hollywood",
+                    "track_number": 1,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/06sKo9TjlzTVskNta5TU9Y"
+                },
+                {
+                    "name": "Anywhere But Here",
+                    "track_number": 2,
+                    "duration": "2:57",
+                    "track_spotify_url": "https://open.spotify.com/track/7gy4wEy8lkzWvvGFSoedD5"
+                },
+                {
+                    "name": "Something About Her",
+                    "track_number": 3,
+                    "duration": "2:33",
+                    "track_spotify_url": "https://open.spotify.com/track/56VvV2CQUzt79pw0Qshdmt"
+                },
+                {
+                    "name": "Luckiest Girl In The World",
+                    "track_number": 4,
+                    "duration": "2:56",
+                    "track_spotify_url": "https://open.spotify.com/track/1w7LCHwjxjGOYPNGqCgfua"
+                },
+                {
+                    "name": "Rodeo Drive",
+                    "track_number": 5,
+                    "duration": "3:04",
+                    "track_spotify_url": "https://open.spotify.com/track/3UJZqO3WVo8bmgfyUmJn8g"
+                },
+                {
+                    "name": "On A Night Like Tonight",
+                    "track_number": 6,
+                    "duration": "3:14",
+                    "track_spotify_url": "https://open.spotify.com/track/4hDXf2Om6ul3f21S3wrDAO"
+                },
+                {
+                    "name": "Don't Forget To Dance",
+                    "track_number": 7,
+                    "duration": "3:20",
+                    "track_spotify_url": "https://open.spotify.com/track/03p0naYb6P9yhzdumNg2y8"
+                },
+                {
+                    "name": "Freedom",
+                    "track_number": 8,
+                    "duration": "3:19",
+                    "track_spotify_url": "https://open.spotify.com/track/6E2juCyIByns2h1FM4RjKR"
+                },
+                {
+                    "name": "You're Beautiful",
+                    "track_number": 9,
+                    "duration": "3:27",
+                    "track_spotify_url": "https://open.spotify.com/track/6JUCki6JEcWhmeumhLP8R7"
+                },
+                {
+                    "name": "This Is Your Life",
+                    "track_number": 10,
+                    "duration": "4:06",
+                    "track_spotify_url": "https://open.spotify.com/track/7lvOsNYcNgPgiRkgcTpqcd"
+                },
+                {
+                    "name": "Never Give Up On A Dream",
+                    "track_number": 11,
+                    "duration": "2:45",
+                    "track_spotify_url": "https://open.spotify.com/track/27RbSUPckHrV3qpaYNKQs1"
+                },
+                {
+                    "name": "You And I",
+                    "track_number": 12,
+                    "duration": "4:26",
+                    "track_spotify_url": "https://open.spotify.com/track/2ICQFdhZsFAd3Cva1JzKh7"
+                },
+                {
+                    "name": "I Could Get Used To This",
+                    "track_number": 13,
+                    "duration": "1:58",
+                    "track_spotify_url": "https://open.spotify.com/track/47RBr9z8UddgfMEDoXPp8w"
+                },
+                {
+                    "name": "You Can't Go Back",
+                    "track_number": 14,
+                    "duration": "3:21",
+                    "track_spotify_url": "https://open.spotify.com/track/7zz378zL0WIiHYbSLeZ2U9"
+                },
+                {
+                    "name": "Long Way Home",
+                    "track_number": 15,
+                    "duration": "3:22",
+                    "track_spotify_url": "https://open.spotify.com/track/51ovdjG3GyVi9grGeByKoB"
+                },
+                {
+                    "name": "Together Forever",
+                    "track_number": 16,
+                    "duration": "2:25",
+                    "track_spotify_url": "https://open.spotify.com/track/0RZq17mMnVG7mJZsj1SzD1"
+                }
+            ]
+        },
+        {
+            "id": "3asSFSYzOLvZpg1KDQn4EF",
+            "name": "Shine A Light",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27370df8489ddb5059ac8ffc84a",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485170df8489ddb5059ac8ffc84a",
+            "total_tracks": 12,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2019-03-01",
+            "release_date_precision": "day",
+            "release_year": "2019",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/3asSFSYzOLvZpg1KDQn4EF",
+            "tracks": [
+                {
+                    "name": "Shine A Light",
+                    "track_number": 1,
+                    "duration": "3:26",
+                    "track_spotify_url": "https://open.spotify.com/track/166ZJ3OEi10e1r0b4WuMBf"
+                },
+                {
+                    "name": "That's How Strong Our Love Is",
+                    "track_number": 2,
+                    "duration": "3:39",
+                    "track_spotify_url": "https://open.spotify.com/track/7idNykun3SuVy6yEvMTg38"
+                },
+                {
+                    "name": "Part Friday Night, Part Sunday Morning",
+                    "track_number": 3,
+                    "duration": "3:13",
+                    "track_spotify_url": "https://open.spotify.com/track/17UaNVBoHyQxLTpa1JCSZ5"
+                },
+                {
+                    "name": "Driving Under The Influence Of Love",
+                    "track_number": 4,
+                    "duration": "2:38",
+                    "track_spotify_url": "https://open.spotify.com/track/3MHdLXniWBuXvWiOMkBV1H"
+                },
+                {
+                    "name": "All Or Nothing",
+                    "track_number": 5,
+                    "duration": "2:59",
+                    "track_spotify_url": "https://open.spotify.com/track/1M1cQMETFlW50TnRoRPKYT"
+                },
+                {
+                    "name": "No Time For Love",
+                    "track_number": 6,
+                    "duration": "2:04",
+                    "track_spotify_url": "https://open.spotify.com/track/1SkNOryQSDv3fBSOS0vlXY"
+                },
+                {
+                    "name": "I Could Get Used To This",
+                    "track_number": 7,
+                    "duration": "1:48",
+                    "track_spotify_url": "https://open.spotify.com/track/5R0h98izbA6ssdJXAbrSSD"
+                },
+                {
+                    "name": "Talk To Me",
+                    "track_number": 8,
+                    "duration": "3:05",
+                    "track_spotify_url": "https://open.spotify.com/track/58YQ2tn7c27ycEcV6ZyqLq"
+                },
+                {
+                    "name": "The Last Night On Earth",
+                    "track_number": 9,
+                    "duration": "3:06",
+                    "track_spotify_url": "https://open.spotify.com/track/1RF4TxjruB1jR0wZuDfFUM"
+                },
+                {
+                    "name": "Nobody's Girl",
+                    "track_number": 10,
+                    "duration": "2:44",
+                    "track_spotify_url": "https://open.spotify.com/track/7rxhnL7rUXowgGHYR5tFl9"
+                },
+                {
+                    "name": "Don't Look Back",
+                    "track_number": 11,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/2bMRkjGrkXQZP3tVUm0AVx"
+                },
+                {
+                    "name": "Whiskey In The Jar",
+                    "track_number": 12,
+                    "duration": "3:45",
+                    "track_spotify_url": "https://open.spotify.com/track/7ctiZAhf4PWuZXbVOXcfPV"
+                }
+            ]
+        },
+        {
+            "id": "5vrVvqn6ud397xZtjQ57gW",
+            "name": "Get Up",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2731410bdfaf34cb840d733bd3d",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048511410bdfaf34cb840d733bd3d",
+            "total_tracks": 14,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2015-10-02",
+            "release_date_precision": "day",
+            "release_year": "2015",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/5vrVvqn6ud397xZtjQ57gW",
+            "tracks": [
+                {
+                    "name": "You Belong To Me",
+                    "track_number": 1,
+                    "duration": "2:29",
+                    "track_spotify_url": "https://open.spotify.com/track/2v5dNDM0ocydZH84V3ctl9"
+                },
+                {
+                    "name": "Go Down Rockin'",
+                    "track_number": 2,
+                    "duration": "2:58",
+                    "track_spotify_url": "https://open.spotify.com/track/4hEtA8UEuFDOO0dUd9H5Qy"
+                },
+                {
+                    "name": "We Did It All",
+                    "track_number": 3,
+                    "duration": "3:25",
+                    "track_spotify_url": "https://open.spotify.com/track/3jWwGr0uPHlOerxiAW00Sj"
+                },
+                {
+                    "name": "That's Rock and Roll",
+                    "track_number": 4,
+                    "duration": "2:48",
+                    "track_spotify_url": "https://open.spotify.com/track/5rEQBVKbPysvaT3ci6fTvj"
+                },
+                {
+                    "name": "Don't Even Try",
+                    "track_number": 5,
+                    "duration": "2:25",
+                    "track_spotify_url": "https://open.spotify.com/track/6AObaUAXAqBX0m9IL4blfJ"
+                },
+                {
+                    "name": "Do What Ya Gotta Do",
+                    "track_number": 6,
+                    "duration": "2:14",
+                    "track_spotify_url": "https://open.spotify.com/track/0sWlGfJRPiOrKbOgBpRsrz"
+                },
+                {
+                    "name": "Thunderbolt",
+                    "track_number": 7,
+                    "duration": "2:15",
+                    "track_spotify_url": "https://open.spotify.com/track/0Whw9Nd3IRqAUn6atMmOk0"
+                },
+                {
+                    "name": "Yesterday Was Just A Dream",
+                    "track_number": 8,
+                    "duration": "2:57",
+                    "track_spotify_url": "https://open.spotify.com/track/25i2C69nRzlUtXwn30jJAY"
+                },
+                {
+                    "name": "Brand New Day",
+                    "track_number": 9,
+                    "duration": "3:33",
+                    "track_spotify_url": "https://open.spotify.com/track/1zO7uICBHERk5FshtmkJpW"
+                },
+                {
+                    "name": "Don't Even Try - Acoustic",
+                    "track_number": 10,
+                    "duration": "2:28",
+                    "track_spotify_url": "https://open.spotify.com/track/0ig4gF9WUkWJdt2bFMqsEd"
+                },
+                {
+                    "name": "We Did It All - Acoustic",
+                    "track_number": 11,
+                    "duration": "2:56",
+                    "track_spotify_url": "https://open.spotify.com/track/4biLpBOEvlomLT473wXmMj"
+                },
+                {
+                    "name": "You Belong To Me - Acoustic",
+                    "track_number": 12,
+                    "duration": "2:31",
+                    "track_spotify_url": "https://open.spotify.com/track/23bk8iXM6m5Jw3mqxgf9in"
+                },
+                {
+                    "name": "Brand New Day - Acoustic",
+                    "track_number": 13,
+                    "duration": "3:04",
+                    "track_spotify_url": "https://open.spotify.com/track/3lcLrdgiOdBf9PVHHegX3H"
+                },
+                {
+                    "name": "Bryan Adams Interview",
+                    "track_number": 14,
+                    "duration": "12:33",
+                    "track_spotify_url": "https://open.spotify.com/track/7vuIj44hApuUUECsUFPftK"
+                }
+            ]
+        },
+        {
+            "id": "6gYp3BNSZhakf4hSgycAY9",
+            "name": "Bryan Adams: Live at Sydney Opera House",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27397a92378d4bf175fe783f30f",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485197a92378d4bf175fe783f30f",
+            "total_tracks": 22,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2013-08-30",
+            "release_date_precision": "day",
+            "release_year": "2013",
+            "release_month": "08",
+            "album_spotify_url": "https://open.spotify.com/album/6gYp3BNSZhakf4hSgycAY9",
+            "tracks": [
+                {
+                    "name": "Run To You - Live at Sydney Opera House",
+                    "track_number": 1,
+                    "duration": "3:18",
+                    "track_spotify_url": "https://open.spotify.com/track/72nmcPjc5Hlqu69jjvtfl4"
+                },
+                {
+                    "name": "Back To You - Live at Sydney Opera House",
+                    "track_number": 2,
+                    "duration": "4:17",
+                    "track_spotify_url": "https://open.spotify.com/track/41Wk7mMhJRbLwEO2C76Pqi"
+                },
+                {
+                    "name": "Here I Am - Live at Sydney Opera House",
+                    "track_number": 3,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/2gvyhicNnucuobKJzqQp5U"
+                },
+                {
+                    "name": "I'm Ready - Live at Sydney Opera House",
+                    "track_number": 4,
+                    "duration": "3:49",
+                    "track_spotify_url": "https://open.spotify.com/track/6XBLXmmueqd2ZOuR8nh6aM"
+                },
+                {
+                    "name": "This Time - Live at Sydney Opera House",
+                    "track_number": 5,
+                    "duration": "2:39",
+                    "track_spotify_url": "https://open.spotify.com/track/2UphGsxHxnjr1bLyYG9h4V"
+                },
+                {
+                    "name": "Flying - Live at Sydney Opera House",
+                    "track_number": 6,
+                    "duration": "3:14",
+                    "track_spotify_url": "https://open.spotify.com/track/54GEtBhUv78SP7CvN2tZBE"
+                },
+                {
+                    "name": "Can't Stop This Thing We Started - Live at Sydney Opera House",
+                    "track_number": 7,
+                    "duration": "3:16",
+                    "track_spotify_url": "https://open.spotify.com/track/7JAhAGBwWXe8W12rowkbh1"
+                },
+                {
+                    "name": "Waiting On The '49 - Live at Sydney Opera House",
+                    "track_number": 8,
+                    "duration": "3:26",
+                    "track_spotify_url": "https://open.spotify.com/track/1AEszJfHzmzIuTxQggw0gw"
+                },
+                {
+                    "name": "In The Heat Of The Night - Live at Sydney Opera House",
+                    "track_number": 9,
+                    "duration": "4:01",
+                    "track_spotify_url": "https://open.spotify.com/track/53L0dz2YHQxYyQ5FJTR4LA"
+                },
+                {
+                    "name": "(Everything I Do) I Do It For You - Live at Sydney Opera House",
+                    "track_number": 10,
+                    "duration": "3:55",
+                    "track_spotify_url": "https://open.spotify.com/track/1qF8cCrWgqeZPmmbf4jIxq"
+                },
+                {
+                    "name": "Cuts Like A Knife - Live at Sydney Opera House",
+                    "track_number": 11,
+                    "duration": "4:32",
+                    "track_spotify_url": "https://open.spotify.com/track/0HkCv6WRJXsnIezLmVfSPi"
+                },
+                {
+                    "name": "Tonight In Babylon - Live at Sydney Opera House",
+                    "track_number": 12,
+                    "duration": "3:01",
+                    "track_spotify_url": "https://open.spotify.com/track/7iH86hmZZY6sgJkoX5r2ZZ"
+                },
+                {
+                    "name": "Summer Of '69 - Live at Sydney Opera House",
+                    "track_number": 13,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/2hNRWtiVc1aHdVAFtwSkUM"
+                },
+                {
+                    "name": "Walk On By - Live at Sydney Opera House",
+                    "track_number": 14,
+                    "duration": "2:56",
+                    "track_spotify_url": "https://open.spotify.com/track/5W2nVONFzaygz82ZcWz3Go"
+                },
+                {
+                    "name": "Heaven - Live at Sydney Opera House",
+                    "track_number": 15,
+                    "duration": "4:53",
+                    "track_spotify_url": "https://open.spotify.com/track/5xRLRf5DEx2x6ZVLCnnJOr"
+                },
+                {
+                    "name": "The Right Place - Live at Sydney Opera House",
+                    "track_number": 16,
+                    "duration": "2:49",
+                    "track_spotify_url": "https://open.spotify.com/track/5PLL2pZUFl9Gf1Rtyhna7y"
+                },
+                {
+                    "name": "The Only Thing That Looks Good On Me Is You - Live at Sydney Opera House",
+                    "track_number": 17,
+                    "duration": "2:36",
+                    "track_spotify_url": "https://open.spotify.com/track/7hWULf5luUc6bSBOvxQAHE"
+                },
+                {
+                    "name": "You've Been A Friend To Me - Live at Sydney Opera House",
+                    "track_number": 18,
+                    "duration": "3:08",
+                    "track_spotify_url": "https://open.spotify.com/track/6cJ9wroF18Wy6te5RQe8lx"
+                },
+                {
+                    "name": "When You're Gone - Live at Sydney Opera House",
+                    "track_number": 19,
+                    "duration": "2:48",
+                    "track_spotify_url": "https://open.spotify.com/track/00QqIqPxeP7kvJQe8kDTtk"
+                },
+                {
+                    "name": "Have You Ever Really Loved A Woman - Live at Sydney Opera House",
+                    "track_number": 20,
+                    "duration": "4:50",
+                    "track_spotify_url": "https://open.spotify.com/track/4j4rJYRR3Zevc0eu6LDGH6"
+                },
+                {
+                    "name": "I Still Miss You... A Little Bit - Live at Sydney Opera House",
+                    "track_number": 21,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/0A1azlH8WZVX93mmK23FyM"
+                },
+                {
+                    "name": "Straight From The Heart - Live at Sydney Opera House",
+                    "track_number": 22,
+                    "duration": "3:32",
+                    "track_spotify_url": "https://open.spotify.com/track/6skhWTlyY7czP6AYW9Tj97"
+                }
+            ]
+        },
+        {
+            "id": "4WayldSUHGc424o3GeSLRP",
+            "name": "Bare Bones (Live)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273b4ef7c6dca12afc5a1a40f7a",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851b4ef7c6dca12afc5a1a40f7a",
+            "total_tracks": 19,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2010-11-16",
+            "release_date_precision": "day",
+            "release_year": "2010",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/4WayldSUHGc424o3GeSLRP",
+            "tracks": [
+                {
+                    "name": "You've Been A Friend To Me - Live",
+                    "track_number": 1,
+                    "duration": "3:15",
+                    "track_spotify_url": "https://open.spotify.com/track/2h1aDJaVZD21mYZT3UaB32"
+                },
+                {
+                    "name": "Here I Am - Live",
+                    "track_number": 2,
+                    "duration": "3:47",
+                    "track_spotify_url": "https://open.spotify.com/track/7A0wNYgUJESudGkHKiNvBW"
+                },
+                {
+                    "name": "I'm Ready - Live",
+                    "track_number": 3,
+                    "duration": "4:02",
+                    "track_spotify_url": "https://open.spotify.com/track/0v48hilrW3UHakjF8N3vo1"
+                },
+                {
+                    "name": "Let's Make A Night To Remember - Live",
+                    "track_number": 4,
+                    "duration": "3:46",
+                    "track_spotify_url": "https://open.spotify.com/track/1tX0v9osH3Ya8dOypS6Uy3"
+                },
+                {
+                    "name": "It Ain't A Party (If You Can't Come 'Round) - Live",
+                    "track_number": 5,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/3gpwODgt8UEo1RG0s5mlEc"
+                },
+                {
+                    "name": "(Everything I Do) I Do It For You - Live",
+                    "track_number": 6,
+                    "duration": "5:21",
+                    "track_spotify_url": "https://open.spotify.com/track/1ChDfskY9vP58P9abyGWUd"
+                },
+                {
+                    "name": "Cuts Like A Knife - Live",
+                    "track_number": 7,
+                    "duration": "4:42",
+                    "track_spotify_url": "https://open.spotify.com/track/7p7qFB0v9y2zdJPsygCE3I"
+                },
+                {
+                    "name": "Summer of '69 - Live",
+                    "track_number": 8,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/28DjGvb3gUy1VmYzqQrDjp"
+                },
+                {
+                    "name": "Walk On By - Live",
+                    "track_number": 9,
+                    "duration": "2:44",
+                    "track_spotify_url": "https://open.spotify.com/track/37Z6HxvWNxD2TawwIO1BZe"
+                },
+                {
+                    "name": "Cloud Number Nine - Live",
+                    "track_number": 10,
+                    "duration": "3:47",
+                    "track_spotify_url": "https://open.spotify.com/track/2dgdXFfWOEcfHCONwjXQbB"
+                },
+                {
+                    "name": "It's Only Love - Live",
+                    "track_number": 11,
+                    "duration": "3:32",
+                    "track_spotify_url": "https://open.spotify.com/track/6LKnJZl8z1YGDQIIIZlOSb"
+                },
+                {
+                    "name": "Heaven - Live",
+                    "track_number": 12,
+                    "duration": "4:44",
+                    "track_spotify_url": "https://open.spotify.com/track/6hUjTtzOUTtbLqPw4HXcOA"
+                },
+                {
+                    "name": "The Right Place - Live",
+                    "track_number": 13,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/4Jynq9ohKI51P6rVdEfg8f"
+                },
+                {
+                    "name": "The Way You Make Me Feel - Live",
+                    "track_number": 14,
+                    "duration": "3:08",
+                    "track_spotify_url": "https://open.spotify.com/track/2YYgFi0qia4ANwn6oFXfcS"
+                },
+                {
+                    "name": "The Only Thing That Looks Good On Me Is You - Live",
+                    "track_number": 15,
+                    "duration": "2:50",
+                    "track_spotify_url": "https://open.spotify.com/track/2CBRrddqNXLmkdjAB5E5KF"
+                },
+                {
+                    "name": "You're Still Beautiful To Me - Live",
+                    "track_number": 16,
+                    "duration": "4:12",
+                    "track_spotify_url": "https://open.spotify.com/track/7nEgWxovlV4FWiBfNmftNL"
+                },
+                {
+                    "name": "Straight From The Heart - Live",
+                    "track_number": 17,
+                    "duration": "3:24",
+                    "track_spotify_url": "https://open.spotify.com/track/1BS4WhB9NhHHr7aOs4EvRe"
+                },
+                {
+                    "name": "I Still Miss You... A Little Bit - Live",
+                    "track_number": 18,
+                    "duration": "3:29",
+                    "track_spotify_url": "https://open.spotify.com/track/3G9FegtbmWwQgHFDCbCWuY"
+                },
+                {
+                    "name": "All For Love - Live",
+                    "track_number": 19,
+                    "duration": "3:21",
+                    "track_spotify_url": "https://open.spotify.com/track/3p06l3EW7AsAp5krhXNF3h"
+                }
+            ]
+        },
+        {
+            "id": "5qM6GyEtXM8lI2S7BzWgMb",
+            "name": "11",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2730779ff2f5fb39330206d7099",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048510779ff2f5fb39330206d7099",
+            "total_tracks": 15,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2008-05-17",
+            "release_date_precision": "day",
+            "release_year": "2008",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/5qM6GyEtXM8lI2S7BzWgMb",
+            "tracks": [
+                {
+                    "name": "Tonight We Have The Stars",
+                    "track_number": 1,
+                    "duration": "4:05",
+                    "track_spotify_url": "https://open.spotify.com/track/3lu9pzchnAwLdUzKxS42xm"
+                },
+                {
+                    "name": "I Thought I'd Seen Everything",
+                    "track_number": 2,
+                    "duration": "5:06",
+                    "track_spotify_url": "https://open.spotify.com/track/5U9LNYxgO0rOdBlUQEgPRN"
+                },
+                {
+                    "name": "I Ain't Losing The Fight",
+                    "track_number": 3,
+                    "duration": "3:56",
+                    "track_spotify_url": "https://open.spotify.com/track/725xW3dGTcTOmE2C6qjd6j"
+                },
+                {
+                    "name": "Oxygen",
+                    "track_number": 4,
+                    "duration": "3:35",
+                    "track_spotify_url": "https://open.spotify.com/track/7biQrrnG8wBkYOr1tzAwLA"
+                },
+                {
+                    "name": "We Found What We Were Looking For",
+                    "track_number": 5,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/32HbzX2ICvxRQBm3GnHaz6"
+                },
+                {
+                    "name": "Broken Wings",
+                    "track_number": 6,
+                    "duration": "3:36",
+                    "track_spotify_url": "https://open.spotify.com/track/2FSPriCEtxM1OiEVI6hclN"
+                },
+                {
+                    "name": "Something To Believe In",
+                    "track_number": 7,
+                    "duration": "4:00",
+                    "track_spotify_url": "https://open.spotify.com/track/45g2TxGGsc1C1x2puI9MIA"
+                },
+                {
+                    "name": "Mysterious Ways",
+                    "track_number": 8,
+                    "duration": "4:28",
+                    "track_spotify_url": "https://open.spotify.com/track/0Ar90dYjuWqP99T5EAuwmu"
+                },
+                {
+                    "name": "She's Got A Way",
+                    "track_number": 9,
+                    "duration": "4:41",
+                    "track_spotify_url": "https://open.spotify.com/track/1b3mtRlNg0UjlP88ORJl34"
+                },
+                {
+                    "name": "Flower Grown Wild",
+                    "track_number": 10,
+                    "duration": "3:53",
+                    "track_spotify_url": "https://open.spotify.com/track/2dcDI8QCqCaO3NLTeYpFCs"
+                },
+                {
+                    "name": "Walk On By",
+                    "track_number": 11,
+                    "duration": "2:54",
+                    "track_spotify_url": "https://open.spotify.com/track/2Ky6S28TJjtbhW8ZAofN2B"
+                },
+                {
+                    "name": "Way Of The World",
+                    "track_number": 12,
+                    "duration": "3:18",
+                    "track_spotify_url": "https://open.spotify.com/track/5KcH6QOaynph8SPi5T9a9s"
+                },
+                {
+                    "name": "Saved",
+                    "track_number": 13,
+                    "duration": "4:07",
+                    "track_spotify_url": "https://open.spotify.com/track/2roBnyZxroSEABmSMatsJa"
+                },
+                {
+                    "name": "Miss America",
+                    "track_number": 14,
+                    "duration": "3:58",
+                    "track_spotify_url": "https://open.spotify.com/track/7JZEaKKlZEMdZXDBWw3vgy"
+                },
+                {
+                    "name": "She's Got A Way - Chicane Remix",
+                    "track_number": 15,
+                    "duration": "3:34",
+                    "track_spotify_url": "https://open.spotify.com/track/7xtYxdLQVJuhA68j5C5LBd"
+                }
+            ]
+        },
+        {
+            "id": "5s0CoXyziMJ8jnroOE5JOp",
+            "name": "Bryan Adams Live In Lisbon",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2735647bee2bade3f43c56a7724",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048515647bee2bade3f43c56a7724",
+            "total_tracks": 22,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2005-12-02",
+            "release_date_precision": "day",
+            "release_year": "2005",
+            "release_month": "12",
+            "album_spotify_url": "https://open.spotify.com/album/5s0CoXyziMJ8jnroOE5JOp",
+            "tracks": [
+                {
+                    "name": "Room Service - Live In Lisbon",
+                    "track_number": 1,
+                    "duration": "3:51",
+                    "track_spotify_url": "https://open.spotify.com/track/1DwkGM2MwA2i8kq6M3A0iw"
+                },
+                {
+                    "name": "Open Road - Live In Lisbon",
+                    "track_number": 2,
+                    "duration": "4:04",
+                    "track_spotify_url": "https://open.spotify.com/track/0qTahr5qibqicpRfWwR679"
+                },
+                {
+                    "name": "18 'Til I Die - Live In Lisbon",
+                    "track_number": 3,
+                    "duration": "3:59",
+                    "track_spotify_url": "https://open.spotify.com/track/3mM5i49DIFQiAwmz586wRK"
+                },
+                {
+                    "name": "Let's Make A Night To Remember - Live In Lisbon",
+                    "track_number": 4,
+                    "duration": "4:49",
+                    "track_spotify_url": "https://open.spotify.com/track/6KS3BV7IXdNh2vGj8XMLtG"
+                },
+                {
+                    "name": "Can't Stop This Thing We Started - Live In Lisbon",
+                    "track_number": 5,
+                    "duration": "5:26",
+                    "track_spotify_url": "https://open.spotify.com/track/5nyAbRniLAY410G0hRmiHR"
+                },
+                {
+                    "name": "Kids Wanna Rock - Live In Lisbon",
+                    "track_number": 6,
+                    "duration": "5:38",
+                    "track_spotify_url": "https://open.spotify.com/track/02ZcCj0AfiVNucmbZDaOpn"
+                },
+                {
+                    "name": "Back To You - Live In Lisbon",
+                    "track_number": 7,
+                    "duration": "5:53",
+                    "track_spotify_url": "https://open.spotify.com/track/4P8mZqrYZe7wJSIaI3W58W"
+                },
+                {
+                    "name": "(Everything I Do) I Do It For You - Live In Lisbon",
+                    "track_number": 8,
+                    "duration": "7:00",
+                    "track_spotify_url": "https://open.spotify.com/track/0CJ1iiapelqKjkImyJTEbR"
+                },
+                {
+                    "name": "Summer of '69 - Live In Lisbon",
+                    "track_number": 9,
+                    "duration": "5:19",
+                    "track_spotify_url": "https://open.spotify.com/track/43mfUnxn05yg3EZ2TLmjhk"
+                },
+                {
+                    "name": "Cuts Like A Knife - Live In Lisbon",
+                    "track_number": 10,
+                    "duration": "7:35",
+                    "track_spotify_url": "https://open.spotify.com/track/4Lt4bR7WXy8NDkL5WnH8u1"
+                },
+                {
+                    "name": "When You're Gone - Live In Lisbon",
+                    "track_number": 11,
+                    "duration": "8:29",
+                    "track_spotify_url": "https://open.spotify.com/track/2skDHkRlTnUa2o67sP8weq"
+                },
+                {
+                    "name": "Not Romeo Not Juliet - Live In Lisbon",
+                    "track_number": 12,
+                    "duration": "3:29",
+                    "track_spotify_url": "https://open.spotify.com/track/0imfXlcqN0cekUl1syW1l5"
+                },
+                {
+                    "name": "Heaven - Live In Lisbon",
+                    "track_number": 13,
+                    "duration": "6:11",
+                    "track_spotify_url": "https://open.spotify.com/track/4FgNs0ly1KmuoRABYOs3E7"
+                },
+                {
+                    "name": "It's Only Love - Live In Lisbon",
+                    "track_number": 14,
+                    "duration": "5:12",
+                    "track_spotify_url": "https://open.spotify.com/track/0ppleoLkNTrKFCT71IKIje"
+                },
+                {
+                    "name": "The Only Thing That Looks Good On Me Is You - Live In Lisbon",
+                    "track_number": 15,
+                    "duration": "7:06",
+                    "track_spotify_url": "https://open.spotify.com/track/1aFDtaGR8cGIgPFCMdh4xJ"
+                },
+                {
+                    "name": "Cloud Number Nine - Live In Lisbon",
+                    "track_number": 16,
+                    "duration": "3:47",
+                    "track_spotify_url": "https://open.spotify.com/track/7aCaXUZRY3nz0ZkIqnl0ts"
+                },
+                {
+                    "name": "Run To You - Live In Lisbon",
+                    "track_number": 17,
+                    "duration": "5:45",
+                    "track_spotify_url": "https://open.spotify.com/track/3BF6CP6fv7Mj46vxWauCRS"
+                },
+                {
+                    "name": "The Best Of Me - Live In Lisbon",
+                    "track_number": 18,
+                    "duration": "5:52",
+                    "track_spotify_url": "https://open.spotify.com/track/2AWHpTVyDT9OvRJpmahWh7"
+                },
+                {
+                    "name": "Flying - Live In Lisbon",
+                    "track_number": 19,
+                    "duration": "3:48",
+                    "track_spotify_url": "https://open.spotify.com/track/6GLRmBBR7Nkfr6UjlsBGFw"
+                },
+                {
+                    "name": "All For Love - Live In Lisbon",
+                    "track_number": 20,
+                    "duration": "3:48",
+                    "track_spotify_url": "https://open.spotify.com/track/2f4oBEzw88X9aeHNf5gghH"
+                },
+                {
+                    "name": "Straight From The Heart - Live In Lisbon",
+                    "track_number": 21,
+                    "duration": "3:50",
+                    "track_spotify_url": "https://open.spotify.com/track/3lT1u6U7AzrrVk4vEvmCHP"
+                },
+                {
+                    "name": "Room Service - Live In Lisbon",
+                    "track_number": 22,
+                    "duration": "4:50",
+                    "track_spotify_url": "https://open.spotify.com/track/0fLVKr8vtlv36GRZ5eeqjK"
+                }
+            ]
+        },
+        {
+            "id": "2tAAd8s3vmGGkSpQnXrUHE",
+            "name": "Room Service",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27369fe1b44f0e213bd1ae7c9da",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485169fe1b44f0e213bd1ae7c9da",
+            "total_tracks": 14,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2004-09-10",
+            "release_date_precision": "day",
+            "release_year": "2004",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/2tAAd8s3vmGGkSpQnXrUHE",
+            "tracks": [
+                {
+                    "name": "East Side Story",
+                    "track_number": 1,
+                    "duration": "3:22",
+                    "track_spotify_url": "https://open.spotify.com/track/3JelV1bIsVNj7Q4xcrLNID"
+                },
+                {
+                    "name": "This Side Of Paradise",
+                    "track_number": 2,
+                    "duration": "3:50",
+                    "track_spotify_url": "https://open.spotify.com/track/5zpgOuVzfO59jHdmVLYWwW"
+                },
+                {
+                    "name": "Not Romeo, Not Juliet",
+                    "track_number": 3,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/1BXwb9Su7UHe6vG8aux3tO"
+                },
+                {
+                    "name": "Flying",
+                    "track_number": 4,
+                    "duration": "4:04",
+                    "track_spotify_url": "https://open.spotify.com/track/6OyMpxfHEKsr6BzQwdXsmw"
+                },
+                {
+                    "name": "She's A Little Too Good For Me",
+                    "track_number": 5,
+                    "duration": "2:37",
+                    "track_spotify_url": "https://open.spotify.com/track/7EE0IuM0EoJBdi7vABvbra"
+                },
+                {
+                    "name": "Open Road",
+                    "track_number": 6,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/6IrhyINPP9C4ULV9owzwX3"
+                },
+                {
+                    "name": "Room Service",
+                    "track_number": 7,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/4bEFak5TDBacZ8WQqb04VZ"
+                },
+                {
+                    "name": "I Was Only Dreamin'",
+                    "track_number": 8,
+                    "duration": "2:32",
+                    "track_spotify_url": "https://open.spotify.com/track/0tqlOn9WuOHhMTUCrVQemI"
+                },
+                {
+                    "name": "Right Back Where I Started From",
+                    "track_number": 9,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/6tTuiugdGKHQFHn9FcsxmL"
+                },
+                {
+                    "name": "Nowhere Fast",
+                    "track_number": 10,
+                    "duration": "3:48",
+                    "track_spotify_url": "https://open.spotify.com/track/4hPF4plSmvBMEP3MXJGeNc"
+                },
+                {
+                    "name": "Why Do You Have To Be So Hard To Love",
+                    "track_number": 11,
+                    "duration": "2:57",
+                    "track_spotify_url": "https://open.spotify.com/track/0ycydhnugjabOKezl2jB8C"
+                },
+                {
+                    "name": "Blessing In Disguise",
+                    "track_number": 12,
+                    "duration": "2:23",
+                    "track_spotify_url": "https://open.spotify.com/track/0uQEe3tfqYofHqGEHI9DcD"
+                },
+                {
+                    "name": "Ce N'\u00e9tait Qu'un R\u00eave",
+                    "track_number": 13,
+                    "duration": "2:32",
+                    "track_spotify_url": "https://open.spotify.com/track/0D2eXFVFWmp5lq7TOYhjIx"
+                },
+                {
+                    "name": "Room Service Interview With Nigel, 2004",
+                    "track_number": 14,
+                    "duration": "19:15",
+                    "track_spotify_url": "https://open.spotify.com/track/2G4lOj3WgzsOO0rNNDXj0g"
+                }
+            ]
+        },
+        {
+            "id": "3pDG0vQ5LfL2BQZJJtkbg8",
+            "name": "Spirit: Stallion Of The Cimarron (Music From The Original Motion Picture)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273063105d1f305127b458ec821",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851063105d1f305127b458ec821",
+            "total_tracks": 15,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2002-05-04",
+            "release_date_precision": "day",
+            "release_year": "2002",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/3pDG0vQ5LfL2BQZJJtkbg8",
+            "tracks": [
+                {
+                    "name": "Here I Am - End Title",
+                    "track_number": 1,
+                    "duration": "4:44",
+                    "track_spotify_url": "https://open.spotify.com/track/0gJBPDy458wPeWGHei3TvO"
+                },
+                {
+                    "name": "I Will Always Return",
+                    "track_number": 2,
+                    "duration": "3:58",
+                    "track_spotify_url": "https://open.spotify.com/track/0hkppOIXAfknRGYr34sLgy"
+                },
+                {
+                    "name": "You Can't Take Me",
+                    "track_number": 3,
+                    "duration": "2:56",
+                    "track_spotify_url": "https://open.spotify.com/track/30uLviIQ59DMggZOC2VNpo"
+                },
+                {
+                    "name": "Get Off My Back",
+                    "track_number": 4,
+                    "duration": "2:48",
+                    "track_spotify_url": "https://open.spotify.com/track/3d5m9pAfgKSqMsn3kX1J2P"
+                },
+                {
+                    "name": "Brothers Under The Sun",
+                    "track_number": 5,
+                    "duration": "3:57",
+                    "track_spotify_url": "https://open.spotify.com/track/2p00MbVftAsBM0wtibcu0a"
+                },
+                {
+                    "name": "Don't Let Go",
+                    "track_number": 6,
+                    "duration": "4:02",
+                    "track_spotify_url": "https://open.spotify.com/track/09OsBJJrZcpWHWGPmRmVDn"
+                },
+                {
+                    "name": "This Is Where I Belong",
+                    "track_number": 7,
+                    "duration": "2:21",
+                    "track_spotify_url": "https://open.spotify.com/track/6QWniaitONimLqysaA6cwe"
+                },
+                {
+                    "name": "Here I Am",
+                    "track_number": 8,
+                    "duration": "4:31",
+                    "track_spotify_url": "https://open.spotify.com/track/2pGH58HmgqdOcZTTO9Po7t"
+                },
+                {
+                    "name": "Sound The Bugle",
+                    "track_number": 9,
+                    "duration": "3:54",
+                    "track_spotify_url": "https://open.spotify.com/track/5GK4ax71sSIokiNEZsND3d"
+                },
+                {
+                    "name": "Run Free",
+                    "track_number": 10,
+                    "duration": "6:21",
+                    "track_spotify_url": "https://open.spotify.com/track/75OrTolKEnimJj625JUIft"
+                },
+                {
+                    "name": "Homeland",
+                    "track_number": 11,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/6sNfKtgLF8AgFApf3ENVBe"
+                },
+                {
+                    "name": "Rain",
+                    "track_number": 12,
+                    "duration": "2:49",
+                    "track_spotify_url": "https://open.spotify.com/track/5fVVxwgbpQLc7khVU8QcS5"
+                },
+                {
+                    "name": "The Long Road Back",
+                    "track_number": 13,
+                    "duration": "7:11",
+                    "track_spotify_url": "https://open.spotify.com/track/7I36ar2JvYcVRBVHIrVVLH"
+                },
+                {
+                    "name": "Nothing I've Ever Known",
+                    "track_number": 14,
+                    "duration": "3:52",
+                    "track_spotify_url": "https://open.spotify.com/track/2jz0DAnooOMwtuzboHP3VE"
+                },
+                {
+                    "name": "I Will Always Return - Finale",
+                    "track_number": 15,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/6kfmDM4aiBhmQV3Zogiew0"
+                }
+            ]
+        },
+        {
+            "id": "3txW6okNCuNUMQ50pVTHSh",
+            "name": "Spirit, l'\u00e9talon des plaines (Bande originale du film)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273668d4099db37eb5e9ea15c63",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851668d4099db37eb5e9ea15c63",
+            "total_tracks": 13,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2002-05-04",
+            "release_date_precision": "day",
+            "release_year": "2002",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/3txW6okNCuNUMQ50pVTHSh",
+            "tracks": [
+                {
+                    "name": "Me voil\u00e0 - End Title",
+                    "track_number": 1,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/06yYeBO8Eyv8pta0uGqFAE"
+                },
+                {
+                    "name": "Je d\u00e9fendrai ma vie",
+                    "track_number": 2,
+                    "duration": "2:56",
+                    "track_spotify_url": "https://open.spotify.com/track/55Qw6ucNqfelTbpyM6bO2Q"
+                },
+                {
+                    "name": "D\u00e9gage!",
+                    "track_number": 3,
+                    "duration": "2:48",
+                    "track_spotify_url": "https://open.spotify.com/track/7cI46QDjj9xqHU0sZP86vG"
+                },
+                {
+                    "name": "Deux fr\u00e8res sous le soleil",
+                    "track_number": 4,
+                    "duration": "3:58",
+                    "track_spotify_url": "https://open.spotify.com/track/0mKfH92KAJvVtFy23sJ410"
+                },
+                {
+                    "name": "Ma place est ici",
+                    "track_number": 5,
+                    "duration": "2:21",
+                    "track_spotify_url": "https://open.spotify.com/track/79BzixTB8RRPm1jaG2Pix6"
+                },
+                {
+                    "name": "Me voil\u00e0",
+                    "track_number": 6,
+                    "duration": "4:31",
+                    "track_spotify_url": "https://open.spotify.com/track/3nDl8sPQBSfYZRtULcONVn"
+                },
+                {
+                    "name": "Sonne le clairon",
+                    "track_number": 7,
+                    "duration": "3:54",
+                    "track_spotify_url": "https://open.spotify.com/track/5WfnW5zY9uMTWt07KqONIw"
+                },
+                {
+                    "name": "Run Free",
+                    "track_number": 8,
+                    "duration": "6:21",
+                    "track_spotify_url": "https://open.spotify.com/track/3DAWXGlqzxvucxpMeWU7yv"
+                },
+                {
+                    "name": "Homeland - Main Title",
+                    "track_number": 9,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/5ujkvbkbeHSRZdDlsk2Vx0"
+                },
+                {
+                    "name": "Rain",
+                    "track_number": 10,
+                    "duration": "2:49",
+                    "track_spotify_url": "https://open.spotify.com/track/4L6laYljhz7LVSDVIVxown"
+                },
+                {
+                    "name": "The Long Road Back",
+                    "track_number": 11,
+                    "duration": "7:11",
+                    "track_spotify_url": "https://open.spotify.com/track/7HwZV6n2OJQUXImAVgediX"
+                },
+                {
+                    "name": "Rien de ce que j'ai v\u00e9cu",
+                    "track_number": 12,
+                    "duration": "3:52",
+                    "track_spotify_url": "https://open.spotify.com/track/0Nd3JEvQJ1BgenAyOXcd6b"
+                },
+                {
+                    "name": "Je reviendrai vers toi - End Title",
+                    "track_number": 13,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/2A2BW4jO32zOCK7Qzpx3Qt"
+                }
+            ]
+        },
+        {
+            "id": "1xF1nKu3UL84l7CofB4QBV",
+            "name": "On A Day Like Today",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2735e9ba297f543a91ae5209ce8",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048515e9ba297f543a91ae5209ce8",
+            "total_tracks": 15,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1998-01-01",
+            "release_date_precision": "day",
+            "release_year": "1998",
+            "release_month": "01",
+            "album_spotify_url": "https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV",
+            "tracks": [
+                {
+                    "name": "How Do Ya Feel Tonight",
+                    "track_number": 1,
+                    "duration": "4:46",
+                    "track_spotify_url": "https://open.spotify.com/track/7atNo85TUWLRJfEeiJIHGt"
+                },
+                {
+                    "name": "C'Mon C'Mon C'Mon",
+                    "track_number": 2,
+                    "duration": "3:36",
+                    "track_spotify_url": "https://open.spotify.com/track/2R5yh3HsTsMlc4kR2XPUYF"
+                },
+                {
+                    "name": "Getaway",
+                    "track_number": 3,
+                    "duration": "3:47",
+                    "track_spotify_url": "https://open.spotify.com/track/4Mc5oWq1AEXlrmf89WXKC8"
+                },
+                {
+                    "name": "On A Day Like Today",
+                    "track_number": 4,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/1g2tPIP5isX44SNeDeqLsz"
+                },
+                {
+                    "name": "Fearless",
+                    "track_number": 5,
+                    "duration": "3:52",
+                    "track_spotify_url": "https://open.spotify.com/track/53ZaSrP0EbofWzNHBpW9h8"
+                },
+                {
+                    "name": "I'm A Liar",
+                    "track_number": 6,
+                    "duration": "4:16",
+                    "track_spotify_url": "https://open.spotify.com/track/7JBMcOp5H1hGTTg2nzwEcS"
+                },
+                {
+                    "name": "Cloud Number Nine",
+                    "track_number": 7,
+                    "duration": "3:45",
+                    "track_spotify_url": "https://open.spotify.com/track/1sdz3nsrkX4Yo42KLPrmYV"
+                },
+                {
+                    "name": "When You're Gone",
+                    "track_number": 8,
+                    "duration": "3:24",
+                    "track_spotify_url": "https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ"
+                },
+                {
+                    "name": "Inside Out",
+                    "track_number": 9,
+                    "duration": "4:43",
+                    "track_spotify_url": "https://open.spotify.com/track/5p4Cv9573OL5CIPZ6cmpiH"
+                },
+                {
+                    "name": "If I Had You",
+                    "track_number": 10,
+                    "duration": "4:03",
+                    "track_spotify_url": "https://open.spotify.com/track/6MTEQh2ZHMqqbd5RPPvTCy"
+                },
+                {
+                    "name": "Before The Night Is Over",
+                    "track_number": 11,
+                    "duration": "3:48",
+                    "track_spotify_url": "https://open.spotify.com/track/4WocC6NtlTJQzezxWiwgDj"
+                },
+                {
+                    "name": "I Don't Wanna Live Forever",
+                    "track_number": 12,
+                    "duration": "3:14",
+                    "track_spotify_url": "https://open.spotify.com/track/6zDlmHuCN4BGyyOtNioYuM"
+                },
+                {
+                    "name": "Where Angels Fear To Tread",
+                    "track_number": 13,
+                    "duration": "3:47",
+                    "track_spotify_url": "https://open.spotify.com/track/5OKwr8DVdzRYwVuoZfIeyO"
+                },
+                {
+                    "name": "Lie To Me",
+                    "track_number": 14,
+                    "duration": "4:37",
+                    "track_spotify_url": "https://open.spotify.com/track/0dAZ7oltcKw0s5tIHm3JJ3"
+                },
+                {
+                    "name": "Cloud Number Nine - Chicane Mix",
+                    "track_number": 15,
+                    "duration": "4:12",
+                    "track_spotify_url": "https://open.spotify.com/track/7iAdYn1IYtK6VswDk66Cwf"
+                }
+            ]
+        },
+        {
+            "id": "081klksuaEwHIzuHGCks5p",
+            "name": "MTV Unplugged",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273f41f110d5380144da05493ed",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851f41f110d5380144da05493ed",
+            "total_tracks": 13,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1997-01-01",
+            "release_date_precision": "day",
+            "release_year": "1997",
+            "release_month": "01",
+            "album_spotify_url": "https://open.spotify.com/album/081klksuaEwHIzuHGCks5p",
+            "tracks": [
+                {
+                    "name": "Summer Of '69 - MTV Unplugged Version",
+                    "track_number": 1,
+                    "duration": "4:01",
+                    "track_spotify_url": "https://open.spotify.com/track/1OQpTtcuAauAqp5Okxtbs2"
+                },
+                {
+                    "name": "Back To You - MTV Unplugged",
+                    "track_number": 2,
+                    "duration": "4:30",
+                    "track_spotify_url": "https://open.spotify.com/track/1503p5HTK15sdgGSFpqDYa"
+                },
+                {
+                    "name": "Cuts Like A Knife - MTV Unplugged Version",
+                    "track_number": 3,
+                    "duration": "5:03",
+                    "track_spotify_url": "https://open.spotify.com/track/1LkffUqSKVC5Au5IQPPSLM"
+                },
+                {
+                    "name": "I'm Ready - MTV Unplugged",
+                    "track_number": 4,
+                    "duration": "4:28",
+                    "track_spotify_url": "https://open.spotify.com/track/3dy6IEnBzDOYj5zYJaVpQW"
+                },
+                {
+                    "name": "Fits Ya Good - MTV Unplugged Version",
+                    "track_number": 5,
+                    "duration": "3:01",
+                    "track_spotify_url": "https://open.spotify.com/track/14FU346NNo2QSdGO0NMViR"
+                },
+                {
+                    "name": "When You Love Someone - MTV Unplugged Version",
+                    "track_number": 6,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/2SUybf06wGg3tmOLCI9ogP"
+                },
+                {
+                    "name": "18 Til I Die - MTV Unplugged Version",
+                    "track_number": 7,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/0oDYHiwDLkzFbIRPWriBZJ"
+                },
+                {
+                    "name": "I Think About You - MTV Unplugged Version",
+                    "track_number": 8,
+                    "duration": "2:36",
+                    "track_spotify_url": "https://open.spotify.com/track/4vAIrxYp5sQyUgSwoP77ZE"
+                },
+                {
+                    "name": "If Ya Wanna Be Bad - Ya Gotta Be Good / Let's Make A Night To Remember - MTV Unplugged Version",
+                    "track_number": 9,
+                    "duration": "4:35",
+                    "track_spotify_url": "https://open.spotify.com/track/0pLferhd4R69Tfqix8TyX1"
+                },
+                {
+                    "name": "The Only Thing That Looks Good On Me Is You - MTV Unplugged Version",
+                    "track_number": 10,
+                    "duration": "4:34",
+                    "track_spotify_url": "https://open.spotify.com/track/3NGMMRXc5O7XVKVXFCcQ5f"
+                },
+                {
+                    "name": "A Little Love - MTV Unplugged Version",
+                    "track_number": 11,
+                    "duration": "3:22",
+                    "track_spotify_url": "https://open.spotify.com/track/6MW9j1DHdDKWAKjUNrAhVv"
+                },
+                {
+                    "name": "Heaven - MTV Unplugged Version",
+                    "track_number": 12,
+                    "duration": "4:30",
+                    "track_spotify_url": "https://open.spotify.com/track/5mQSXVIEby1cb3CWHaqSlK"
+                },
+                {
+                    "name": "I'll Always Be Right There - MTV Unplugged Version",
+                    "track_number": 13,
+                    "duration": "4:27",
+                    "track_spotify_url": "https://open.spotify.com/track/2z1HcH3hHiuo9nN3Jy7HEM"
+                }
+            ]
+        },
+        {
+            "id": "29t8lxRlQIyG4K5Xaydt46",
+            "name": "18 Til I Die",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273224985553276e439be6640e3",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851224985553276e439be6640e3",
+            "total_tracks": 13,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1996-06-04",
+            "release_date_precision": "day",
+            "release_year": "1996",
+            "release_month": "06",
+            "album_spotify_url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46",
+            "tracks": [
+                {
+                    "name": "The Only Thing That Looks Good On Me Is You",
+                    "track_number": 1,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/4XcNoJ4W4Qa4uuqxa2KRsm"
+                },
+                {
+                    "name": "Do To You",
+                    "track_number": 2,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/0QH13JfTeZ5wX7VIzow1PL"
+                },
+                {
+                    "name": "Let's Make A Night To Remember",
+                    "track_number": 3,
+                    "duration": "6:18",
+                    "track_spotify_url": "https://open.spotify.com/track/3wgNhWuV5gkcEkTgMBNcoA"
+                },
+                {
+                    "name": "18 Til I Die",
+                    "track_number": 4,
+                    "duration": "3:29",
+                    "track_spotify_url": "https://open.spotify.com/track/7k3DAKUd3caHNFJTg6apRc"
+                },
+                {
+                    "name": "Star",
+                    "track_number": 5,
+                    "duration": "3:42",
+                    "track_spotify_url": "https://open.spotify.com/track/4tzElziStkBDIkA2f9trdN"
+                },
+                {
+                    "name": "(I Wanna Be) Your Underwear",
+                    "track_number": 6,
+                    "duration": "3:17",
+                    "track_spotify_url": "https://open.spotify.com/track/2CwzLqZc17ReEAJAZyCKfd"
+                },
+                {
+                    "name": "We're Gonna Win",
+                    "track_number": 7,
+                    "duration": "2:27",
+                    "track_spotify_url": "https://open.spotify.com/track/0pz4LfZpmZtkPhZRLXHd8o"
+                },
+                {
+                    "name": "I Think About You",
+                    "track_number": 8,
+                    "duration": "3:36",
+                    "track_spotify_url": "https://open.spotify.com/track/3ISNvUn2gTemicNE15ccfT"
+                },
+                {
+                    "name": "I'll Always Be Right There",
+                    "track_number": 9,
+                    "duration": "3:16",
+                    "track_spotify_url": "https://open.spotify.com/track/583f5m5Y74xBEd6kPAv7Q8"
+                },
+                {
+                    "name": "It Ain't A Party - If You Can't Come 'Round",
+                    "track_number": 10,
+                    "duration": "3:47",
+                    "track_spotify_url": "https://open.spotify.com/track/6uXYAWu9hqpPBujvrMF1eb"
+                },
+                {
+                    "name": "Black Pearl",
+                    "track_number": 11,
+                    "duration": "3:59",
+                    "track_spotify_url": "https://open.spotify.com/track/48anQUSNjtmBwlfE7yiLh7"
+                },
+                {
+                    "name": "You're Still Beautiful To Me",
+                    "track_number": 12,
+                    "duration": "5:13",
+                    "track_spotify_url": "https://open.spotify.com/track/5C8tnqzEmG6g6axX4KoKYO"
+                },
+                {
+                    "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\" Soundtrack",
+                    "track_number": 13,
+                    "duration": "4:51",
+                    "track_spotify_url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
+                }
+            ]
+        },
+        {
+            "id": "2L7WhsGC7C8itVftm0EgBK",
+            "name": "Wembley 1996 Live",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273eaf026b5d2496488e876cc4c",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851eaf026b5d2496488e876cc4c",
+            "total_tracks": 24,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1996",
+            "release_date_precision": "year",
+            "release_year": "1996",
+            "release_month": 1,
+            "album_spotify_url": "https://open.spotify.com/album/2L7WhsGC7C8itVftm0EgBK",
+            "tracks": [
+                {
+                    "name": "The Only Thing That Looks Good On Me is You - Live",
+                    "track_number": 1,
+                    "duration": "5:06",
+                    "track_spotify_url": "https://open.spotify.com/track/3Yu0tH3EWLFrWqfoU9BC10"
+                },
+                {
+                    "name": "Do To You - Live",
+                    "track_number": 2,
+                    "duration": "4:54",
+                    "track_spotify_url": "https://open.spotify.com/track/4fIZQdBrgbiqGFuukAgNG9"
+                },
+                {
+                    "name": "Kids Wanna Rock - Live",
+                    "track_number": 3,
+                    "duration": "4:38",
+                    "track_spotify_url": "https://open.spotify.com/track/1rPdytEVo0IOIp4TOGOwml"
+                },
+                {
+                    "name": "Can't Stop This Thing We Started - Live",
+                    "track_number": 4,
+                    "duration": "4:55",
+                    "track_spotify_url": "https://open.spotify.com/track/6U4Sab9gNZFEDX5DtYBStK"
+                },
+                {
+                    "name": "This Time - Live",
+                    "track_number": 5,
+                    "duration": "3:51",
+                    "track_spotify_url": "https://open.spotify.com/track/1mY0eS5iIaSt4KCUKzjcp5"
+                },
+                {
+                    "name": "18 'Til I Die - Live",
+                    "track_number": 6,
+                    "duration": "4:12",
+                    "track_spotify_url": "https://open.spotify.com/track/7yBmQ5XfDXuwnr01NVAgfQ"
+                },
+                {
+                    "name": "Have You Ever Really Loved A Woman? - Live",
+                    "track_number": 7,
+                    "duration": "6:11",
+                    "track_spotify_url": "https://open.spotify.com/track/1YO7066bG4KdQQCpKTeBPV"
+                },
+                {
+                    "name": "Touch The Hand - Live",
+                    "track_number": 8,
+                    "duration": "7:53",
+                    "track_spotify_url": "https://open.spotify.com/track/06WTwwRdVqxjiPNoYFBpXt"
+                },
+                {
+                    "name": "Cuts Like A Knife - Live",
+                    "track_number": 9,
+                    "duration": "8:02",
+                    "track_spotify_url": "https://open.spotify.com/track/57nepgC3JBjHugWJENCVlJ"
+                },
+                {
+                    "name": "It's Only Love - Live",
+                    "track_number": 10,
+                    "duration": "4:21",
+                    "track_spotify_url": "https://open.spotify.com/track/4LctR9uw7wi4gmdPnGUeP3"
+                },
+                {
+                    "name": "Somebody - Live",
+                    "track_number": 11,
+                    "duration": "7:05",
+                    "track_spotify_url": "https://open.spotify.com/track/50I5Q2K43EEo55mi3eWsle"
+                },
+                {
+                    "name": "(Everything I Do) I Do It For You - Live",
+                    "track_number": 12,
+                    "duration": "7:21",
+                    "track_spotify_url": "https://open.spotify.com/track/59LXmHWIj6uyRR89SymGUQ"
+                },
+                {
+                    "name": "Run To You - Live",
+                    "track_number": 13,
+                    "duration": "5:30",
+                    "track_spotify_url": "https://open.spotify.com/track/6iJk5mXytCgXBzIwyoiO1e"
+                },
+                {
+                    "name": "There Will Never Be Another Tonight - Live",
+                    "track_number": 14,
+                    "duration": "4:56",
+                    "track_spotify_url": "https://open.spotify.com/track/3PySY16XlJ1EpRqquGyNZC"
+                },
+                {
+                    "name": "Seven Nights To Rock - Live",
+                    "track_number": 15,
+                    "duration": "4:40",
+                    "track_spotify_url": "https://open.spotify.com/track/22AzoiKD0AgcCDie8RzMKQ"
+                },
+                {
+                    "name": "I Wanna Be Your Underwear - Live",
+                    "track_number": 16,
+                    "duration": "4:20",
+                    "track_spotify_url": "https://open.spotify.com/track/6f1DW5bmx5TfBSfamVF7w9"
+                },
+                {
+                    "name": "Wild Thing - Live",
+                    "track_number": 17,
+                    "duration": "3:48",
+                    "track_spotify_url": "https://open.spotify.com/track/3kj76z0LyXJcHiAQwQnGEK"
+                },
+                {
+                    "name": "It Ain't A Party (If You Can't Come 'Round) - Live",
+                    "track_number": 18,
+                    "duration": "2:43",
+                    "track_spotify_url": "https://open.spotify.com/track/1Cvo4ghNSQPB2zPCpsDF0j"
+                },
+                {
+                    "name": "She's Only Happy When She's Dancin' - Live",
+                    "track_number": 19,
+                    "duration": "5:04",
+                    "track_spotify_url": "https://open.spotify.com/track/2VxLyw5oJa3ylLsETYyL6M"
+                },
+                {
+                    "name": "Summer of '69 - Live",
+                    "track_number": 20,
+                    "duration": "6:52",
+                    "track_spotify_url": "https://open.spotify.com/track/3CmpgoKiWFtnhsXAvEZotG"
+                },
+                {
+                    "name": "All For Love - Live",
+                    "track_number": 21,
+                    "duration": "9:25",
+                    "track_spotify_url": "https://open.spotify.com/track/5CvAl2cjSwLbQU9HxJMxg0"
+                },
+                {
+                    "name": "Let's Make A Night To Remember - Live",
+                    "track_number": 22,
+                    "duration": "8:45",
+                    "track_spotify_url": "https://open.spotify.com/track/0BaqQeEoACGCpX185WPoQC"
+                },
+                {
+                    "name": "I Fought The Law - Live",
+                    "track_number": 23,
+                    "duration": "3:10",
+                    "track_spotify_url": "https://open.spotify.com/track/0QkUAC7rCr0BmT2OXyWbNa"
+                },
+                {
+                    "name": "Heaven - Live",
+                    "track_number": 24,
+                    "duration": "4:58",
+                    "track_spotify_url": "https://open.spotify.com/track/62924peTM46KJZn6wQ2A44"
+                }
+            ]
+        },
+        {
+            "id": "6Rk2VghhfqeYrgKxS21eBh",
+            "name": "Waking Up The Neighbours",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27305a41288f037a08fb45db5e2",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485105a41288f037a08fb45db5e2",
+            "total_tracks": 15,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1991-09-24",
+            "release_date_precision": "day",
+            "release_year": "1991",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh",
+            "tracks": [
+                {
+                    "name": "Is Your Mama Gonna Miss Ya?",
+                    "track_number": 1,
+                    "duration": "4:40",
+                    "track_spotify_url": "https://open.spotify.com/track/4x6wy9GPwb5QAqyZwLcZY9"
+                },
+                {
+                    "name": "Hey Honey - I'm Packin' You In",
+                    "track_number": 2,
+                    "duration": "3:59",
+                    "track_spotify_url": "https://open.spotify.com/track/1BQAtR9bcq6Wsn6XQP6sqf"
+                },
+                {
+                    "name": "Can't Stop This Thing We Started",
+                    "track_number": 3,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/4e80zUwo7YuhNHs9OokSG0"
+                },
+                {
+                    "name": "Thought I'd Died And Gone To Heaven",
+                    "track_number": 4,
+                    "duration": "5:48",
+                    "track_spotify_url": "https://open.spotify.com/track/4tGqkpkHNxSovRoJrajH4n"
+                },
+                {
+                    "name": "Not Guilty",
+                    "track_number": 5,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/3dQXQg28WBBcw5mGRnh6qd"
+                },
+                {
+                    "name": "Vanishing",
+                    "track_number": 6,
+                    "duration": "5:03",
+                    "track_spotify_url": "https://open.spotify.com/track/4wsxmwkrXxoaeDN24mogQ5"
+                },
+                {
+                    "name": "House Arrest",
+                    "track_number": 7,
+                    "duration": "3:57",
+                    "track_spotify_url": "https://open.spotify.com/track/2ggD5DOO5C0VTGsreSc64U"
+                },
+                {
+                    "name": "Do I Have To Say The Words?",
+                    "track_number": 8,
+                    "duration": "6:11",
+                    "track_spotify_url": "https://open.spotify.com/track/5zDVyVBJoE0NVUmYcyvTny"
+                },
+                {
+                    "name": "There Will Never Be Another Tonight",
+                    "track_number": 9,
+                    "duration": "4:40",
+                    "track_spotify_url": "https://open.spotify.com/track/2pRa17WsuJOGVdsTCDtKgl"
+                },
+                {
+                    "name": "All I Want Is You",
+                    "track_number": 10,
+                    "duration": "5:20",
+                    "track_spotify_url": "https://open.spotify.com/track/04YHGXykqc00vkAeu1t7Gd"
+                },
+                {
+                    "name": "Depend On Me",
+                    "track_number": 11,
+                    "duration": "5:07",
+                    "track_spotify_url": "https://open.spotify.com/track/3zZ6YO9P4iZhGmMDkx752d"
+                },
+                {
+                    "name": "(Everything I Do) I Do It For You",
+                    "track_number": 12,
+                    "duration": "6:33",
+                    "track_spotify_url": "https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P"
+                },
+                {
+                    "name": "If You Wanna Leave Me (Can I Come Too?)",
+                    "track_number": 13,
+                    "duration": "4:42",
+                    "track_spotify_url": "https://open.spotify.com/track/0LAwpRG2YM4ja4mh2luHyV"
+                },
+                {
+                    "name": "Touch The Hand",
+                    "track_number": 14,
+                    "duration": "4:05",
+                    "track_spotify_url": "https://open.spotify.com/track/0wzAv4RYJlQ20vmqo1yoPR"
+                },
+                {
+                    "name": "Don't Drop That Bomb On Me",
+                    "track_number": 15,
+                    "duration": "6:02",
+                    "track_spotify_url": "https://open.spotify.com/track/1kcKo47mrx7N7DvvQWIiS5"
+                }
+            ]
+        },
+        {
+            "id": "3Fjl0SRpxGPdXDUMPfO8u2",
+            "name": "Live! Live! Live!",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27336420e5f960aefda3eae9481",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485136420e5f960aefda3eae9481",
+            "total_tracks": 17,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1988-01-01",
+            "release_date_precision": "day",
+            "release_year": "1988",
+            "release_month": "01",
+            "album_spotify_url": "https://open.spotify.com/album/3Fjl0SRpxGPdXDUMPfO8u2",
+            "tracks": [
+                {
+                    "name": "She's Only Happy When She's Dancin' - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 1,
+                    "duration": "3:29",
+                    "track_spotify_url": "https://open.spotify.com/track/08lAlxCYY00sZ2Si4kISNn"
+                },
+                {
+                    "name": "It's Only Love - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 2,
+                    "duration": "3:50",
+                    "track_spotify_url": "https://open.spotify.com/track/1FF6jcvoWEe12yoNlv4MA1"
+                },
+                {
+                    "name": "Cuts Like A Knife - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 3,
+                    "duration": "5:27",
+                    "track_spotify_url": "https://open.spotify.com/track/4v0dchlFqaVPBZFJ087z0u"
+                },
+                {
+                    "name": "Kids Wanna Rock - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 4,
+                    "duration": "3:02",
+                    "track_spotify_url": "https://open.spotify.com/track/6HOJ2wVOe7qoME3tbe7OAC"
+                },
+                {
+                    "name": "Hearts On Fire - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 5,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/0Z325uR9pNW1IoiYpNh9OL"
+                },
+                {
+                    "name": "Take Me Back - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 6,
+                    "duration": "5:31",
+                    "track_spotify_url": "https://open.spotify.com/track/3b5zMf1uHdNB8M9yLIKwFA"
+                },
+                {
+                    "name": "The Best Was Yet To Come - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 7,
+                    "duration": "2:52",
+                    "track_spotify_url": "https://open.spotify.com/track/746re3giJfpjn0m3rn7bbk"
+                },
+                {
+                    "name": "Heaven - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 8,
+                    "duration": "4:16",
+                    "track_spotify_url": "https://open.spotify.com/track/5dUZkX7FHZWoB3SolCVt8Q"
+                },
+                {
+                    "name": "Heat Of The Night - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 9,
+                    "duration": "5:17",
+                    "track_spotify_url": "https://open.spotify.com/track/55x0D8460ITpZ0nnOoAo10"
+                },
+                {
+                    "name": "Run To You - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 10,
+                    "duration": "4:06",
+                    "track_spotify_url": "https://open.spotify.com/track/4srimZZcij5WHRUCKJe1zq"
+                },
+                {
+                    "name": "One Night Love Affair - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 11,
+                    "duration": "4:33",
+                    "track_spotify_url": "https://open.spotify.com/track/6PR8elBE6bEOmmcmL8Jfgb"
+                },
+                {
+                    "name": "Long Gone - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 12,
+                    "duration": "4:06",
+                    "track_spotify_url": "https://open.spotify.com/track/6d6jnqTB3YSgbz4grygKDO"
+                },
+                {
+                    "name": "Summer Of '69 - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 13,
+                    "duration": "4:33",
+                    "track_spotify_url": "https://open.spotify.com/track/6UMDF54GPFRLGcKkYD5zvs"
+                },
+                {
+                    "name": "Somebody - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 14,
+                    "duration": "5:48",
+                    "track_spotify_url": "https://open.spotify.com/track/6fu4s8NjPkwJMD7QanZI9p"
+                },
+                {
+                    "name": "Walking After Midnight - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 15,
+                    "duration": "2:19",
+                    "track_spotify_url": "https://open.spotify.com/track/75gYjet9uA7B4uuXEP7DVM"
+                },
+                {
+                    "name": "I Fought The Law - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 16,
+                    "duration": "2:37",
+                    "track_spotify_url": "https://open.spotify.com/track/3vZX6KqEF6V5teLU5kshHr"
+                },
+                {
+                    "name": "Into The Fire - Live At Rock Werchter, Belgium/1988",
+                    "track_number": 17,
+                    "duration": "3:35",
+                    "track_spotify_url": "https://open.spotify.com/track/7JvSVtRMyvcVjHFo4unrY2"
+                }
+            ]
+        },
+        {
+            "id": "0nrix7x6NKkkBEi5WOTfPO",
+            "name": "Into The Fire",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273a3755509e8a04c497adc93e6",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a3755509e8a04c497adc93e6",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1987-03-30",
+            "release_date_precision": "day",
+            "release_year": "1987",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/0nrix7x6NKkkBEi5WOTfPO",
+            "tracks": [
+                {
+                    "name": "Heat Of The Night",
+                    "track_number": 1,
+                    "duration": "5:07",
+                    "track_spotify_url": "https://open.spotify.com/track/2xEhTQcmrRNaxfUOvSAgXo"
+                },
+                {
+                    "name": "Into The Fire",
+                    "track_number": 2,
+                    "duration": "4:41",
+                    "track_spotify_url": "https://open.spotify.com/track/4f8fw0Agdx2AKz7TL23O2X"
+                },
+                {
+                    "name": "Victim Of Love",
+                    "track_number": 3,
+                    "duration": "4:07",
+                    "track_spotify_url": "https://open.spotify.com/track/73U7iE42GU9HCVtlbSQ2Fb"
+                },
+                {
+                    "name": "Another Day",
+                    "track_number": 4,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/0hYUFb82eO4YSO5YMqv5wb"
+                },
+                {
+                    "name": "Native Son",
+                    "track_number": 5,
+                    "duration": "6:04",
+                    "track_spotify_url": "https://open.spotify.com/track/30yRvk5Ix1zIWtLh6Z3kQ3"
+                },
+                {
+                    "name": "Only The Strong Survive",
+                    "track_number": 6,
+                    "duration": "3:45",
+                    "track_spotify_url": "https://open.spotify.com/track/2PMXDrYteIW1UCCZcgdItz"
+                },
+                {
+                    "name": "Rebel",
+                    "track_number": 7,
+                    "duration": "4:02",
+                    "track_spotify_url": "https://open.spotify.com/track/6UmqdX5wRBdlJyuAElOH1E"
+                },
+                {
+                    "name": "Remembrance Day",
+                    "track_number": 8,
+                    "duration": "5:59",
+                    "track_spotify_url": "https://open.spotify.com/track/0uXmNzQQ9Y2iV9DECl6us0"
+                },
+                {
+                    "name": "Hearts On Fire",
+                    "track_number": 9,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/20HhDn0i0STNmkjgFqmvO5"
+                },
+                {
+                    "name": "Home Again",
+                    "track_number": 10,
+                    "duration": "4:18",
+                    "track_spotify_url": "https://open.spotify.com/track/2ggVwHunuqvshSHCsU8Spt"
+                }
+            ]
+        },
+        {
+            "id": "7LPkGn9WJkguua8oZtaHxa",
+            "name": "Reckless",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273578899f03bd912e82ad531e7",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851578899f03bd912e82ad531e7",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1984-11-05",
+            "release_date_precision": "day",
+            "release_year": "1984",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/7LPkGn9WJkguua8oZtaHxa",
+            "tracks": [
+                {
+                    "name": "One Night Love Affair",
+                    "track_number": 1,
+                    "duration": "4:34",
+                    "track_spotify_url": "https://open.spotify.com/track/1RWnQRPRj4Tv3Fa74LcyPs"
+                },
+                {
+                    "name": "She's Only Happy When She's Dancin'",
+                    "track_number": 2,
+                    "duration": "3:15",
+                    "track_spotify_url": "https://open.spotify.com/track/3G4unjE7dTHGvbugfwqwSI"
+                },
+                {
+                    "name": "Run To You",
+                    "track_number": 3,
+                    "duration": "3:53",
+                    "track_spotify_url": "https://open.spotify.com/track/2QmUkzrMcKJKCr533xEhO4"
+                },
+                {
+                    "name": "Heaven",
+                    "track_number": 4,
+                    "duration": "4:05",
+                    "track_spotify_url": "https://open.spotify.com/track/4dhPbGPssNpV6pSEtgTmO7"
+                },
+                {
+                    "name": "Somebody",
+                    "track_number": 5,
+                    "duration": "4:43",
+                    "track_spotify_url": "https://open.spotify.com/track/5N2S57XrTlsQcXH3H0DSTl"
+                },
+                {
+                    "name": "Summer Of '69",
+                    "track_number": 6,
+                    "duration": "3:36",
+                    "track_spotify_url": "https://open.spotify.com/track/2jTeyMO0KmMOhKzkAvrnLI"
+                },
+                {
+                    "name": "Kids Wanna Rock",
+                    "track_number": 7,
+                    "duration": "2:35",
+                    "track_spotify_url": "https://open.spotify.com/track/1KdmOEwNKHXSM2Bn04sT8Q"
+                },
+                {
+                    "name": "It's Only Love",
+                    "track_number": 8,
+                    "duration": "3:14",
+                    "track_spotify_url": "https://open.spotify.com/track/71tDdIKZjeNYmsrkXrFF0z"
+                },
+                {
+                    "name": "Long Gone",
+                    "track_number": 9,
+                    "duration": "3:58",
+                    "track_spotify_url": "https://open.spotify.com/track/41wIS3c0cPzLPIXc7J6meL"
+                },
+                {
+                    "name": "Ain't Gonna Cry",
+                    "track_number": 10,
+                    "duration": "4:07",
+                    "track_spotify_url": "https://open.spotify.com/track/3PvopC5aBa7UXFQoYTmFkl"
+                }
+            ]
+        },
+        {
+            "id": "5ZZ5S9fqcpQo4N3n7nPUk7",
+            "name": "Cuts Like A Knife",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2732b25c31d78b73d003e1b2d6d",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048512b25c31d78b73d003e1b2d6d",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1983-01-18",
+            "release_date_precision": "day",
+            "release_year": "1983",
+            "release_month": "01",
+            "album_spotify_url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7",
+            "tracks": [
+                {
+                    "name": "The Only One",
+                    "track_number": 1,
+                    "duration": "3:16",
+                    "track_spotify_url": "https://open.spotify.com/track/7qlaftp5aRRVu5dijxAVWh"
+                },
+                {
+                    "name": "Take Me Back",
+                    "track_number": 2,
+                    "duration": "4:41",
+                    "track_spotify_url": "https://open.spotify.com/track/4I0SmvL0musUfPatDLoTra"
+                },
+                {
+                    "name": "This Time",
+                    "track_number": 3,
+                    "duration": "3:20",
+                    "track_spotify_url": "https://open.spotify.com/track/27RJqlzy0TXZloJIuEYEbG"
+                },
+                {
+                    "name": "Straight From The Heart",
+                    "track_number": 4,
+                    "duration": "3:31",
+                    "track_spotify_url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
+                },
+                {
+                    "name": "Cuts Like A Knife",
+                    "track_number": 5,
+                    "duration": "5:19",
+                    "track_spotify_url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
+                },
+                {
+                    "name": "I'm Ready",
+                    "track_number": 6,
+                    "duration": "3:58",
+                    "track_spotify_url": "https://open.spotify.com/track/0m06w8BMJPYMLpDSge03t2"
+                },
+                {
+                    "name": "What's It Gonna Be",
+                    "track_number": 7,
+                    "duration": "3:40",
+                    "track_spotify_url": "https://open.spotify.com/track/17gH5IKLSuOVKs1fmzX28S"
+                },
+                {
+                    "name": "Don't Leave Me Lonely",
+                    "track_number": 8,
+                    "duration": "2:58",
+                    "track_spotify_url": "https://open.spotify.com/track/0IbFL0DrUJgSQRQPg1cJfe"
+                },
+                {
+                    "name": "Let Him Know",
+                    "track_number": 9,
+                    "duration": "3:11",
+                    "track_spotify_url": "https://open.spotify.com/track/2IuxIAVMQePKpa1LBEYRBi"
+                },
+                {
+                    "name": "The Best Was Yet To Come",
+                    "track_number": 10,
+                    "duration": "3:04",
+                    "track_spotify_url": "https://open.spotify.com/track/4OpEH1B2BgKCXTE1k6oqUt"
+                }
+            ]
+        },
+        {
+            "id": "0lIG3VNtXLHrNttu5ByH4U",
+            "name": "You Want It You Got It",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2738bcd2c7838d486c63dd41b3c",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518bcd2c7838d486c63dd41b3c",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1981-07-12",
+            "release_date_precision": "day",
+            "release_year": "1981",
+            "release_month": "07",
+            "album_spotify_url": "https://open.spotify.com/album/0lIG3VNtXLHrNttu5ByH4U",
+            "tracks": [
+                {
+                    "name": "Lonely Nights",
+                    "track_number": 1,
+                    "duration": "3:46",
+                    "track_spotify_url": "https://open.spotify.com/track/1o8uDPtMukV5GCnQvUypSH"
+                },
+                {
+                    "name": "One Good Reason",
+                    "track_number": 2,
+                    "duration": "4:21",
+                    "track_spotify_url": "https://open.spotify.com/track/0UVw8zTXLbKgTR6MbcnokG"
+                },
+                {
+                    "name": "Don't Look Now",
+                    "track_number": 3,
+                    "duration": "3:06",
+                    "track_spotify_url": "https://open.spotify.com/track/3kpWVgN0uOsFJpjoMJRPbJ"
+                },
+                {
+                    "name": "Coming Home",
+                    "track_number": 4,
+                    "duration": "3:35",
+                    "track_spotify_url": "https://open.spotify.com/track/4YiTlG3hLJi0VzCumF9Fdx"
+                },
+                {
+                    "name": "Fits Ya Good",
+                    "track_number": 5,
+                    "duration": "4:36",
+                    "track_spotify_url": "https://open.spotify.com/track/45QEMpvM5apqsqUiSuEI5X"
+                },
+                {
+                    "name": "Jealousy",
+                    "track_number": 6,
+                    "duration": "3:49",
+                    "track_spotify_url": "https://open.spotify.com/track/1rnzC9NXnYwTdVonawwtrM"
+                },
+                {
+                    "name": "Tonight",
+                    "track_number": 7,
+                    "duration": "4:58",
+                    "track_spotify_url": "https://open.spotify.com/track/5JYBLQRdCzNgkeLqTa3RV6"
+                },
+                {
+                    "name": "You Want It You Got It",
+                    "track_number": 8,
+                    "duration": "3:49",
+                    "track_spotify_url": "https://open.spotify.com/track/1PgrjTzuoIfk5waXltWraE"
+                },
+                {
+                    "name": "Last Chance",
+                    "track_number": 9,
+                    "duration": "3:17",
+                    "track_spotify_url": "https://open.spotify.com/track/6F53u7EYA0aiXQYWGDgUam"
+                },
+                {
+                    "name": "No One Makes It Right",
+                    "track_number": 10,
+                    "duration": "3:16",
+                    "track_spotify_url": "https://open.spotify.com/track/0hocnam3aEM5bQ2bBXu9hc"
+                }
+            ]
+        },
+        {
+            "id": "6IKA8Pe9HZoJWqxeKIb27C",
+            "name": "Bryan Adams",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273bb18bd8ce859cf34cd4489e1",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851bb18bd8ce859cf34cd4489e1",
+            "total_tracks": 9,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1980-02-12",
+            "release_date_precision": "day",
+            "release_year": "1980",
+            "release_month": "02",
+            "album_spotify_url": "https://open.spotify.com/album/6IKA8Pe9HZoJWqxeKIb27C",
+            "tracks": [
+                {
+                    "name": "Hidin' From Love",
+                    "track_number": 1,
+                    "duration": "3:16",
+                    "track_spotify_url": "https://open.spotify.com/track/6WCYqTLz9Itlg5pQzwPWWT"
+                },
+                {
+                    "name": "Win Some Lose Some",
+                    "track_number": 2,
+                    "duration": "3:47",
+                    "track_spotify_url": "https://open.spotify.com/track/0hDkYy7bKYTAiChWkwoJnB"
+                },
+                {
+                    "name": "Wait And See",
+                    "track_number": 3,
+                    "duration": "3:04",
+                    "track_spotify_url": "https://open.spotify.com/track/4GZgXyU9n3lctE6Nb1yx2c"
+                },
+                {
+                    "name": "Give Me Your Love",
+                    "track_number": 4,
+                    "duration": "2:52",
+                    "track_spotify_url": "https://open.spotify.com/track/1IGPR1ADJMPdQTWEGfbHyi"
+                },
+                {
+                    "name": "Wastin' Time",
+                    "track_number": 5,
+                    "duration": "3:34",
+                    "track_spotify_url": "https://open.spotify.com/track/5lzirWZ0R9QpJ2sLEQWpjb"
+                },
+                {
+                    "name": "Don't Ya Say It",
+                    "track_number": 6,
+                    "duration": "3:21",
+                    "track_spotify_url": "https://open.spotify.com/track/0DPjnyscXtypb0bb1fArUu"
+                },
+                {
+                    "name": "Remember",
+                    "track_number": 7,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/43DW7c4I8bCHVxlZyueaKy"
+                },
+                {
+                    "name": "State Of Mind",
+                    "track_number": 8,
+                    "duration": "3:14",
+                    "track_spotify_url": "https://open.spotify.com/track/4t4FGpFxOP0doMitrQwO4g"
+                },
+                {
+                    "name": "Try To See It My Way",
+                    "track_number": 9,
+                    "duration": "4:03",
+                    "track_spotify_url": "https://open.spotify.com/track/0MnzBb8x2ciPIPmx56JYi7"
+                }
+            ]
+        },
+        {
+            "id": "3AmUXywfa5M9VfJ8I67P5U",
+            "name": "Make Up Your Mind",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273a36e4704d5bf78be5a894d96",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a36e4704d5bf78be5a894d96",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2025-03-06",
+            "release_date_precision": "day",
+            "release_year": "2025",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U",
+            "tracks": [
+                {
+                    "name": "Make Up Your Mind",
+                    "track_number": 1,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
+                }
+            ]
+        },
+        {
+            "id": "13dtvjJKMQrE3XjNm5LaES",
+            "name": "Roll With The Punches",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273a3e2e9c342e59264aa1bf274",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a3e2e9c342e59264aa1bf274",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2025-02-07",
+            "release_date_precision": "day",
+            "release_year": "2025",
+            "release_month": "02",
+            "album_spotify_url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES",
+            "tracks": [
+                {
+                    "name": "Roll With The Punches",
+                    "track_number": 1,
+                    "duration": "3:32",
+                    "track_spotify_url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
+                }
+            ]
+        },
+        {
+            "id": "0T5bOfXbi1fWVwzmwRWfFi",
+            "name": "War Machine",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273b36c641ebc9e081c76ab2740",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851b36c641ebc9e081c76ab2740",
+            "total_tracks": 2,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2024-08-30",
+            "release_date_precision": "day",
+            "release_year": "2024",
+            "release_month": "08",
+            "album_spotify_url": "https://open.spotify.com/album/0T5bOfXbi1fWVwzmwRWfFi",
+            "tracks": [
+                {
+                    "name": "War Machine",
+                    "track_number": 1,
+                    "duration": "3:32",
+                    "track_spotify_url": "https://open.spotify.com/track/09aWGGctHX4q9EqyQXvkTF"
+                },
+                {
+                    "name": "Rock And Roll Hell",
+                    "track_number": 2,
+                    "duration": "3:18",
+                    "track_spotify_url": "https://open.spotify.com/track/7GPoF373JQ5xGsrcOR5bMG"
+                }
+            ]
+        },
+        {
+            "id": "5j3MWUbMQI5jRgIgx6r7g4",
+            "name": "Run To You (SUMD4ZE Edit)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273d929442b0e872fea5ff9b803",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851d929442b0e872fea5ff9b803",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2024-08-23",
+            "release_date_precision": "day",
+            "release_year": "2024",
+            "release_month": "08",
+            "album_spotify_url": "https://open.spotify.com/album/5j3MWUbMQI5jRgIgx6r7g4",
+            "tracks": [
+                {
+                    "name": "Run To You - SUMD4ZE Edit",
+                    "track_number": 1,
+                    "duration": "2:31",
+                    "track_spotify_url": "https://open.spotify.com/track/7GdqjqLKrf4yWO2EoDtU2T"
+                }
+            ]
+        },
+        {
+            "id": "5DRawetthfEySOsMJhzAkA",
+            "name": "Rock And Roll Hell",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273f2441b502035d401fd37d8ce",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851f2441b502035d401fd37d8ce",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2024-08-02",
+            "release_date_precision": "day",
+            "release_year": "2024",
+            "release_month": "08",
+            "album_spotify_url": "https://open.spotify.com/album/5DRawetthfEySOsMJhzAkA",
+            "tracks": [
+                {
+                    "name": "Rock And Roll Hell",
+                    "track_number": 1,
+                    "duration": "3:18",
+                    "track_spotify_url": "https://open.spotify.com/track/7I29mrdkXOOg5G18OKKXhW"
+                }
+            ]
+        },
+        {
+            "id": "5nrTebiSO8IKKm9PmILE4e",
+            "name": "The Only Thing That Looks Good On Me Is You (Classic Version)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273d80de6a177c8ab75b5a11d5f",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851d80de6a177c8ab75b5a11d5f",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2024-07-05",
+            "release_date_precision": "day",
+            "release_year": "2024",
+            "release_month": "07",
+            "album_spotify_url": "https://open.spotify.com/album/5nrTebiSO8IKKm9PmILE4e",
+            "tracks": [
+                {
+                    "name": "The Only Thing That Looks Good On Me Is You - Classic Version",
+                    "track_number": 1,
+                    "duration": "3:36",
+                    "track_spotify_url": "https://open.spotify.com/track/4SG5YnAQUrD6b8yZFxv2ja"
+                }
+            ]
+        },
+        {
+            "id": "1pCxbUrnRHbLMtdaFIFHtB",
+            "name": "Someone's Daughter, Someone's Son",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2736a884b5165faa67e0612a6d9",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048516a884b5165faa67e0612a6d9",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2024-03-08",
+            "release_date_precision": "day",
+            "release_year": "2024",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/1pCxbUrnRHbLMtdaFIFHtB",
+            "tracks": [
+                {
+                    "name": "Someone's Daughter, Someone's Son",
+                    "track_number": 1,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/2OFmXtz8iAjqhRZF4zrxb9"
+                }
+            ]
+        },
+        {
+            "id": "0tn9PkMBYT8xPrgAxZVkix",
+            "name": "Somebody (Classic Version)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273a6fa2102d674faa37b93262b",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a6fa2102d674faa37b93262b",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2023-12-01",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "12",
+            "album_spotify_url": "https://open.spotify.com/album/0tn9PkMBYT8xPrgAxZVkix",
+            "tracks": [
+                {
+                    "name": "Somebody - Classic Version",
+                    "track_number": 1,
+                    "duration": "4:35",
+                    "track_spotify_url": "https://open.spotify.com/track/57Gn0l4bBmOsfmDlcBRd2G"
+                }
+            ]
+        },
+        {
+            "id": "3fDId8ciknd7hOO22s1VBX",
+            "name": "Rebel (Live At The Royal Albert Hall)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2739ef3f4f2f2251576b2da792c",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048519ef3f4f2f2251576b2da792c",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2023-09-18",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/3fDId8ciknd7hOO22s1VBX",
+            "tracks": [
+                {
+                    "name": "Rebel - Live At The Royal Albert Hall",
+                    "track_number": 1,
+                    "duration": "3:45",
+                    "track_spotify_url": "https://open.spotify.com/track/4zZZ0jGxfxFOT8s7GhZxMr"
+                }
+            ]
+        },
+        {
+            "id": "5GtokXLjajgbqIwjM4jK3z",
+            "name": "Into The Fire (Live At The Royal Albert Hall)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2732660affec7e75f798f9c1e49",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048512660affec7e75f798f9c1e49",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2023-09-18",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/5GtokXLjajgbqIwjM4jK3z",
+            "tracks": [
+                {
+                    "name": "Into The Fire - Live At The Royal Albert Hall",
+                    "track_number": 1,
+                    "duration": "4:19",
+                    "track_spotify_url": "https://open.spotify.com/track/0ZVcVOKsMn7sxnmRLGYmsr"
+                }
+            ]
+        },
+        {
+            "id": "3Yb23sjQcNGENT44r1ftui",
+            "name": "You're Awesome",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2737333adec7fbcb2deb91df0fa",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048517333adec7fbcb2deb91df0fa",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2023-09-01",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/3Yb23sjQcNGENT44r1ftui",
+            "tracks": [
+                {
+                    "name": "You're Awesome",
+                    "track_number": 1,
+                    "duration": "2:50",
+                    "track_spotify_url": "https://open.spotify.com/track/5BoixLIVWjFbzurhaZvHwA"
+                }
+            ]
+        },
+        {
+            "id": "17CJhGkrhZomJmYP0WSFrK",
+            "name": "Sometimes You Lose Before You Win",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273184088b16fc74eeb98e8c808",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851184088b16fc74eeb98e8c808",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2023-09-01",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/17CJhGkrhZomJmYP0WSFrK",
+            "tracks": [
+                {
+                    "name": "Sometimes You Lose Before You Win",
+                    "track_number": 1,
+                    "duration": "3:29",
+                    "track_spotify_url": "https://open.spotify.com/track/2c4goRObjUsHBWfXS9xBRB"
+                }
+            ]
+        },
+        {
+            "id": "2Yw2nqYEgw2PHFpJfkxoYd",
+            "name": "What If There Were No Sides At All",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273b267f00ded4d4609ae2cf488",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851b267f00ded4d4609ae2cf488",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2023-05-12",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/2Yw2nqYEgw2PHFpJfkxoYd",
+            "tracks": [
+                {
+                    "name": "What If There Were No Sides At All",
+                    "track_number": 1,
+                    "duration": "2:42",
+                    "track_spotify_url": "https://open.spotify.com/track/2yzFHrj9wQLkBtF87dwIHh"
+                }
+            ]
+        },
+        {
+            "id": "7I39L5cZjdYfgOQOj2Wa2o",
+            "name": "A Rockin' Christmas",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273559eb31434a54c3ec72038ce",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851559eb31434a54c3ec72038ce",
+            "total_tracks": 5,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2023-04-28",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "04",
+            "album_spotify_url": "https://open.spotify.com/album/7I39L5cZjdYfgOQOj2Wa2o",
+            "tracks": [
+                {
+                    "name": "Let's Get Christmas Going",
+                    "track_number": 1,
+                    "duration": "3:03",
+                    "track_spotify_url": "https://open.spotify.com/track/0NcJu3lGivHPKTRIxIhG9t"
+                },
+                {
+                    "name": "Christmas Time - Classic Version",
+                    "track_number": 2,
+                    "duration": "4:07",
+                    "track_spotify_url": "https://open.spotify.com/track/7uiGqlMkOvHvoRP0TiEEtQ"
+                },
+                {
+                    "name": "Joe and Mary",
+                    "track_number": 3,
+                    "duration": "3:20",
+                    "track_spotify_url": "https://open.spotify.com/track/77gBB0YPfVbyiPaz03A1HF"
+                },
+                {
+                    "name": "Must Be Santa",
+                    "track_number": 4,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/1ZGkYxoOCMtC4lsVB2VSmj"
+                },
+                {
+                    "name": "Merry Christmas",
+                    "track_number": 5,
+                    "duration": "2:31",
+                    "track_spotify_url": "https://open.spotify.com/track/2IwVwAv7D5CROeYa5xtyNr"
+                }
+            ]
+        },
+        {
+            "id": "0WV6Fl639FaUQIJHTTjuOp",
+            "name": "The Thing That Wrecks You",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2731b39e843b2baa40450dc32ea",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048511b39e843b2baa40450dc32ea",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2023-02-24",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "02",
+            "album_spotify_url": "https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp",
+            "tracks": [
+                {
+                    "name": "The Thing That Wrecks You",
+                    "track_number": 1,
+                    "duration": "3:40",
+                    "track_spotify_url": "https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I"
+                }
+            ]
+        },
+        {
+            "id": "24Gz7FWyclsvG24gt5sBSr",
+            "name": "Let's Get Christmas Going",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273ec06d9906de505173090427c",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ec06d9906de505173090427c",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2022-11-04",
+            "release_date_precision": "day",
+            "release_year": "2022",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/24Gz7FWyclsvG24gt5sBSr",
+            "tracks": [
+                {
+                    "name": "Let's Get Christmas Going",
+                    "track_number": 1,
+                    "duration": "3:03",
+                    "track_spotify_url": "https://open.spotify.com/track/0h04xIX1W8JD1xdA1VeZwk"
+                }
+            ]
+        },
+        {
+            "id": "0WBflUFXsJBHuANmKFDBWz",
+            "name": "Christmas Time (Classic Version)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273ba5b278966519434339c49c9",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ba5b278966519434339c49c9",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2022-11-04",
+            "release_date_precision": "day",
+            "release_year": "2022",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/0WBflUFXsJBHuANmKFDBWz",
+            "tracks": [
+                {
+                    "name": "Christmas Time - Classic Version",
+                    "track_number": 1,
+                    "duration": "4:07",
+                    "track_spotify_url": "https://open.spotify.com/track/6cr0TpOOpiuFAZ6gzweje1"
+                }
+            ]
+        },
+        {
+            "id": "3iX3lk48OiouIWEGmtmtyg",
+            "name": "Kick Ass",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273a0cb4ce2926a8cd3a2dbcf03",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a0cb4ce2926a8cd3a2dbcf03",
+            "total_tracks": 3,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2021-12-09",
+            "release_date_precision": "day",
+            "release_year": "2021",
+            "release_month": "12",
+            "album_spotify_url": "https://open.spotify.com/album/3iX3lk48OiouIWEGmtmtyg",
+            "tracks": [
+                {
+                    "name": "Kick Ass",
+                    "track_number": 1,
+                    "duration": "5:37",
+                    "track_spotify_url": "https://open.spotify.com/track/69928FND7CuAPPretA5Vxr"
+                },
+                {
+                    "name": "Kick Ass (Edit)",
+                    "track_number": 2,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/2N8hB4OvNjfQIKotF3cqVp"
+                },
+                {
+                    "name": "So Happy It Hurts",
+                    "track_number": 3,
+                    "duration": "3:35",
+                    "track_spotify_url": "https://open.spotify.com/track/2u2sp8HpdQ45WtC907kWaw"
+                }
+            ]
+        },
+        {
+            "id": "015lPWVNpp4wo6WakVKBln",
+            "name": "So Happy It Hurts",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273297e22da74620fa129d785e3",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851297e22da74620fa129d785e3",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2021-10-11",
+            "release_date_precision": "day",
+            "release_year": "2021",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/015lPWVNpp4wo6WakVKBln",
+            "tracks": [
+                {
+                    "name": "So Happy It Hurts",
+                    "track_number": 1,
+                    "duration": "3:35",
+                    "track_spotify_url": "https://open.spotify.com/track/0UD0t3FzBxlsZPvt9pSIX4"
+                }
+            ]
+        },
+        {
+            "id": "5SoYlyWC6QYTJgZ4FR3OV0",
+            "name": "Christmas EP",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273def4e543ccd1749e76df9237",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851def4e543ccd1749e76df9237",
+            "total_tracks": 5,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2019-11-15",
+            "release_date_precision": "day",
+            "release_year": "2019",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/5SoYlyWC6QYTJgZ4FR3OV0",
+            "tracks": [
+                {
+                    "name": "Joe And Mary",
+                    "track_number": 1,
+                    "duration": "3:20",
+                    "track_spotify_url": "https://open.spotify.com/track/56LJk0ryhZZJv4E7KpVt6F"
+                },
+                {
+                    "name": "Must Be Santa",
+                    "track_number": 2,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/7mMDV1GRmFbZV1Rv6cDEJ4"
+                },
+                {
+                    "name": "Christmas Time",
+                    "track_number": 3,
+                    "duration": "4:03",
+                    "track_spotify_url": "https://open.spotify.com/track/7LoFMtL7hxP9tr5HYyyUrJ"
+                },
+                {
+                    "name": "Reggae Christmas",
+                    "track_number": 4,
+                    "duration": "2:48",
+                    "track_spotify_url": "https://open.spotify.com/track/5lMimHHOwm99rnHpVLovxH"
+                },
+                {
+                    "name": "Merry Christmas",
+                    "track_number": 5,
+                    "duration": "2:31",
+                    "track_spotify_url": "https://open.spotify.com/track/6u3JmhNyDZffTcp48prhJT"
+                }
+            ]
+        },
+        {
+            "id": "0APwelcsGIZMvL0qXvjuMp",
+            "name": "Christmas (Baby Please Come Home) [feat. Bryan Adams]",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27357f500825ca486ed2cf3c934",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485157f500825ca486ed2cf3c934",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2019-11-08",
+            "release_date_precision": "day",
+            "release_year": "2019",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/0APwelcsGIZMvL0qXvjuMp",
+            "tracks": [
+                {
+                    "name": "Christmas (Baby Please Come Home) (feat. Bryan Adams)",
+                    "track_number": 1,
+                    "duration": "2:43",
+                    "track_spotify_url": "https://open.spotify.com/track/0EwajwP54Ai4KRaFyBNhll"
+                }
+            ]
+        },
+        {
+            "id": "7ofPQ0I8bBBxLihie2b5yF",
+            "name": "Please Stay",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273bb587274413d1b537833567b",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851bb587274413d1b537833567b",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2017-11-13",
+            "release_date_precision": "day",
+            "release_year": "2017",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/7ofPQ0I8bBBxLihie2b5yF",
+            "tracks": [
+                {
+                    "name": "Please Stay",
+                    "track_number": 1,
+                    "duration": "2:36",
+                    "track_spotify_url": "https://open.spotify.com/track/5KxfRGzoxMx794OfiAxJjp"
+                }
+            ]
+        },
+        {
+            "id": "2HsQU8N9CxdwC6igQTOgkc",
+            "name": "Ultimate Love",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27322a0cb57fea21e6dfe2fcdde",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485122a0cb57fea21e6dfe2fcdde",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2017-11-03",
+            "release_date_precision": "day",
+            "release_year": "2017",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/2HsQU8N9CxdwC6igQTOgkc",
+            "tracks": [
+                {
+                    "name": "Ultimate Love",
+                    "track_number": 1,
+                    "duration": "3:32",
+                    "track_spotify_url": "https://open.spotify.com/track/1S6tYmcjTGp5dwGSRThQxP"
+                }
+            ]
+        },
+        {
+            "id": "0BlD2FExDr6roVJY8kQrNk",
+            "name": "Tonight In Babylon (Radio Edit)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273edb313306ca37b9352b64fb0",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851edb313306ca37b9352b64fb0",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2012-02-19",
+            "release_date_precision": "day",
+            "release_year": "2012",
+            "release_month": "02",
+            "album_spotify_url": "https://open.spotify.com/album/0BlD2FExDr6roVJY8kQrNk",
+            "tracks": [
+                {
+                    "name": "Tonight In Babylon - Radio Edit",
+                    "track_number": 1,
+                    "duration": "4:59",
+                    "track_spotify_url": "https://open.spotify.com/track/3uaL5kSYwxKZfLxPFvKudz"
+                }
+            ]
+        },
+        {
+            "id": "6tnL4agmcf0RitBMQ228ks",
+            "name": "So Far So Good",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273024e63836fcaf21e115b7800",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851024e63836fcaf21e115b7800",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2005-10-18",
+            "release_date_precision": "day",
+            "release_year": "2005",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/6tnL4agmcf0RitBMQ228ks",
+            "tracks": [
+                {
+                    "name": "So Far So Good",
+                    "track_number": 1,
+                    "duration": "3:39",
+                    "track_spotify_url": "https://open.spotify.com/track/6ZerWRX5HBT5I31GIgkgkP"
+                }
+            ]
+        },
+        {
+            "id": "01Zo8kBpmTCIYKSZSvl8U6",
+            "name": "Don't Give Up",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273fd1df0a2fa123809cf58d968",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851fd1df0a2fa123809cf58d968",
+            "total_tracks": 8,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2000-03-06",
+            "release_date_precision": "day",
+            "release_year": "2000",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/01Zo8kBpmTCIYKSZSvl8U6",
+            "tracks": [
+                {
+                    "name": "Don't Give Up",
+                    "track_number": 1,
+                    "duration": "3:42",
+                    "track_spotify_url": "https://open.spotify.com/track/1XvOguPtXzIrG0WjCwFwJA"
+                },
+                {
+                    "name": "Don't Give Up (Reboot)",
+                    "track_number": 2,
+                    "duration": "3:10",
+                    "track_spotify_url": "https://open.spotify.com/track/0ipG7qe6CvEpxIWLJPJW94"
+                },
+                {
+                    "name": "Don't Give Up - Disco Citizens vs Tomski Remix",
+                    "track_number": 3,
+                    "duration": "3:14",
+                    "track_spotify_url": "https://open.spotify.com/track/0qDHb1vnMSBXpemyviqUiX"
+                },
+                {
+                    "name": "Don't Give Up 2004 - Agnelli & Nelson Remix",
+                    "track_number": 4,
+                    "duration": "3:54",
+                    "track_spotify_url": "https://open.spotify.com/track/2CvMMcZOxBqSOCsTeWzDnP"
+                },
+                {
+                    "name": "Don't Give Up - Extended Mix",
+                    "track_number": 5,
+                    "duration": "8:37",
+                    "track_spotify_url": "https://open.spotify.com/track/3hKpkKB1Un5YXLl7ZdGLB7"
+                },
+                {
+                    "name": "Don't Give Up (Reboot) - Extended Mix",
+                    "track_number": 6,
+                    "duration": "9:02",
+                    "track_spotify_url": "https://open.spotify.com/track/3pcFF7ExxuN13BwKyVvUYh"
+                },
+                {
+                    "name": "Don't Give Up - Disco Citizens vs Tomski Extended Remix",
+                    "track_number": 7,
+                    "duration": "7:30",
+                    "track_spotify_url": "https://open.spotify.com/track/429zbXBQQxiV695cRP7WgF"
+                },
+                {
+                    "name": "Don't Give Up 2004 - Agnelli & Nelson Extended Remix",
+                    "track_number": 8,
+                    "duration": "11:05",
+                    "track_spotify_url": "https://open.spotify.com/track/4qXcNvGkhKOL2xOgI25YiU"
+                }
+            ]
+        },
+        {
+            "id": "4FLgFJopAomEWOs5Ko4QlM",
+            "name": "The Best Of Me",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273090f76ec14880051f489fe94",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851090f76ec14880051f489fe94",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "1999-11-15",
+            "release_date_precision": "day",
+            "release_year": "1999",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/4FLgFJopAomEWOs5Ko4QlM",
+            "tracks": [
+                {
+                    "name": "The Best Of Me",
+                    "track_number": 1,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/7knAdVG6wy1RZ5pb4beTOl"
+                }
+            ]
+        },
+        {
+            "id": "7zOdGMWx3z9pun3SKmIurx",
+            "name": "The Live Volume",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2733200ead90c69f658c0f13419",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048513200ead90c69f658c0f13419",
+            "total_tracks": 5,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "1992-12-21",
+            "release_date_precision": "day",
+            "release_year": "1992",
+            "release_month": "12",
+            "album_spotify_url": "https://open.spotify.com/album/7zOdGMWx3z9pun3SKmIurx",
+            "tracks": [
+                {
+                    "name": "Cant' Stop This Thing We Started - Live From Big Valley, Canada,1992",
+                    "track_number": 1,
+                    "duration": "5:02",
+                    "track_spotify_url": "https://open.spotify.com/track/31YaUgTnP3DU41eRfjYsD8"
+                },
+                {
+                    "name": "House Arrest - Live From Big Valley, Canada,1992",
+                    "track_number": 2,
+                    "duration": "4:57",
+                    "track_spotify_url": "https://open.spotify.com/track/4k2Qah02gEVIVODFsgeLOG"
+                },
+                {
+                    "name": "(Everything I Do) I Do It For You - Live From Toronto, Canada,1992",
+                    "track_number": 3,
+                    "duration": "7:34",
+                    "track_spotify_url": "https://open.spotify.com/track/6nqbGw3hynbZbPRisW521z"
+                },
+                {
+                    "name": "There Will Never Be Another Tonight - Live From Toronto, Canada,1992",
+                    "track_number": 4,
+                    "duration": "5:35",
+                    "track_spotify_url": "https://open.spotify.com/track/0Q8eAxj57DmLAVMOQGMgV3"
+                },
+                {
+                    "name": "C'Mon Everybody - Live From Cardiff, Wales,1992",
+                    "track_number": 5,
+                    "duration": "4:03",
+                    "track_spotify_url": "https://open.spotify.com/track/0NAWau1MS2YL8AC9i3yDbB"
+                }
+            ]
+        },
+        {
+            "id": "453qlORgL4CI1jQTsZbZ15",
+            "name": "Heat Of The Night",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27399e965d19e83af1bb64ca261",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485199e965d19e83af1bb64ca261",
+            "total_tracks": 3,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "1988-01-21",
+            "release_date_precision": "day",
+            "release_year": "1988",
+            "release_month": "01",
+            "album_spotify_url": "https://open.spotify.com/album/453qlORgL4CI1jQTsZbZ15",
+            "tracks": [
+                {
+                    "name": "Heat Of The Night - Extended Remix",
+                    "track_number": 1,
+                    "duration": "6:30",
+                    "track_spotify_url": "https://open.spotify.com/track/4HfAhUmYjcjxqyEeJ3vzeb"
+                },
+                {
+                    "name": "Victim Of Love - Live At The Marquee Club, London, 1987",
+                    "track_number": 2,
+                    "duration": "4:05",
+                    "track_spotify_url": "https://open.spotify.com/track/2RDnwBh9Kuf5vTdSZZJKle"
+                },
+                {
+                    "name": "Only The Strong Survive - Live At The Marquee Club, London, 1987",
+                    "track_number": 3,
+                    "duration": "4:25",
+                    "track_spotify_url": "https://open.spotify.com/track/0RIF0969NKJeIO5orEcf3L"
+                }
+            ]
+        }
+    ]
+}

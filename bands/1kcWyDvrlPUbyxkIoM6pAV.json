@@ -1,0 +1,3513 @@
+{
+    "band": "Rory Gallagher",
+    "band_spotify_url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV",
+    "band_link_text": "Open Album in Spotify Rory Gallagher",
+    "albums": [
+        {
+            "id": "4yLpRewTAouDS15ChvRIVZ",
+            "name": "All Around Man \u2013 Live In London",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2738e70555e1e0f11acdac904b0",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518e70555e1e0f11acdac904b0",
+            "total_tracks": 23,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2023-07-07",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "07",
+            "album_spotify_url": "https://open.spotify.com/album/4yLpRewTAouDS15ChvRIVZ",
+            "tracks": [
+                {
+                    "name": "Continental Op - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 1,
+                    "duration": "4:59",
+                    "track_spotify_url": "https://open.spotify.com/track/2SctTLKCTK5jSSLAvrevrv"
+                },
+                {
+                    "name": "Heaven's Gate - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 2,
+                    "duration": "4:40",
+                    "track_spotify_url": "https://open.spotify.com/track/0ASQWq4Uk8qElKGH3Xz7qh"
+                },
+                {
+                    "name": "Don't Start Me Talkin' - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 3,
+                    "duration": "4:46",
+                    "track_spotify_url": "https://open.spotify.com/track/7eBereXgcsFF8h0qSo0aeq"
+                },
+                {
+                    "name": "Kid Gloves - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 4,
+                    "duration": "4:44",
+                    "track_spotify_url": "https://open.spotify.com/track/5ScE3LCMuEYV0cKHVTacJJ"
+                },
+                {
+                    "name": "Mean Disposition - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 5,
+                    "duration": "5:55",
+                    "track_spotify_url": "https://open.spotify.com/track/6slsA39ERkk64A0hnc7EDn"
+                },
+                {
+                    "name": "The Loop - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 6,
+                    "duration": "2:15",
+                    "track_spotify_url": "https://open.spotify.com/track/7egNqgNlL248OU2lJukfDZ"
+                },
+                {
+                    "name": "Tattoo'd Lady - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 7,
+                    "duration": "5:59",
+                    "track_spotify_url": "https://open.spotify.com/track/3cRywNSaZoX0rqWCFI5vZO"
+                },
+                {
+                    "name": "The King Of Zydeco - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 8,
+                    "duration": "4:54",
+                    "track_spotify_url": "https://open.spotify.com/track/6wzwoDkBrh72tr8Z7HvhXX"
+                },
+                {
+                    "name": "Moonchild - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 9,
+                    "duration": "4:19",
+                    "track_spotify_url": "https://open.spotify.com/track/5TrQl0yPGlyCPsD1JiktlT"
+                },
+                {
+                    "name": "Out On The Western Plains - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 10,
+                    "duration": "4:57",
+                    "track_spotify_url": "https://open.spotify.com/track/351RuJAmd4kAn3WwlMa19E"
+                },
+                {
+                    "name": "Ride On Red, Ride On - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 11,
+                    "duration": "4:20",
+                    "track_spotify_url": "https://open.spotify.com/track/5N0NOiwDSCRylobnPIIpRX"
+                },
+                {
+                    "name": "Walkin' Blues - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 12,
+                    "duration": "5:31",
+                    "track_spotify_url": "https://open.spotify.com/track/3Feuseryy6xl8YidBRcYPB"
+                },
+                {
+                    "name": "Empire State Express - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 13,
+                    "duration": "4:27",
+                    "track_spotify_url": "https://open.spotify.com/track/3QuA3854EQtoDmGswtbtuP"
+                },
+                {
+                    "name": "Shadow Play - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 1,
+                    "duration": "3:22",
+                    "track_spotify_url": "https://open.spotify.com/track/5pJYlUfHIlMuhWS5PYrQXr"
+                },
+                {
+                    "name": "I Wonder Who - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 2,
+                    "duration": "7:57",
+                    "track_spotify_url": "https://open.spotify.com/track/7pCn60xrkPjQPoXsaOcS0Q"
+                },
+                {
+                    "name": "Shin Kicker - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 3,
+                    "duration": "3:04",
+                    "track_spotify_url": "https://open.spotify.com/track/2Npvk9Ly4uRvEWRwWPFV2Z"
+                },
+                {
+                    "name": "Middle Name - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 4,
+                    "duration": "4:18",
+                    "track_spotify_url": "https://open.spotify.com/track/5GQtUBTyfWDSdhagZIXEFr"
+                },
+                {
+                    "name": "When My Baby She Left Me - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 5,
+                    "duration": "3:46",
+                    "track_spotify_url": "https://open.spotify.com/track/2rNjyOnLP6tH5Hwl0Iq7Iq"
+                },
+                {
+                    "name": "Ghost Blues - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 6,
+                    "duration": "7:58",
+                    "track_spotify_url": "https://open.spotify.com/track/2xFaHV3k1TjQU2JCIE2QMk"
+                },
+                {
+                    "name": "Messin' With The Kid - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 7,
+                    "duration": "3:57",
+                    "track_spotify_url": "https://open.spotify.com/track/4AgHhJZ5PiGG5llqIhQmJu"
+                },
+                {
+                    "name": "Keep A Knockin' - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 8,
+                    "duration": "2:15",
+                    "track_spotify_url": "https://open.spotify.com/track/4TD2p9gt7k6C10TJn1IPPW"
+                },
+                {
+                    "name": "Bullfrog Blues - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 9,
+                    "duration": "5:18",
+                    "track_spotify_url": "https://open.spotify.com/track/7N3Er5myiTdLFAW7eGl8Xf"
+                },
+                {
+                    "name": "All Around Man - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 10,
+                    "duration": "4:47",
+                    "track_spotify_url": "https://open.spotify.com/track/70x3scXEseECJABI2hrxXC"
+                }
+            ]
+        },
+        {
+            "id": "4aCigoJ1Vh797W4FaPWIkU",
+            "name": "Deuce (50th Anniversary)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27346686ecd40f012b2a9584d67",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485146686ecd40f012b2a9584d67",
+            "total_tracks": 49,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2022-09-30",
+            "release_date_precision": "day",
+            "release_year": "2022",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/4aCigoJ1Vh797W4FaPWIkU",
+            "tracks": [
+                {
+                    "name": "Used To Be - 50th Anniversary Edition",
+                    "track_number": 1,
+                    "duration": "5:07",
+                    "track_spotify_url": "https://open.spotify.com/track/3mG9OUXsLCfHr6F0ZlcNy0"
+                },
+                {
+                    "name": "I'm Not Awake Yet - 50th Anniversary Edition",
+                    "track_number": 2,
+                    "duration": "5:38",
+                    "track_spotify_url": "https://open.spotify.com/track/4V0yNnPooFPr0wxOCTJiCB"
+                },
+                {
+                    "name": "Don't Know Where I'm Going - 50th Anniversary Edition",
+                    "track_number": 3,
+                    "duration": "2:49",
+                    "track_spotify_url": "https://open.spotify.com/track/5cVeP885IVXVmJ6L5GzUtj"
+                },
+                {
+                    "name": "Maybe I Will - 50th Anniversary Edition",
+                    "track_number": 4,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/3HhhIazv65Q8eYP7470SXc"
+                },
+                {
+                    "name": "Whole Lot Of People - 50th Anniversary Edition",
+                    "track_number": 5,
+                    "duration": "4:57",
+                    "track_spotify_url": "https://open.spotify.com/track/0y2cXB5M4LEjEU2RwIJxhh"
+                },
+                {
+                    "name": "In Your Town - 50th Anniversary Edition",
+                    "track_number": 6,
+                    "duration": "5:46",
+                    "track_spotify_url": "https://open.spotify.com/track/4Rl6nz3zcoiOuwjmaGatUb"
+                },
+                {
+                    "name": "Should've Learnt My Lesson - 50th Anniversary Edition",
+                    "track_number": 7,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/7zJKeb2xCoJj5Kg10ToSbb"
+                },
+                {
+                    "name": "There's A Light - 50th Anniversary Edition",
+                    "track_number": 8,
+                    "duration": "6:01",
+                    "track_spotify_url": "https://open.spotify.com/track/1KtTcEjsYz6NExPZn3OtCi"
+                },
+                {
+                    "name": "Out Of My Mind - 50th Anniversary Edition",
+                    "track_number": 9,
+                    "duration": "3:06",
+                    "track_spotify_url": "https://open.spotify.com/track/0nHztfNnrf2nOYX4hLNwtP"
+                },
+                {
+                    "name": "Crest Of A Wave - 50th Anniversary Edition",
+                    "track_number": 10,
+                    "duration": "5:58",
+                    "track_spotify_url": "https://open.spotify.com/track/3S98ED26Pi3wSsNRIPTU14"
+                },
+                {
+                    "name": "Used To Be - Alternate Take 1",
+                    "track_number": 1,
+                    "duration": "5:11",
+                    "track_spotify_url": "https://open.spotify.com/track/1yHY9XWprCn6H1mHZI0kFo"
+                },
+                {
+                    "name": "Used To Be - Alternate Take 2",
+                    "track_number": 2,
+                    "duration": "4:56",
+                    "track_spotify_url": "https://open.spotify.com/track/2pxdfW5JROZs1iKoltbEYA"
+                },
+                {
+                    "name": "I'm Not Awake Yet - Alternate Take 1",
+                    "track_number": 3,
+                    "duration": "5:46",
+                    "track_spotify_url": "https://open.spotify.com/track/2SOeopREwSadfI4OjHWToM"
+                },
+                {
+                    "name": "Don't Know Where I'm Going - Alternate Take 1",
+                    "track_number": 4,
+                    "duration": "1:52",
+                    "track_spotify_url": "https://open.spotify.com/track/1CAlLyYhWyAKPO2IErtJjR"
+                },
+                {
+                    "name": "Maybe I Will - Alternate Take 1",
+                    "track_number": 5,
+                    "duration": "5:31",
+                    "track_spotify_url": "https://open.spotify.com/track/6ZnG2iCcsx49aqhi6GUOVn"
+                },
+                {
+                    "name": "Maybe I Will - Alternate Take 2",
+                    "track_number": 6,
+                    "duration": "4:32",
+                    "track_spotify_url": "https://open.spotify.com/track/6HfsgdUuXs0W8rpILkmlRT"
+                },
+                {
+                    "name": "Maybe I Will - Alternate Take 3",
+                    "track_number": 7,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/6Z8E20kLPcIroHFuIRwR2K"
+                },
+                {
+                    "name": "Maybe I Will - Alternate Take 4",
+                    "track_number": 8,
+                    "duration": "4:31",
+                    "track_spotify_url": "https://open.spotify.com/track/1JrHPk74FS6xx6M7gKTvpU"
+                },
+                {
+                    "name": "Maybe I Will - Alternate Take 5",
+                    "track_number": 9,
+                    "duration": "4:25",
+                    "track_spotify_url": "https://open.spotify.com/track/6CPn5q8pchQr4n0hYf8t8N"
+                },
+                {
+                    "name": "Whole Lot Of People - Electric Alternate Take 1",
+                    "track_number": 10,
+                    "duration": "1:46",
+                    "track_spotify_url": "https://open.spotify.com/track/29CCgJSgxqmBowN82mkNzP"
+                },
+                {
+                    "name": "Whole Lot Of People - 6 String Acoustic Alternate Take 1",
+                    "track_number": 11,
+                    "duration": "3:58",
+                    "track_spotify_url": "https://open.spotify.com/track/1omxzG4EEEci7Z1qTKzjQZ"
+                },
+                {
+                    "name": "Whole Lot Of People - Deuce Session / Alternative Acoustic Take / 1971",
+                    "track_number": 12,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/6U2FeQo6K6iCZ1sPT757MN"
+                },
+                {
+                    "name": "Whole Lot Of People - 12 String Acoustic Alternate Take 1",
+                    "track_number": 13,
+                    "duration": "2:43",
+                    "track_spotify_url": "https://open.spotify.com/track/2CAplKiDNyg0N5GiWIunQf"
+                },
+                {
+                    "name": "In Your Town - Alternate Take 1",
+                    "track_number": 14,
+                    "duration": "9:01",
+                    "track_spotify_url": "https://open.spotify.com/track/3Su3dYmL3yl42GhBQuoDec"
+                },
+                {
+                    "name": "In Your Town - Alternate Take 2",
+                    "track_number": 15,
+                    "duration": "8:01",
+                    "track_spotify_url": "https://open.spotify.com/track/4wvR2U3zjGdLHT2IB0terU"
+                },
+                {
+                    "name": "In Your Town - Alternate Take 3",
+                    "track_number": 16,
+                    "duration": "5:34",
+                    "track_spotify_url": "https://open.spotify.com/track/29x3HEIlwM6qn6dEQgRKRa"
+                },
+                {
+                    "name": "In Your Town - Alternate Take 4",
+                    "track_number": 1,
+                    "duration": "6:59",
+                    "track_spotify_url": "https://open.spotify.com/track/5fswRSmujdzjbYOqIS147n"
+                },
+                {
+                    "name": "Should've Learnt My Lesson - Deuce Album Session / Alternative Acoustic Take / 1971",
+                    "track_number": 2,
+                    "duration": "3:06",
+                    "track_spotify_url": "https://open.spotify.com/track/6bqSTR2KxyAXF2KFeMyi70"
+                },
+                {
+                    "name": "Should've Learnt My Lesson - Deuce Album Session Outtake / 1971",
+                    "track_number": 3,
+                    "duration": "7:37",
+                    "track_spotify_url": "https://open.spotify.com/track/03HpKeBfV4NAxYK4gGkj02"
+                },
+                {
+                    "name": "Should've Learnt My Lesson - Alternate Take 2",
+                    "track_number": 4,
+                    "duration": "6:16",
+                    "track_spotify_url": "https://open.spotify.com/track/7LEDlmELO8dpf496C3y6BO"
+                },
+                {
+                    "name": "Should've Learnt My Lesson - Alternate Take 3",
+                    "track_number": 5,
+                    "duration": "3:53",
+                    "track_spotify_url": "https://open.spotify.com/track/3Owa1sf6UHdXBi2itM2YoA"
+                },
+                {
+                    "name": "There's A Light - Alternate Take 1",
+                    "track_number": 6,
+                    "duration": "7:15",
+                    "track_spotify_url": "https://open.spotify.com/track/0ycwMIjPgcs3Uz2nIfSz9p"
+                },
+                {
+                    "name": "There's A Light - Alternate Take 2",
+                    "track_number": 7,
+                    "duration": "7:07",
+                    "track_spotify_url": "https://open.spotify.com/track/7FpiNVDxqIoTfLvNqbBK87"
+                },
+                {
+                    "name": "There's A Light - Alternate Take 3",
+                    "track_number": 8,
+                    "duration": "7:46",
+                    "track_spotify_url": "https://open.spotify.com/track/27k4FiI6NPM9oHPR3ozzaD"
+                },
+                {
+                    "name": "Out Of My Mind - Alternate Take 1",
+                    "track_number": 9,
+                    "duration": "2:21",
+                    "track_spotify_url": "https://open.spotify.com/track/3XTCDUJ6GLSDXs6tVTOJjt"
+                },
+                {
+                    "name": "Out Of My Mind - Alternate Take 2",
+                    "track_number": 10,
+                    "duration": "2:06",
+                    "track_spotify_url": "https://open.spotify.com/track/08a2QzM7hHw7kk7ofvnP0C"
+                },
+                {
+                    "name": "Out Of My Mind - Alternate Take 3",
+                    "track_number": 11,
+                    "duration": "3:39",
+                    "track_spotify_url": "https://open.spotify.com/track/7bCqrCRPj0hQkzQYxFYS5N"
+                },
+                {
+                    "name": "Crest Of A Wave - Alternate Take 1",
+                    "track_number": 12,
+                    "duration": "5:35",
+                    "track_spotify_url": "https://open.spotify.com/track/7uqQUlYJXWjx6AiYG1cLE0"
+                },
+                {
+                    "name": "Crest Of A Wave - Alternate Take 2",
+                    "track_number": 13,
+                    "duration": "5:16",
+                    "track_spotify_url": "https://open.spotify.com/track/3qP0CrhHpsqxeyuAeMZ7d8"
+                },
+                {
+                    "name": "Don't Know Where I'm Going - Home Demo",
+                    "track_number": 14,
+                    "duration": "4:42",
+                    "track_spotify_url": "https://open.spotify.com/track/0tF2vzy7WF4vL1NsSCh7RC"
+                },
+                {
+                    "name": "Maybe I Will - Home Demo",
+                    "track_number": 15,
+                    "duration": "3:29",
+                    "track_spotify_url": "https://open.spotify.com/track/5q5Mc1v1sAy7eSQgTsLjAT"
+                },
+                {
+                    "name": "Should've Learnt My Lesson - Home Demo",
+                    "track_number": 16,
+                    "duration": "2:08",
+                    "track_spotify_url": "https://open.spotify.com/track/3kevFozNyzkIXYArNSo6Pg"
+                },
+                {
+                    "name": "Should've Learnt My Lesson - Radio Bremen / 21/12/1971",
+                    "track_number": 1,
+                    "duration": "5:53",
+                    "track_spotify_url": "https://open.spotify.com/track/6vyf2CT7MPTy9uubn4uz92"
+                },
+                {
+                    "name": "Crest Of A Wave - Radio Bremen / 21/12/1971",
+                    "track_number": 2,
+                    "duration": "5:25",
+                    "track_spotify_url": "https://open.spotify.com/track/33UZFrNvqGdzDkQtkDI9Nb"
+                },
+                {
+                    "name": "I Could've Had Religion - Radio Bremen / 21/12/1971",
+                    "track_number": 3,
+                    "duration": "7:12",
+                    "track_spotify_url": "https://open.spotify.com/track/3DvEM8cZqg9GiTatWjAl5P"
+                },
+                {
+                    "name": "For The Last Time - Radio Bremen / 21/12/1971",
+                    "track_number": 4,
+                    "duration": "5:53",
+                    "track_spotify_url": "https://open.spotify.com/track/2bSQBl4lqHM6xaW2VGdoNx"
+                },
+                {
+                    "name": "Messin' With The Kid - Radio Bremen / 21/12/1971",
+                    "track_number": 5,
+                    "duration": "5:12",
+                    "track_spotify_url": "https://open.spotify.com/track/66k3PebE1eRTsyO8bPik2B"
+                },
+                {
+                    "name": "Don't Know Where I'm Going - Radio Bremen / 21/12/1971",
+                    "track_number": 6,
+                    "duration": "2:06",
+                    "track_spotify_url": "https://open.spotify.com/track/45pAZ7ZVM2TQeH6pJNxyIJ"
+                },
+                {
+                    "name": "Pistol Slapper Blues - Radio Bremen / 21/12/1971",
+                    "track_number": 7,
+                    "duration": "2:23",
+                    "track_spotify_url": "https://open.spotify.com/track/4pmhV1zthd9mN5PPXVQ3RX"
+                }
+            ]
+        },
+        {
+            "id": "1uZboHwC6BiYuXGFZbcyYT",
+            "name": "Live In San Diego '74",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27384940840838069cd2d6d66cc",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485184940840838069cd2d6d66cc",
+            "total_tracks": 7,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2022-04-29",
+            "release_date_precision": "day",
+            "release_year": "2022",
+            "release_month": "04",
+            "album_spotify_url": "https://open.spotify.com/album/1uZboHwC6BiYuXGFZbcyYT",
+            "tracks": [
+                {
+                    "name": "Messin' With The Kid - Live At The San Diego Civic Center, CA, USA / 1974",
+                    "track_number": 1,
+                    "duration": "6:06",
+                    "track_spotify_url": "https://open.spotify.com/track/4bbt5a4g9sMPewvqynIVoS"
+                },
+                {
+                    "name": "Cradle Rock - Live At The San Diego Civic Center, CA, USA / 1974",
+                    "track_number": 2,
+                    "duration": "11:12",
+                    "track_spotify_url": "https://open.spotify.com/track/3mhCJXgcrPYuaq9MgpOIKA"
+                },
+                {
+                    "name": "I Wonder Who - Live At The San Diego Civic Center, CA, USA / 1974",
+                    "track_number": 3,
+                    "duration": "9:31",
+                    "track_spotify_url": "https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y"
+                },
+                {
+                    "name": "Hands Off - Live At The San Diego Civic Center, CA, USA / 1974",
+                    "track_number": 4,
+                    "duration": "9:35",
+                    "track_spotify_url": "https://open.spotify.com/track/5JGcZpOtglelfmGoEtZzTE"
+                },
+                {
+                    "name": "A Million Miles Away - Live At The San Diego Civic Center, CA, USA / 1974",
+                    "track_number": 5,
+                    "duration": "9:35",
+                    "track_spotify_url": "https://open.spotify.com/track/2yHvjQPeJXJtXjmGqgo9Q2"
+                },
+                {
+                    "name": "Bullfrog Blues - Live At The San Diego Civic Center, CA, USA / 1974",
+                    "track_number": 6,
+                    "duration": "9:16",
+                    "track_spotify_url": "https://open.spotify.com/track/0XwE2Imr9iin3z4AumDQl0"
+                },
+                {
+                    "name": "In Your Town - Live At The San Diego Civic Center, CA, USA / 1974",
+                    "track_number": 7,
+                    "duration": "19:54",
+                    "track_spotify_url": "https://open.spotify.com/track/1LH7WzuOZwII26BsCC3L5E"
+                }
+            ]
+        },
+        {
+            "id": "3uLDsfMQYjcvzNvkiGYRie",
+            "name": "Cleveland Calling, Pt.2",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27358774cd69c84e47a32cd9533",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485158774cd69c84e47a32cd9533",
+            "total_tracks": 7,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2022-03-04",
+            "release_date_precision": "day",
+            "release_year": "2022",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/3uLDsfMQYjcvzNvkiGYRie",
+            "tracks": [
+                {
+                    "name": "Messin' With The Kid - WNCR Cleveland Radio Session / 1972",
+                    "track_number": 1,
+                    "duration": "5:22",
+                    "track_spotify_url": "https://open.spotify.com/track/5m0U52EkcocmituDA7gfud"
+                },
+                {
+                    "name": "Used To Be - WNCR Cleveland Radio Session / 1972",
+                    "track_number": 2,
+                    "duration": "5:45",
+                    "track_spotify_url": "https://open.spotify.com/track/4GVvRlKVCHWLTjiPGcz8wY"
+                },
+                {
+                    "name": "Should've Learnt My Lesson - WNCR Cleveland Radio Session / 1972",
+                    "track_number": 3,
+                    "duration": "10:35",
+                    "track_spotify_url": "https://open.spotify.com/track/4mG4U5AY5Ev87zxHgC71ll"
+                },
+                {
+                    "name": "Laundromat - WNCR Cleveland Radio Session / 1972",
+                    "track_number": 4,
+                    "duration": "5:50",
+                    "track_spotify_url": "https://open.spotify.com/track/5yzbD0vjo3PF1hFy8dGjZH"
+                },
+                {
+                    "name": "Pistol Slapper Blues - WNCR Cleveland Radio Session / 1972",
+                    "track_number": 5,
+                    "duration": "2:37",
+                    "track_spotify_url": "https://open.spotify.com/track/2LNFjJxBntovUIjGqU06T6"
+                },
+                {
+                    "name": "Bankers Blues - WNCR Cleveland Radio Session / 1972",
+                    "track_number": 6,
+                    "duration": "3:46",
+                    "track_spotify_url": "https://open.spotify.com/track/1fLKR4ajGQWejc9SAjhAFZ"
+                },
+                {
+                    "name": "In Your Town - WNCR Cleveland Radio Session / 1972",
+                    "track_number": 7,
+                    "duration": "12:32",
+                    "track_spotify_url": "https://open.spotify.com/track/4DpChnNysR1HuphDFirjmj"
+                }
+            ]
+        },
+        {
+            "id": "6C418YFIg1MVKldv9rpS16",
+            "name": "Rory Gallagher (50th Anniversary Edition)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2730d05c108c844221a6651ad60",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048510d05c108c844221a6651ad60",
+            "total_tracks": 24,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2021-09-03",
+            "release_date_precision": "day",
+            "release_year": "2021",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16",
+            "tracks": [
+                {
+                    "name": "Laundromat - 50th Anniversary Edition Mix",
+                    "track_number": 1,
+                    "duration": "4:39",
+                    "track_spotify_url": "https://open.spotify.com/track/2g0i6xN8n48JCnsgqERsR1"
+                },
+                {
+                    "name": "Just The Smile - 50th Anniversary Edition Mix",
+                    "track_number": 2,
+                    "duration": "3:40",
+                    "track_spotify_url": "https://open.spotify.com/track/3FDNZanTwUVtA88RUWoLO8"
+                },
+                {
+                    "name": "I Fall Apart - 50th Anniversary Edition Mix",
+                    "track_number": 3,
+                    "duration": "5:12",
+                    "track_spotify_url": "https://open.spotify.com/track/5zhfo45JkIoJOBgavOBuFa"
+                },
+                {
+                    "name": "Wave Myself Goodbye - 50th Anniversary Edition Mix",
+                    "track_number": 4,
+                    "duration": "3:31",
+                    "track_spotify_url": "https://open.spotify.com/track/7JmzZyKlfvs4FrzAlo2hmS"
+                },
+                {
+                    "name": "Hands Up - 50th Anniversary Edition Mix",
+                    "track_number": 5,
+                    "duration": "5:25",
+                    "track_spotify_url": "https://open.spotify.com/track/2RPwhQ7j8ihFTb4MT1IqfP"
+                },
+                {
+                    "name": "Sinner Boy - 50th Anniversary Edition Mix",
+                    "track_number": 6,
+                    "duration": "5:07",
+                    "track_spotify_url": "https://open.spotify.com/track/0jyqFxavfg1xIrDUwTzQz7"
+                },
+                {
+                    "name": "For The Last Time - 50th Anniversary Edition Mix",
+                    "track_number": 7,
+                    "duration": "6:38",
+                    "track_spotify_url": "https://open.spotify.com/track/3upujtfE5dUM0SFnzu0VWN"
+                },
+                {
+                    "name": "It's You - 50th Anniversary Edition Mix",
+                    "track_number": 8,
+                    "duration": "2:40",
+                    "track_spotify_url": "https://open.spotify.com/track/1EWoLhfZ9hytDVXDZV1mhJ"
+                },
+                {
+                    "name": "I'm Not Surprised - 50th Anniversary Edition Mix",
+                    "track_number": 9,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/3gQo4Lv8RTT5RBRV5ZPs4o"
+                },
+                {
+                    "name": "Can't Believe It's True - 50th Anniversary Edition Mix",
+                    "track_number": 10,
+                    "duration": "7:17",
+                    "track_spotify_url": "https://open.spotify.com/track/1LeKvvO5RkkdRjfJ3o3fyC"
+                },
+                {
+                    "name": "Gypsy Woman - Tangerine Studio Session",
+                    "track_number": 1,
+                    "duration": "4:02",
+                    "track_spotify_url": "https://open.spotify.com/track/0hRFMYUrBNCzK1nkHx5G72"
+                },
+                {
+                    "name": "It Takes Time - Tangerine Studio Session",
+                    "track_number": 2,
+                    "duration": "3:33",
+                    "track_spotify_url": "https://open.spotify.com/track/6qq6A7AHcBEuVIVZr1ReMT"
+                },
+                {
+                    "name": "I Fall Apart - Tangerine Studio Session",
+                    "track_number": 3,
+                    "duration": "4:44",
+                    "track_spotify_url": "https://open.spotify.com/track/2fc5IyQGhfzT8bgtcaFA8y"
+                },
+                {
+                    "name": "At The Bottom - Alternate Take 3",
+                    "track_number": 4,
+                    "duration": "3:23",
+                    "track_spotify_url": "https://open.spotify.com/track/0VHtCULL41tHYalQ5hXzh1"
+                },
+                {
+                    "name": "At The Bottom - Alternate Take 4",
+                    "track_number": 5,
+                    "duration": "2:49",
+                    "track_spotify_url": "https://open.spotify.com/track/5fSvBAnpwgosxFHqEFsQLZ"
+                },
+                {
+                    "name": "Advision Jam",
+                    "track_number": 6,
+                    "duration": "3:46",
+                    "track_spotify_url": "https://open.spotify.com/track/3kHqUi7uWOMjkt80JkoCne"
+                },
+                {
+                    "name": "Laundromat - Alternate Take 1",
+                    "track_number": 7,
+                    "duration": "3:34",
+                    "track_spotify_url": "https://open.spotify.com/track/6HWnl6qgfVmN8ORtFFpB4j"
+                },
+                {
+                    "name": "Just The Smile - Alternate Take 1",
+                    "track_number": 8,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/7JvCGFpW7i2VzrCIOiNaci"
+                },
+                {
+                    "name": "Wave Myself Goodbye - Alternate Take 2",
+                    "track_number": 9,
+                    "duration": "4:45",
+                    "track_spotify_url": "https://open.spotify.com/track/06TuVoXT0UFHSX4zvh2CxX"
+                },
+                {
+                    "name": "Hands Up - Alternate Take 2",
+                    "track_number": 10,
+                    "duration": "5:53",
+                    "track_spotify_url": "https://open.spotify.com/track/5ukMfLBXYS0mtZdKFqTNJp"
+                },
+                {
+                    "name": "Sinner Boy - Alternate Take 3",
+                    "track_number": 11,
+                    "duration": "5:22",
+                    "track_spotify_url": "https://open.spotify.com/track/6ehwgXxP9s6poxCLX0mN20"
+                },
+                {
+                    "name": "For The Last Time - Alternate Take 1",
+                    "track_number": 12,
+                    "duration": "5:05",
+                    "track_spotify_url": "https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O"
+                },
+                {
+                    "name": "It's You - Alternate Take 2",
+                    "track_number": 13,
+                    "duration": "2:40",
+                    "track_spotify_url": "https://open.spotify.com/track/2LdIKZ4dvoiLMTNd3GwvVp"
+                },
+                {
+                    "name": "I'm Not Suprised - Alternate Take 1",
+                    "track_number": 14,
+                    "duration": "4:17",
+                    "track_spotify_url": "https://open.spotify.com/track/5C2UUTTKXFApttAnBDvG9K"
+                }
+            ]
+        },
+        {
+            "id": "49pE8vF0RTSPHVqcoJXaCH",
+            "name": "Check Shirt Wizard - Live In '77",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27301c381138d14fabaa4753953",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485101c381138d14fabaa4753953",
+            "total_tracks": 20,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2020-03-06",
+            "release_date_precision": "day",
+            "release_year": "2020",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/49pE8vF0RTSPHVqcoJXaCH",
+            "tracks": [
+                {
+                    "name": "Do You Read Me - Live From The Brighton Dome, 21st January 1977",
+                    "track_number": 1,
+                    "duration": "5:51",
+                    "track_spotify_url": "https://open.spotify.com/track/3ahF806ozBFSXuHad3ItBN"
+                },
+                {
+                    "name": "Moonchild - Live From The Brighton Dome, 21st January 1977",
+                    "track_number": 2,
+                    "duration": "5:48",
+                    "track_spotify_url": "https://open.spotify.com/track/7uK3aQTpTezcbPN6Y02Wjn"
+                },
+                {
+                    "name": "Bought And Sold - Live From Sheffield City Hall, 17th February 1977",
+                    "track_number": 3,
+                    "duration": "7:26",
+                    "track_spotify_url": "https://open.spotify.com/track/3KAXqH6Cy64wGFfMzzrJU6"
+                },
+                {
+                    "name": "Calling Card - Live At The Hammersmith Odeon, 18th January 1977",
+                    "track_number": 4,
+                    "duration": "6:46",
+                    "track_spotify_url": "https://open.spotify.com/track/3RjHIrGyuA1gI7Z38PjS3k"
+                },
+                {
+                    "name": "Secret Agent - Live From Sheffield City Hall, 17th February 1977",
+                    "track_number": 5,
+                    "duration": "6:37",
+                    "track_spotify_url": "https://open.spotify.com/track/0oLDXH3TH4MuEi8Bu3dGOC"
+                },
+                {
+                    "name": "Tattoo'd Lady - Live From The Brighton Dome, 21st January 1977",
+                    "track_number": 6,
+                    "duration": "6:27",
+                    "track_spotify_url": "https://open.spotify.com/track/11fohtXycBmGxmxpRMVCXm"
+                },
+                {
+                    "name": "A Million Miles Away - Live At The Hammersmith Odeon, 18th January 1977",
+                    "track_number": 7,
+                    "duration": "7:12",
+                    "track_spotify_url": "https://open.spotify.com/track/10DUA65NruejT2b97prb0e"
+                },
+                {
+                    "name": "I Take What I Want - Live From Sheffield City Hall, 17th February 1977",
+                    "track_number": 8,
+                    "duration": "5:49",
+                    "track_spotify_url": "https://open.spotify.com/track/2169Ttjf0dPs0gwLjIbJ4k"
+                },
+                {
+                    "name": "Walk On Hot Coals - Live At The Hammersmith Odeon, 18th January 1977",
+                    "track_number": 9,
+                    "duration": "8:03",
+                    "track_spotify_url": "https://open.spotify.com/track/0wMEXSEKPJSiujf1Lyg0ZG"
+                },
+                {
+                    "name": "Out On The Western Plain - Live From Sheffield City Hall, 17th February 1977",
+                    "track_number": 10,
+                    "duration": "4:42",
+                    "track_spotify_url": "https://open.spotify.com/track/2x2vaH4sFAOl8o2q9X40YZ"
+                },
+                {
+                    "name": "Barley & Grape Rag - Live From Sheffield City Hall, 17th February 1977",
+                    "track_number": 11,
+                    "duration": "2:36",
+                    "track_spotify_url": "https://open.spotify.com/track/1b4nUpYQu7f708k6UbXbqJ"
+                },
+                {
+                    "name": "Pistol Slapper Blues - Live From Sheffield City Hall, 17th February 1977",
+                    "track_number": 12,
+                    "duration": "2:41",
+                    "track_spotify_url": "https://open.spotify.com/track/6u2hpsGgbOfaiiyswhmJCg"
+                },
+                {
+                    "name": "Too Much Alcohol - Live At The Hammersmith Odeon, 18th January 1977",
+                    "track_number": 13,
+                    "duration": "4:20",
+                    "track_spotify_url": "https://open.spotify.com/track/0brrFTgxusFtfMWmcKvPJ0"
+                },
+                {
+                    "name": "Going To My Hometown - Live At The Hammersmith Odeon, 18th January 1977",
+                    "track_number": 14,
+                    "duration": "5:33",
+                    "track_spotify_url": "https://open.spotify.com/track/2w23je6MyGfDqrsjmvTwYD"
+                },
+                {
+                    "name": "Edged In Blue - Live At Newcastle City Hall, 18th February 1977",
+                    "track_number": 15,
+                    "duration": "5:56",
+                    "track_spotify_url": "https://open.spotify.com/track/6zkcS4h6Owqdzlk072FMOA"
+                },
+                {
+                    "name": "Jack-Knife Beat - Live At The Hammersmith Odeon, 18th January 1977",
+                    "track_number": 16,
+                    "duration": "8:47",
+                    "track_spotify_url": "https://open.spotify.com/track/23YnbUWFIVSX7nJt4pgWbD"
+                },
+                {
+                    "name": "Souped-Up Ford - Live From The Brighton Dome, 21st January 1977",
+                    "track_number": 17,
+                    "duration": "6:21",
+                    "track_spotify_url": "https://open.spotify.com/track/50mQ5dS17XAo4dlLfPC6jE"
+                },
+                {
+                    "name": "Bullfrog Blues - Live From The Brighton Dome, 21st January 1977",
+                    "track_number": 18,
+                    "duration": "9:51",
+                    "track_spotify_url": "https://open.spotify.com/track/1F5QYFeuZnwKColeBhALYR"
+                },
+                {
+                    "name": "Used To Be - Live At Newcastle City Hall, 18th February 1977",
+                    "track_number": 19,
+                    "duration": "4:42",
+                    "track_spotify_url": "https://open.spotify.com/track/1bMxEAVNFr7TD4aqRvAnvD"
+                },
+                {
+                    "name": "Country Mile - Live At Newcastle City Hall, 18th February 1977",
+                    "track_number": 20,
+                    "duration": "5:48",
+                    "track_spotify_url": "https://open.spotify.com/track/55baL5HLNL2ikya1yfENMn"
+                }
+            ]
+        },
+        {
+            "id": "1V7Ivrfixo8DYLofGvJ02N",
+            "name": "Cleveland Calling, Pt.1",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27395881427af0f0f7a33cfc4c2",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485195881427af0f0f7a33cfc4c2",
+            "total_tracks": 8,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2020",
+            "release_date_precision": "year",
+            "release_year": "2020",
+            "release_month": 1,
+            "album_spotify_url": "https://open.spotify.com/album/1V7Ivrfixo8DYLofGvJ02N",
+            "tracks": [
+                {
+                    "name": "Pistol Slapper Blues - WNCR Cleveland Radio Session / 1973",
+                    "track_number": 1,
+                    "duration": "4:00",
+                    "track_spotify_url": "https://open.spotify.com/track/3xLmZwg5gqzOowDvmJpoOK"
+                },
+                {
+                    "name": "Don't Know Where I'm Going - WNCR Cleveland Radio Session / 1973",
+                    "track_number": 2,
+                    "duration": "4:13",
+                    "track_spotify_url": "https://open.spotify.com/track/3u0dNOE38bA1gxKNiQWcMc"
+                },
+                {
+                    "name": "Gypsy Woman - WNCR Cleveland Radio Session / 1973",
+                    "track_number": 3,
+                    "duration": "7:58",
+                    "track_spotify_url": "https://open.spotify.com/track/2epCe9htKFfIYfZ8z0DE8I"
+                },
+                {
+                    "name": "Out Of My Mind - WNCR Cleveland Radio Session / 1973",
+                    "track_number": 4,
+                    "duration": "4:12",
+                    "track_spotify_url": "https://open.spotify.com/track/2mZkxrnq6pFX3ZuEXTSEHV"
+                },
+                {
+                    "name": "The Cuckoo - WNCR Cleveland Radio Session / 1973",
+                    "track_number": 5,
+                    "duration": "6:26",
+                    "track_spotify_url": "https://open.spotify.com/track/78KkXEvWXQhl5AFYq9jPqo"
+                },
+                {
+                    "name": "Bankers Blues - WNCR Cleveland Radio Session / 1973",
+                    "track_number": 6,
+                    "duration": "4:53",
+                    "track_spotify_url": "https://open.spotify.com/track/6zpvDcCHymZ2TJtnsLwVav"
+                },
+                {
+                    "name": "Should've Learnt My Lesson - WNCR Cleveland Radio Session / 1973",
+                    "track_number": 7,
+                    "duration": "6:38",
+                    "track_spotify_url": "https://open.spotify.com/track/4UqHagBBMaRc3DgnDRfOL6"
+                },
+                {
+                    "name": "Blow Wind Blow - WNCR Cleveland Radio Session / 1973",
+                    "track_number": 8,
+                    "duration": "4:35",
+                    "track_spotify_url": "https://open.spotify.com/track/4i5NGbeKzXUSURUgTBbkyH"
+                }
+            ]
+        },
+        {
+            "id": "1oKWgM9Td5XbgUweHSRGXB",
+            "name": "Blues",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273ce09270f6a01b5865f18c6dc",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ce09270f6a01b5865f18c6dc",
+            "total_tracks": 23,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2019-05-31",
+            "release_date_precision": "day",
+            "release_year": "2019",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB",
+            "tracks": [
+                {
+                    "name": "Don't Start Me Talkin' - Jinx Session / 1982",
+                    "track_number": 1,
+                    "duration": "3:33",
+                    "track_spotify_url": "https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2"
+                },
+                {
+                    "name": "Nothin' But The Devil - Against The Grain Session / 1975",
+                    "track_number": 2,
+                    "duration": "4:57",
+                    "track_spotify_url": "https://open.spotify.com/track/2TKEuJloVt9NNpAdC5Fe5z"
+                },
+                {
+                    "name": "Tore Down - Blueprint Session / 1973",
+                    "track_number": 3,
+                    "duration": "5:09",
+                    "track_spotify_url": "https://open.spotify.com/track/7CjdF3uYTc97aqLhMPTsuJ"
+                },
+                {
+                    "name": "I Could've Had Religion - WNCR Cleveland Radio Session / 1973",
+                    "track_number": 4,
+                    "duration": "5:56",
+                    "track_spotify_url": "https://open.spotify.com/track/6afr2vJ8iECoxpGcnm6qCb"
+                },
+                {
+                    "name": "As The Crow Flies - Tattoo Session / 1973",
+                    "track_number": 5,
+                    "duration": "4:09",
+                    "track_spotify_url": "https://open.spotify.com/track/0Z5l5cKus5e8LF2g0vtXrl"
+                },
+                {
+                    "name": "Should've Learnt My Lesson - Deuce Album Session Outtake / 1971",
+                    "track_number": 6,
+                    "duration": "7:38",
+                    "track_spotify_url": "https://open.spotify.com/track/15qncPvyo4uK98cylzL45u"
+                },
+                {
+                    "name": "Leaving Town Blues - Remixed",
+                    "track_number": 7,
+                    "duration": "6:03",
+                    "track_spotify_url": "https://open.spotify.com/track/0yf5Yx6cot4hTyZhBmTphv"
+                },
+                {
+                    "name": "I'm Ready - 1972 Version",
+                    "track_number": 8,
+                    "duration": "4:09",
+                    "track_spotify_url": "https://open.spotify.com/track/5xWR7s5FJXxuSSKXUpvy7L"
+                },
+                {
+                    "name": "Bullfrog Blues - WNCR Cleveland Radio Session / 1973",
+                    "track_number": 9,
+                    "duration": "6:59",
+                    "track_spotify_url": "https://open.spotify.com/track/0mAUjJIEMbhhcC1b4IrNUg"
+                },
+                {
+                    "name": "Who's That Coming? - Tattoo Session / Alternative Acoustic Take / 1973",
+                    "track_number": 10,
+                    "duration": "5:15",
+                    "track_spotify_url": "https://open.spotify.com/track/6S5HVPmYfxzEBMDb6PtJOX"
+                },
+                {
+                    "name": "Should've Learnt My Lesson - Deuce Album Session / Alternative Acoustic Take / 1971",
+                    "track_number": 11,
+                    "duration": "3:04",
+                    "track_spotify_url": "https://open.spotify.com/track/3TLHIqYpEdtjivr3IN1dMB"
+                },
+                {
+                    "name": "Prison Blues - Blueprint Session / 1973",
+                    "track_number": 12,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/5v6vsYxLxG77wLypIs1HN4"
+                },
+                {
+                    "name": "Blow Wind Blow - WNCR Cleveland Radio Session / 1973",
+                    "track_number": 13,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/7L5XnNPhCHZrdmtxI9Z9zL"
+                },
+                {
+                    "name": "Bankers Blues - Blueprint Session Outtake / 1973",
+                    "track_number": 14,
+                    "duration": "4:49",
+                    "track_spotify_url": "https://open.spotify.com/track/7J938rP5qWb6ApOjvkaR9T"
+                },
+                {
+                    "name": "Whole Lot Of People - Deuce Session / Alternative Acoustic Take / 1971",
+                    "track_number": 15,
+                    "duration": "3:40",
+                    "track_spotify_url": "https://open.spotify.com/track/1ZxE8yEh0MZM35auRIjV4Y"
+                },
+                {
+                    "name": "Can't Be Satisfied",
+                    "track_number": 16,
+                    "duration": "3:59",
+                    "track_spotify_url": "https://open.spotify.com/track/4Ik0kv6y0FaZ18GPULqlOz"
+                },
+                {
+                    "name": "When My Baby She Left Me - Live At The River Records Radio Concert Broadcast, Glasgow Apollo / 1982",
+                    "track_number": 17,
+                    "duration": "6:28",
+                    "track_spotify_url": "https://open.spotify.com/track/1e14lOHMh0pYlvfkuhG04W"
+                },
+                {
+                    "name": "Nothin' But The Devil - Live At The River Records Radio Concert Broadcast, Glasgow Apollo / 1982",
+                    "track_number": 18,
+                    "duration": "6:56",
+                    "track_spotify_url": "https://open.spotify.com/track/7imCM6BTf11u3kIwBo348S"
+                },
+                {
+                    "name": "What In The World - Live At The River Records Radio Concert Broadcast, Glasgow Apollo / 1982",
+                    "track_number": 19,
+                    "duration": "7:39",
+                    "track_spotify_url": "https://open.spotify.com/track/7oLoh4xEoa7ZbEE9kgmdCy"
+                },
+                {
+                    "name": "I Wonder Who - Live",
+                    "track_number": 20,
+                    "duration": "6:35",
+                    "track_spotify_url": "https://open.spotify.com/track/197eSNTxrBIHAvYyWW3bln"
+                },
+                {
+                    "name": "Messin' With The Kid - Live From Sheffield City Hall / 1977",
+                    "track_number": 21,
+                    "duration": "4:18",
+                    "track_spotify_url": "https://open.spotify.com/track/0YjNV0Xax1qoWsXhSS3Qx6"
+                },
+                {
+                    "name": "Tore Down - Live From Newcastle City Hall / 1977",
+                    "track_number": 22,
+                    "duration": "4:51",
+                    "track_spotify_url": "https://open.spotify.com/track/4CFGRaCZbCIkxxCUSqBAud"
+                },
+                {
+                    "name": "Garbage Man Blues - Live From Sheffield City Hall / 1977",
+                    "track_number": 23,
+                    "duration": "6:21",
+                    "track_spotify_url": "https://open.spotify.com/track/2zMmImFAHPTIRA6W5odgmF"
+                }
+            ]
+        },
+        {
+            "id": "4cOFLBwDDL6TUc1c83aiWf",
+            "name": "Irish Tour '74 (Live / 40th Anniversary Edition)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2737c8b975ce904d04c8ceb9c9f",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048517c8b975ce904d04c8ceb9c9f",
+            "total_tracks": 56,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2014-10-20",
+            "release_date_precision": "day",
+            "release_year": "2014",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/4cOFLBwDDL6TUc1c83aiWf",
+            "tracks": [
+                {
+                    "name": "Messin' With The Kid - Live From Cork City Hall",
+                    "track_number": 1,
+                    "duration": "6:42",
+                    "track_spotify_url": "https://open.spotify.com/track/4veslEvScwemt9ypQzDRmd"
+                },
+                {
+                    "name": "Cradle Rock - Live From Cork City Hall",
+                    "track_number": 2,
+                    "duration": "7:16",
+                    "track_spotify_url": "https://open.spotify.com/track/76V9fve0JPDVMSG0tana0t"
+                },
+                {
+                    "name": "I Wonder Who - Live From Cork City Hall",
+                    "track_number": 3,
+                    "duration": "7:48",
+                    "track_spotify_url": "https://open.spotify.com/track/2FKlzbpV6b9qhYXE66cv8c"
+                },
+                {
+                    "name": "Tattoo'd Lady - Live From Cork City Hall",
+                    "track_number": 4,
+                    "duration": "5:08",
+                    "track_spotify_url": "https://open.spotify.com/track/4nZh1xJkOPg3DfxTyidEst"
+                },
+                {
+                    "name": "Walk On Hot Coals - Live From Cork City Hall",
+                    "track_number": 5,
+                    "duration": "10:46",
+                    "track_spotify_url": "https://open.spotify.com/track/3c4UXCfEBtNzhDNo7xvFVP"
+                },
+                {
+                    "name": "Laundromat - Live From Cork City Hall",
+                    "track_number": 6,
+                    "duration": "8:06",
+                    "track_spotify_url": "https://open.spotify.com/track/05lLBo3QVsj0XEPTBO5GE2"
+                },
+                {
+                    "name": "A Million Miles Away - Live From Cork City Hall",
+                    "track_number": 7,
+                    "duration": "9:18",
+                    "track_spotify_url": "https://open.spotify.com/track/05DLaMg1mkKC5PM5lo9PGf"
+                },
+                {
+                    "name": "Hands Off - Live From Cork City Hall",
+                    "track_number": 8,
+                    "duration": "11:11",
+                    "track_spotify_url": "https://open.spotify.com/track/2yKXBlEmtk9zFZgEtLOogK"
+                },
+                {
+                    "name": "Too Much Alcohol - Live From Cork City Hall",
+                    "track_number": 9,
+                    "duration": "7:45",
+                    "track_spotify_url": "https://open.spotify.com/track/2cZ2evCgkjOcs9lZzcBnuS"
+                },
+                {
+                    "name": "As The Crow Flies - Live From Cork City Hall",
+                    "track_number": 10,
+                    "duration": "6:08",
+                    "track_spotify_url": "https://open.spotify.com/track/3Waq6uctGDF5OzE79rIzsF"
+                },
+                {
+                    "name": "Pistol Slapper Blues - Live From Cork City Hall",
+                    "track_number": 11,
+                    "duration": "3:24",
+                    "track_spotify_url": "https://open.spotify.com/track/7J639Hw4CzbFNPlQtjKL83"
+                },
+                {
+                    "name": "Unmilitary Two-Step - Live From Cork City Hall",
+                    "track_number": 12,
+                    "duration": "2:16",
+                    "track_spotify_url": "https://open.spotify.com/track/1Nak6B6uHaNOBfJ95JwVJr"
+                },
+                {
+                    "name": "Bankers Blues - Live From Cork City Hall",
+                    "track_number": 13,
+                    "duration": "3:17",
+                    "track_spotify_url": "https://open.spotify.com/track/2dRs1NAkqlj7VCK4LUxkp6"
+                },
+                {
+                    "name": "Going To My Hometown - Live From Cork City Hall",
+                    "track_number": 14,
+                    "duration": "7:58",
+                    "track_spotify_url": "https://open.spotify.com/track/6WLjfUjcHOAcGrzXX5gRbQ"
+                },
+                {
+                    "name": "Who's That Coming? - Live From Cork City Hall",
+                    "track_number": 15,
+                    "duration": "9:17",
+                    "track_spotify_url": "https://open.spotify.com/track/0MiF2L3vztfalEVuUmLIOM"
+                },
+                {
+                    "name": "In Your Town - Live From Cork City Hall",
+                    "track_number": 16,
+                    "duration": "16:13",
+                    "track_spotify_url": "https://open.spotify.com/track/7j2fVyWEW9gQ3nZFCDF33J"
+                },
+                {
+                    "name": "Cradle Rock - Live From Carlton Cinema",
+                    "track_number": 1,
+                    "duration": "7:38",
+                    "track_spotify_url": "https://open.spotify.com/track/17FpVg7HFx19vRM2nHmr2o"
+                },
+                {
+                    "name": "Tattoo'd Lady - Live From Carlton Cinema",
+                    "track_number": 2,
+                    "duration": "4:35",
+                    "track_spotify_url": "https://open.spotify.com/track/4FYsfk15H1vq9mSZTWJ5Nx"
+                },
+                {
+                    "name": "Hands Off - Live From Carlton Cinema",
+                    "track_number": 3,
+                    "duration": "7:47",
+                    "track_spotify_url": "https://open.spotify.com/track/40MbbigEpXIMflthIqDTZm"
+                },
+                {
+                    "name": "Walk On Hot Coals - Live From Carlton Cinema",
+                    "track_number": 4,
+                    "duration": "11:37",
+                    "track_spotify_url": "https://open.spotify.com/track/7hb99TAazcgdcSMrhCMGQi"
+                },
+                {
+                    "name": "Laundromat - Live From Carlton Cinema",
+                    "track_number": 5,
+                    "duration": "5:32",
+                    "track_spotify_url": "https://open.spotify.com/track/4aWM6AfhRz2IZ4CIUYv4er"
+                },
+                {
+                    "name": "Too Much Alcohol - Live From Carlton Cinema",
+                    "track_number": 6,
+                    "duration": "8:27",
+                    "track_spotify_url": "https://open.spotify.com/track/1P9kRPcP3jWizFm8QDfYcu"
+                },
+                {
+                    "name": "A Million Miles Away - Live From Carlton Cinema",
+                    "track_number": 7,
+                    "duration": "9:28",
+                    "track_spotify_url": "https://open.spotify.com/track/2OcAc4Iumzu9kxmknhRb4d"
+                },
+                {
+                    "name": "As The Crow Flies - Live From Carlton Cinema",
+                    "track_number": 8,
+                    "duration": "5:45",
+                    "track_spotify_url": "https://open.spotify.com/track/0W2P5xryrfHYLBBsbCaWXf"
+                },
+                {
+                    "name": "Pistol Slapper Blues - Live From Carlton Cinema",
+                    "track_number": 9,
+                    "duration": "3:16",
+                    "track_spotify_url": "https://open.spotify.com/track/3YkBoVzvS1Lp6Z7skDp2kO"
+                },
+                {
+                    "name": "Bankers Blues - Live From Carlton Cinema",
+                    "track_number": 10,
+                    "duration": "3:07",
+                    "track_spotify_url": "https://open.spotify.com/track/0Qm1K74KGM1zE5cUnGLVPT"
+                },
+                {
+                    "name": "Unmilitary Two-Step - Live From Carlton Cinema",
+                    "track_number": 11,
+                    "duration": "3:15",
+                    "track_spotify_url": "https://open.spotify.com/track/5qekuAJucM1EPYaSlGcOSD"
+                },
+                {
+                    "name": "Going To My Hometown - Live From Carlton Cinema",
+                    "track_number": 12,
+                    "duration": "6:27",
+                    "track_spotify_url": "https://open.spotify.com/track/504bw5vVQrInLUVu7VeVIc"
+                },
+                {
+                    "name": "In Your Town - Live From Carlton Cinema",
+                    "track_number": 13,
+                    "duration": "19:37",
+                    "track_spotify_url": "https://open.spotify.com/track/2UE1Va02Q9v2vpbUXcTGi1"
+                },
+                {
+                    "name": "Bullfrog Blues - Live From Carlton Cinema",
+                    "track_number": 14,
+                    "duration": "10:57",
+                    "track_spotify_url": "https://open.spotify.com/track/6dbbyWb1x8YxdIIppR3s2n"
+                },
+                {
+                    "name": "Messin' With The Kid - Live From Ulster Hall",
+                    "track_number": 1,
+                    "duration": "7:40",
+                    "track_spotify_url": "https://open.spotify.com/track/0K4CLrUnmXbczIWvJSAOKq"
+                },
+                {
+                    "name": "Cradle Rock - Live From Ulster Hall",
+                    "track_number": 2,
+                    "duration": "7:17",
+                    "track_spotify_url": "https://open.spotify.com/track/3cexepCEUnHFvqusSV2GOQ"
+                },
+                {
+                    "name": "I Wonder Who - Live From Ulster Hall",
+                    "track_number": 3,
+                    "duration": "6:18",
+                    "track_spotify_url": "https://open.spotify.com/track/3nhbJ8h6weAldjx7mKEZtx"
+                },
+                {
+                    "name": "Tattoo'd Lady - Live From Ulster Hall",
+                    "track_number": 4,
+                    "duration": "5:19",
+                    "track_spotify_url": "https://open.spotify.com/track/5yoQsgZfksP4Pgpc9bIcc9"
+                },
+                {
+                    "name": "Walk On Hot Coals - Live From Ulster Hall",
+                    "track_number": 5,
+                    "duration": "9:14",
+                    "track_spotify_url": "https://open.spotify.com/track/3rDxsaPm11llGI5IxLe4Rx"
+                },
+                {
+                    "name": "Hands Off - Live From Ulster Hall",
+                    "track_number": 6,
+                    "duration": "5:30",
+                    "track_spotify_url": "https://open.spotify.com/track/687wUm8UCtuRLfKJdbsWf6"
+                },
+                {
+                    "name": "A Million Miles Away - Live From Ulster Hall",
+                    "track_number": 7,
+                    "duration": "9:09",
+                    "track_spotify_url": "https://open.spotify.com/track/1XXw8b9yT2tmBZNluUFXot"
+                },
+                {
+                    "name": "Laundromat - Live From Ulster Hall",
+                    "track_number": 8,
+                    "duration": "7:45",
+                    "track_spotify_url": "https://open.spotify.com/track/6VmQJwcTfI8XjqMeJCPOQt"
+                },
+                {
+                    "name": "As The Crow Flies - Live From Ulster Hall",
+                    "track_number": 9,
+                    "duration": "5:47",
+                    "track_spotify_url": "https://open.spotify.com/track/2ingzkEemW7eYY43eV2jiT"
+                },
+                {
+                    "name": "Pistol Slapper Blues - Live From Ulster Hall",
+                    "track_number": 10,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/4JpyGNwEDNbsQQ1AekS3zF"
+                },
+                {
+                    "name": "Unmilitary Two-Step - Live From Ulster Hall",
+                    "track_number": 11,
+                    "duration": "2:52",
+                    "track_spotify_url": "https://open.spotify.com/track/6MCEsz6zYhGUFJNUrKB5qp"
+                },
+                {
+                    "name": "Bankers Blues - Live From Ulster Hall",
+                    "track_number": 12,
+                    "duration": "3:27",
+                    "track_spotify_url": "https://open.spotify.com/track/77EzSqRVy8OG7J9EANlX1I"
+                },
+                {
+                    "name": "Going To My Hometown - Live From Ulster Hall",
+                    "track_number": 13,
+                    "duration": "5:50",
+                    "track_spotify_url": "https://open.spotify.com/track/7ltW2xEL6CoS8TddsP910G"
+                },
+                {
+                    "name": "Who's That Coming? - Live From Ulster Hall",
+                    "track_number": 14,
+                    "duration": "7:14",
+                    "track_spotify_url": "https://open.spotify.com/track/68gQJSPdIS2wMsZ8VX2pX7"
+                },
+                {
+                    "name": "In Your Town - Live From Ulster Hall",
+                    "track_number": 15,
+                    "duration": "17:29",
+                    "track_spotify_url": "https://open.spotify.com/track/5mWoEtlF3GvS7DFK44l7sP"
+                },
+                {
+                    "name": "Bullfrog Blues - Live From Ulster Hall",
+                    "track_number": 16,
+                    "duration": "11:37",
+                    "track_spotify_url": "https://open.spotify.com/track/0gfUvlPzaKNTQpPx4sT0ly"
+                },
+                {
+                    "name": "Maritime - Live From Cork City Hall In Session / The Edgar Lustgarden Cut",
+                    "track_number": 1,
+                    "duration": "2:31",
+                    "track_spotify_url": "https://open.spotify.com/track/4IomYyL4ulKxjM3uBCkY4J"
+                },
+                {
+                    "name": "I Want You / Raunchy Medley - Live From Cork City Hall In Session",
+                    "track_number": 2,
+                    "duration": "3:49",
+                    "track_spotify_url": "https://open.spotify.com/track/4fhOk9pIC5ZnC3dl9CTDMs"
+                },
+                {
+                    "name": "Treat Her Right - Live From Cork City Hall In Session",
+                    "track_number": 3,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/0fm4jEF7jKBs0pciz9xFFa"
+                },
+                {
+                    "name": "I Wonder Who - Live From Cork City Hall In Session",
+                    "track_number": 4,
+                    "duration": "5:58",
+                    "track_spotify_url": "https://open.spotify.com/track/3q1wUT76C2dEkunrFsi30p"
+                }
+            ]
+        },
+        {
+            "id": "3Cvrr1TRJoz3ctuutkE163",
+            "name": "Kickback City",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273448eb89b76ce9742bf3f47cd",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851448eb89b76ce9742bf3f47cd",
+            "total_tracks": 15,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2013-10-28",
+            "release_date_precision": "day",
+            "release_year": "2013",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/3Cvrr1TRJoz3ctuutkE163",
+            "tracks": [
+                {
+                    "name": "Kickback City - Remastered 2017",
+                    "track_number": 1,
+                    "duration": "4:46",
+                    "track_spotify_url": "https://open.spotify.com/track/7qsQE0LT7wWYNuyvlvlkhc"
+                },
+                {
+                    "name": "Continental Op - Remastered 2017",
+                    "track_number": 2,
+                    "duration": "4:36",
+                    "track_spotify_url": "https://open.spotify.com/track/015YonVsfxhlYxgAf2ayZ3"
+                },
+                {
+                    "name": "Kid Gloves - Remastered 2017",
+                    "track_number": 3,
+                    "duration": "5:39",
+                    "track_spotify_url": "https://open.spotify.com/track/2hBjkWxj7UkZS4qOLDJHBU"
+                },
+                {
+                    "name": "Big Guns - Remastered 2017",
+                    "track_number": 4,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/3Wr4FOEK5kKt7gxJvhzlja"
+                },
+                {
+                    "name": "Loanshark Blues - Remastered 2017",
+                    "track_number": 5,
+                    "duration": "4:26",
+                    "track_spotify_url": "https://open.spotify.com/track/25VoFd7MCZaUA8mdEf15hz"
+                },
+                {
+                    "name": "Secret Agent - Remastered 2017",
+                    "track_number": 6,
+                    "duration": "5:46",
+                    "track_spotify_url": "https://open.spotify.com/track/5Rv6nLbZB0iY5AIPmsgWUl"
+                },
+                {
+                    "name": "B Girl",
+                    "track_number": 7,
+                    "duration": "4:44",
+                    "track_spotify_url": "https://open.spotify.com/track/0stMxQhOsfDey6YwhkPoTH"
+                },
+                {
+                    "name": "Slumming Angel - Remastered 2017",
+                    "track_number": 8,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/0DQC685y9QKKmVVZmartyT"
+                },
+                {
+                    "name": "Barley & Grape Rag - Remastered 2017",
+                    "track_number": 9,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/0moZbDfGZxszotSFatO13r"
+                },
+                {
+                    "name": "Doing Time - Remastered 2017",
+                    "track_number": 10,
+                    "duration": "4:07",
+                    "track_spotify_url": "https://open.spotify.com/track/7zOIIrl8awIsM4Qgl0JPXk"
+                },
+                {
+                    "name": "In Your Town - Remastered 2017",
+                    "track_number": 11,
+                    "duration": "5:44",
+                    "track_spotify_url": "https://open.spotify.com/track/7BoXITEyE2RO0cGMQsB28n"
+                },
+                {
+                    "name": "Sinner Boy - Remastered 2017",
+                    "track_number": 12,
+                    "duration": "5:03",
+                    "track_spotify_url": "https://open.spotify.com/track/0kU9ftjuzfe7LzEKrrDgV6"
+                },
+                {
+                    "name": "The Devil Made Me Do It - Remastered 2017",
+                    "track_number": 13,
+                    "duration": "2:55",
+                    "track_spotify_url": "https://open.spotify.com/track/1GicDCGGdTwpkuzWOjjMp5"
+                },
+                {
+                    "name": "Seven Days - Remastered 2017",
+                    "track_number": 14,
+                    "duration": "5:12",
+                    "track_spotify_url": "https://open.spotify.com/track/7dCTTFWEDvRlUKfZXqAQ1Y"
+                },
+                {
+                    "name": "The Lie Factory",
+                    "track_number": 15,
+                    "duration": "42:47",
+                    "track_spotify_url": "https://open.spotify.com/track/5M4FnHc3oURsqjLpG0nfQU"
+                }
+            ]
+        },
+        {
+            "id": "1d0QeBy4ssPTrnB0nLgfay",
+            "name": "Notes From San Francisco",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273d35c5e7e75439a1e2253fb29",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851d35c5e7e75439a1e2253fb29",
+            "total_tracks": 24,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2011-05-17",
+            "release_date_precision": "day",
+            "release_year": "2011",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/1d0QeBy4ssPTrnB0nLgfay",
+            "tracks": [
+                {
+                    "name": "Rue The Day",
+                    "track_number": 1,
+                    "duration": "4:26",
+                    "track_spotify_url": "https://open.spotify.com/track/6fRMTzRnDOSHevuNg4fBbQ"
+                },
+                {
+                    "name": "Persuasion",
+                    "track_number": 2,
+                    "duration": "4:45",
+                    "track_spotify_url": "https://open.spotify.com/track/5Z3ijbePx3ehtzTy9f9iyt"
+                },
+                {
+                    "name": "B Girl",
+                    "track_number": 3,
+                    "duration": "4:42",
+                    "track_spotify_url": "https://open.spotify.com/track/2NvPcEdtte5TlyPFiHMs9l"
+                },
+                {
+                    "name": "The Mississippi Sheiks",
+                    "track_number": 4,
+                    "duration": "5:56",
+                    "track_spotify_url": "https://open.spotify.com/track/3CtpCeagcsrbnN7Mr0IIMl"
+                },
+                {
+                    "name": "Wheels Within Wheels - Acoustic Version",
+                    "track_number": 5,
+                    "duration": "3:40",
+                    "track_spotify_url": "https://open.spotify.com/track/5xkTYroTuLsnfnk6hqHxwA"
+                },
+                {
+                    "name": "Overnight Bag",
+                    "track_number": 6,
+                    "duration": "4:46",
+                    "track_spotify_url": "https://open.spotify.com/track/6NUqRbo4Rax8cgioW7tgJ6"
+                },
+                {
+                    "name": "Cruise On Out",
+                    "track_number": 7,
+                    "duration": "5:19",
+                    "track_spotify_url": "https://open.spotify.com/track/0pocSYYI6IfOfmZ0q0JL66"
+                },
+                {
+                    "name": "Brute Force And Ignorance",
+                    "track_number": 8,
+                    "duration": "5:45",
+                    "track_spotify_url": "https://open.spotify.com/track/6k1nnfTahTUCE8jIqqtXjx"
+                },
+                {
+                    "name": "Fuel To The Fire",
+                    "track_number": 9,
+                    "duration": "5:43",
+                    "track_spotify_url": "https://open.spotify.com/track/1ZNyxw5LuTKTjSjNdmB0Sf"
+                },
+                {
+                    "name": "Wheels Within Wheels - Electric Version",
+                    "track_number": 10,
+                    "duration": "3:55",
+                    "track_spotify_url": "https://open.spotify.com/track/7tl0gNucfmvXHnzDQsIlNN"
+                },
+                {
+                    "name": "Cut A Dash",
+                    "track_number": 11,
+                    "duration": "3:49",
+                    "track_spotify_url": "https://open.spotify.com/track/6LsoXaTKyZfgCXRMMsOPFL"
+                },
+                {
+                    "name": "Out On The Tiles - Bonus Track",
+                    "track_number": 12,
+                    "duration": "4:22",
+                    "track_spotify_url": "https://open.spotify.com/track/5UhEJrkeuyHqQScLrShHiY"
+                },
+                {
+                    "name": "Follow Me - Live",
+                    "track_number": 1,
+                    "duration": "6:25",
+                    "track_spotify_url": "https://open.spotify.com/track/754U9ctZTXSZ8QmyxXs8ut"
+                },
+                {
+                    "name": "Shin Kicker - Live",
+                    "track_number": 2,
+                    "duration": "3:42",
+                    "track_spotify_url": "https://open.spotify.com/track/5xiDXCUZUhldDWDan84XrU"
+                },
+                {
+                    "name": "Off The Handle - Live",
+                    "track_number": 3,
+                    "duration": "7:01",
+                    "track_spotify_url": "https://open.spotify.com/track/0iy8aGpnDTAPakuGnPBADN"
+                },
+                {
+                    "name": "Bought And Sold - Live",
+                    "track_number": 4,
+                    "duration": "4:43",
+                    "track_spotify_url": "https://open.spotify.com/track/1jc6PZeHvKWiMRuopzzUVp"
+                },
+                {
+                    "name": "I'm Leavin' You - Live",
+                    "track_number": 5,
+                    "duration": "4:35",
+                    "track_spotify_url": "https://open.spotify.com/track/2g9t5f9XthO8HZo2fyx58j"
+                },
+                {
+                    "name": "Tattoo'd Lady - Live",
+                    "track_number": 6,
+                    "duration": "6:49",
+                    "track_spotify_url": "https://open.spotify.com/track/3sbkxRiUM8QvUruEc1lJqP"
+                },
+                {
+                    "name": "Do You Read Me - Live",
+                    "track_number": 7,
+                    "duration": "6:11",
+                    "track_spotify_url": "https://open.spotify.com/track/3vkoSogY1q0LoOLuFjcQVe"
+                },
+                {
+                    "name": "Country Mile - Live",
+                    "track_number": 8,
+                    "duration": "3:51",
+                    "track_spotify_url": "https://open.spotify.com/track/0GgaAx6O3mHsmWPpRW23yO"
+                },
+                {
+                    "name": "Calling Card - Live",
+                    "track_number": 9,
+                    "duration": "5:51",
+                    "track_spotify_url": "https://open.spotify.com/track/73EnYtem8eyYHcX2Tvj3CH"
+                },
+                {
+                    "name": "Shadow Play - Live",
+                    "track_number": 10,
+                    "duration": "5:11",
+                    "track_spotify_url": "https://open.spotify.com/track/331vOfOzled7tln0iVIQQG"
+                },
+                {
+                    "name": "Bullfrog Blues - Live",
+                    "track_number": 11,
+                    "duration": "5:38",
+                    "track_spotify_url": "https://open.spotify.com/track/1g9AUPdmfCDCCtTXY2P45Q"
+                },
+                {
+                    "name": "Sea Cruise - Live",
+                    "track_number": 12,
+                    "duration": "3:39",
+                    "track_spotify_url": "https://open.spotify.com/track/4eVIaDObftgQs1w8ZS2n7b"
+                }
+            ]
+        },
+        {
+            "id": "6KSV34nC44BXhPPlnDbBYW",
+            "name": "Live At Montreux",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273f2ce0afd28049ebdae9c9a41",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851f2ce0afd28049ebdae9c9a41",
+            "total_tracks": 12,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2006-05-22",
+            "release_date_precision": "day",
+            "release_year": "2006",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/6KSV34nC44BXhPPlnDbBYW",
+            "tracks": [
+                {
+                    "name": "Laundromat - Live",
+                    "track_number": 1,
+                    "duration": "7:48",
+                    "track_spotify_url": "https://open.spotify.com/track/6hNzRXFTYnVltOmoHfwZHw"
+                },
+                {
+                    "name": "Tore Down - Live",
+                    "track_number": 2,
+                    "duration": "4:52",
+                    "track_spotify_url": "https://open.spotify.com/track/1GxJYlPK82822uXiuo63tj"
+                },
+                {
+                    "name": "I Take What I Want - Live",
+                    "track_number": 3,
+                    "duration": "5:59",
+                    "track_spotify_url": "https://open.spotify.com/track/6U6vunf39AT9ROteDaIjPl"
+                },
+                {
+                    "name": "Bought And Sold - Live",
+                    "track_number": 4,
+                    "duration": "5:46",
+                    "track_spotify_url": "https://open.spotify.com/track/32jalxFDKnmLswOfEtVKBo"
+                },
+                {
+                    "name": "Do You Read Me - Live",
+                    "track_number": 5,
+                    "duration": "5:47",
+                    "track_spotify_url": "https://open.spotify.com/track/0OMJatFoUpPdjUEMhsM4eb"
+                },
+                {
+                    "name": "The Last Of The Independents - Live",
+                    "track_number": 6,
+                    "duration": "5:58",
+                    "track_spotify_url": "https://open.spotify.com/track/6rTgkxjdhAmrU0fUgsEzht"
+                },
+                {
+                    "name": "Off The Handle - Live",
+                    "track_number": 7,
+                    "duration": "8:26",
+                    "track_spotify_url": "https://open.spotify.com/track/4lpYwKsBurlD5kj6j7TwDW"
+                },
+                {
+                    "name": "The Mississippi Sheiks - Live",
+                    "track_number": 8,
+                    "duration": "5:29",
+                    "track_spotify_url": "https://open.spotify.com/track/2L8rphJnJsWPl7aj8Srszq"
+                },
+                {
+                    "name": "Out On The Western Plain - Live",
+                    "track_number": 9,
+                    "duration": "5:23",
+                    "track_spotify_url": "https://open.spotify.com/track/2iTBAmJFfz3F8R1oXyjiXE"
+                },
+                {
+                    "name": "Too Much Alcohol - Live",
+                    "track_number": 10,
+                    "duration": "5:01",
+                    "track_spotify_url": "https://open.spotify.com/track/4Rn31zvgBdOEf9D6KVRpGD"
+                },
+                {
+                    "name": "Shin Kicker - Live",
+                    "track_number": 11,
+                    "duration": "7:05",
+                    "track_spotify_url": "https://open.spotify.com/track/0q8mWyPxYdKzFbF3XgRLRp"
+                },
+                {
+                    "name": "Philby - Live",
+                    "track_number": 12,
+                    "duration": "8:16",
+                    "track_spotify_url": "https://open.spotify.com/track/6VzUo7rhceoEessoPoTOsk"
+                }
+            ]
+        },
+        {
+            "id": "5fVR0L8Xc7EqOauB6XfAE5",
+            "name": "Wheels Within Wheels",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2732304c63f3932eac075ce2c2b",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048512304c63f3932eac075ce2c2b",
+            "total_tracks": 14,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2003-03-01",
+            "release_date_precision": "day",
+            "release_year": "2003",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/5fVR0L8Xc7EqOauB6XfAE5",
+            "tracks": [
+                {
+                    "name": "Wheels Within Wheels",
+                    "track_number": 1,
+                    "duration": "3:31",
+                    "track_spotify_url": "https://open.spotify.com/track/5dqF3cSlSpqgFb1lpz9Bgs"
+                },
+                {
+                    "name": "Flight To Paradise",
+                    "track_number": 2,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/0M2ei7MQk8qoVzgGjMuuVp"
+                },
+                {
+                    "name": "As The Crow Flies",
+                    "track_number": 3,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/59Q57O7jcJwqi8oIOD7nPN"
+                },
+                {
+                    "name": "Lonesome Highway",
+                    "track_number": 4,
+                    "duration": "5:22",
+                    "track_spotify_url": "https://open.spotify.com/track/4huVUmN6cQfLlAZp3poWoS"
+                },
+                {
+                    "name": "Bratcha Dubha",
+                    "track_number": 5,
+                    "duration": "2:59",
+                    "track_spotify_url": "https://open.spotify.com/track/6HyAxd58CkxvQgCKTUCe8h"
+                },
+                {
+                    "name": "She Moved Thro' The Fair / Ann Cran Ull",
+                    "track_number": 6,
+                    "duration": "2:21",
+                    "track_spotify_url": "https://open.spotify.com/track/6BiKnkwRrC0f7RLLMxVY6L"
+                },
+                {
+                    "name": "Barley & Grape Rag",
+                    "track_number": 7,
+                    "duration": "4:24",
+                    "track_spotify_url": "https://open.spotify.com/track/2IInKVKg2h10WH6XOr3Hl1"
+                },
+                {
+                    "name": "The Cuckoo",
+                    "track_number": 8,
+                    "duration": "3:45",
+                    "track_spotify_url": "https://open.spotify.com/track/6le6bRaODtiWVnY8Oqm56Y"
+                },
+                {
+                    "name": "Amazing Grace - Live",
+                    "track_number": 9,
+                    "duration": "1:19",
+                    "track_spotify_url": "https://open.spotify.com/track/1HEdyXIajZtXFW6OWFcVZt"
+                },
+                {
+                    "name": "Walkin' Blues - Live",
+                    "track_number": 10,
+                    "duration": "5:33",
+                    "track_spotify_url": "https://open.spotify.com/track/5BzBUhWMCLdxA46S1xVmZJ"
+                },
+                {
+                    "name": "Blue Moon Of Kentucky - Live",
+                    "track_number": 11,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/7MRQ5251G6pIubnwn4zlhi"
+                },
+                {
+                    "name": "Deep Elm Blues",
+                    "track_number": 12,
+                    "duration": "4:17",
+                    "track_spotify_url": "https://open.spotify.com/track/5OcZeAiamZSGrStbLKiU9l"
+                },
+                {
+                    "name": "Goin' To My Hometown",
+                    "track_number": 13,
+                    "duration": "4:57",
+                    "track_spotify_url": "https://open.spotify.com/track/3hvHUCiTZT03kVEWXGwu2u"
+                },
+                {
+                    "name": "Lonesome Highway Refraining",
+                    "track_number": 14,
+                    "duration": "1:59",
+                    "track_spotify_url": "https://open.spotify.com/track/0aIrDRbVAOJLoroSpzfCgW"
+                }
+            ]
+        },
+        {
+            "id": "3nKprInHCjgZsU6GQPeEst",
+            "name": "Fresh Evidence (Remastered 2017)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2737bc16f73e8261f2419a57e4f",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048517bc16f73e8261f2419a57e4f",
+            "total_tracks": 12,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1990-05-01",
+            "release_date_precision": "day",
+            "release_year": "1990",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst",
+            "tracks": [
+                {
+                    "name": "Kid Gloves",
+                    "track_number": 1,
+                    "duration": "5:41",
+                    "track_spotify_url": "https://open.spotify.com/track/6ym1pcfWPPT6ry8F4rYdNL"
+                },
+                {
+                    "name": "The King Of Zydeco",
+                    "track_number": 2,
+                    "duration": "3:43",
+                    "track_spotify_url": "https://open.spotify.com/track/37I5Ekn3S3TVsmnJPaAGWO"
+                },
+                {
+                    "name": "Middle Name",
+                    "track_number": 3,
+                    "duration": "4:12",
+                    "track_spotify_url": "https://open.spotify.com/track/7zQ5wpenzggxhmuQ4N6bKh"
+                },
+                {
+                    "name": "Alexis",
+                    "track_number": 4,
+                    "duration": "4:06",
+                    "track_spotify_url": "https://open.spotify.com/track/6ambuEcr4tRfYPXmUhyJi4"
+                },
+                {
+                    "name": "Empire State Express",
+                    "track_number": 5,
+                    "duration": "5:09",
+                    "track_spotify_url": "https://open.spotify.com/track/31b0Lz2pnMRJZK1QWPrcC3"
+                },
+                {
+                    "name": "Ghost Blues",
+                    "track_number": 6,
+                    "duration": "8:00",
+                    "track_spotify_url": "https://open.spotify.com/track/6axmyZv2KR3IUTjuIHSN8E"
+                },
+                {
+                    "name": "Heaven's Gate",
+                    "track_number": 7,
+                    "duration": "5:09",
+                    "track_spotify_url": "https://open.spotify.com/track/3PaS2fQS7hv6i7ii5WOWGh"
+                },
+                {
+                    "name": "The Loop",
+                    "track_number": 8,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/6xaTwxuVtJKQia81vLQdA7"
+                },
+                {
+                    "name": "Walkin' Wounded",
+                    "track_number": 9,
+                    "duration": "5:08",
+                    "track_spotify_url": "https://open.spotify.com/track/51Bk7LC6cwQd6LEGkMsVP3"
+                },
+                {
+                    "name": "Slumming Angel",
+                    "track_number": 10,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/6E4ypueVsFxyHmftCpIspB"
+                },
+                {
+                    "name": "Never Asked You For Nothin'",
+                    "track_number": 11,
+                    "duration": "4:31",
+                    "track_spotify_url": "https://open.spotify.com/track/5eqE7z3nhgE5o3d9NV6Psy"
+                },
+                {
+                    "name": "Bowed Not Broken",
+                    "track_number": 12,
+                    "duration": "3:25",
+                    "track_spotify_url": "https://open.spotify.com/track/553N7QpP9dgtZecrzD6LBD"
+                }
+            ]
+        },
+        {
+            "id": "3V1hWq7kdoPrV2GiiTuTNb",
+            "name": "Defender (Remastered 2017)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2736b388c7a71b13c3796949b05",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048516b388c7a71b13c3796949b05",
+            "total_tracks": 12,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1987-07-01",
+            "release_date_precision": "day",
+            "release_year": "1987",
+            "release_month": "07",
+            "album_spotify_url": "https://open.spotify.com/album/3V1hWq7kdoPrV2GiiTuTNb",
+            "tracks": [
+                {
+                    "name": "Kickback City",
+                    "track_number": 1,
+                    "duration": "4:47",
+                    "track_spotify_url": "https://open.spotify.com/track/0uFXFJ7G91deN1qDVhOKzf"
+                },
+                {
+                    "name": "Loanshark Blues",
+                    "track_number": 2,
+                    "duration": "4:27",
+                    "track_spotify_url": "https://open.spotify.com/track/3hixEWcOGjFeSazS6HLt87"
+                },
+                {
+                    "name": "Continental Op",
+                    "track_number": 3,
+                    "duration": "4:38",
+                    "track_spotify_url": "https://open.spotify.com/track/3XvAkZZJ53nk02lecqwF2j"
+                },
+                {
+                    "name": "I Ain't No Saint",
+                    "track_number": 4,
+                    "duration": "4:57",
+                    "track_spotify_url": "https://open.spotify.com/track/50PB9YGCpaAcS53uzSePdr"
+                },
+                {
+                    "name": "Failsafe Day",
+                    "track_number": 5,
+                    "duration": "4:38",
+                    "track_spotify_url": "https://open.spotify.com/track/5h4ik7rRnN7ejNhyOKorsQ"
+                },
+                {
+                    "name": "Road To Hell",
+                    "track_number": 6,
+                    "duration": "5:33",
+                    "track_spotify_url": "https://open.spotify.com/track/1lttSI5oMjO1RVo4eEsvZA"
+                },
+                {
+                    "name": "Doing Time",
+                    "track_number": 7,
+                    "duration": "4:07",
+                    "track_spotify_url": "https://open.spotify.com/track/7plLC98h5uhFEe7Sp7OuoZ"
+                },
+                {
+                    "name": "Smear Campaign",
+                    "track_number": 8,
+                    "duration": "4:46",
+                    "track_spotify_url": "https://open.spotify.com/track/5on905uvdAkiT7bkQKN6oa"
+                },
+                {
+                    "name": "Don't Start Me To Talkin'",
+                    "track_number": 9,
+                    "duration": "3:35",
+                    "track_spotify_url": "https://open.spotify.com/track/1GKK55uMwFxvXJO89nbDZY"
+                },
+                {
+                    "name": "Seven Days",
+                    "track_number": 10,
+                    "duration": "5:14",
+                    "track_spotify_url": "https://open.spotify.com/track/5mVXyMTpzVHyeG4uiM8dhS"
+                },
+                {
+                    "name": "Seems To Me",
+                    "track_number": 11,
+                    "duration": "4:52",
+                    "track_spotify_url": "https://open.spotify.com/track/1QCOTRxLSSo1Dri2VzVQCw"
+                },
+                {
+                    "name": "No Peace For The Wicked",
+                    "track_number": 12,
+                    "duration": "4:23",
+                    "track_spotify_url": "https://open.spotify.com/track/7lKbaCqUc3iMKJ4wRfrgov"
+                }
+            ]
+        },
+        {
+            "id": "7KoqBVH5VVliVu15CiUOgS",
+            "name": "Jinx (Remastered 2017)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273bba815ea7e57b556e42b25c3",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851bba815ea7e57b556e42b25c3",
+            "total_tracks": 11,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1982-05-02",
+            "release_date_precision": "day",
+            "release_year": "1982",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS",
+            "tracks": [
+                {
+                    "name": "Signals",
+                    "track_number": 1,
+                    "duration": "4:36",
+                    "track_spotify_url": "https://open.spotify.com/track/5MMNZLWK4IVwoVMsLbjesu"
+                },
+                {
+                    "name": "The Devil Made Me Do It",
+                    "track_number": 2,
+                    "duration": "2:54",
+                    "track_spotify_url": "https://open.spotify.com/track/2TdxlpVe3r5Y5VRGA0rzPp"
+                },
+                {
+                    "name": "Double Vision",
+                    "track_number": 3,
+                    "duration": "4:51",
+                    "track_spotify_url": "https://open.spotify.com/track/1bjFkYh4VRy91YZrUjmkK5"
+                },
+                {
+                    "name": "Easy Come, Easy Go",
+                    "track_number": 4,
+                    "duration": "5:07",
+                    "track_spotify_url": "https://open.spotify.com/track/6HdWWqwPvB0W73focsm9nb"
+                },
+                {
+                    "name": "Big Guns",
+                    "track_number": 5,
+                    "duration": "3:29",
+                    "track_spotify_url": "https://open.spotify.com/track/1FSBZKsb3ENQ9xnhGVqRjO"
+                },
+                {
+                    "name": "Jinxed",
+                    "track_number": 6,
+                    "duration": "5:11",
+                    "track_spotify_url": "https://open.spotify.com/track/1120EzcncgjAQKhHAcKagp"
+                },
+                {
+                    "name": "Bourbon",
+                    "track_number": 7,
+                    "duration": "3:54",
+                    "track_spotify_url": "https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX"
+                },
+                {
+                    "name": "Ride On Red, Ride On",
+                    "track_number": 8,
+                    "duration": "4:19",
+                    "track_spotify_url": "https://open.spotify.com/track/1K5iI8N62jvbQoXpSEFAVa"
+                },
+                {
+                    "name": "Loose Talk",
+                    "track_number": 9,
+                    "duration": "3:53",
+                    "track_spotify_url": "https://open.spotify.com/track/7AhLyAkgiZ8uMgcmhuWMdx"
+                },
+                {
+                    "name": "Nothin' But The Devil",
+                    "track_number": 10,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/7xlCouW6yIUrCg75iiIW8e"
+                },
+                {
+                    "name": "Lonely Mile",
+                    "track_number": 11,
+                    "duration": "4:47",
+                    "track_spotify_url": "https://open.spotify.com/track/7GWKgrvy2OV8JyDeZ1DY53"
+                }
+            ]
+        },
+        {
+            "id": "4GUW1Jr7zKiFTRI1lWn9sg",
+            "name": "Stage Struck (Live / Remastered 2017)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27322a85ef8fe30f5cd0bc2c4f1",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485122a85ef8fe30f5cd0bc2c4f1",
+            "total_tracks": 11,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1980-11-02",
+            "release_date_precision": "day",
+            "release_year": "1980",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/4GUW1Jr7zKiFTRI1lWn9sg",
+            "tracks": [
+                {
+                    "name": "Shin Kicker - Live",
+                    "track_number": 1,
+                    "duration": "4:00",
+                    "track_spotify_url": "https://open.spotify.com/track/3CzQswCrVnzKdTiIKHmR0e"
+                },
+                {
+                    "name": "Wayward Child - Live",
+                    "track_number": 2,
+                    "duration": "4:28",
+                    "track_spotify_url": "https://open.spotify.com/track/6zhK8Z40LAlvJihnQaJ1Rc"
+                },
+                {
+                    "name": "Brute Force And Ignorance - Live",
+                    "track_number": 3,
+                    "duration": "4:12",
+                    "track_spotify_url": "https://open.spotify.com/track/32IOI5jOM5dEvZpMTzxjtL"
+                },
+                {
+                    "name": "Moonchild - Live",
+                    "track_number": 4,
+                    "duration": "6:06",
+                    "track_spotify_url": "https://open.spotify.com/track/5Dwqet1aMXHyQrfgrcwkAn"
+                },
+                {
+                    "name": "Hellcat - Live",
+                    "track_number": 5,
+                    "duration": "4:38",
+                    "track_spotify_url": "https://open.spotify.com/track/6ZUW7qXnYYORbhPQVeakWz"
+                },
+                {
+                    "name": "Bad Penny - Live",
+                    "track_number": 6,
+                    "duration": "6:38",
+                    "track_spotify_url": "https://open.spotify.com/track/11sOM5UI975Rgyk0p3DuQ9"
+                },
+                {
+                    "name": "Keychain - Live",
+                    "track_number": 7,
+                    "duration": "5:01",
+                    "track_spotify_url": "https://open.spotify.com/track/4tQBfo8hgotU2XFxs0OdYb"
+                },
+                {
+                    "name": "Follow Me - Live",
+                    "track_number": 8,
+                    "duration": "5:56",
+                    "track_spotify_url": "https://open.spotify.com/track/6bDNnJYuRWMinTItvWeQUd"
+                },
+                {
+                    "name": "Bought And Sold - Live",
+                    "track_number": 9,
+                    "duration": "4:41",
+                    "track_spotify_url": "https://open.spotify.com/track/5au2uUcKWbSU2LwTt6K90n"
+                },
+                {
+                    "name": "The Last Of The Independents - Live",
+                    "track_number": 10,
+                    "duration": "5:35",
+                    "track_spotify_url": "https://open.spotify.com/track/40tSbZwAtD1IYsF56kj5xz"
+                },
+                {
+                    "name": "Shadow Play - Live",
+                    "track_number": 11,
+                    "duration": "5:04",
+                    "track_spotify_url": "https://open.spotify.com/track/0iA2xKtyWBiefuWFK5EcFP"
+                }
+            ]
+        },
+        {
+            "id": "479bZ6qz6NIBHMex9X1Awy",
+            "name": "Top Priority (Remastered 2017)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273ad696fbe950f614e3a2c235c",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ad696fbe950f614e3a2c235c",
+            "total_tracks": 11,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1979-09-16",
+            "release_date_precision": "day",
+            "release_year": "1979",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy",
+            "tracks": [
+                {
+                    "name": "Follow Me",
+                    "track_number": 1,
+                    "duration": "4:40",
+                    "track_spotify_url": "https://open.spotify.com/track/3bJJ1qrNtqlfb0aLS6QGF8"
+                },
+                {
+                    "name": "Philby",
+                    "track_number": 2,
+                    "duration": "3:49",
+                    "track_spotify_url": "https://open.spotify.com/track/37Sw3XtSIBB6Q09XzXS0N1"
+                },
+                {
+                    "name": "Wayward Child",
+                    "track_number": 3,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/36STCe14Gi3WJEv8TILVK0"
+                },
+                {
+                    "name": "Keychain",
+                    "track_number": 4,
+                    "duration": "4:09",
+                    "track_spotify_url": "https://open.spotify.com/track/3XrV6UViPn3imT6POeTH4l"
+                },
+                {
+                    "name": "At The Depot",
+                    "track_number": 5,
+                    "duration": "2:56",
+                    "track_spotify_url": "https://open.spotify.com/track/6YNVUsLRFr0WVIDDuIieKJ"
+                },
+                {
+                    "name": "Bad Penny",
+                    "track_number": 6,
+                    "duration": "4:05",
+                    "track_spotify_url": "https://open.spotify.com/track/3DmHaJ9zYKj5Snos05lkVF"
+                },
+                {
+                    "name": "Just Hit Town",
+                    "track_number": 7,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/4xbkn6Hw9TmmTPV47liS4I"
+                },
+                {
+                    "name": "Off The Handle",
+                    "track_number": 8,
+                    "duration": "5:35",
+                    "track_spotify_url": "https://open.spotify.com/track/1BzCKD5TPBrTvCJiDotfJ1"
+                },
+                {
+                    "name": "Public Enemy No. 1",
+                    "track_number": 9,
+                    "duration": "3:46",
+                    "track_spotify_url": "https://open.spotify.com/track/3B5DHK2z7qgOCfYDAHSq5C"
+                },
+                {
+                    "name": "Hell Cat",
+                    "track_number": 10,
+                    "duration": "4:50",
+                    "track_spotify_url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
+                },
+                {
+                    "name": "The Watcher",
+                    "track_number": 11,
+                    "duration": "5:43",
+                    "track_spotify_url": "https://open.spotify.com/track/56icmE9DVsDRDFwKmiPlxb"
+                }
+            ]
+        },
+        {
+            "id": "6mzKw8PnosDQ2sxsOylICG",
+            "name": "Photo Finish (Remastered 2017)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273519857135976b0a503564aa9",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851519857135976b0a503564aa9",
+            "total_tracks": 11,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1978-10-01",
+            "release_date_precision": "day",
+            "release_year": "1978",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/6mzKw8PnosDQ2sxsOylICG",
+            "tracks": [
+                {
+                    "name": "Shin Kicker",
+                    "track_number": 1,
+                    "duration": "3:56",
+                    "track_spotify_url": "https://open.spotify.com/track/5HLa4DEoZgMKAafbp3zkwg"
+                },
+                {
+                    "name": "Brute Force And Ignorance",
+                    "track_number": 2,
+                    "duration": "4:22",
+                    "track_spotify_url": "https://open.spotify.com/track/3SVyOJJBiRscLr2iWJth3G"
+                },
+                {
+                    "name": "Cruise On Out",
+                    "track_number": 3,
+                    "duration": "4:42",
+                    "track_spotify_url": "https://open.spotify.com/track/2w8ECqH0AgMQlc7aTDfvgA"
+                },
+                {
+                    "name": "Cloak & Dagger",
+                    "track_number": 4,
+                    "duration": "5:19",
+                    "track_spotify_url": "https://open.spotify.com/track/4X1gtyutSgvpbq7Hwb1Dkq"
+                },
+                {
+                    "name": "Overnight Bag",
+                    "track_number": 5,
+                    "duration": "4:38",
+                    "track_spotify_url": "https://open.spotify.com/track/0EHgdt6X9J3huCL1T6kdqU"
+                },
+                {
+                    "name": "Shadow Play",
+                    "track_number": 6,
+                    "duration": "4:46",
+                    "track_spotify_url": "https://open.spotify.com/track/15PTVLJS4Kczhnwl0FWFsh"
+                },
+                {
+                    "name": "The Mississippi Sheiks",
+                    "track_number": 7,
+                    "duration": "6:05",
+                    "track_spotify_url": "https://open.spotify.com/track/7tCmrCRUfFiYhdpwr4l8YQ"
+                },
+                {
+                    "name": "The Last Of The Independents",
+                    "track_number": 8,
+                    "duration": "4:02",
+                    "track_spotify_url": "https://open.spotify.com/track/71wSQbMyKSKC5qu8QL6hzW"
+                },
+                {
+                    "name": "Fuel To The Fire",
+                    "track_number": 9,
+                    "duration": "6:16",
+                    "track_spotify_url": "https://open.spotify.com/track/7rHebP0ifS71s0Byk7tEcM"
+                },
+                {
+                    "name": "Early Warning",
+                    "track_number": 10,
+                    "duration": "2:50",
+                    "track_spotify_url": "https://open.spotify.com/track/69DtggBVKt9Rhu4aMPW562"
+                },
+                {
+                    "name": "Juke Box Annie",
+                    "track_number": 11,
+                    "duration": "3:15",
+                    "track_spotify_url": "https://open.spotify.com/track/1GVTmnizIchTeR6TDRHCGh"
+                }
+            ]
+        },
+        {
+            "id": "7x2Smoj4FGRfcDHbwmDMaJ",
+            "name": "Calling Card (Remastered 2017)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2734b4d020e221e7c2fd8ca7980",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048514b4d020e221e7c2fd8ca7980",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1976-10-24",
+            "release_date_precision": "day",
+            "release_year": "1976",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/7x2Smoj4FGRfcDHbwmDMaJ",
+            "tracks": [
+                {
+                    "name": "Do You Read Me",
+                    "track_number": 1,
+                    "duration": "5:18",
+                    "track_spotify_url": "https://open.spotify.com/track/5vJhT8eiyvNbFzbRnkabE8"
+                },
+                {
+                    "name": "Country Mile",
+                    "track_number": 2,
+                    "duration": "3:18",
+                    "track_spotify_url": "https://open.spotify.com/track/6SghV6Sa6cqOP8UL23siZj"
+                },
+                {
+                    "name": "Moonchild",
+                    "track_number": 3,
+                    "duration": "4:47",
+                    "track_spotify_url": "https://open.spotify.com/track/400XN4PpJ4sFByiegnHFZi"
+                },
+                {
+                    "name": "Calling Card",
+                    "track_number": 4,
+                    "duration": "5:24",
+                    "track_spotify_url": "https://open.spotify.com/track/0YH79sYHBjmkApolWDK14a"
+                },
+                {
+                    "name": "I'll Admit You're Gone",
+                    "track_number": 5,
+                    "duration": "4:24",
+                    "track_spotify_url": "https://open.spotify.com/track/3mdeY0pndYfvMw5TaFoxcX"
+                },
+                {
+                    "name": "Secret Agent",
+                    "track_number": 6,
+                    "duration": "5:46",
+                    "track_spotify_url": "https://open.spotify.com/track/6fUTclsne4te2q5NpfmJQr"
+                },
+                {
+                    "name": "Jack-Knife Beat",
+                    "track_number": 7,
+                    "duration": "7:03",
+                    "track_spotify_url": "https://open.spotify.com/track/1oZpizcDeS7BAfm8HO2pyz"
+                },
+                {
+                    "name": "Edged In Blue",
+                    "track_number": 8,
+                    "duration": "5:29",
+                    "track_spotify_url": "https://open.spotify.com/track/1bV2aEUgbJ9DbDSNtleDJK"
+                },
+                {
+                    "name": "Barley & Grape Rag",
+                    "track_number": 9,
+                    "duration": "3:39",
+                    "track_spotify_url": "https://open.spotify.com/track/7nKemRVtWzh4rvvl9ZsLgF"
+                },
+                {
+                    "name": "Where Was I Going To?",
+                    "track_number": 10,
+                    "duration": "5:24",
+                    "track_spotify_url": "https://open.spotify.com/track/38txe4p8xoFJXaN7QFGWZL"
+                }
+            ]
+        },
+        {
+            "id": "0FZ3rWN8AmSHXl56mtRamM",
+            "name": "Against The Grain (Remastered 2017)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273b6be7680c53be7eb7cd2da95",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851b6be7680c53be7eb7cd2da95",
+            "total_tracks": 12,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1975-10-01",
+            "release_date_precision": "day",
+            "release_year": "1975",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/0FZ3rWN8AmSHXl56mtRamM",
+            "tracks": [
+                {
+                    "name": "Let Me In",
+                    "track_number": 1,
+                    "duration": "4:03",
+                    "track_spotify_url": "https://open.spotify.com/track/2Lt54MGpzHaeC4hRsF8dIs"
+                },
+                {
+                    "name": "Cross Me Off Your List",
+                    "track_number": 2,
+                    "duration": "4:26",
+                    "track_spotify_url": "https://open.spotify.com/track/6T4dt6wIl3enzdY1M2iPs3"
+                },
+                {
+                    "name": "Ain't Too Good",
+                    "track_number": 3,
+                    "duration": "3:55",
+                    "track_spotify_url": "https://open.spotify.com/track/0zcbSgQOng6gI2gInAcbX3"
+                },
+                {
+                    "name": "Souped-Up Ford",
+                    "track_number": 4,
+                    "duration": "6:25",
+                    "track_spotify_url": "https://open.spotify.com/track/4w2uUirdGSiAvEeUZRXPGb"
+                },
+                {
+                    "name": "Bought And Sold",
+                    "track_number": 5,
+                    "duration": "3:26",
+                    "track_spotify_url": "https://open.spotify.com/track/7b1JUhPmOFIqY0qkaJ12EI"
+                },
+                {
+                    "name": "I Take What I Want",
+                    "track_number": 6,
+                    "duration": "4:24",
+                    "track_spotify_url": "https://open.spotify.com/track/4dPecRVM0vySL56BdDpBeb"
+                },
+                {
+                    "name": "Lost At Sea",
+                    "track_number": 7,
+                    "duration": "4:07",
+                    "track_spotify_url": "https://open.spotify.com/track/648cgBflQtutdzOsorYoha"
+                },
+                {
+                    "name": "All Around Man",
+                    "track_number": 8,
+                    "duration": "6:15",
+                    "track_spotify_url": "https://open.spotify.com/track/37AnwSs8GgvNMXPc6S7i4t"
+                },
+                {
+                    "name": "Out On The Western Plain",
+                    "track_number": 9,
+                    "duration": "3:55",
+                    "track_spotify_url": "https://open.spotify.com/track/2lnoaahphaIBc0k3LCLn43"
+                },
+                {
+                    "name": "At The Bottom",
+                    "track_number": 10,
+                    "duration": "3:22",
+                    "track_spotify_url": "https://open.spotify.com/track/2aFll8qi54FeWctJfWFZc8"
+                },
+                {
+                    "name": "Cluney Blues",
+                    "track_number": 11,
+                    "duration": "2:15",
+                    "track_spotify_url": "https://open.spotify.com/track/4myyDfALM3KHAwPM2nNjjk"
+                },
+                {
+                    "name": "My Baby, Sure",
+                    "track_number": 12,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/2lDNwBJFnHaRLJc88LSVYx"
+                }
+            ]
+        },
+        {
+            "id": "0OpKEThWe2Evxk6zwixWZU",
+            "name": "Irish Tour \u201874 (Live / Remastered 2017)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2730394e97183dcbbe88281cee9",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048510394e97183dcbbe88281cee9",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1974-07-21",
+            "release_date_precision": "day",
+            "release_year": "1974",
+            "release_month": "07",
+            "album_spotify_url": "https://open.spotify.com/album/0OpKEThWe2Evxk6zwixWZU",
+            "tracks": [
+                {
+                    "name": "Cradle Rock - Live",
+                    "track_number": 1,
+                    "duration": "7:36",
+                    "track_spotify_url": "https://open.spotify.com/track/4y6WMx6W8p2eL85thIvf6g"
+                },
+                {
+                    "name": "I Wonder Who - Live",
+                    "track_number": 2,
+                    "duration": "7:54",
+                    "track_spotify_url": "https://open.spotify.com/track/1kDbqzDTmKukL7Of384wQE"
+                },
+                {
+                    "name": "Tattoo'd Lady - Live",
+                    "track_number": 3,
+                    "duration": "5:00",
+                    "track_spotify_url": "https://open.spotify.com/track/7HbMgKUHJ3dMxRyOnqCzCf"
+                },
+                {
+                    "name": "Too Much Alcohol - Live",
+                    "track_number": 4,
+                    "duration": "8:31",
+                    "track_spotify_url": "https://open.spotify.com/track/1sYmXANAvNO1TqeKqpk8aB"
+                },
+                {
+                    "name": "As The Crow Flies - Live",
+                    "track_number": 5,
+                    "duration": "5:48",
+                    "track_spotify_url": "https://open.spotify.com/track/039M60IHcijs8IqYbU5Cww"
+                },
+                {
+                    "name": "A Million Miles Away - Live",
+                    "track_number": 6,
+                    "duration": "9:34",
+                    "track_spotify_url": "https://open.spotify.com/track/0SPTKo3RX6DF5xCVvQY6Jd"
+                },
+                {
+                    "name": "Walk On Hot Coals - Live",
+                    "track_number": 7,
+                    "duration": "11:27",
+                    "track_spotify_url": "https://open.spotify.com/track/52MeqrTH0BD9wz5VvNXjyR"
+                },
+                {
+                    "name": "Who's That Coming? - Live",
+                    "track_number": 8,
+                    "duration": "10:05",
+                    "track_spotify_url": "https://open.spotify.com/track/4UV6jp4eGtXVJW5KAw39AI"
+                },
+                {
+                    "name": "Back On My Stompin' Ground (After Hours) - Live",
+                    "track_number": 9,
+                    "duration": "5:18",
+                    "track_spotify_url": "https://open.spotify.com/track/2S4t7oIgDoDf6Ls3xMxdZK"
+                },
+                {
+                    "name": "Just A Little Bit - Live",
+                    "track_number": 10,
+                    "duration": "8:39",
+                    "track_spotify_url": "https://open.spotify.com/track/1GXLZ3lltma74PwMDUhXzi"
+                }
+            ]
+        },
+        {
+            "id": "4lC6XXj4Cq9rsaJh7EghRg",
+            "name": "Tattoo (Remastered 2017)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2732c6cae622b79bdd649434d64",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048512c6cae622b79bdd649434d64",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1973-11-11",
+            "release_date_precision": "day",
+            "release_year": "1973",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg",
+            "tracks": [
+                {
+                    "name": "Tattoo'd Lady",
+                    "track_number": 1,
+                    "duration": "4:39",
+                    "track_spotify_url": "https://open.spotify.com/track/3qy4FZ9nzsjSmVOBMZCUed"
+                },
+                {
+                    "name": "Cradle Rock",
+                    "track_number": 2,
+                    "duration": "6:15",
+                    "track_spotify_url": "https://open.spotify.com/track/0mew0kA2gBAqtEleoaDiK8"
+                },
+                {
+                    "name": "20:20 Vision",
+                    "track_number": 3,
+                    "duration": "4:03",
+                    "track_spotify_url": "https://open.spotify.com/track/7mIVINWOn5T3unNFiubutD"
+                },
+                {
+                    "name": "They Don't Make Them Like You Anymore",
+                    "track_number": 4,
+                    "duration": "4:04",
+                    "track_spotify_url": "https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt"
+                },
+                {
+                    "name": "Livin' Like A Trucker",
+                    "track_number": 5,
+                    "duration": "4:20",
+                    "track_spotify_url": "https://open.spotify.com/track/3oSmGdKilAFRG18CJ0k2IK"
+                },
+                {
+                    "name": "Sleep On A Clothes-Line",
+                    "track_number": 6,
+                    "duration": "5:15",
+                    "track_spotify_url": "https://open.spotify.com/track/7kldL7lNKsJpck0l0tR9M0"
+                },
+                {
+                    "name": "Who's That Coming?",
+                    "track_number": 7,
+                    "duration": "7:13",
+                    "track_spotify_url": "https://open.spotify.com/track/4COPeMID4Y8uy99dLwwtQi"
+                },
+                {
+                    "name": "A Million Miles Away",
+                    "track_number": 8,
+                    "duration": "6:55",
+                    "track_spotify_url": "https://open.spotify.com/track/30CnvMgamyV8oWQEwyCqsq"
+                },
+                {
+                    "name": "Admit It",
+                    "track_number": 9,
+                    "duration": "4:21",
+                    "track_spotify_url": "https://open.spotify.com/track/4yr44bJ9ewE1yWxT24Pcv2"
+                },
+                {
+                    "name": "Tucson, Arizona",
+                    "track_number": 10,
+                    "duration": "3:51",
+                    "track_spotify_url": "https://open.spotify.com/track/2htI1Extd03fIHpCm5Cit9"
+                }
+            ]
+        },
+        {
+            "id": "31Sza8aKnWhwkUtcBdQfML",
+            "name": "Blueprint (Remastered 2017)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2737bf1d39150275594a4ed16ca",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048517bf1d39150275594a4ed16ca",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1973-02-18",
+            "release_date_precision": "day",
+            "release_year": "1973",
+            "release_month": "02",
+            "album_spotify_url": "https://open.spotify.com/album/31Sza8aKnWhwkUtcBdQfML",
+            "tracks": [
+                {
+                    "name": "Walk On Hot Coals",
+                    "track_number": 1,
+                    "duration": "7:01",
+                    "track_spotify_url": "https://open.spotify.com/track/3PDuHFGZsFbUpkQM2KV5rW"
+                },
+                {
+                    "name": "Daughter Of The Everglades",
+                    "track_number": 2,
+                    "duration": "6:11",
+                    "track_spotify_url": "https://open.spotify.com/track/3jjIBzbGC7qdOa4VlFXOTj"
+                },
+                {
+                    "name": "Bankers Blues",
+                    "track_number": 3,
+                    "duration": "4:45",
+                    "track_spotify_url": "https://open.spotify.com/track/5oat9T0ORFYgjliTMArsOr"
+                },
+                {
+                    "name": "Hands Off",
+                    "track_number": 4,
+                    "duration": "4:33",
+                    "track_spotify_url": "https://open.spotify.com/track/5DrupCSzvZKVEh1PEVuH4U"
+                },
+                {
+                    "name": "Race The Breeze",
+                    "track_number": 5,
+                    "duration": "6:55",
+                    "track_spotify_url": "https://open.spotify.com/track/7D5Hcld1OVQoeJQkmt982W"
+                },
+                {
+                    "name": "Seventh Son Of A Seventh Son",
+                    "track_number": 6,
+                    "duration": "8:27",
+                    "track_spotify_url": "https://open.spotify.com/track/7L9yQ3ccW5HnTcEvqpm5qq"
+                },
+                {
+                    "name": "Unmilitary Two-Step",
+                    "track_number": 7,
+                    "duration": "2:50",
+                    "track_spotify_url": "https://open.spotify.com/track/6rkKAYvMwrYUK2Ub1CARFL"
+                },
+                {
+                    "name": "If I Had A Reason",
+                    "track_number": 8,
+                    "duration": "4:30",
+                    "track_spotify_url": "https://open.spotify.com/track/74ngAxdb0HS6zQPAPMbguj"
+                },
+                {
+                    "name": "Stompin' Ground",
+                    "track_number": 9,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/4UOzdddWkK9BjEinBNlCB3"
+                },
+                {
+                    "name": "Treat Her Right",
+                    "track_number": 10,
+                    "duration": "3:59",
+                    "track_spotify_url": "https://open.spotify.com/track/5l7tQ07pJV2PQcqgM0xnOy"
+                }
+            ]
+        },
+        {
+            "id": "39iD8VFWbnFbidWzR3AEhv",
+            "name": "Live! In Europe (Remastered 2017)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27353cc9434312a12b2e33f9320",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485153cc9434312a12b2e33f9320",
+            "total_tracks": 9,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1972-05-14",
+            "release_date_precision": "day",
+            "release_year": "1972",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/39iD8VFWbnFbidWzR3AEhv",
+            "tracks": [
+                {
+                    "name": "Messin' With The Kid - Live",
+                    "track_number": 1,
+                    "duration": "6:23",
+                    "track_spotify_url": "https://open.spotify.com/track/33w8T1v8VBZlGaRmbtb53F"
+                },
+                {
+                    "name": "Laundromat - Live",
+                    "track_number": 2,
+                    "duration": "5:11",
+                    "track_spotify_url": "https://open.spotify.com/track/6T7AvKaP5EWod4uo7QsA5R"
+                },
+                {
+                    "name": "I Could've Had Religion - Live",
+                    "track_number": 3,
+                    "duration": "8:33",
+                    "track_spotify_url": "https://open.spotify.com/track/1ldYOFQiauq6NYqxG1wDJ2"
+                },
+                {
+                    "name": "Pistol Slapper Blues - Live",
+                    "track_number": 4,
+                    "duration": "2:49",
+                    "track_spotify_url": "https://open.spotify.com/track/5Djpxr52xQIF8vfvihzwPD"
+                },
+                {
+                    "name": "Going To My Hometown - Live",
+                    "track_number": 5,
+                    "duration": "5:42",
+                    "track_spotify_url": "https://open.spotify.com/track/4ZVznADiyjkwLyCCHH2CYD"
+                },
+                {
+                    "name": "In Your Town - Live",
+                    "track_number": 6,
+                    "duration": "9:44",
+                    "track_spotify_url": "https://open.spotify.com/track/33pnI0o4X1PSIAJ2VDAzRL"
+                },
+                {
+                    "name": "What In The World - Live",
+                    "track_number": 7,
+                    "duration": "7:37",
+                    "track_spotify_url": "https://open.spotify.com/track/5JWNBa09kDCBE6oSe4ZhgY"
+                },
+                {
+                    "name": "Hoodoo Man - Live",
+                    "track_number": 8,
+                    "duration": "5:56",
+                    "track_spotify_url": "https://open.spotify.com/track/68nDYAC915NMDulZ8fmQng"
+                },
+                {
+                    "name": "Bullfrog Blues - Live",
+                    "track_number": 9,
+                    "duration": "6:44",
+                    "track_spotify_url": "https://open.spotify.com/track/3SreShmoH5pH0RoI9iFgj5"
+                }
+            ]
+        },
+        {
+            "id": "5o5I17kDIyB7c5iAOhslmJ",
+            "name": "Deuce (Remastered 2017)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273bf78e5d6d456a2027612e4e4",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851bf78e5d6d456a2027612e4e4",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1971-11-28",
+            "release_date_precision": "day",
+            "release_year": "1971",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ",
+            "tracks": [
+                {
+                    "name": "Used To Be",
+                    "track_number": 1,
+                    "duration": "5:06",
+                    "track_spotify_url": "https://open.spotify.com/track/6GMEe9l0bvkXpO4ZGYKgXu"
+                },
+                {
+                    "name": "I'm Not Awake Yet",
+                    "track_number": 2,
+                    "duration": "5:36",
+                    "track_spotify_url": "https://open.spotify.com/track/1bUnsxpEFIzu7mNpLXwdNg"
+                },
+                {
+                    "name": "Don't Know Where I'm Going",
+                    "track_number": 3,
+                    "duration": "2:47",
+                    "track_spotify_url": "https://open.spotify.com/track/7AU74a5VdBuavo0ue6UCJy"
+                },
+                {
+                    "name": "Maybe I Will",
+                    "track_number": 4,
+                    "duration": "4:14",
+                    "track_spotify_url": "https://open.spotify.com/track/36FbKPDsrOlJ631iEabCBh"
+                },
+                {
+                    "name": "Whole Lot Of People",
+                    "track_number": 5,
+                    "duration": "4:55",
+                    "track_spotify_url": "https://open.spotify.com/track/3V7RlrGGow3jgq0MbBc5nc"
+                },
+                {
+                    "name": "In Your Town",
+                    "track_number": 6,
+                    "duration": "5:44",
+                    "track_spotify_url": "https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd"
+                },
+                {
+                    "name": "Should've Learnt My Lesson",
+                    "track_number": 7,
+                    "duration": "3:34",
+                    "track_spotify_url": "https://open.spotify.com/track/3tWilG9oInQDODz2Xj5v4v"
+                },
+                {
+                    "name": "There's A Light",
+                    "track_number": 8,
+                    "duration": "5:57",
+                    "track_spotify_url": "https://open.spotify.com/track/6zpudkEOPLQWMjqPY5x6l9"
+                },
+                {
+                    "name": "Out Of My Mind",
+                    "track_number": 9,
+                    "duration": "3:07",
+                    "track_spotify_url": "https://open.spotify.com/track/3m5bekHMOwPaIfRgcvnJDE"
+                },
+                {
+                    "name": "Crest Of A Wave",
+                    "track_number": 10,
+                    "duration": "5:51",
+                    "track_spotify_url": "https://open.spotify.com/track/7EGqe1xQ4s2XSoWnpeG8ta"
+                }
+            ]
+        },
+        {
+            "id": "3tk9uyWCvfQbkmvROJGUXB",
+            "name": "Rory Gallagher (Remastered 2017)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2731b6bd3cc10f42a536921c008",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048511b6bd3cc10f42a536921c008",
+            "total_tracks": 12,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1971-05-23",
+            "release_date_precision": "day",
+            "release_year": "1971",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/3tk9uyWCvfQbkmvROJGUXB",
+            "tracks": [
+                {
+                    "name": "Laundromat",
+                    "track_number": 1,
+                    "duration": "4:38",
+                    "track_spotify_url": "https://open.spotify.com/track/6UaolbiZgvtNkLfU0qPLvx"
+                },
+                {
+                    "name": "Just The Smile",
+                    "track_number": 2,
+                    "duration": "3:40",
+                    "track_spotify_url": "https://open.spotify.com/track/7o9eh3vfBkmVsXVP8lTW1y"
+                },
+                {
+                    "name": "I Fall Apart",
+                    "track_number": 3,
+                    "duration": "5:12",
+                    "track_spotify_url": "https://open.spotify.com/track/4MqFHxNM8uM7UEW4t56nzU"
+                },
+                {
+                    "name": "Wave Myself Goodbye",
+                    "track_number": 4,
+                    "duration": "3:29",
+                    "track_spotify_url": "https://open.spotify.com/track/35dr4JJdizjJtWCkTUzT7O"
+                },
+                {
+                    "name": "Hands Up",
+                    "track_number": 5,
+                    "duration": "5:25",
+                    "track_spotify_url": "https://open.spotify.com/track/2tgICGojnLl3XPEa4xwXIP"
+                },
+                {
+                    "name": "Sinner Boy",
+                    "track_number": 6,
+                    "duration": "5:05",
+                    "track_spotify_url": "https://open.spotify.com/track/3avggD0Usgm0ihmKoGWk4E"
+                },
+                {
+                    "name": "For The Last Time",
+                    "track_number": 7,
+                    "duration": "6:34",
+                    "track_spotify_url": "https://open.spotify.com/track/6qnqmducagZ5wljSLYrVoI"
+                },
+                {
+                    "name": "It's You",
+                    "track_number": 8,
+                    "duration": "2:38",
+                    "track_spotify_url": "https://open.spotify.com/track/6lO51PLNG8bgY5EYFCLWAk"
+                },
+                {
+                    "name": "I'm Not Surprised",
+                    "track_number": 9,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/7sK38OQAjAY1fHHE7DalBU"
+                },
+                {
+                    "name": "Can't Believe It's True",
+                    "track_number": 10,
+                    "duration": "7:17",
+                    "track_spotify_url": "https://open.spotify.com/track/1a4MGSJFwu94VfjBZq6qkc"
+                },
+                {
+                    "name": "Gypsy Woman",
+                    "track_number": 11,
+                    "duration": "4:01",
+                    "track_spotify_url": "https://open.spotify.com/track/5brMLuOVolBnEeCB9JgvLu"
+                },
+                {
+                    "name": "It Takes Time",
+                    "track_number": 12,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/3LlDED7ReBV0H11ngiALth"
+                }
+            ]
+        },
+        {
+            "id": "601tZ0wZ9ypApGr4PoBnlD",
+            "name": "The Best Of Rory Gallagher At The BBC",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273b9735c698abed6bfb755c5f5",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851b9735c698abed6bfb755c5f5",
+            "total_tracks": 3,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2024-09-13",
+            "release_date_precision": "day",
+            "release_year": "2024",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/601tZ0wZ9ypApGr4PoBnlD",
+            "tracks": [
+                {
+                    "name": "I Wonder Who - Live On BBC \"Sounds Of The Seventies\" / 1974",
+                    "track_number": 1,
+                    "duration": "8:15",
+                    "track_spotify_url": "https://open.spotify.com/track/47tJJRis8E5kSC7cxynAk6"
+                },
+                {
+                    "name": "Back On My Stompin' Ground - Live On BBC \"Sounds Of The Seventies\" / 1974",
+                    "track_number": 2,
+                    "duration": "4:58",
+                    "track_spotify_url": "https://open.spotify.com/track/29mDsKzHajOm2BRUQ0bc7A"
+                },
+                {
+                    "name": "Cradle Rock - Live On BBC \"Sounds Of The Seventies\" / 1973",
+                    "track_number": 3,
+                    "duration": "5:52",
+                    "track_spotify_url": "https://open.spotify.com/track/2H462sr8ViugW9pcXk40WZ"
+                }
+            ]
+        },
+        {
+            "id": "294ekHbBp60EqBv4Oz69s4",
+            "name": "Cradle Rock (Live on BBC \"Sounds of the Seventies\" / 1973)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273a725020647542fed45e645d0",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a725020647542fed45e645d0",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2024-07-18",
+            "release_date_precision": "day",
+            "release_year": "2024",
+            "release_month": "07",
+            "album_spotify_url": "https://open.spotify.com/album/294ekHbBp60EqBv4Oz69s4",
+            "tracks": [
+                {
+                    "name": "Cradle Rock - Live On BBC \"Sounds Of The Seventies\" / 1973",
+                    "track_number": 1,
+                    "duration": "5:52",
+                    "track_spotify_url": "https://open.spotify.com/track/65zKVnzzCYj8vCFNKXqpHR"
+                }
+            ]
+        },
+        {
+            "id": "2OuIFq3R4grLauoIQwkk9f",
+            "name": "Moonchild (Live At The Town & Country Club, London, UK / 1990)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2737c097cf55d46b66223cedb0f",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048517c097cf55d46b66223cedb0f",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2023-06-16",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "06",
+            "album_spotify_url": "https://open.spotify.com/album/2OuIFq3R4grLauoIQwkk9f",
+            "tracks": [
+                {
+                    "name": "Moonchild - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 1,
+                    "duration": "4:19",
+                    "track_spotify_url": "https://open.spotify.com/track/42vU1hTXYfiBsQlb6IyPlY"
+                }
+            ]
+        },
+        {
+            "id": "4QP957QHwZEbgCaoNKFrhN",
+            "name": "Heaven's Gate (Live At The Town & Country Club, London, UK / 1990)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2733e5a55d4f563a285686b3b04",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048513e5a55d4f563a285686b3b04",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2023-06-02",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "06",
+            "album_spotify_url": "https://open.spotify.com/album/4QP957QHwZEbgCaoNKFrhN",
+            "tracks": [
+                {
+                    "name": "Heaven's Gate - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 1,
+                    "duration": "4:40",
+                    "track_spotify_url": "https://open.spotify.com/track/2Z0lJeL3NFaRM6U4ZRKbQB"
+                }
+            ]
+        },
+        {
+            "id": "6CZ0il5qWileidMUd8Kmpb",
+            "name": "Continental Op (Live At The Town & Country Club, London, UK / 1990)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2733224cce91894e17ce77741a3",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048513224cce91894e17ce77741a3",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2023-05-05",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/6CZ0il5qWileidMUd8Kmpb",
+            "tracks": [
+                {
+                    "name": "Continental Op - Live At The Town & Country Club, London, UK / 1990",
+                    "track_number": 1,
+                    "duration": "4:59",
+                    "track_spotify_url": "https://open.spotify.com/track/7IZEzemIreYfaNyHMckZ2M"
+                }
+            ]
+        },
+        {
+            "id": "65JzRoZhHUKmRD2HaGtjGM",
+            "name": "The Best Of Rory Gallagher At The BBC",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2737d615d4d498d515712c7d260",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048517d615d4d498d515712c7d260",
+            "total_tracks": 24,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "2024-10-11",
+            "release_date_precision": "day",
+            "release_year": "2024",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/65JzRoZhHUKmRD2HaGtjGM",
+            "tracks": [
+                {
+                    "name": "Cradle Rock - Live On BBC \"Sounds Of The Seventies\" / 1973",
+                    "track_number": 1,
+                    "duration": "5:52",
+                    "track_spotify_url": "https://open.spotify.com/track/3HCfNO1ukgBtanRM6HAfrS"
+                },
+                {
+                    "name": "Back On My Stompin' Ground - Live On BBC \"Sounds Of The Seventies\" / 1974",
+                    "track_number": 2,
+                    "duration": "4:58",
+                    "track_spotify_url": "https://open.spotify.com/track/3ZRHU4wFpxFL775paEQGFc"
+                },
+                {
+                    "name": "I Wonder Who - Live On BBC \"Sounds Of The Seventies\" / 1974",
+                    "track_number": 3,
+                    "duration": "8:15",
+                    "track_spotify_url": "https://open.spotify.com/track/0xAI86gudvQ3rD91eV0etT"
+                },
+                {
+                    "name": "Continental Op - Live On BBC Radio 2 \"Paul Jones Blues Show\" / 1986",
+                    "track_number": 4,
+                    "duration": "4:47",
+                    "track_spotify_url": "https://open.spotify.com/track/2uZ0NG0y5IiBKv8Wv5Fwpp"
+                },
+                {
+                    "name": "Tattoo'd Lady - Live On BBC \"Sounds Of The Seventies\" / 1973",
+                    "track_number": 5,
+                    "duration": "4:05",
+                    "track_spotify_url": "https://open.spotify.com/track/5q08HrFtAxoUHhcbfGySIs"
+                },
+                {
+                    "name": "Used To Be - Live On BBC \"Sounds Of The Seventies\" / 1971",
+                    "track_number": 6,
+                    "duration": "4:45",
+                    "track_spotify_url": "https://open.spotify.com/track/4teoMJGH7kJoIa5Uy9vLoc"
+                },
+                {
+                    "name": "Banker's Blues - Live On BBC \"Sounds Of The Seventies\" / 1973",
+                    "track_number": 7,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/1YUVbJRP6Nu2J7IoDXmCuA"
+                },
+                {
+                    "name": "Can't Be Satisfied - Live On BBC Radio 1 / 1984",
+                    "track_number": 8,
+                    "duration": "4:19",
+                    "track_spotify_url": "https://open.spotify.com/track/5F9BtcJUgIQK4nZ2LVKcSx"
+                },
+                {
+                    "name": "I Could've Had Religion - Live On BBC \"Sounds Of The Seventies\" / 1972",
+                    "track_number": 9,
+                    "duration": "7:47",
+                    "track_spotify_url": "https://open.spotify.com/track/2IMU7sx60oj9nLQOaW9Z0n"
+                },
+                {
+                    "name": "Walk On Hot Coals - Live On BBC \"Sounds Of The Seventies\" / 1973",
+                    "track_number": 10,
+                    "duration": "7:52",
+                    "track_spotify_url": "https://open.spotify.com/track/1pxjs674T3bfVegrlwEUf7"
+                },
+                {
+                    "name": "Messin' With The Kid - Live On BBC \"Sounds Of The Seventies\" / 1972",
+                    "track_number": 11,
+                    "duration": "5:51",
+                    "track_spotify_url": "https://open.spotify.com/track/5NRJTsDuyMV56l3y5mTtun"
+                },
+                {
+                    "name": "Shinkicker - BBC In Concert / Live At The Venue, UK / 20 September 1979",
+                    "track_number": 1,
+                    "duration": "4:00",
+                    "track_spotify_url": "https://open.spotify.com/track/6OTmpRd5YJG1HDys5bgNMm"
+                },
+                {
+                    "name": "Last Of The Independents - BBC In Concert / Live At The Venue, UK / 20 September 1979",
+                    "track_number": 2,
+                    "duration": "6:24",
+                    "track_spotify_url": "https://open.spotify.com/track/6ZR6kVIVuJeGQrf7LuxLLg"
+                },
+                {
+                    "name": "Keychain - BBC In Concert / Live At The Venue, UK / 20 September 1979",
+                    "track_number": 3,
+                    "duration": "4:56",
+                    "track_spotify_url": "https://open.spotify.com/track/78YCIqTcU4pnZfm90kYD3Q"
+                },
+                {
+                    "name": "Follow Me - BBC In Concert / Live At The Venue, UK / 20 September 1979",
+                    "track_number": 4,
+                    "duration": "5:33",
+                    "track_spotify_url": "https://open.spotify.com/track/5wtMk7ipfnTLJ3te8HDlRa"
+                },
+                {
+                    "name": "Bought And Sold - BBC In Concert / Live At The Venue, UK / 20 September 1979",
+                    "track_number": 5,
+                    "duration": "5:55",
+                    "track_spotify_url": "https://open.spotify.com/track/4YPjdnOUefAeVArubhm30R"
+                },
+                {
+                    "name": "Wayward Child - BBC In Concert / Live At The Venue, UK / 20 September 1979",
+                    "track_number": 6,
+                    "duration": "4:07",
+                    "track_spotify_url": "https://open.spotify.com/track/78upYESyU1WTRvZVhBvk8L"
+                },
+                {
+                    "name": "Mississippi Sheiks - BBC In Concert / Live At The Venue, UK / 20 September 1979",
+                    "track_number": 7,
+                    "duration": "5:26",
+                    "track_spotify_url": "https://open.spotify.com/track/6JVGchzokTrnwKk6eW57HS"
+                },
+                {
+                    "name": "Out On The Western Plain - BBC In Concert / Live At The Venue, UK / 20 September 1979",
+                    "track_number": 8,
+                    "duration": "4:34",
+                    "track_spotify_url": "https://open.spotify.com/track/4TT1uWtXVNCu90xGn7Oe9k"
+                },
+                {
+                    "name": "As The Crow Flies - BBC In Concert / Live At The Venue, UK / 20 September 1979",
+                    "track_number": 9,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/7vIC1RkzvMPCy8UK6JcUo1"
+                },
+                {
+                    "name": "Do You Read Me? - BBC In Concert / Live At The Venue, UK / 20 September 1979",
+                    "track_number": 10,
+                    "duration": "6:29",
+                    "track_spotify_url": "https://open.spotify.com/track/2DRG1oqErkHATZ1bDEvbJB"
+                },
+                {
+                    "name": "Philby - BBC In Concert / Live At The Venue, UK / 20 September 1979",
+                    "track_number": 11,
+                    "duration": "3:52",
+                    "track_spotify_url": "https://open.spotify.com/track/15Cw6RgZBYjZbeIKP0CM4J"
+                },
+                {
+                    "name": "Hellcat - BBC In Concert / Live At The Venue, UK / 20 September 1979",
+                    "track_number": 12,
+                    "duration": "5:09",
+                    "track_spotify_url": "https://open.spotify.com/track/5IffOvsB7tIKuGeqXx5mfR"
+                },
+                {
+                    "name": "Cruise On Out - BBC In Concert / Live At The Venue, UK / 20 September 1979",
+                    "track_number": 13,
+                    "duration": "6:18",
+                    "track_spotify_url": "https://open.spotify.com/track/4R8P7Wfngs2taeEVno7v8O"
+                }
+            ]
+        },
+        {
+            "id": "31ytLImYVvRMqvGiidYCoS",
+            "name": "The Best Of",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273e49b6264c172df9e19d5c5d7",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851e49b6264c172df9e19d5c5d7",
+            "total_tracks": 30,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "2020-10-09",
+            "release_date_precision": "day",
+            "release_year": "2020",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/31ytLImYVvRMqvGiidYCoS",
+            "tracks": [
+                {
+                    "name": "What's Going On",
+                    "track_number": 1,
+                    "duration": "2:48",
+                    "track_spotify_url": "https://open.spotify.com/track/1fSLNxoIBitpsu5JZL5cer"
+                },
+                {
+                    "name": "Shadow Play - Remastered 2017",
+                    "track_number": 2,
+                    "duration": "4:46",
+                    "track_spotify_url": "https://open.spotify.com/track/5uswgR1dJx7gR0XfOLHNFq"
+                },
+                {
+                    "name": "Follow Me - Remastered 2017",
+                    "track_number": 3,
+                    "duration": "4:39",
+                    "track_spotify_url": "https://open.spotify.com/track/1WMrELXzmc4249g7YbvBcB"
+                },
+                {
+                    "name": "Tattoo'd Lady - Remastered 2017",
+                    "track_number": 4,
+                    "duration": "4:40",
+                    "track_spotify_url": "https://open.spotify.com/track/1sdkTWj7vuYT64B3c6ujCj"
+                },
+                {
+                    "name": "All Around Man - Remastered 2017",
+                    "track_number": 5,
+                    "duration": "6:14",
+                    "track_spotify_url": "https://open.spotify.com/track/0OuVdTsfkcYNZcuAK2cxol"
+                },
+                {
+                    "name": "I Fall Apart - Remastered 2017",
+                    "track_number": 6,
+                    "duration": "5:11",
+                    "track_spotify_url": "https://open.spotify.com/track/1O6haCoxCeyn4tnjjqCYnX"
+                },
+                {
+                    "name": "Daughter Of The Everglades - Remastered 2017",
+                    "track_number": 7,
+                    "duration": "6:11",
+                    "track_spotify_url": "https://open.spotify.com/track/33ajrn7YzpbIpEkNn1Wi4m"
+                },
+                {
+                    "name": "Calling Card - Remastered 2017",
+                    "track_number": 8,
+                    "duration": "5:24",
+                    "track_spotify_url": "https://open.spotify.com/track/2XrDfFwNqu7naSpQhaUAYi"
+                },
+                {
+                    "name": "I'm Not Awake Yet - Remastered 2017",
+                    "track_number": 9,
+                    "duration": "5:36",
+                    "track_spotify_url": "https://open.spotify.com/track/7sxRHB6fqOrA0WrgWKY1lM"
+                },
+                {
+                    "name": "Just The Smile - Remastered 2017",
+                    "track_number": 10,
+                    "duration": "3:40",
+                    "track_spotify_url": "https://open.spotify.com/track/0UXqqzxO8AjyO4zcXelNlW"
+                },
+                {
+                    "name": "Out Of My Mind - Remastered 2017",
+                    "track_number": 11,
+                    "duration": "3:05",
+                    "track_spotify_url": "https://open.spotify.com/track/1RZWw5Ar1WAqQG4lZaSVn3"
+                },
+                {
+                    "name": "Edged In Blue - Remastered 2017",
+                    "track_number": 12,
+                    "duration": "5:29",
+                    "track_spotify_url": "https://open.spotify.com/track/7w5V5EJh7xIWagZ4nOUUUS"
+                },
+                {
+                    "name": "Philby - Remastered 2017",
+                    "track_number": 13,
+                    "duration": "3:49",
+                    "track_spotify_url": "https://open.spotify.com/track/5JRYW8SodcQWnpebAK3ywA"
+                },
+                {
+                    "name": "It's Happened Before, It'll Happen Again",
+                    "track_number": 14,
+                    "duration": "6:32",
+                    "track_spotify_url": "https://open.spotify.com/track/5V83rCINiJOrGSqc2qA3rK"
+                },
+                {
+                    "name": "Crest Of A Wave - Remastered 2017",
+                    "track_number": 15,
+                    "duration": "5:53",
+                    "track_spotify_url": "https://open.spotify.com/track/5Hmp6fEzoyhMf3NVUG8Up6"
+                },
+                {
+                    "name": "Bad Penny - Remastered 2017",
+                    "track_number": 1,
+                    "duration": "4:04",
+                    "track_spotify_url": "https://open.spotify.com/track/3u2nBSK3EiU3iX6hZx0GpJ"
+                },
+                {
+                    "name": "Walk On Hot Coals - Remastered 2017",
+                    "track_number": 2,
+                    "duration": "7:01",
+                    "track_spotify_url": "https://open.spotify.com/track/4Yf9T9kmVFfDrSelKuK4zF"
+                },
+                {
+                    "name": "Blister On The Moon",
+                    "track_number": 3,
+                    "duration": "3:27",
+                    "track_spotify_url": "https://open.spotify.com/track/0J9Nibdp98vYb9rf8ZbJ4R"
+                },
+                {
+                    "name": "Loanshark Blues - Remastered 2017",
+                    "track_number": 4,
+                    "duration": "4:27",
+                    "track_spotify_url": "https://open.spotify.com/track/1zRd5ORO2CrWHSayh0myfA"
+                },
+                {
+                    "name": "Bought And Sold - Remastered 2017",
+                    "track_number": 5,
+                    "duration": "3:26",
+                    "track_spotify_url": "https://open.spotify.com/track/7iMoTAUf2mcUyyVTc88SE8"
+                },
+                {
+                    "name": "A Million Miles Away - Remastered 2017",
+                    "track_number": 6,
+                    "duration": "6:56",
+                    "track_spotify_url": "https://open.spotify.com/track/0rJes3umJNqyTgvUQztzcO"
+                },
+                {
+                    "name": "Wheels Within Wheels - Acoustic Version",
+                    "track_number": 7,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/4osXyDMb5g417RBqRHcgfK"
+                },
+                {
+                    "name": "Seven Days - Remastered 2017",
+                    "track_number": 8,
+                    "duration": "5:14",
+                    "track_spotify_url": "https://open.spotify.com/track/3ZIlMKcyKrVEr8VpB2SMTX"
+                },
+                {
+                    "name": "Ghost Blues - Remastered 2017",
+                    "track_number": 9,
+                    "duration": "7:59",
+                    "track_spotify_url": "https://open.spotify.com/track/5XU7dkhMFiaP6M2FpB35fm"
+                },
+                {
+                    "name": "Cruise On Out - Remastered 2017",
+                    "track_number": 10,
+                    "duration": "4:42",
+                    "track_spotify_url": "https://open.spotify.com/track/6yvIIVGou5ep2T8pzPK6lX"
+                },
+                {
+                    "name": "(I Can't Get No) Satisfaction - Alternate Version",
+                    "track_number": 11,
+                    "duration": "3:49",
+                    "track_spotify_url": "https://open.spotify.com/track/0wKs68VGjLPgrKI7OPB6sp"
+                },
+                {
+                    "name": "They Don't Make Them Like You Anymore - Remastered 2017",
+                    "track_number": 12,
+                    "duration": "4:04",
+                    "track_spotify_url": "https://open.spotify.com/track/55HD39bULGX8bA2ot3IWOY"
+                },
+                {
+                    "name": "Moonchild - Remastered 2017",
+                    "track_number": 13,
+                    "duration": "4:46",
+                    "track_spotify_url": "https://open.spotify.com/track/2XU1n1uynRwZ7Y8Elrex3B"
+                },
+                {
+                    "name": "Jinxed - Remastered 2017",
+                    "track_number": 14,
+                    "duration": "5:12",
+                    "track_spotify_url": "https://open.spotify.com/track/4jDQN0g4rFOhC609oph2mQ"
+                },
+                {
+                    "name": "Catfish",
+                    "track_number": 15,
+                    "duration": "8:06",
+                    "track_spotify_url": "https://open.spotify.com/track/5emi1r1e8kGuv4B50UTOHV"
+                }
+            ]
+        }
+    ]
+}

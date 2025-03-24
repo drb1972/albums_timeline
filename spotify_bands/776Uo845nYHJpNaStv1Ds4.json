@@ -1,0 +1,3979 @@
+{
+    "items": [
+        {
+            "album_type": "album",
+            "total_tracks": 39,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
+            },
+            "href": "https://api.spotify.com/v1/albums/4TkDrqWkZZXznaJPEtvLe4",
+            "id": "4TkDrqWkZZXznaJPEtvLe4",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27387ae448cfd1c19a0ec89afbf",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0287ae448cfd1c19a0ec89afbf",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485187ae448cfd1c19a0ec89afbf",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Electric Lady Studios: A Jimi Hendrix Vision",
+            "release_date": "2024-10-04",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:4TkDrqWkZZXznaJPEtvLe4",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 10,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
+            },
+            "href": "https://api.spotify.com/v1/albums/0DtRXNeZDS03QOb4TsDVLP",
+            "id": "0DtRXNeZDS03QOb4TsDVLP",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273cf2bd18a9470081fe32b8664",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02cf2bd18a9470081fe32b8664",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851cf2bd18a9470081fe32b8664",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
+            "release_date": "2023-11-10",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0DtRXNeZDS03QOb4TsDVLP",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 11,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2UjqG36E2iVJ14XiJXL7jT"
+            },
+            "href": "https://api.spotify.com/v1/albums/2UjqG36E2iVJ14XiJXL7jT",
+            "id": "2UjqG36E2iVJ14XiJXL7jT",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735cf5194dddb38913cb393dba",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e025cf5194dddb38913cb393dba",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048515cf5194dddb38913cb393dba",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Los Angeles Forum - April 26, 1969 (Live)",
+            "release_date": "2022-11-18",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:2UjqG36E2iVJ14XiJXL7jT",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 20,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0LfCx4srto1jxBVvW4uqJy"
+            },
+            "href": "https://api.spotify.com/v1/albums/0LfCx4srto1jxBVvW4uqJy",
+            "id": "0LfCx4srto1jxBVvW4uqJy",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f89b606982b0c8494afe758a",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f89b606982b0c8494afe758a",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851f89b606982b0c8494afe758a",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Live In Maui",
+            "release_date": "2020-11-20",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0LfCx4srto1jxBVvW4uqJy",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 43,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
+            },
+            "href": "https://api.spotify.com/v1/albums/1kCKuBSxO5w8MPN31pP9K9",
+            "id": "1kCKuBSxO5w8MPN31pP9K9",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27317bd28645d6dfafb98348ee1",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0217bd28645d6dfafb98348ee1",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485117bd28645d6dfafb98348ee1",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Songs For Groovy Children: The Fillmore East Concerts",
+            "release_date": "2019-11-22",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:1kCKuBSxO5w8MPN31pP9K9",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 36,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7GDfHbjTweLEQMSn7aiyV3"
+            },
+            "href": "https://api.spotify.com/v1/albums/7GDfHbjTweLEQMSn7aiyV3",
+            "id": "7GDfHbjTweLEQMSn7aiyV3",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273caa831a6be45001f3b5b5e4a",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02caa831a6be45001f3b5b5e4a",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851caa831a6be45001f3b5b5e4a",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Electric Ladyland - 50th Anniversary Deluxe Edition",
+            "release_date": "2018-11-09",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:7GDfHbjTweLEQMSn7aiyV3",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 13,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+            },
+            "href": "https://api.spotify.com/v1/albums/0EfHWQeb3T1UJw9KrqN407",
+            "id": "0EfHWQeb3T1UJw9KrqN407",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731a9909a62934d5a80a73152e",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e021a9909a62934d5a80a73152e",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048511a9909a62934d5a80a73152e",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Both Sides of the Sky",
+            "release_date": "2018-03-09",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0EfHWQeb3T1UJw9KrqN407",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 16,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4XyQyaNvyvTKUxT6xRHEV9"
+            },
+            "href": "https://api.spotify.com/v1/albums/4XyQyaNvyvTKUxT6xRHEV9",
+            "id": "4XyQyaNvyvTKUxT6xRHEV9",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f9f9cc10a1a532c3b6bc358a",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f9f9cc10a1a532c3b6bc358a",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851f9f9cc10a1a532c3b6bc358a",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Freedom: Atlanta Pop Festival (Live)",
+            "release_date": "2015-08-28",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:4XyQyaNvyvTKUxT6xRHEV9",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 11,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/09MYDnhFCO1IBtW4X6TjR2"
+            },
+            "href": "https://api.spotify.com/v1/albums/09MYDnhFCO1IBtW4X6TjR2",
+            "id": "09MYDnhFCO1IBtW4X6TjR2",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27366c6ff06b078ac4d76af7e0e",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0266c6ff06b078ac4d76af7e0e",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485166c6ff06b078ac4d76af7e0e",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Miami Pop Festival",
+            "release_date": "2013-11-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:09MYDnhFCO1IBtW4X6TjR2",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 12,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+            },
+            "href": "https://api.spotify.com/v1/albums/4TKeFuhHHiBhRddgUfZEvf",
+            "id": "4TKeFuhHHiBhRddgUfZEvf",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734fdf251a3d05164e4a10c020",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e024fdf251a3d05164e4a10c020",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048514fdf251a3d05164e4a10c020",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "People, Hell & Angels",
+            "release_date": "2013",
+            "release_date_precision": "year",
+            "type": "album",
+            "uri": "spotify:album:4TKeFuhHHiBhRddgUfZEvf",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 41,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/219nUFet7t6utcx6AkF3qq"
+            },
+            "href": "https://api.spotify.com/v1/albums/219nUFet7t6utcx6AkF3qq",
+            "id": "219nUFet7t6utcx6AkF3qq",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27395fe44654ef63acdae05d9da",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0295fe44654ef63acdae05d9da",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485195fe44654ef63acdae05d9da",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Winterland",
+            "release_date": "2011-09-13",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:219nUFet7t6utcx6AkF3qq",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 10,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
+            },
+            "href": "https://api.spotify.com/v1/albums/6NdaU4JVYrQAxDOSrG0aPF",
+            "id": "6NdaU4JVYrQAxDOSrG0aPF",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732caddd7cb137fad05649dcd0",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e022caddd7cb137fad05649dcd0",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048512caddd7cb137fad05649dcd0",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Live At Monterey",
+            "release_date": "2010-01-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:6NdaU4JVYrQAxDOSrG0aPF",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 12,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7eUNTNfvaUpe0SjsoyzsCg"
+            },
+            "href": "https://api.spotify.com/v1/albums/7eUNTNfvaUpe0SjsoyzsCg",
+            "id": "7eUNTNfvaUpe0SjsoyzsCg",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27398ca421e7e364a6fd177b6ff",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0298ca421e7e364a6fd177b6ff",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485198ca421e7e364a6fd177b6ff",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Valleys Of Neptune",
+            "release_date": "2010",
+            "release_date_precision": "year",
+            "type": "album",
+            "uri": "spotify:album:7eUNTNfvaUpe0SjsoyzsCg",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 12,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4pbhTL7d5fiQPQiGar4jjD"
+            },
+            "href": "https://api.spotify.com/v1/albums/4pbhTL7d5fiQPQiGar4jjD",
+            "id": "4pbhTL7d5fiQPQiGar4jjD",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732d19920c0cf83388a40e7d42",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e022d19920c0cf83388a40e7d42",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048512d19920c0cf83388a40e7d42",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Live At Berkeley",
+            "release_date": "2003-09-16",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:4pbhTL7d5fiQPQiGar4jjD",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 18,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2dDVHhpg1x5VoTTN5hnS2I"
+            },
+            "href": "https://api.spotify.com/v1/albums/2dDVHhpg1x5VoTTN5hnS2I",
+            "id": "2dDVHhpg1x5VoTTN5hnS2I",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733a35c667bc7d4506283a3668",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e023a35c667bc7d4506283a3668",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048513a35c667bc7d4506283a3668",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Blue Wild Angel: Jimi Hendrix At The Isle Of Wight",
+            "release_date": "2002-11-12",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:2dDVHhpg1x5VoTTN5hnS2I",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 16,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc"
+            },
+            "href": "https://api.spotify.com/v1/albums/3ok1qnMfMHuJTjPo5G0sQc",
+            "id": "3ok1qnMfMHuJTjPo5G0sQc",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b15cd666879f16cc0fbc8ccb",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b15cd666879f16cc0fbc8ccb",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851b15cd666879f16cc0fbc8ccb",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Live at Woodstock",
+            "release_date": "1999-07-06",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3ok1qnMfMHuJTjPo5G0sQc",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 38,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3DnRgUY7EP00cklj0vGiVv"
+            },
+            "href": "https://api.spotify.com/v1/albums/3DnRgUY7EP00cklj0vGiVv",
+            "id": "3DnRgUY7EP00cklj0vGiVv",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273767bdc14c491c83e0a4aa20c",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02767bdc14c491c83e0a4aa20c",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851767bdc14c491c83e0a4aa20c",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "BBC Sessions",
+            "release_date": "1998-06-02",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3DnRgUY7EP00cklj0vGiVv",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 15,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7wo5CoLC07ZI8fiDNb712a"
+            },
+            "href": "https://api.spotify.com/v1/albums/7wo5CoLC07ZI8fiDNb712a",
+            "id": "7wo5CoLC07ZI8fiDNb712a",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273913164f79bc6dadfc325f74c",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02913164f79bc6dadfc325f74c",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851913164f79bc6dadfc325f74c",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "South Saturn Delta",
+            "release_date": "1997-10-07",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:7wo5CoLC07ZI8fiDNb712a",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 17,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3ZGvhPoskm22Tpc9bUkk84"
+            },
+            "href": "https://api.spotify.com/v1/albums/3ZGvhPoskm22Tpc9bUkk84",
+            "id": "3ZGvhPoskm22Tpc9bUkk84",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fe6e5fe200dc12867675dc92",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fe6e5fe200dc12867675dc92",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851fe6e5fe200dc12867675dc92",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "First Rays Of The New Rising Sun",
+            "release_date": "1997-04-22",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3ZGvhPoskm22Tpc9bUkk84",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 17,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0d8NvRJuzfmh9IqVopJhXe"
+            },
+            "href": "https://api.spotify.com/v1/albums/0d8NvRJuzfmh9IqVopJhXe",
+            "id": "0d8NvRJuzfmh9IqVopJhXe",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732d6d5b4db1e7a556be999946",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e022d6d5b4db1e7a556be999946",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048512d6d5b4db1e7a556be999946",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "The Audio Biography Of Jimi Hendrix (As Told By Jimi Himself And Those Who Knew Him) [Live Radio Broadcast]",
+            "release_date": "1989",
+            "release_date_precision": "year",
+            "type": "album",
+            "uri": "spotify:album:0d8NvRJuzfmh9IqVopJhXe",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 11,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0C9zGX5oAjQ87jkSlzXOz1"
+            },
+            "href": "https://api.spotify.com/v1/albums/0C9zGX5oAjQ87jkSlzXOz1",
+            "id": "0C9zGX5oAjQ87jkSlzXOz1",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737f4381ea8754778a62a29a23",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e027f4381ea8754778a62a29a23",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048517f4381ea8754778a62a29a23",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Hendrix In The West",
+            "release_date": "1972-02-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0C9zGX5oAjQ87jkSlzXOz1",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 10,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+            },
+            "href": "https://api.spotify.com/v1/albums/7ykAHaoptbCYaO0HAjpgcL",
+            "id": "7ykAHaoptbCYaO0HAjpgcL",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733fefe39e610cf4ba58caeec7",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e023fefe39e610cf4ba58caeec7",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048513fefe39e610cf4ba58caeec7",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "The Cry of Love",
+            "release_date": "1971",
+            "release_date_precision": "year",
+            "type": "album",
+            "uri": "spotify:album:7ykAHaoptbCYaO0HAjpgcL",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 8,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
+            },
+            "href": "https://api.spotify.com/v1/albums/2et0fTgbRp3w4Izzs4uVtz",
+            "id": "2et0fTgbRp3w4Izzs4uVtz",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27320a13bddf394768a532f5547",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0220a13bddf394768a532f5547",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485120a13bddf394768a532f5547",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Rainbow Bridge",
+            "release_date": "1971",
+            "release_date_precision": "year",
+            "type": "album",
+            "uri": "spotify:album:2et0fTgbRp3w4Izzs4uVtz",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 6,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5"
+            },
+            "href": "https://api.spotify.com/v1/albums/0B0Zwfcy4pAY2JAoxIEkR5",
+            "id": "0B0Zwfcy4pAY2JAoxIEkR5",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f84a3a90bfe5592d94b8b847",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f84a3a90bfe5592d94b8b847",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851f84a3a90bfe5592d94b8b847",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Band Of Gypsys (50th Anniversary / Live)",
+            "release_date": "1970",
+            "release_date_precision": "year",
+            "type": "album",
+            "uri": "spotify:album:0B0Zwfcy4pAY2JAoxIEkR5",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 16,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+            },
+            "href": "https://api.spotify.com/v1/albums/5z090LQztiqh13wYspQvKQ",
+            "id": "5z090LQztiqh13wYspQvKQ",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02522088789d49e216d9818292",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851522088789d49e216d9818292",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Electric Ladyland",
+            "release_date": "1968-10-25",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:5z090LQztiqh13wYspQvKQ",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 13,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+            },
+            "href": "https://api.spotify.com/v1/albums/3uFZf8rykoHo7XMIQVYW6r",
+            "id": "3uFZf8rykoHo7XMIQVYW6r",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27319dcd95d28b63d10164327f2",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0219dcd95d28b63d10164327f2",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485119dcd95d28b63d10164327f2",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Axis: Bold As Love",
+            "release_date": "1967-12-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3uFZf8rykoHo7XMIQVYW6r",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 17,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/719ELjvRzp0lHiLyAuAGj3"
+            },
+            "href": "https://api.spotify.com/v1/albums/719ELjvRzp0lHiLyAuAGj3",
+            "id": "719ELjvRzp0lHiLyAuAGj3",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738d0212a10cc2d93289d29b32",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e028d0212a10cc2d93289d29b32",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048518d0212a10cc2d93289d29b32",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Are You Experienced",
+            "release_date": "1967-05-12",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:719ELjvRzp0lHiLyAuAGj3",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "album"
+        },
+        {
+            "album_type": "single",
+            "total_tracks": 1,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6XW3aKGGCReIq2NIhTJRq8"
+            },
+            "href": "https://api.spotify.com/v1/albums/6XW3aKGGCReIq2NIhTJRq8",
+            "id": "6XW3aKGGCReIq2NIhTJRq8",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27387b3a618a0f04ab841ae54aa",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0287b3a618a0f04ab841ae54aa",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485187b3a618a0f04ab841ae54aa",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Sgt. Pepper's Lonely Hearts Club Band (Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967)",
+            "release_date": "2023-10-13",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:6XW3aKGGCReIq2NIhTJRq8",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "single"
+        },
+        {
+            "album_type": "single",
+            "total_tracks": 1,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2WI9lpUoCz2iXHWfrv2O2q"
+            },
+            "href": "https://api.spotify.com/v1/albums/2WI9lpUoCz2iXHWfrv2O2q",
+            "id": "2WI9lpUoCz2iXHWfrv2O2q",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d983f2263446bef5a06fcfb2",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d983f2263446bef5a06fcfb2",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851d983f2263446bef5a06fcfb2",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Killing Floor (Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967)",
+            "release_date": "2023-09-19",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:2WI9lpUoCz2iXHWfrv2O2q",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "single"
+        },
+        {
+            "album_type": "single",
+            "total_tracks": 1,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/05wdcnTRK6d5tzQxCPTY3c"
+            },
+            "href": "https://api.spotify.com/v1/albums/05wdcnTRK6d5tzQxCPTY3c",
+            "id": "05wdcnTRK6d5tzQxCPTY3c",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730c1801f8d9ec9bd8feeb68f8",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e020c1801f8d9ec9bd8feeb68f8",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048510c1801f8d9ec9bd8feeb68f8",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Angel",
+            "release_date": "2022-11-25",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:05wdcnTRK6d5tzQxCPTY3c",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5ZsFI1h6hIdQRw2ti0hz81",
+                    "id": "5ZsFI1h6hIdQRw2ti0hz81",
+                    "name": "ZAYN",
+                    "type": "artist",
+                    "uri": "spotify:artist:5ZsFI1h6hIdQRw2ti0hz81"
+                }
+            ],
+            "album_group": "single"
+        },
+        {
+            "album_type": "single",
+            "total_tracks": 2,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6KkDQL2dIKj7NPe8qimGen"
+            },
+            "href": "https://api.spotify.com/v1/albums/6KkDQL2dIKj7NPe8qimGen",
+            "id": "6KkDQL2dIKj7NPe8qimGen",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734d44ffd04f89217285b530be",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e024d44ffd04f89217285b530be",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048514d44ffd04f89217285b530be",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Love Or Confusion",
+            "release_date": "2010-09-27",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:6KkDQL2dIKj7NPe8qimGen",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "single"
+        },
+        {
+            "album_type": "single",
+            "total_tracks": 1,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1dgyx2yAWfZVYLdf4tRaXA"
+            },
+            "href": "https://api.spotify.com/v1/albums/1dgyx2yAWfZVYLdf4tRaXA",
+            "id": "1dgyx2yAWfZVYLdf4tRaXA",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ab67973324b02f2a74daa9b7",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ab67973324b02f2a74daa9b7",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851ab67973324b02f2a74daa9b7",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Peace in Mississippi (TTG Studios, Hollywood, CA, October 24, 1968)",
+            "release_date": "2010-05-21",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:1dgyx2yAWfZVYLdf4tRaXA",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "single"
+        },
+        {
+            "album_type": "single",
+            "total_tracks": 1,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3upJjYn4ZHgIlzJUarquvd"
+            },
+            "href": "https://api.spotify.com/v1/albums/3upJjYn4ZHgIlzJUarquvd",
+            "id": "3upJjYn4ZHgIlzJUarquvd",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e97a281595bedfb16cd58101",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e97a281595bedfb16cd58101",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851e97a281595bedfb16cd58101",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Valleys of Neptune",
+            "release_date": "2010",
+            "release_date_precision": "year",
+            "type": "album",
+            "uri": "spotify:album:3upJjYn4ZHgIlzJUarquvd",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "single"
+        },
+        {
+            "album_type": "single",
+            "total_tracks": 3,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0038RxUVJ1RFV3BT1Ljyj0"
+            },
+            "href": "https://api.spotify.com/v1/albums/0038RxUVJ1RFV3BT1Ljyj0",
+            "id": "0038RxUVJ1RFV3BT1Ljyj0",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ff27f5c5546ba55c06dccd91",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ff27f5c5546ba55c06dccd91",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851ff27f5c5546ba55c06dccd91",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Merry Christmas And Happy New Year",
+            "release_date": "1999-11-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0038RxUVJ1RFV3BT1Ljyj0",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "single"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 59,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
+            },
+            "href": "https://api.spotify.com/v1/albums/6c0U1VcL3Bom0g6HTpUa1i",
+            "id": "6c0U1VcL3Bom0g6HTpUa1i",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273367209bc6f7086c3aa3e527e",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02367209bc6f7086c3aa3e527e",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851367209bc6f7086c3aa3e527e",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
+            "release_date": "2010-11-16",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:6c0U1VcL3Bom0g6HTpUa1i",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "compilation"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 12,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0wLZ4JX3WXxpJaX7ObnANw"
+            },
+            "href": "https://api.spotify.com/v1/albums/0wLZ4JX3WXxpJaX7ObnANw",
+            "id": "0wLZ4JX3WXxpJaX7ObnANw",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736841cf65ff309ed066fa9ba8",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e026841cf65ff309ed066fa9ba8",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048516841cf65ff309ed066fa9ba8",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Smash Hits",
+            "release_date": "2010-01-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0wLZ4JX3WXxpJaX7ObnANw",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "compilation"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 60,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1tNYWgvzsqA4OqNDX9Qhoq"
+            },
+            "href": "https://api.spotify.com/v1/albums/1tNYWgvzsqA4OqNDX9Qhoq",
+            "id": "1tNYWgvzsqA4OqNDX9Qhoq",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27381bb4441355c28ad6d8fd2d3",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0281bb4441355c28ad6d8fd2d3",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485181bb4441355c28ad6d8fd2d3",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "The Jimi Hendrix Experience (Deluxe Reissue)",
+            "release_date": "2009",
+            "release_date_precision": "year",
+            "type": "album",
+            "uri": "spotify:album:1tNYWgvzsqA4OqNDX9Qhoq",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "compilation"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 30,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4bZuCf14w7546wB4sx1klI"
+            },
+            "href": "https://api.spotify.com/v1/albums/4bZuCf14w7546wB4sx1klI",
+            "id": "4bZuCf14w7546wB4sx1klI",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273299b96319db49df29b17ba19",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02299b96319db49df29b17ba19",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851299b96319db49df29b17ba19",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Voodoo Child: The Jimi Hendrix Collection",
+            "release_date": "2001-05-08",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:4bZuCf14w7546wB4sx1klI",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "compilation"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 20,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+            },
+            "href": "https://api.spotify.com/v1/albums/2vfiwvlxOBNBohRXfvlMtY",
+            "id": "2vfiwvlxOBNBohRXfvlMtY",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737bfdcc5707e04f9418d2b69d",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e027bfdcc5707e04f9418d2b69d",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048517bfdcc5707e04f9418d2b69d",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+            "release_date": "1997-09-16",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:2vfiwvlxOBNBohRXfvlMtY",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "compilation"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 11,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+            },
+            "href": "https://api.spotify.com/v1/albums/6kvCH4eS92QkpBNdTmjLEz",
+            "id": "6kvCH4eS92QkpBNdTmjLEz",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731e3d153c8ecda03a495ca811",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e021e3d153c8ecda03a495ca811",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048511e3d153c8ecda03a495ca811",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Blues",
+            "release_date": "1994-04-18",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:6kvCH4eS92QkpBNdTmjLEz",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "compilation"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 12,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3qw8bDXJ8hisiLpX3H15VS"
+            },
+            "href": "https://api.spotify.com/v1/albums/3qw8bDXJ8hisiLpX3H15VS",
+            "id": "3qw8bDXJ8hisiLpX3H15VS",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27389248200bf6e1d2be4482225",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0289248200bf6e1d2be4482225",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485189248200bf6e1d2be4482225",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Smash Hits",
+            "release_date": "1969-07-30",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3qw8bDXJ8hisiLpX3H15VS",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album_group": "compilation"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 13,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC"
+            },
+            "href": "https://api.spotify.com/v1/albums/58BEJ01sL8wK5LV3TPyngC",
+            "id": "58BEJ01sL8wK5LV3TPyngC",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734183acdb68204bb972bf10f5",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e024183acdb68204bb972bf10f5",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048514183acdb68204bb972bf10f5",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Singles - Original Motion Picture Soundtrack",
+            "release_date": "1992-06-02",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:58BEJ01sL8wK5LV3TPyngC",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 38,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/11jfbJzLcCXOv1R70CosnO"
+            },
+            "href": "https://api.spotify.com/v1/albums/11jfbJzLcCXOv1R70CosnO",
+            "id": "11jfbJzLcCXOv1R70CosnO",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732e09bd46f14cede369650b15",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e022e09bd46f14cede369650b15",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048512e09bd46f14cede369650b15",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "The Vietnam War - A Film By Ken Burns & Lynn Novick (The Soundtrack)",
+            "release_date": "2017-09-15",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:11jfbJzLcCXOv1R70CosnO",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0veKrpvEQNcJS8ay4Lg1Q9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0veKrpvEQNcJS8ay4Lg1Q9",
+                    "id": "0veKrpvEQNcJS8ay4Lg1Q9",
+                    "name": "The Vietnam War on PBS",
+                    "type": "artist",
+                    "uri": "spotify:artist:0veKrpvEQNcJS8ay4Lg1Q9"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 16,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5gqdQP43q7XA63N60PrNOC"
+            },
+            "href": "https://api.spotify.com/v1/albums/5gqdQP43q7XA63N60PrNOC",
+            "id": "5gqdQP43q7XA63N60PrNOC",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273dd15d97ce7650c0e56eaf2ff",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02dd15d97ce7650c0e56eaf2ff",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851dd15d97ce7650c0e56eaf2ff",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Encore",
+            "release_date": "2008-01-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:5gqdQP43q7XA63N60PrNOC",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/33k6kPYIS5TgseAc70LZjy",
+                    "id": "33k6kPYIS5TgseAc70LZjy",
+                    "name": "David Garrett",
+                    "type": "artist",
+                    "uri": "spotify:artist:33k6kPYIS5TgseAc70LZjy"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 34,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0VMOOJvuloNJH4zojPtMvh"
+            },
+            "href": "https://api.spotify.com/v1/albums/0VMOOJvuloNJH4zojPtMvh",
+            "id": "0VMOOJvuloNJH4zojPtMvh",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e6265d9475addad7af34eb5f",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e6265d9475addad7af34eb5f",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851e6265d9475addad7af34eb5f",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Classic Halloween Hits",
+            "release_date": "2022-10-03",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0VMOOJvuloNJH4zojPtMvh",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 22,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/16NqPu4ZT94LJyEV6ukiyZ"
+            },
+            "href": "https://api.spotify.com/v1/albums/16NqPu4ZT94LJyEV6ukiyZ",
+            "id": "16NqPu4ZT94LJyEV6ukiyZ",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27381851e6e55709dbc64e0062d",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0281851e6e55709dbc64e0062d",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485181851e6e55709dbc64e0062d",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "A Bronx Tale - Music From The Motion Picture",
+            "release_date": "1993-09-28",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:16NqPu4ZT94LJyEV6ukiyZ",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 12,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0kWvnaTXuFelO0jogSSD7t"
+            },
+            "href": "https://api.spotify.com/v1/albums/0kWvnaTXuFelO0jogSSD7t",
+            "id": "0kWvnaTXuFelO0jogSSD7t",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f3aedff756fbb291a29c1c1e",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f3aedff756fbb291a29c1c1e",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851f3aedff756fbb291a29c1c1e",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Still Life",
+            "release_date": "1982-06-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0kWvnaTXuFelO0jogSSD7t",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe",
+                    "id": "22bE4uQ6baNwSHPVcDxLCe",
+                    "name": "The Rolling Stones",
+                    "type": "artist",
+                    "uri": "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 31,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/21Y9TFBmsA3XBS9b3yTzgi"
+            },
+            "href": "https://api.spotify.com/v1/albums/21Y9TFBmsA3XBS9b3yTzgi",
+            "id": "21Y9TFBmsA3XBS9b3yTzgi",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bd33c841fe5b1472b0fd8798",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bd33c841fe5b1472b0fd8798",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851bd33c841fe5b1472b0fd8798",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Singles (Deluxe Version) [Original Motion Picture Soundtrack]",
+            "release_date": "2017-05-19",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:21Y9TFBmsA3XBS9b3yTzgi",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 34,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2c3LBDNnptvWquptllUuyq"
+            },
+            "href": "https://api.spotify.com/v1/albums/2c3LBDNnptvWquptllUuyq",
+            "id": "2c3LBDNnptvWquptllUuyq",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273659ba1ce127df61286fa26e1",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02659ba1ce127df61286fa26e1",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851659ba1ce127df61286fa26e1",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Spooky Halloween Hits",
+            "release_date": "2022-10-03",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:2c3LBDNnptvWquptllUuyq",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 42,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3Smu8Aa56GWYkGMggRhmkH"
+            },
+            "href": "https://api.spotify.com/v1/albums/3Smu8Aa56GWYkGMggRhmkH",
+            "id": "3Smu8Aa56GWYkGMggRhmkH",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731e585d4f6cd9408d231e3b8b",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e021e585d4f6cd9408d231e3b8b",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048511e585d4f6cd9408d231e3b8b",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Vacances d\u00e9tente : \u00c9t\u00e9 2022",
+            "release_date": "2022-07-02",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3Smu8Aa56GWYkGMggRhmkH",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 50,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/60k0hyUtTLyJEWQXIGt9OB"
+            },
+            "href": "https://api.spotify.com/v1/albums/60k0hyUtTLyJEWQXIGt9OB",
+            "id": "60k0hyUtTLyJEWQXIGt9OB",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730a13a232f2cb262642d1db3e",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e020a13a232f2cb262642d1db3e",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048510a13a232f2cb262642d1db3e",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Sing Me to Sleep",
+            "release_date": "2015-09-04",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:60k0hyUtTLyJEWQXIGt9OB",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 42,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4EaOJiNzRb6tKStrOzvW7P"
+            },
+            "href": "https://api.spotify.com/v1/albums/4EaOJiNzRb6tKStrOzvW7P",
+            "id": "4EaOJiNzRb6tKStrOzvW7P",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739f97c029be73c8c6156e44c1",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e029f97c029be73c8c6156e44c1",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048519f97c029be73c8c6156e44c1",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Chill sur la plage : Beach ambiance",
+            "release_date": "2022-07-02",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:4EaOJiNzRb6tKStrOzvW7P",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 13,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2FMfTRrRK8UerSII8Wen44"
+            },
+            "href": "https://api.spotify.com/v1/albums/2FMfTRrRK8UerSII8Wen44",
+            "id": "2FMfTRrRK8UerSII8Wen44",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738a3471f9c33cecad4eb9f335",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e028a3471f9c33cecad4eb9f335",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048518a3471f9c33cecad4eb9f335",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Iconic Performances from the Monterey International Pop Festival",
+            "release_date": "2017-06-09",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:2FMfTRrRK8UerSII8Wen44",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 14,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l"
+            },
+            "href": "https://api.spotify.com/v1/albums/4Zf9s5cZnvprrmMF0Dnl5l",
+            "id": "4Zf9s5cZnvprrmMF0Dnl5l",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27315200cd47a5e7205d9c0b62a",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0215200cd47a5e7205d9c0b62a",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485115200cd47a5e7205d9c0b62a",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "You Can't Use My Name (feat. Jimi Hendrix)",
+            "release_date": "2015-03-23",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:4Zf9s5cZnvprrmMF0Dnl5l",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7zakdAMC3vbUue4IxQh9Xl",
+                    "id": "7zakdAMC3vbUue4IxQh9Xl",
+                    "name": "Curtis Knight & The Squires",
+                    "type": "artist",
+                    "uri": "spotify:artist:7zakdAMC3vbUue4IxQh9Xl"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 92,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3PplPsOfqSyX47xnRA8Wz5"
+            },
+            "href": "https://api.spotify.com/v1/albums/3PplPsOfqSyX47xnRA8Wz5",
+            "id": "3PplPsOfqSyX47xnRA8Wz5",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736a47c765d24dd8669edc7626",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e026a47c765d24dd8669edc7626",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048516a47c765d24dd8669edc7626",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Memorial Day Weekend",
+            "release_date": "2022-05-27",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3PplPsOfqSyX47xnRA8Wz5",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 34,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5P7ennMIkGd5D6aFglwA2g"
+            },
+            "href": "https://api.spotify.com/v1/albums/5P7ennMIkGd5D6aFglwA2g",
+            "id": "5P7ennMIkGd5D6aFglwA2g",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27358afd4e6a83a36ebf584116f",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0258afd4e6a83a36ebf584116f",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485158afd4e6a83a36ebf584116f",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Halloween Spooky Hits",
+            "release_date": "2022-10-03",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:5P7ennMIkGd5D6aFglwA2g",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 5,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2f2t8h5g1VSmsk2oHdBNIt"
+            },
+            "href": "https://api.spotify.com/v1/albums/2f2t8h5g1VSmsk2oHdBNIt",
+            "id": "2f2t8h5g1VSmsk2oHdBNIt",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fd2df253c4f816162dfe1170",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fd2df253c4f816162dfe1170",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851fd2df253c4f816162dfe1170",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "A Step Further",
+            "release_date": "1969-01-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:2f2t8h5g1VSmsk2oHdBNIt",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0vw6P9tvC4j66Lk8EYcDl0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0vw6P9tvC4j66Lk8EYcDl0",
+                    "id": "0vw6P9tvC4j66Lk8EYcDl0",
+                    "name": "Chris Youlden",
+                    "type": "artist",
+                    "uri": "spotify:artist:0vw6P9tvC4j66Lk8EYcDl0"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/17obwOahRWI121iMUZznh2",
+                    "id": "17obwOahRWI121iMUZznh2",
+                    "name": "Savoy Brown",
+                    "type": "artist",
+                    "uri": "spotify:artist:17obwOahRWI121iMUZznh2"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 14,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3Na10i3DQIZkSfNuZ8zWG4"
+            },
+            "href": "https://api.spotify.com/v1/albums/3Na10i3DQIZkSfNuZ8zWG4",
+            "id": "3Na10i3DQIZkSfNuZ8zWG4",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732093a46822f9174020671538",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e022093a46822f9174020671538",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048512093a46822f9174020671538",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Slight Return",
+            "release_date": "2010-01-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3Na10i3DQIZkSfNuZ8zWG4",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5mGwgyKD9VX2LBoDviy0pa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5mGwgyKD9VX2LBoDviy0pa",
+                    "id": "5mGwgyKD9VX2LBoDviy0pa",
+                    "name": "Vanja Orlandic",
+                    "type": "artist",
+                    "uri": "spotify:artist:5mGwgyKD9VX2LBoDviy0pa"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 16,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7LT2MtAZZ1Mhjra8d4EaAJ"
+            },
+            "href": "https://api.spotify.com/v1/albums/7LT2MtAZZ1Mhjra8d4EaAJ",
+            "id": "7LT2MtAZZ1Mhjra8d4EaAJ",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273471ef8ae9508ece91d489b04",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02471ef8ae9508ece91d489b04",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851471ef8ae9508ece91d489b04",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Three of a Kind",
+            "release_date": "2013-01-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:7LT2MtAZZ1Mhjra8d4EaAJ",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5mGwgyKD9VX2LBoDviy0pa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5mGwgyKD9VX2LBoDviy0pa",
+                    "id": "5mGwgyKD9VX2LBoDviy0pa",
+                    "name": "Vanja Orlandic",
+                    "type": "artist",
+                    "uri": "spotify:artist:5mGwgyKD9VX2LBoDviy0pa"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 20,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2fZpegx2w6UNefTo7nMs9J"
+            },
+            "href": "https://api.spotify.com/v1/albums/2fZpegx2w6UNefTo7nMs9J",
+            "id": "2fZpegx2w6UNefTo7nMs9J",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27398f03afa24b47283a2780f2a",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0298f03afa24b47283a2780f2a",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485198f03afa24b47283a2780f2a",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Woodstock Rock",
+            "release_date": "2014-09-22",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:2fZpegx2w6UNefTo7nMs9J",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 42,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0HCbRJGrvEyYxMTbqJFQOG"
+            },
+            "href": "https://api.spotify.com/v1/albums/0HCbRJGrvEyYxMTbqJFQOG",
+            "id": "0HCbRJGrvEyYxMTbqJFQOG",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273facf9d54b9dfe810241e37ea",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02facf9d54b9dfe810241e37ea",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851facf9d54b9dfe810241e37ea",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "L'\u00e9t\u00e9 au calme : Chill 2022 hits",
+            "release_date": "2022-07-02",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0HCbRJGrvEyYxMTbqJFQOG",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 17,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/26vweAlc3rw2Pwd5r93Tpu"
+            },
+            "href": "https://api.spotify.com/v1/albums/26vweAlc3rw2Pwd5r93Tpu",
+            "id": "26vweAlc3rw2Pwd5r93Tpu",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273df7fabb226b5dd0f6c15704e",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02df7fabb226b5dd0f6c15704e",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851df7fabb226b5dd0f6c15704e",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Turn on, Tune In & Drop Out",
+            "release_date": "2014-09-15",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:26vweAlc3rw2Pwd5r93Tpu",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 92,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/61cNhp7FWFXkERhYx1eQOw"
+            },
+            "href": "https://api.spotify.com/v1/albums/61cNhp7FWFXkERhYx1eQOw",
+            "id": "61cNhp7FWFXkERhYx1eQOw",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a9103d0902244f1b08d0cd5a",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a9103d0902244f1b08d0cd5a",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851a9103d0902244f1b08d0cd5a",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Fourth of July",
+            "release_date": "2022-05-27",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:61cNhp7FWFXkERhYx1eQOw",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 92,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/59I6ujIhBwXfVlG03TladZ"
+            },
+            "href": "https://api.spotify.com/v1/albums/59I6ujIhBwXfVlG03TladZ",
+            "id": "59I6ujIhBwXfVlG03TladZ",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273356ab25b493d82fc503dfd0c",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02356ab25b493d82fc503dfd0c",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851356ab25b493d82fc503dfd0c",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Labor Day Weekend",
+            "release_date": "2022-05-27",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:59I6ujIhBwXfVlG03TladZ",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 92,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7wuSwTZXsxsUlXCPfTX2vh"
+            },
+            "href": "https://api.spotify.com/v1/albums/7wuSwTZXsxsUlXCPfTX2vh",
+            "id": "7wuSwTZXsxsUlXCPfTX2vh",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733d2303e9329b3aa2ace58d33",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e023d2303e9329b3aa2ace58d33",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048513d2303e9329b3aa2ace58d33",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "4th of July",
+            "release_date": "2022-05-27",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:7wuSwTZXsxsUlXCPfTX2vh",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 34,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2jLK5Dvwtn351t8YFvOFo3"
+            },
+            "href": "https://api.spotify.com/v1/albums/2jLK5Dvwtn351t8YFvOFo3",
+            "id": "2jLK5Dvwtn351t8YFvOFo3",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733845668b7b7e4488f276afc2",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e023845668b7b7e4488f276afc2",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048513845668b7b7e4488f276afc2",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Halloween Classic Hits",
+            "release_date": "2022-10-03",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:2jLK5Dvwtn351t8YFvOFo3",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 17,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3INlPCaTCd7dWBNOfHZSCM"
+            },
+            "href": "https://api.spotify.com/v1/albums/3INlPCaTCd7dWBNOfHZSCM",
+            "id": "3INlPCaTCd7dWBNOfHZSCM",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27308b09c2a4fb013c44a42bc0d",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0208b09c2a4fb013c44a42bc0d",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485108b09c2a4fb013c44a42bc0d",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Tha Funk Capitol Of The World",
+            "release_date": "2011-05-16",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3INlPCaTCd7dWBNOfHZSCM",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+                    "id": "5K0rbdBrs2tNXe5LeWMATT",
+                    "name": "Bootsy Collins",
+                    "type": "artist",
+                    "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 19,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3x9LeHRzZWfnef00yhIitf"
+            },
+            "href": "https://api.spotify.com/v1/albums/3x9LeHRzZWfnef00yhIitf",
+            "id": "3x9LeHRzZWfnef00yhIitf",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27300620118f591d8cc7400476d",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0200620118f591d8cc7400476d",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485100620118f591d8cc7400476d",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "No Business: The PPX Sessions Volume 2 (feat. Jimi Hendrix)",
+            "release_date": "2020-10-23",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3x9LeHRzZWfnef00yhIitf",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7zakdAMC3vbUue4IxQh9Xl",
+                    "id": "7zakdAMC3vbUue4IxQh9Xl",
+                    "name": "Curtis Knight & The Squires",
+                    "type": "artist",
+                    "uri": "spotify:artist:7zakdAMC3vbUue4IxQh9Xl"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 8,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0EdOkkmqwrIbObfWcEBd4N"
+            },
+            "href": "https://api.spotify.com/v1/albums/0EdOkkmqwrIbObfWcEBd4N",
+            "id": "0EdOkkmqwrIbObfWcEBd4N",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a6c99f0a7dbab3a16474b274",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a6c99f0a7dbab3a16474b274",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851a6c99f0a7dbab3a16474b274",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "In the Beginning",
+            "release_date": "1971-02-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0EdOkkmqwrIbObfWcEBd4N",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/53QzNeFpzAaXYnrDBbDrIp",
+                    "id": "53QzNeFpzAaXYnrDBbDrIp",
+                    "name": "The Isley Brothers",
+                    "type": "artist",
+                    "uri": "spotify:artist:53QzNeFpzAaXYnrDBbDrIp"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 17,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3pI2mfj9GWVx39asb1vitC"
+            },
+            "href": "https://api.spotify.com/v1/albums/3pI2mfj9GWVx39asb1vitC",
+            "id": "3pI2mfj9GWVx39asb1vitC",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730a91605d3f98dab808ec777f",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e020a91605d3f98dab808ec777f",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048510a91605d3f98dab808ec777f",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Live at George's Club 20 (feat. Jimi Hendrix) [1965 & 1966]",
+            "release_date": "2017-04-21",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3pI2mfj9GWVx39asb1vitC",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7zakdAMC3vbUue4IxQh9Xl",
+                    "id": "7zakdAMC3vbUue4IxQh9Xl",
+                    "name": "Curtis Knight & The Squires",
+                    "type": "artist",
+                    "uri": "spotify:artist:7zakdAMC3vbUue4IxQh9Xl"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 11,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3rOSDcGtFnuZFTs6Hrjd5g"
+            },
+            "href": "https://api.spotify.com/v1/albums/3rOSDcGtFnuZFTs6Hrjd5g",
+            "id": "3rOSDcGtFnuZFTs6Hrjd5g",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d800994733009dae6bc4e8a7",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d800994733009dae6bc4e8a7",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851d800994733009dae6bc4e8a7",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Experience: Live from New York",
+            "release_date": "2009-04-20",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3rOSDcGtFnuZFTs6Hrjd5g",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+                    "id": "6s1pCNXcbdtQJlsnM1hRIA",
+                    "name": "Dmitri Shostakovich",
+                    "type": "artist",
+                    "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3LcP8zEKaPiCG1s5MlMWJA",
+                    "id": "3LcP8zEKaPiCG1s5MlMWJA",
+                    "name": "Jan Vogler",
+                    "type": "artist",
+                    "uri": "spotify:artist:3LcP8zEKaPiCG1s5MlMWJA"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3pZzcGCvhNTv3yoWmrXGNm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3pZzcGCvhNTv3yoWmrXGNm",
+                    "id": "3pZzcGCvhNTv3yoWmrXGNm",
+                    "name": "The Knights",
+                    "type": "artist",
+                    "uri": "spotify:artist:3pZzcGCvhNTv3yoWmrXGNm"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7va3hWIVG2F3yM5tSAJead"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7va3hWIVG2F3yM5tSAJead",
+                    "id": "7va3hWIVG2F3yM5tSAJead",
+                    "name": "Eric Jacobsen",
+                    "type": "artist",
+                    "uri": "spotify:artist:7va3hWIVG2F3yM5tSAJead"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 17,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/76x6SmCB943qVXrpBUt0QV"
+            },
+            "href": "https://api.spotify.com/v1/albums/76x6SmCB943qVXrpBUt0QV",
+            "id": "76x6SmCB943qVXrpBUt0QV",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27318ded9ee3e34e7381dd8bf30",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0218ded9ee3e34e7381dd8bf30",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485118ded9ee3e34e7381dd8bf30",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Song of the Mountain Birch",
+            "release_date": "2016-03-28",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:76x6SmCB943qVXrpBUt0QV",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/59I6ASXkQ9rYBUK1oVcPIi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/59I6ASXkQ9rYBUK1oVcPIi",
+                    "id": "59I6ASXkQ9rYBUK1oVcPIi",
+                    "name": "Arctic Light",
+                    "type": "artist",
+                    "uri": "spotify:artist:59I6ASXkQ9rYBUK1oVcPIi"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0VzXytleQwAWcnKUsTq3uv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0VzXytleQwAWcnKUsTq3uv",
+                    "id": "0VzXytleQwAWcnKUsTq3uv",
+                    "name": "Susanna Lindmark",
+                    "type": "artist",
+                    "uri": "spotify:artist:0VzXytleQwAWcnKUsTq3uv"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 44,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7LZlkYr5DoqQSwU074qw0q"
+            },
+            "href": "https://api.spotify.com/v1/albums/7LZlkYr5DoqQSwU074qw0q",
+            "id": "7LZlkYr5DoqQSwU074qw0q",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273860e7db9cb6740f115f19c7f",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02860e7db9cb6740f115f19c7f",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851860e7db9cb6740f115f19c7f",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Canterburied Sounds",
+            "release_date": "2013-03-25",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:7LZlkYr5DoqQSwU074qw0q",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 11,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0cSTHOeAGPk85RvmZ8acBE"
+            },
+            "href": "https://api.spotify.com/v1/albums/0cSTHOeAGPk85RvmZ8acBE",
+            "id": "0cSTHOeAGPk85RvmZ8acBE",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fac86d5f9cbdfd22bd5e6804",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fac86d5f9cbdfd22bd5e6804",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851fac86d5f9cbdfd22bd5e6804",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Une ann\u00e9e difficile (Bande originale du film)",
+            "release_date": "2023-10-18",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0cSTHOeAGPk85RvmZ8acBE",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 14,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6YzzAIyxjwK57tszcmYphw"
+            },
+            "href": "https://api.spotify.com/v1/albums/6YzzAIyxjwK57tszcmYphw",
+            "id": "6YzzAIyxjwK57tszcmYphw",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273253a886c4c38480121f3578d",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02253a886c4c38480121f3578d",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851253a886c4c38480121f3578d",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "The Jack Bruce Collector's Edition",
+            "release_date": "1986",
+            "release_date_precision": "year",
+            "type": "album",
+            "uri": "spotify:album:6YzzAIyxjwK57tszcmYphw",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/73ndLgs6jSrpZzjyzU9TJV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/73ndLgs6jSrpZzjyzU9TJV",
+                    "id": "73ndLgs6jSrpZzjyzU9TJV",
+                    "name": "Jack Bruce",
+                    "type": "artist",
+                    "uri": "spotify:artist:73ndLgs6jSrpZzjyzU9TJV"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 16,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6JZViOjEOonEMwGjqmnuxc"
+            },
+            "href": "https://api.spotify.com/v1/albums/6JZViOjEOonEMwGjqmnuxc",
+            "id": "6JZViOjEOonEMwGjqmnuxc",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c7f1610462fdf0d0a3065acd",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c7f1610462fdf0d0a3065acd",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851c7f1610462fdf0d0a3065acd",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Diabolica",
+            "release_date": "1994-10-17",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:6JZViOjEOonEMwGjqmnuxc",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1xIfBlckUoVDMRMXmwU7gh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1xIfBlckUoVDMRMXmwU7gh",
+                    "id": "1xIfBlckUoVDMRMXmwU7gh",
+                    "name": "Wolfram Huschke",
+                    "type": "artist",
+                    "uri": "spotify:artist:1xIfBlckUoVDMRMXmwU7gh"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3O6MK61jzYzxhorArK11dA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3O6MK61jzYzxhorArK11dA",
+                    "id": "3O6MK61jzYzxhorArK11dA",
+                    "name": "Dieter Huschke",
+                    "type": "artist",
+                    "uri": "spotify:artist:3O6MK61jzYzxhorArK11dA"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7apHIAVcXvHUX2QmA7MhQP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7apHIAVcXvHUX2QmA7MhQP",
+                    "id": "7apHIAVcXvHUX2QmA7MhQP",
+                    "name": "Thomas Reif",
+                    "type": "artist",
+                    "uri": "spotify:artist:7apHIAVcXvHUX2QmA7MhQP"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5xKy49hw8BProaioHDQp0E"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5xKy49hw8BProaioHDQp0E",
+                    "id": "5xKy49hw8BProaioHDQp0E",
+                    "name": "Susanne Reinl",
+                    "type": "artist",
+                    "uri": "spotify:artist:5xKy49hw8BProaioHDQp0E"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2tgQRwp0WGqK6latj5N0vY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2tgQRwp0WGqK6latj5N0vY",
+                    "id": "2tgQRwp0WGqK6latj5N0vY",
+                    "name": "Hannes M. Schalle",
+                    "type": "artist",
+                    "uri": "spotify:artist:2tgQRwp0WGqK6latj5N0vY"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0wLNtmI9sBBHQ11VSHtIB8"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0wLNtmI9sBBHQ11VSHtIB8",
+                    "id": "0wLNtmI9sBBHQ11VSHtIB8",
+                    "name": "Gianni Stiletto",
+                    "type": "artist",
+                    "uri": "spotify:artist:0wLNtmI9sBBHQ11VSHtIB8"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 20,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/53EdV35AjO0ErGNbLLpQFZ"
+            },
+            "href": "https://api.spotify.com/v1/albums/53EdV35AjO0ErGNbLLpQFZ",
+            "id": "53EdV35AjO0ErGNbLLpQFZ",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27305664f22f1a365efb8fe8995",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0205664f22f1a365efb8fe8995",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485105664f22f1a365efb8fe8995",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Smart Went Crazy",
+            "release_date": "2006-01-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:53EdV35AjO0ErGNbLLpQFZ",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5a77lKFrlvCn9KRDH5yNUf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5a77lKFrlvCn9KRDH5yNUf",
+                    "id": "5a77lKFrlvCn9KRDH5yNUf",
+                    "name": "Meridian Arts Ensemble",
+                    "type": "artist",
+                    "uri": "spotify:artist:5a77lKFrlvCn9KRDH5yNUf"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 7,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0LiYzLGlIm2ny6JvLrmqVm"
+            },
+            "href": "https://api.spotify.com/v1/albums/0LiYzLGlIm2ny6JvLrmqVm",
+            "id": "0LiYzLGlIm2ny6JvLrmqVm",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730b63718a1b1a6011cbcdf842",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e020b63718a1b1a6011cbcdf842",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048510b63718a1b1a6011cbcdf842",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Shostakovich: Waltzes - Hendrix - Zhurbin",
+            "release_date": "2009",
+            "release_date_precision": "year",
+            "type": "album",
+            "uri": "spotify:album:0LiYzLGlIm2ny6JvLrmqVm",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3LcP8zEKaPiCG1s5MlMWJA",
+                    "id": "3LcP8zEKaPiCG1s5MlMWJA",
+                    "name": "Jan Vogler",
+                    "type": "artist",
+                    "uri": "spotify:artist:3LcP8zEKaPiCG1s5MlMWJA"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3pZzcGCvhNTv3yoWmrXGNm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3pZzcGCvhNTv3yoWmrXGNm",
+                    "id": "3pZzcGCvhNTv3yoWmrXGNm",
+                    "name": "The Knights",
+                    "type": "artist",
+                    "uri": "spotify:artist:3pZzcGCvhNTv3yoWmrXGNm"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 9,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1Q1vm7EY3hkzw3M12h7ots"
+            },
+            "href": "https://api.spotify.com/v1/albums/1Q1vm7EY3hkzw3M12h7ots",
+            "id": "1Q1vm7EY3hkzw3M12h7ots",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731d093c037b9a14cfe97e9204",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e021d093c037b9a14cfe97e9204",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048511d093c037b9a14cfe97e9204",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Norrbotten Big Band",
+            "release_date": "1995-01-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:1Q1vm7EY3hkzw3M12h7ots",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/32L9PqRqyV4Q536udKy02W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/32L9PqRqyV4Q536udKy02W",
+                    "id": "32L9PqRqyV4Q536udKy02W",
+                    "name": "Norrbotten Big Band",
+                    "type": "artist",
+                    "uri": "spotify:artist:32L9PqRqyV4Q536udKy02W"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 22,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4hNf5G4W8WkASlb2NiRS6t"
+            },
+            "href": "https://api.spotify.com/v1/albums/4hNf5G4W8WkASlb2NiRS6t",
+            "id": "4hNf5G4W8WkASlb2NiRS6t",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27328ac949b8338f0af108d19f1",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0228ac949b8338f0af108d19f1",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485128ac949b8338f0af108d19f1",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Bad Boy: 20th Century Works for 2 Guitars",
+            "release_date": "2020-07-24",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:4hNf5G4W8WkASlb2NiRS6t",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3ql9d0kp6PGRtWjCSuTkjs"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3ql9d0kp6PGRtWjCSuTkjs",
+                    "id": "3ql9d0kp6PGRtWjCSuTkjs",
+                    "name": "Folkwang Gitarren Duo",
+                    "type": "artist",
+                    "uri": "spotify:artist:3ql9d0kp6PGRtWjCSuTkjs"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 15,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1aIHSBJv5xZZ7e79u57Mbu"
+            },
+            "href": "https://api.spotify.com/v1/albums/1aIHSBJv5xZZ7e79u57Mbu",
+            "id": "1aIHSBJv5xZZ7e79u57Mbu",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273448d35a5faadef299b436446",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02448d35a5faadef299b436446",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851448d35a5faadef299b436446",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Western Moods",
+            "release_date": "2019-04-05",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:1aIHSBJv5xZZ7e79u57Mbu",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2MUw5XBBA2LuL7PdG7KpEB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2MUw5XBBA2LuL7PdG7KpEB",
+                    "id": "2MUw5XBBA2LuL7PdG7KpEB",
+                    "name": "Ensemble Esperanza",
+                    "type": "artist",
+                    "uri": "spotify:artist:2MUw5XBBA2LuL7PdG7KpEB"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74Ch11L4833kZ9VfyziR3K"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74Ch11L4833kZ9VfyziR3K",
+                    "id": "74Ch11L4833kZ9VfyziR3K",
+                    "name": "Unknown Artist",
+                    "type": "artist",
+                    "uri": "spotify:artist:74Ch11L4833kZ9VfyziR3K"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 12,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2S6OMHEHPqRbvkocztyaqx"
+            },
+            "href": "https://api.spotify.com/v1/albums/2S6OMHEHPqRbvkocztyaqx",
+            "id": "2S6OMHEHPqRbvkocztyaqx",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27318308dc0bb6a26f6cc023922",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0218308dc0bb6a26f6cc023922",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485118308dc0bb6a26f6cc023922",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Past Future",
+            "release_date": "2011-06-07",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:2S6OMHEHPqRbvkocztyaqx",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1JWqETxOohXDqVj3gpr6vH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1JWqETxOohXDqVj3gpr6vH",
+                    "id": "1JWqETxOohXDqVj3gpr6vH",
+                    "name": "Magnus Ros\u00e9n",
+                    "type": "artist",
+                    "uri": "spotify:artist:1JWqETxOohXDqVj3gpr6vH"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6SKjQxMxMyzH1kqpgv4XBj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6SKjQxMxMyzH1kqpgv4XBj",
+                    "id": "6SKjQxMxMyzH1kqpgv4XBj",
+                    "name": "David Bj\u00f6rkman",
+                    "type": "artist",
+                    "uri": "spotify:artist:6SKjQxMxMyzH1kqpgv4XBj"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "compilation",
+            "total_tracks": 25,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/77ro1mLZLDywS72gpUGS3T"
+            },
+            "href": "https://api.spotify.com/v1/albums/77ro1mLZLDywS72gpUGS3T",
+            "id": "77ro1mLZLDywS72gpUGS3T",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27395f74a13d1d5323dd989cb9d",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0295f74a13d1d5323dd989cb9d",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485195f74a13d1d5323dd989cb9d",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Breaking the Barriers of Rock",
+            "release_date": "1997-01-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:77ro1mLZLDywS72gpUGS3T",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 9,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5CPXytVmJ0p3u41mQ0x89B"
+            },
+            "href": "https://api.spotify.com/v1/albums/5CPXytVmJ0p3u41mQ0x89B",
+            "id": "5CPXytVmJ0p3u41mQ0x89B",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735084129b4173471af62891a1",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e025084129b4173471af62891a1",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048515084129b4173471af62891a1",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Absolution",
+            "release_date": "2000-04-16",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:5CPXytVmJ0p3u41mQ0x89B",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2WgYGKKKnmn7t11fcHZnt7",
+                    "id": "2WgYGKKKnmn7t11fcHZnt7",
+                    "name": "Kristjan J\u00e4rvi",
+                    "type": "artist",
+                    "uri": "spotify:artist:2WgYGKKKnmn7t11fcHZnt7"
+                }
+            ],
+            "album_group": "appears_on"
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 7,
+            "is_playable": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2nWwSU9KjxOXwmowLs2ZC8"
+            },
+            "href": "https://api.spotify.com/v1/albums/2nWwSU9KjxOXwmowLs2ZC8",
+            "id": "2nWwSU9KjxOXwmowLs2ZC8",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27344db7933667678fc49496f80",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0244db7933667678fc49496f80",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485144db7933667678fc49496f80",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Singen Concert 1996",
+            "release_date": "2025-01-14",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:2nWwSU9KjxOXwmowLs2ZC8",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3nAemvx3d59Nc3MnIdcw99"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3nAemvx3d59Nc3MnIdcw99",
+                    "id": "3nAemvx3d59Nc3MnIdcw99",
+                    "name": "Uli Johannes Kieckbusch",
+                    "type": "artist",
+                    "uri": "spotify:artist:3nAemvx3d59Nc3MnIdcw99"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Ij67v8rlRqZoxi5ysssrm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Ij67v8rlRqZoxi5ysssrm",
+                    "id": "3Ij67v8rlRqZoxi5ysssrm",
+                    "name": "Robert Dick",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Ij67v8rlRqZoxi5ysssrm"
+                }
+            ],
+            "album_group": "appears_on"
+        }
+    ]
+}

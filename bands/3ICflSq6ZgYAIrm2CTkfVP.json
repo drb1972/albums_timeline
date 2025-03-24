@@ -1,0 +1,2593 @@
+{
+    "band": "The Animals",
+    "band_spotify_url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP",
+    "band_link_text": "Open Album in Spotify The Animals",
+    "albums": [
+        {
+            "id": "2BZleDEaCEsexg5JDy9gtm",
+            "name": "Live In The Sixties",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2734d6bacef0541e518d07e371c",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048514d6bacef0541e518d07e371c",
+            "total_tracks": 32,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2023-07-15",
+            "release_date_precision": "day",
+            "release_year": "2023",
+            "release_month": "07",
+            "album_spotify_url": "https://open.spotify.com/album/2BZleDEaCEsexg5JDy9gtm",
+            "tracks": [
+                {
+                    "name": "C.C. Rider - Live: Francia TV 1966",
+                    "track_number": 1,
+                    "duration": "2:48",
+                    "track_spotify_url": "https://open.spotify.com/track/48t1NrHpBgIhUmRuKa9VOF"
+                },
+                {
+                    "name": "The Same Thing - Live: UK Radio 11th Nov 1966",
+                    "track_number": 2,
+                    "duration": "2:48",
+                    "track_spotify_url": "https://open.spotify.com/track/4Bv0561KgH5RkYgip2zQJG"
+                },
+                {
+                    "name": "Paint It Black (with Interview) - Live: UK Radio 14th Nov 1966",
+                    "track_number": 3,
+                    "duration": "4:05",
+                    "track_spotify_url": "https://open.spotify.com/track/617R8VbU11Jd23jAbi9OMX"
+                },
+                {
+                    "name": "Jailhouse Rock - Live: UK Radio 14th Nov 1966",
+                    "track_number": 4,
+                    "duration": "2:52",
+                    "track_spotify_url": "https://open.spotify.com/track/1tKnKZUovwfG2wYaavEskk"
+                },
+                {
+                    "name": "Lawdy Miss Clawdy - Live: UK Radio 14th Nov 1966",
+                    "track_number": 5,
+                    "duration": "2:19",
+                    "track_spotify_url": "https://open.spotify.com/track/2IddFnj2NuvSzHQngL3IJa"
+                },
+                {
+                    "name": "Roadrunner - Live: Bremen - German TV Dec 1966",
+                    "track_number": 6,
+                    "duration": "2:20",
+                    "track_spotify_url": "https://open.spotify.com/track/1o89xy5YjlW2IRDHTe0gz1"
+                },
+                {
+                    "name": "C.C. Rider - Live: Bremen - German TV Dec 1966",
+                    "track_number": 7,
+                    "duration": "3:54",
+                    "track_spotify_url": "https://open.spotify.com/track/7qqHMiswEeEH2C4Wc1xlj4"
+                },
+                {
+                    "name": "Tobacco Road - Live: Bremen - German TV Dec 1966",
+                    "track_number": 8,
+                    "duration": "4:21",
+                    "track_spotify_url": "https://open.spotify.com/track/7MOfB8wUVEnv7ArJo7l31I"
+                },
+                {
+                    "name": "Tobacco Road (Fragment) - Live: Francia TV 1967",
+                    "track_number": 9,
+                    "duration": "0:57",
+                    "track_spotify_url": "https://open.spotify.com/track/2m0nB96YHiv8ft1sHgNtVP"
+                },
+                {
+                    "name": "If I Were A Carpenter - Live: UK Radio Jan 28th 1967",
+                    "track_number": 10,
+                    "duration": "1:55",
+                    "track_spotify_url": "https://open.spotify.com/track/4q7zn4AXk8UsgH6t6BxtXx"
+                },
+                {
+                    "name": "A Love Like Yours - Live: UK Radio Jan 28th 1967",
+                    "track_number": 11,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/5ClWEEI2XJB7rN3uXdnLLF"
+                },
+                {
+                    "name": "Connection - Live: UK Radio Jan 28th 1967",
+                    "track_number": 12,
+                    "duration": "1:36",
+                    "track_spotify_url": "https://open.spotify.com/track/1igApfR7UQ2ZFCCfL4ob4B"
+                },
+                {
+                    "name": "McCulloch\u2019s Blues - Live: UK Radio Jan 28th 1967",
+                    "track_number": 13,
+                    "duration": "1:44",
+                    "track_spotify_url": "https://open.spotify.com/track/5AIz5jvyty6Aat0QkwwS6C"
+                },
+                {
+                    "name": "Shake, Rattle & Roll - Live: UK Radio Jan 28th 1967",
+                    "track_number": 14,
+                    "duration": "3:10",
+                    "track_spotify_url": "https://open.spotify.com/track/4FTh9Uabt4BavpsUNZiTsM"
+                },
+                {
+                    "name": "When I Was Young - Live: UK Radio Jan 28th 1967",
+                    "track_number": 15,
+                    "duration": "3:12",
+                    "track_spotify_url": "https://open.spotify.com/track/5vpQvIzmHg225p3IUmjPe7"
+                },
+                {
+                    "name": "C.C. Rider - Live: Bremen - German TV Feb 1967",
+                    "track_number": 16,
+                    "duration": "3:31",
+                    "track_spotify_url": "https://open.spotify.com/track/6Ut8VEAQplFa8BKxD9xbNL"
+                },
+                {
+                    "name": "A Love Like Yours - Live: Bremen - German TV Feb 1967",
+                    "track_number": 17,
+                    "duration": "3:02",
+                    "track_spotify_url": "https://open.spotify.com/track/0TTKIWN83PYLlDM8edaOt1"
+                },
+                {
+                    "name": "Shake, Rattle & Roll - Live: Bremen - German TV Feb 1967",
+                    "track_number": 18,
+                    "duration": "3:01",
+                    "track_spotify_url": "https://open.spotify.com/track/32FHn5BGLDUZQBCC9TQmXV"
+                },
+                {
+                    "name": "C.C. Rider - Live: Ohio, US TV 21st Feb 1967",
+                    "track_number": 19,
+                    "duration": "4:34",
+                    "track_spotify_url": "https://open.spotify.com/track/2q8eeiewxR5nwIr2EaIdlR"
+                },
+                {
+                    "name": "When I Was Young - Live: Ohio, US TV 21st Feb 1967",
+                    "track_number": 20,
+                    "duration": "2:55",
+                    "track_spotify_url": "https://open.spotify.com/track/3eDtnictHFAlgv4vXLq2q8"
+                },
+                {
+                    "name": "San Franciscan Nights - Live: Hollywood, CA US TV 24th June 1967",
+                    "track_number": 21,
+                    "duration": "3:48",
+                    "track_spotify_url": "https://open.spotify.com/track/5ec5ShSarPrMI5cqBeZxGM"
+                },
+                {
+                    "name": "When I Was Young (with interview) - Live: Hollywood, CA US TV 24th June 1967",
+                    "track_number": 22,
+                    "duration": "4:20",
+                    "track_spotify_url": "https://open.spotify.com/track/3rOqyqEWoDH7vgn8Yfx4wZ"
+                },
+                {
+                    "name": "San Franciscan Nights - Live: UK Radio Aug 15th 1967",
+                    "track_number": 23,
+                    "duration": "3:03",
+                    "track_spotify_url": "https://open.spotify.com/track/2uTBqMVM0VsiKPLtcgz471"
+                },
+                {
+                    "name": "All Night Long - Live: UK Radio Aug 24th 1967",
+                    "track_number": 24,
+                    "duration": "2:34",
+                    "track_spotify_url": "https://open.spotify.com/track/4c4EPkQdESvO6iJ8GO2CIU"
+                },
+                {
+                    "name": "Good Times - Live: UK Radio Aug 24th 1967",
+                    "track_number": 25,
+                    "duration": "3:04",
+                    "track_spotify_url": "https://open.spotify.com/track/0geZNkHazaw3ayskRDwkPY"
+                },
+                {
+                    "name": "I Get So Excited (with interview) - Live: UK Radio Aug 24th 1967",
+                    "track_number": 26,
+                    "duration": "4:12",
+                    "track_spotify_url": "https://open.spotify.com/track/312F6c3Jc9KYxml9muIHSZ"
+                },
+                {
+                    "name": "Yes, I Am Experienced - Live: UK Radio Aug 24th 1967",
+                    "track_number": 27,
+                    "duration": "1:35",
+                    "track_spotify_url": "https://open.spotify.com/track/3e96ryfKK0rwCFMk4kuNXU"
+                },
+                {
+                    "name": "Hey Gyp (Dig The Slowness) - Live: Woburn Abbey Festival 27th Aug 1967",
+                    "track_number": 28,
+                    "duration": "3:34",
+                    "track_spotify_url": "https://open.spotify.com/track/05UxCMjgn7AsuZycIFrFaY"
+                },
+                {
+                    "name": "It's All Meat - Live: UK Radio Nov 1967",
+                    "track_number": 29,
+                    "duration": "2:08",
+                    "track_spotify_url": "https://open.spotify.com/track/4USmJsEsCC4jQlY2E7goEi"
+                },
+                {
+                    "name": "Anything - Live: UK Radio 21st Dec 1967",
+                    "track_number": 30,
+                    "duration": "3:18",
+                    "track_spotify_url": "https://open.spotify.com/track/056dYp8UoiLTUJigTFryWx"
+                },
+                {
+                    "name": "Monterey - Live: UK Radio 21st Dec 1967",
+                    "track_number": 31,
+                    "duration": "4:27",
+                    "track_spotify_url": "https://open.spotify.com/track/3Bbdgdtbv0hn38ivS2Gfmi"
+                },
+                {
+                    "name": "Hey Gyp (Dig The Slowness) - Live: UK Olympia Exhibition Hall 22nd Dec 1967",
+                    "track_number": 32,
+                    "duration": "8:57",
+                    "track_spotify_url": "https://open.spotify.com/track/1m1oVa9IL9TA0XWaih5HS0"
+                }
+            ]
+        },
+        {
+            "id": "5oH3myu3spjfIRxly3dHLH",
+            "name": "On Air 1964-67 (Live 1964-67)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2731ec314c8001af7ea51ae6ab4",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048511ec314c8001af7ea51ae6ab4",
+            "total_tracks": 53,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2019-10-11",
+            "release_date_precision": "day",
+            "release_year": "2019",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/5oH3myu3spjfIRxly3dHLH",
+            "tracks": [
+                {
+                    "name": "Don't Let Me Be Misunderstood - Live 1965",
+                    "track_number": 1,
+                    "duration": "2:12",
+                    "track_spotify_url": "https://open.spotify.com/track/77lB9LH25OFqQRGzTdL7jt"
+                },
+                {
+                    "name": "Gonna Send You Back To Georgia - Live 1965",
+                    "track_number": 2,
+                    "duration": "2:15",
+                    "track_spotify_url": "https://open.spotify.com/track/2QW6EN3clSSRSSG7g4EpWL"
+                },
+                {
+                    "name": "Bring It On Home To Me - Live 1965",
+                    "track_number": 3,
+                    "duration": "2:27",
+                    "track_spotify_url": "https://open.spotify.com/track/3wUYBQQ0ySyyavJqqppqww"
+                },
+                {
+                    "name": "C C Rider - Live 1965",
+                    "track_number": 4,
+                    "duration": "2:52",
+                    "track_spotify_url": "https://open.spotify.com/track/4K6cCUOIg6W41vA9XJYSCu"
+                },
+                {
+                    "name": "We've Gotta Get Out Of This Place - Live 1965",
+                    "track_number": 5,
+                    "duration": "3:01",
+                    "track_spotify_url": "https://open.spotify.com/track/0L7QSgcojvnblSA7EE4WxF"
+                },
+                {
+                    "name": "Heartbreak Hotel - Live 1965",
+                    "track_number": 6,
+                    "duration": "2:33",
+                    "track_spotify_url": "https://open.spotify.com/track/4W2EBt3YIkzhHDWNEF4RDn"
+                },
+                {
+                    "name": "Work Song - Live 1965",
+                    "track_number": 7,
+                    "duration": "2:43",
+                    "track_spotify_url": "https://open.spotify.com/track/1AVcWLacntHDdpsgVoU1OJ"
+                },
+                {
+                    "name": "It's My Life - Live 1965",
+                    "track_number": 8,
+                    "duration": "2:56",
+                    "track_spotify_url": "https://open.spotify.com/track/50PfiixCltQ9w5EV1L92WG"
+                },
+                {
+                    "name": "Corrina Corrina - Live 1965",
+                    "track_number": 9,
+                    "duration": "2:14",
+                    "track_spotify_url": "https://open.spotify.com/track/2CjxDioyA4FVnykOKJZSrV"
+                },
+                {
+                    "name": "Inside Looking Out - Live 1966",
+                    "track_number": 10,
+                    "duration": "3:39",
+                    "track_spotify_url": "https://open.spotify.com/track/6vLWH9rB088WEMqAVkuEsD"
+                },
+                {
+                    "name": "Sweet Little Sixteen - Live 1966",
+                    "track_number": 11,
+                    "duration": "3:00",
+                    "track_spotify_url": "https://open.spotify.com/track/3ExMz5D7NgRQCqTT46ZDcQ"
+                },
+                {
+                    "name": "Jailhouse Rock - Live 1966",
+                    "track_number": 12,
+                    "duration": "2:45",
+                    "track_spotify_url": "https://open.spotify.com/track/4p3q4eCNxoU71OGdZFBSHj"
+                },
+                {
+                    "name": "Paint It Black - Live 1966",
+                    "track_number": 13,
+                    "duration": "2:44",
+                    "track_spotify_url": "https://open.spotify.com/track/2xXS4fWaoOuekSy8tpdPRz"
+                },
+                {
+                    "name": "When I Was Young - Live 1967",
+                    "track_number": 14,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/2SGIstRnt1dO06CEFDjPYh"
+                },
+                {
+                    "name": "San Franciscan Nights - Live 1967",
+                    "track_number": 15,
+                    "duration": "3:01",
+                    "track_spotify_url": "https://open.spotify.com/track/1cUncvH6zr3wFAQokoSJAf"
+                },
+                {
+                    "name": "Monterey - Live 1967",
+                    "track_number": 16,
+                    "duration": "4:09",
+                    "track_spotify_url": "https://open.spotify.com/track/13oflUErl5acyWzxCxiTo7"
+                },
+                {
+                    "name": "Baby What's Wrong? - Live 1965",
+                    "track_number": 17,
+                    "duration": "3:29",
+                    "track_spotify_url": "https://open.spotify.com/track/3n9qooxFMsKl2lLgp9GPsP"
+                },
+                {
+                    "name": "Rosie - Live 1965",
+                    "track_number": 18,
+                    "duration": "3:10",
+                    "track_spotify_url": "https://open.spotify.com/track/6rpYZx2Wd7WQJ3GyuByw4A"
+                },
+                {
+                    "name": "I Can't Believe It - Live 1965",
+                    "track_number": 19,
+                    "duration": "3:26",
+                    "track_spotify_url": "https://open.spotify.com/track/1sEECki7fbtEZlDSSnSlny"
+                },
+                {
+                    "name": "Drown In My Own Tears - Live 1965",
+                    "track_number": 20,
+                    "duration": "2:49",
+                    "track_spotify_url": "https://open.spotify.com/track/69JUigZlu7qq6NxbhqR4iq"
+                },
+                {
+                    "name": "Ain't That A Shame - Live 1965",
+                    "track_number": 21,
+                    "duration": "2:01",
+                    "track_spotify_url": "https://open.spotify.com/track/4sUoaB5d2BE8698IUtKrVs"
+                },
+                {
+                    "name": "Squeeze Her Tease Her - Live 1965",
+                    "track_number": 22,
+                    "duration": "2:59",
+                    "track_spotify_url": "https://open.spotify.com/track/350PCLPeK3zYN6tDgbp1Rm"
+                },
+                {
+                    "name": "Lawdy Miss Clawdy - Live 1965",
+                    "track_number": 23,
+                    "duration": "2:00",
+                    "track_spotify_url": "https://open.spotify.com/track/50gHU8BBGw948fTuPVjq6q"
+                },
+                {
+                    "name": "One Monkey Don't Stop No Show - Live 1966",
+                    "track_number": 24,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/4BE5TZYSKzYuChIDNENusQ"
+                },
+                {
+                    "name": "Maudie - Live 1966",
+                    "track_number": 25,
+                    "duration": "3:25",
+                    "track_spotify_url": "https://open.spotify.com/track/30coIoRKSEUikd5I43RMGu"
+                },
+                {
+                    "name": "She'll Return It - Live 1966",
+                    "track_number": 26,
+                    "duration": "2:14",
+                    "track_spotify_url": "https://open.spotify.com/track/7wsgjs2GPbL0cidQrP1iV5"
+                },
+                {
+                    "name": "The Same Thing - Live 1966",
+                    "track_number": 27,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/1WBMSQeyLpeEveKKCCiDaN"
+                },
+                {
+                    "name": "If I Were A Carpenter - Live 1967",
+                    "track_number": 28,
+                    "duration": "2:04",
+                    "track_spotify_url": "https://open.spotify.com/track/1OCWN8cwxv0Qhdlbo6qz75"
+                },
+                {
+                    "name": "It's All Meat - Live 1967",
+                    "track_number": 29,
+                    "duration": "2:06",
+                    "track_spotify_url": "https://open.spotify.com/track/6ShyNNOBccmnNB80ScOo04"
+                },
+                {
+                    "name": "All Night Long - Live 1967",
+                    "track_number": 30,
+                    "duration": "2:32",
+                    "track_spotify_url": "https://open.spotify.com/track/3t6SPy8pchp2ul5pkmNfNL"
+                },
+                {
+                    "name": "Good Times - Live 1967",
+                    "track_number": 31,
+                    "duration": "3:02",
+                    "track_spotify_url": "https://open.spotify.com/track/5q9W7hJr2VpKCA8MgD0sgG"
+                },
+                {
+                    "name": "I Get So Excited - Live 1967",
+                    "track_number": 32,
+                    "duration": "3:29",
+                    "track_spotify_url": "https://open.spotify.com/track/7wJBnpeDcDBraku7SRd4Hq"
+                },
+                {
+                    "name": "Anything - Live 1967",
+                    "track_number": 33,
+                    "duration": "3:15",
+                    "track_spotify_url": "https://open.spotify.com/track/5Zi0x9WBJ5ZY1Z93guLNBp"
+                },
+                {
+                    "name": "It Hurts Me Too - Live 1968",
+                    "track_number": 34,
+                    "duration": "3:49",
+                    "track_spotify_url": "https://open.spotify.com/track/3YrxoRv9DJMtmVnDgFIZtM"
+                },
+                {
+                    "name": "McCulloch's Blues - Live 1967",
+                    "track_number": 35,
+                    "duration": "1:42",
+                    "track_spotify_url": "https://open.spotify.com/track/2h8hVqaFmGrlr7q1ILlEM1"
+                },
+                {
+                    "name": "Gratefully Dead - Live 1967",
+                    "track_number": 36,
+                    "duration": "3:58",
+                    "track_spotify_url": "https://open.spotify.com/track/32VWoG0BLWMqTlOWpHkb2n"
+                },
+                {
+                    "name": "Wee Wee Hours - Live 1965",
+                    "track_number": 37,
+                    "duration": "4:04",
+                    "track_spotify_url": "https://open.spotify.com/track/63KFyCpm5fCZQBOLqdnVca"
+                },
+                {
+                    "name": "Boom Boom - Live 1966",
+                    "track_number": 38,
+                    "duration": "2:40",
+                    "track_spotify_url": "https://open.spotify.com/track/2SYBkSMtCguTUyVnF0nyVK"
+                },
+                {
+                    "name": "What Am I Living For - Live 1966",
+                    "track_number": 39,
+                    "duration": "2:20",
+                    "track_spotify_url": "https://open.spotify.com/track/75WnMO3M9NCHRX0NCebFdF"
+                },
+                {
+                    "name": "Lawdy Miss Clawdy - Live 1966",
+                    "track_number": 40,
+                    "duration": "2:47",
+                    "track_spotify_url": "https://open.spotify.com/track/7KzgMSmLryeohNl6jHkdLO"
+                },
+                {
+                    "name": "I'm Gonna Change The World - Live 1965",
+                    "track_number": 41,
+                    "duration": "2:18",
+                    "track_spotify_url": "https://open.spotify.com/track/2W9164clicjQ7Q4Ofeh0zD"
+                },
+                {
+                    "name": "Lucille - Live 1965",
+                    "track_number": 42,
+                    "duration": "2:45",
+                    "track_spotify_url": "https://open.spotify.com/track/3uq2C6z0vbOK37iggEkAdV"
+                },
+                {
+                    "name": "A Love Like Ours - Live 1967",
+                    "track_number": 43,
+                    "duration": "2:48",
+                    "track_spotify_url": "https://open.spotify.com/track/6sjZn1a41f7TbKm6QZxpa9"
+                },
+                {
+                    "name": "Shake Rattle & Roll - Live 1967",
+                    "track_number": 44,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/0xWXQU789qVXtdclalfCgo"
+                },
+                {
+                    "name": "Connection - Live 1967",
+                    "track_number": 45,
+                    "duration": "1:31",
+                    "track_spotify_url": "https://open.spotify.com/track/4Kuqve6Ka6LLQ6ZraysuTA"
+                },
+                {
+                    "name": "Yes I am Experienced - Live 1967",
+                    "track_number": 46,
+                    "duration": "1:33",
+                    "track_spotify_url": "https://open.spotify.com/track/2gDduALfRoQiPTKuDNT58e"
+                },
+                {
+                    "name": "House Of The Rising Sun - Live 1964",
+                    "track_number": 47,
+                    "duration": "3:03",
+                    "track_spotify_url": "https://open.spotify.com/track/72QejgRLmXT7bqWIKVa3Ge"
+                },
+                {
+                    "name": "Don't Bring Me Down - Live 1966",
+                    "track_number": 48,
+                    "duration": "2:23",
+                    "track_spotify_url": "https://open.spotify.com/track/3Do5zfTlYAhBZZ5NLkDTvG"
+                },
+                {
+                    "name": "Don't Let Me Be Misunderstood - Live 1965",
+                    "track_number": 49,
+                    "duration": "2:25",
+                    "track_spotify_url": "https://open.spotify.com/track/3CCNa3WSdY3jM2GqddKmj8"
+                },
+                {
+                    "name": "We've Gotta Get Out Of This Place - Live 1966",
+                    "track_number": 50,
+                    "duration": "2:08",
+                    "track_spotify_url": "https://open.spotify.com/track/4FySnZdFFuuijOzz1m8wLV"
+                }
+            ]
+        },
+        {
+            "id": "1qx18LZxYLx6ubBOdFWHCp",
+            "name": "San Francisco Nights (feat. Eric Burdon, John Steel, Alan Price)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273a3a8845e9db8c1ea50ea1e84",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a3a8845e9db8c1ea50ea1e84",
+            "total_tracks": 14,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2008-08-01",
+            "release_date_precision": "day",
+            "release_year": "2008",
+            "release_month": "08",
+            "album_spotify_url": "https://open.spotify.com/album/1qx18LZxYLx6ubBOdFWHCp",
+            "tracks": [
+                {
+                    "name": "House of the Rising Sun",
+                    "track_number": 1,
+                    "duration": "4:27",
+                    "track_spotify_url": "https://open.spotify.com/track/6h3AR0a9OTnBea0ajUTBIg"
+                },
+                {
+                    "name": "Howlin'",
+                    "track_number": 2,
+                    "duration": "4:44",
+                    "track_spotify_url": "https://open.spotify.com/track/3KbQbtRSYkQys70CWDyvSA"
+                },
+                {
+                    "name": "Night Fighter",
+                    "track_number": 3,
+                    "duration": "4:42",
+                    "track_spotify_url": "https://open.spotify.com/track/0J94U521BGwrOnK9CSjp1y"
+                },
+                {
+                    "name": "San Franciscan Nights",
+                    "track_number": 4,
+                    "duration": "3:26",
+                    "track_spotify_url": "https://open.spotify.com/track/5Ac5IIVG9Jt87DOtwxMl5g"
+                },
+                {
+                    "name": "Bist immer",
+                    "track_number": 5,
+                    "duration": "3:31",
+                    "track_spotify_url": "https://open.spotify.com/track/20c3nU6gtQvNQX8bMtmdOx"
+                },
+                {
+                    "name": "Road Buster",
+                    "track_number": 6,
+                    "duration": "4:06",
+                    "track_spotify_url": "https://open.spotify.com/track/2mKhUdTG2kqHEEVRwMbMEB"
+                },
+                {
+                    "name": "We Gotta Get out of This Place",
+                    "track_number": 7,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/7CrZqZXXFcAxQGbu1DWiaE"
+                },
+                {
+                    "name": "Don't Let Me Be Misunderstood",
+                    "track_number": 8,
+                    "duration": "3:50",
+                    "track_spotify_url": "https://open.spotify.com/track/7FRxvPocqdSehKEUx0wQG3"
+                },
+                {
+                    "name": "To Love Somebody",
+                    "track_number": 9,
+                    "duration": "5:27",
+                    "track_spotify_url": "https://open.spotify.com/track/4XIjIQdeC2b6qwjge7pGn4"
+                },
+                {
+                    "name": "Frisco Queen",
+                    "track_number": 10,
+                    "duration": "4:05",
+                    "track_spotify_url": "https://open.spotify.com/track/7qPqGHHOQMSpu9awD4QWop"
+                },
+                {
+                    "name": "When I Was Young",
+                    "track_number": 11,
+                    "duration": "3:48",
+                    "track_spotify_url": "https://open.spotify.com/track/3hoqgQMdJICDRM7ASPMClO"
+                },
+                {
+                    "name": "Love Fire",
+                    "track_number": 12,
+                    "duration": "4:21",
+                    "track_spotify_url": "https://open.spotify.com/track/1EUyfqC1Wif9ZwPxiUMpMB"
+                },
+                {
+                    "name": "Pay Master",
+                    "track_number": 13,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/0kCR9qmG9PdC8phM1hbWtJ"
+                },
+                {
+                    "name": "Stand Up",
+                    "track_number": 14,
+                    "duration": "3:27",
+                    "track_spotify_url": "https://open.spotify.com/track/63SBK9ijY1pfcuUKaIOAjG"
+                }
+            ]
+        },
+        {
+            "id": "2jWPcXvKxwluFhP8DAD4Fo",
+            "name": "The Animals",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2730a08d2d2c8b2bd06d1fda6d4",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048510a08d2d2c8b2bd06d1fda6d4",
+            "total_tracks": 13,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1995",
+            "release_date_precision": "year",
+            "release_year": "1995",
+            "release_month": 1,
+            "album_spotify_url": "https://open.spotify.com/album/2jWPcXvKxwluFhP8DAD4Fo",
+            "tracks": [
+                {
+                    "name": "House of the Rising Sun",
+                    "track_number": 1,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/30gux5mcQNtDSg7fZDkHRF"
+                },
+                {
+                    "name": "Don't Let Me Be Misunderstood",
+                    "track_number": 2,
+                    "duration": "3:55",
+                    "track_spotify_url": "https://open.spotify.com/track/5ZXY5t3aOm0Zkw18i2Ttl3"
+                },
+                {
+                    "name": "We Gotta Get out of This Place",
+                    "track_number": 3,
+                    "duration": "3:40",
+                    "track_spotify_url": "https://open.spotify.com/track/0UQ9Bjk0YEgsk0s8iW0Lln"
+                },
+                {
+                    "name": "San Francisco Nights",
+                    "track_number": 4,
+                    "duration": "3:17",
+                    "track_spotify_url": "https://open.spotify.com/track/5EJQhWhxC4sfeHfSo8yzFL"
+                },
+                {
+                    "name": "When I Was Young",
+                    "track_number": 5,
+                    "duration": "3:50",
+                    "track_spotify_url": "https://open.spotify.com/track/67CGAUsVKXCJzhJOrtVsCd"
+                },
+                {
+                    "name": "Frisco Queen",
+                    "track_number": 6,
+                    "duration": "4:08",
+                    "track_spotify_url": "https://open.spotify.com/track/4nJ6PBXhrnMn4yFT9xudwT"
+                },
+                {
+                    "name": "To Love Somebody",
+                    "track_number": 7,
+                    "duration": "5:31",
+                    "track_spotify_url": "https://open.spotify.com/track/0zf5bqq2E0JiPv4on3Y7pf"
+                },
+                {
+                    "name": "Love Fire",
+                    "track_number": 8,
+                    "duration": "4:24",
+                    "track_spotify_url": "https://open.spotify.com/track/2tf7tysBsWucGUhFkvX2Fe"
+                },
+                {
+                    "name": "Colour of the Sunset",
+                    "track_number": 9,
+                    "duration": "5:10",
+                    "track_spotify_url": "https://open.spotify.com/track/5BwIFF6E46W5fbLyWrYUti"
+                },
+                {
+                    "name": "Howlin'",
+                    "track_number": 10,
+                    "duration": "4:44",
+                    "track_spotify_url": "https://open.spotify.com/track/1QmJixpwLvKGyskIJMzzH4"
+                },
+                {
+                    "name": "Night Fighter",
+                    "track_number": 11,
+                    "duration": "4:49",
+                    "track_spotify_url": "https://open.spotify.com/track/1rCxhg0xt74HqgNUV3Kcyf"
+                },
+                {
+                    "name": "Scandinavian Dreams",
+                    "track_number": 12,
+                    "duration": "4:24",
+                    "track_spotify_url": "https://open.spotify.com/track/4CrIeRvxQ73RZsqtoutOvo"
+                },
+                {
+                    "name": "Don't You Leave Me Baby",
+                    "track_number": 13,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/5Hf0xqdtsUyMkkMNZowYeo"
+                }
+            ]
+        },
+        {
+            "id": "7pHW7BXM4B4t0HVsOi6ruM",
+            "name": "Ark",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273225d9a62b66dd9a64d57bee6",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851225d9a62b66dd9a64d57bee6",
+            "total_tracks": 13,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1983-08",
+            "release_date_precision": "month",
+            "release_year": "1983",
+            "release_month": "08",
+            "album_spotify_url": "https://open.spotify.com/album/7pHW7BXM4B4t0HVsOi6ruM",
+            "tracks": [
+                {
+                    "name": "Loose Change",
+                    "track_number": 1,
+                    "duration": "3:01",
+                    "track_spotify_url": "https://open.spotify.com/track/0fcCx79KPvLxc4Ts8bKtEm"
+                },
+                {
+                    "name": "Love Is for All Time",
+                    "track_number": 2,
+                    "duration": "4:23",
+                    "track_spotify_url": "https://open.spotify.com/track/0iLcnS82ASBDJOADMzo57x"
+                },
+                {
+                    "name": "My Favourite Enemy",
+                    "track_number": 3,
+                    "duration": "3:46",
+                    "track_spotify_url": "https://open.spotify.com/track/4xZSnIuXkjk1l8hM3qbiyZ"
+                },
+                {
+                    "name": "Prisoner of the Light",
+                    "track_number": 4,
+                    "duration": "4:09",
+                    "track_spotify_url": "https://open.spotify.com/track/12aqDUTIhloMHGixtsO5Mc"
+                },
+                {
+                    "name": "Being There",
+                    "track_number": 5,
+                    "duration": "3:29",
+                    "track_spotify_url": "https://open.spotify.com/track/18IXE2hadgbySEXGtsp8UK"
+                },
+                {
+                    "name": "Hard Times",
+                    "track_number": 6,
+                    "duration": "2:55",
+                    "track_spotify_url": "https://open.spotify.com/track/4O70G6AElVMI25aOGFWmEE"
+                },
+                {
+                    "name": "The Night",
+                    "track_number": 7,
+                    "duration": "3:55",
+                    "track_spotify_url": "https://open.spotify.com/track/4AeH1nSZaqRliKLqEohH9c"
+                },
+                {
+                    "name": "Trying to Get You",
+                    "track_number": 8,
+                    "duration": "4:16",
+                    "track_spotify_url": "https://open.spotify.com/track/3nLgCSODrVNq7ZhbLbhG75"
+                },
+                {
+                    "name": "Just Can't Get Enough",
+                    "track_number": 9,
+                    "duration": "3:54",
+                    "track_spotify_url": "https://open.spotify.com/track/7rWmt2pB2G4aGEni3eo6vw"
+                },
+                {
+                    "name": "Melt Down",
+                    "track_number": 10,
+                    "duration": "3:08",
+                    "track_spotify_url": "https://open.spotify.com/track/6bmhwUXv8U6xAzQU3KSLMF"
+                },
+                {
+                    "name": "Gotta Get Back to You",
+                    "track_number": 11,
+                    "duration": "2:42",
+                    "track_spotify_url": "https://open.spotify.com/track/04duTG1TaN5VIIVdBfjeMR"
+                },
+                {
+                    "name": "Crystal Nights",
+                    "track_number": 12,
+                    "duration": "4:12",
+                    "track_spotify_url": "https://open.spotify.com/track/0i0JDuEBaKLoIJXoFcKIGh"
+                },
+                {
+                    "name": "No John No (B Side to \"the Night\")",
+                    "track_number": 13,
+                    "duration": "4:18",
+                    "track_spotify_url": "https://open.spotify.com/track/2w5RYSgdDt5W6Bhhb0MRy8"
+                }
+            ]
+        },
+        {
+            "id": "2JUuWcZ0zEM9CU6zU3lNAL",
+            "name": "Before We Were so Rudely Interrupted",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2738f071ae91ddd370985ea1088",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518f071ae91ddd370985ea1088",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1977-08",
+            "release_date_precision": "month",
+            "release_year": "1977",
+            "release_month": "08",
+            "album_spotify_url": "https://open.spotify.com/album/2JUuWcZ0zEM9CU6zU3lNAL",
+            "tracks": [
+                {
+                    "name": "Brother Bill (The Last Clean Shirt)",
+                    "track_number": 1,
+                    "duration": "3:19",
+                    "track_spotify_url": "https://open.spotify.com/track/4C44znSGn1Adoz0euQy74o"
+                },
+                {
+                    "name": "It's All over Now, Baby Blue",
+                    "track_number": 2,
+                    "duration": "4:42",
+                    "track_spotify_url": "https://open.spotify.com/track/55Jty4lzy6jnC3Cm9h8bQQ"
+                },
+                {
+                    "name": "Fire on the Sun",
+                    "track_number": 3,
+                    "duration": "2:25",
+                    "track_spotify_url": "https://open.spotify.com/track/6plffEM6YrVZISsR5lTP0W"
+                },
+                {
+                    "name": "As the Crow Flies",
+                    "track_number": 4,
+                    "duration": "3:39",
+                    "track_spotify_url": "https://open.spotify.com/track/71VlKqBxf64wTlBP5J5fuZ"
+                },
+                {
+                    "name": "Please Send Me Someone to Love",
+                    "track_number": 5,
+                    "duration": "4:44",
+                    "track_spotify_url": "https://open.spotify.com/track/3F6EGhDFPmaSA4lttRFMc9"
+                },
+                {
+                    "name": "Many Rivers to Cross",
+                    "track_number": 6,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/2K1g6ZjdpC7ulpo3WN76fW"
+                },
+                {
+                    "name": "Just a Little Bit",
+                    "track_number": 7,
+                    "duration": "2:07",
+                    "track_spotify_url": "https://open.spotify.com/track/17ZZSaxqJqJHLyeeY8BLQU"
+                },
+                {
+                    "name": "Riverside Country",
+                    "track_number": 8,
+                    "duration": "3:47",
+                    "track_spotify_url": "https://open.spotify.com/track/5gVKceksXuWN4egANrIngP"
+                },
+                {
+                    "name": "Lonely Avenue",
+                    "track_number": 9,
+                    "duration": "5:22",
+                    "track_spotify_url": "https://open.spotify.com/track/0TKdgDj41WKRWuEH6D9s3n"
+                },
+                {
+                    "name": "The Fool",
+                    "track_number": 10,
+                    "duration": "3:24",
+                    "track_spotify_url": "https://open.spotify.com/track/2ldrTibiCTlQXz3HzGF0rX"
+                }
+            ]
+        },
+        {
+            "id": "5owTdQnJSxKgLgnz8ZgFmc",
+            "name": "Animalisms",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273f3ffe8052096aaaf698a86e2",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851f3ffe8052096aaaf698a86e2",
+            "total_tracks": 25,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1966-06",
+            "release_date_precision": "month",
+            "release_year": "1966",
+            "release_month": "06",
+            "album_spotify_url": "https://open.spotify.com/album/5owTdQnJSxKgLgnz8ZgFmc",
+            "tracks": [
+                {
+                    "name": "One Monkey Don't Stop No Show",
+                    "track_number": 1,
+                    "duration": "3:20",
+                    "track_spotify_url": "https://open.spotify.com/track/3z0eeAPCj6lSDLOC0WPnSt"
+                },
+                {
+                    "name": "Maudie",
+                    "track_number": 2,
+                    "duration": "4:03",
+                    "track_spotify_url": "https://open.spotify.com/track/5YAG3S6umiMK2PE4phCUnh"
+                },
+                {
+                    "name": "Outcast",
+                    "track_number": 3,
+                    "duration": "3:04",
+                    "track_spotify_url": "https://open.spotify.com/track/4wRFKDFzl3LGlgHkCs4VEp"
+                },
+                {
+                    "name": "Sweet Little Sixteen",
+                    "track_number": 4,
+                    "duration": "3:06",
+                    "track_spotify_url": "https://open.spotify.com/track/6QL6FwfqWPw5ZzXFNJO929"
+                },
+                {
+                    "name": "You're on My Mind",
+                    "track_number": 5,
+                    "duration": "2:54",
+                    "track_spotify_url": "https://open.spotify.com/track/2rtj0iipo8pggk5rCXi5JP"
+                },
+                {
+                    "name": "Clapping",
+                    "track_number": 6,
+                    "duration": "1:20",
+                    "track_spotify_url": "https://open.spotify.com/track/6IVX028YEoXL7aOSCps0cz"
+                },
+                {
+                    "name": "Gin House Blues",
+                    "track_number": 7,
+                    "duration": "4:38",
+                    "track_spotify_url": "https://open.spotify.com/track/1tg8earWWPDN0N04QcGolF"
+                },
+                {
+                    "name": "Squeeze Her - Tease Her",
+                    "track_number": 8,
+                    "duration": "2:59",
+                    "track_spotify_url": "https://open.spotify.com/track/5cdQqZB9GS2JAcwncFLabF"
+                },
+                {
+                    "name": "What Am I Living For",
+                    "track_number": 9,
+                    "duration": "3:13",
+                    "track_spotify_url": "https://open.spotify.com/track/3a2rfhxnZyZazfssYGE1x5"
+                },
+                {
+                    "name": "I Put a Spell on You",
+                    "track_number": 10,
+                    "duration": "2:56",
+                    "track_spotify_url": "https://open.spotify.com/track/53Chgqu2TN0wlPw9EeJjSb"
+                },
+                {
+                    "name": "That's All I Am to You",
+                    "track_number": 11,
+                    "duration": "2:23",
+                    "track_spotify_url": "https://open.spotify.com/track/58I1zrXhabcnjxSUVvnn0O"
+                },
+                {
+                    "name": "She'll Return It",
+                    "track_number": 12,
+                    "duration": "2:42",
+                    "track_spotify_url": "https://open.spotify.com/track/0JzLI8SAvPQY37ZuNIyglq"
+                },
+                {
+                    "name": "Inside Looking out (Bonus Track)",
+                    "track_number": 13,
+                    "duration": "3:45",
+                    "track_spotify_url": "https://open.spotify.com/track/3NRRxKT3rcSK8aWBqDn2ka"
+                },
+                {
+                    "name": "Don't Bring Me Down (Bonus Track)",
+                    "track_number": 14,
+                    "duration": "3:16",
+                    "track_spotify_url": "https://open.spotify.com/track/15ZTgm66bORwVxRQySgMkN"
+                },
+                {
+                    "name": "Cheating (Bonus Track)",
+                    "track_number": 15,
+                    "duration": "2:23",
+                    "track_spotify_url": "https://open.spotify.com/track/5Yl623nUsrMf5QBe5dvzb3"
+                },
+                {
+                    "name": "Help Me Girl (Bonus Track)",
+                    "track_number": 16,
+                    "duration": "2:35",
+                    "track_spotify_url": "https://open.spotify.com/track/0wFLThp2EP6YI7XACROrmy"
+                },
+                {
+                    "name": "See See Rider (Bonus Track)",
+                    "track_number": 17,
+                    "duration": "4:01",
+                    "track_spotify_url": "https://open.spotify.com/track/0uMhYGXAgnP2Y7TMyUPUgd"
+                },
+                {
+                    "name": "I Just Wanna Make Love to You (Bonus Track)",
+                    "track_number": 18,
+                    "duration": "3:46",
+                    "track_spotify_url": "https://open.spotify.com/track/1t0JhTroLNWUvuK7msc2fk"
+                },
+                {
+                    "name": "Boom Boom (Bonus Track)",
+                    "track_number": 19,
+                    "duration": "3:49",
+                    "track_spotify_url": "https://open.spotify.com/track/6yfWknWMNjOLwaRPB7Bzox"
+                },
+                {
+                    "name": "Big Boss Man (Bonus Track)",
+                    "track_number": 20,
+                    "duration": "3:45",
+                    "track_spotify_url": "https://open.spotify.com/track/0CJDCshSHfXUxJubtd20Zw"
+                },
+                {
+                    "name": "Pretty Thing (Bonus Track)",
+                    "track_number": 21,
+                    "duration": "2:38",
+                    "track_spotify_url": "https://open.spotify.com/track/65VKxAHGa948tBHsCQkVpN"
+                },
+                {
+                    "name": "Don't Bring Me Down (Special Bonus Track/Stereo Version)",
+                    "track_number": 22,
+                    "duration": "3:15",
+                    "track_spotify_url": "https://open.spotify.com/track/2MJpOPTcWG9yakSMInHBW3"
+                },
+                {
+                    "name": "See See Rider (Special Bonus Track/Stereo Version)",
+                    "track_number": 23,
+                    "duration": "4:02",
+                    "track_spotify_url": "https://open.spotify.com/track/2wJtZNu66n3XAbTPlM8bUh"
+                },
+                {
+                    "name": "Help Me Girl (Special Bonus Track/Stereo Version)",
+                    "track_number": 24,
+                    "duration": "2:40",
+                    "track_spotify_url": "https://open.spotify.com/track/3wWYaanWAmP9ZsoMyINDFD"
+                },
+                {
+                    "name": "Cheating (Special Bonus Track/Stereo Version)",
+                    "track_number": 25,
+                    "duration": "2:21",
+                    "track_spotify_url": "https://open.spotify.com/track/1EyGV3MNtH7sSCAR10jd1s"
+                }
+            ]
+        },
+        {
+            "id": "7CUbzbjxzJHCO0vI6wHjU9",
+            "name": "Animal Tracks",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273c61538ae4edf1418bc700859",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851c61538ae4edf1418bc700859",
+            "total_tracks": 11,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1965-05",
+            "release_date_precision": "month",
+            "release_year": "1965",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/7CUbzbjxzJHCO0vI6wHjU9",
+            "tracks": [
+                {
+                    "name": "Mess Around - 1999 Remaster",
+                    "track_number": 1,
+                    "duration": "2:23",
+                    "track_spotify_url": "https://open.spotify.com/track/3bwTkkpUa8voa3J9c80QyR"
+                },
+                {
+                    "name": "How You've Changed - 1999 Remaster",
+                    "track_number": 2,
+                    "duration": "3:15",
+                    "track_spotify_url": "https://open.spotify.com/track/5PrdybXGgdolOpNOAZplth"
+                },
+                {
+                    "name": "Hallelujah I Love Her So - 1999 Remaster",
+                    "track_number": 3,
+                    "duration": "2:49",
+                    "track_spotify_url": "https://open.spotify.com/track/1azZjIk2r62mK9wzNo2nXc"
+                },
+                {
+                    "name": "I Believe to My Soul - 1999 Remaster",
+                    "track_number": 4,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/5d7ftoVXY9ws4p2DwKQzl4"
+                },
+                {
+                    "name": "Worried Life Blues - 1999 Remaster",
+                    "track_number": 5,
+                    "duration": "4:16",
+                    "track_spotify_url": "https://open.spotify.com/track/3bP2jXYQYIcfVQMQcDOO9g"
+                },
+                {
+                    "name": "Roberta - 1999 Remaster",
+                    "track_number": 6,
+                    "duration": "2:07",
+                    "track_spotify_url": "https://open.spotify.com/track/6xjY1tFHENSvLLnr2UtciY"
+                },
+                {
+                    "name": "I Ain't Got You - 1999 Remaster",
+                    "track_number": 7,
+                    "duration": "2:32",
+                    "track_spotify_url": "https://open.spotify.com/track/6EIcHjrHOtOpoDDdtKJXjI"
+                },
+                {
+                    "name": "Bright Lights Big City - 1999 Remaster",
+                    "track_number": 8,
+                    "duration": "2:57",
+                    "track_spotify_url": "https://open.spotify.com/track/3n1aqjOMAOi73s0TNTmZNm"
+                },
+                {
+                    "name": "Let the Good Times Roll - 1999 Remaster",
+                    "track_number": 9,
+                    "duration": "1:57",
+                    "track_spotify_url": "https://open.spotify.com/track/6nyZaTwQZCiheesdwc0XB4"
+                },
+                {
+                    "name": "For Miss Caulker - 1999 Remaster",
+                    "track_number": 10,
+                    "duration": "4:02",
+                    "track_spotify_url": "https://open.spotify.com/track/44kArHdCq8ZudZACFVvPle"
+                },
+                {
+                    "name": "Roadrunner - 1999 Remaster",
+                    "track_number": 11,
+                    "duration": "2:49",
+                    "track_spotify_url": "https://open.spotify.com/track/1ysMbwivwXyxv63wgSghd9"
+                }
+            ]
+        },
+        {
+            "id": "3c3VkRXYbjHDeJFiUq8Hse",
+            "name": "Animals",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2736539a6e3f078cce6b919e95b",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048516539a6e3f078cce6b919e95b",
+            "total_tracks": 12,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1964-09",
+            "release_date_precision": "month",
+            "release_year": "1964",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/3c3VkRXYbjHDeJFiUq8Hse",
+            "tracks": [
+                {
+                    "name": "The Story of Bo Diddley - 1997 Remaster",
+                    "track_number": 1,
+                    "duration": "5:45",
+                    "track_spotify_url": "https://open.spotify.com/track/7hBqUIGI6PTxT76JIxJZBo"
+                },
+                {
+                    "name": "Bury My Body - 1997 Remaster",
+                    "track_number": 2,
+                    "duration": "2:52",
+                    "track_spotify_url": "https://open.spotify.com/track/3KeQE5QcCU7rdTtAq4diWc"
+                },
+                {
+                    "name": "Dimples - 1997 Remaster",
+                    "track_number": 3,
+                    "duration": "3:19",
+                    "track_spotify_url": "https://open.spotify.com/track/2SzPpClyoIEmxh283HQtHg"
+                },
+                {
+                    "name": "I've Been Around - 1997 Remaster",
+                    "track_number": 4,
+                    "duration": "1:39",
+                    "track_spotify_url": "https://open.spotify.com/track/5xWTZ851MVkR3klQH2thyg"
+                },
+                {
+                    "name": "I'm in Love Again - 1997 Remaster",
+                    "track_number": 5,
+                    "duration": "3:03",
+                    "track_spotify_url": "https://open.spotify.com/track/3nF1fJwt9LfPFbHR6DrKKY"
+                },
+                {
+                    "name": "The Girl Can't Help It - 1997 Remaster",
+                    "track_number": 6,
+                    "duration": "2:23",
+                    "track_spotify_url": "https://open.spotify.com/track/6vkObXPMGPHTp5yAhuylwi"
+                },
+                {
+                    "name": "I'm Mad Again - 1997 Remaster",
+                    "track_number": 7,
+                    "duration": "4:18",
+                    "track_spotify_url": "https://open.spotify.com/track/4g48CclesIyXxFF1ljOEEf"
+                },
+                {
+                    "name": "She Said Yeah - 1997 Remaster",
+                    "track_number": 8,
+                    "duration": "2:21",
+                    "track_spotify_url": "https://open.spotify.com/track/0UVsKpBdWb5FMH6DFMbbfP"
+                },
+                {
+                    "name": "The Right Time - 1997 Remaster",
+                    "track_number": 9,
+                    "duration": "3:48",
+                    "track_spotify_url": "https://open.spotify.com/track/4Jw1m7Nq0RIWS26TSTXxZb"
+                },
+                {
+                    "name": "Memphis Tennessee - 1997 Remaster",
+                    "track_number": 10,
+                    "duration": "3:08",
+                    "track_spotify_url": "https://open.spotify.com/track/5dZx3yTV5kV4kDxN3Mb8zE"
+                },
+                {
+                    "name": "Boom Boom - 1997 Remaster",
+                    "track_number": 11,
+                    "duration": "3:19",
+                    "track_spotify_url": "https://open.spotify.com/track/0oUIlpJhF6UE7rNlFS2cxP"
+                },
+                {
+                    "name": "Around and Around - 1997 Remaster",
+                    "track_number": 12,
+                    "duration": "2:45",
+                    "track_spotify_url": "https://open.spotify.com/track/3fpILSiH2Ct5um3D0Tvhaw"
+                }
+            ]
+        },
+        {
+            "id": "7n3RPs0sqtGdInu12OXBaZ",
+            "name": "Stole My Heart Away",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2732663469caa9d3a3867948b08",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048512663469caa9d3a3867948b08",
+            "total_tracks": 4,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2024-09-20",
+            "release_date_precision": "day",
+            "release_year": "2024",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/7n3RPs0sqtGdInu12OXBaZ",
+            "tracks": [
+                {
+                    "name": "Mirage",
+                    "track_number": 1,
+                    "duration": "8:04",
+                    "track_spotify_url": "https://open.spotify.com/track/76oJR4fHCD3hjPMV8J7v8u"
+                },
+                {
+                    "name": "Stole My Heart Away (First Sight)",
+                    "track_number": 2,
+                    "duration": "5:42",
+                    "track_spotify_url": "https://open.spotify.com/track/3npy0WzTcrkORmU7BrFOdE"
+                },
+                {
+                    "name": "I've Been Hurt",
+                    "track_number": 3,
+                    "duration": "3:22",
+                    "track_spotify_url": "https://open.spotify.com/track/1Iu7pwPbUcxaUMmHsAMLSP"
+                },
+                {
+                    "name": "Kill My Body",
+                    "track_number": 4,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/19pC4qCJalJH9HIHQmCqK8"
+                }
+            ]
+        },
+        {
+            "id": "1acWgbePXCrbPZNMPFm4Gt",
+            "name": "The Sky And The Moon (Live 1968)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273580ffd9f20e3b81751125322",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851580ffd9f20e3b81751125322",
+            "total_tracks": 6,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2022-11-28",
+            "release_date_precision": "day",
+            "release_year": "2022",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/1acWgbePXCrbPZNMPFm4Gt",
+            "tracks": [
+                {
+                    "name": "I Get So Excited - Live 1968",
+                    "track_number": 1,
+                    "duration": "5:13",
+                    "track_spotify_url": "https://open.spotify.com/track/0QhEpasRkabXEvTDd9Rc2k"
+                },
+                {
+                    "name": "Tobacco Road - Live 1968",
+                    "track_number": 2,
+                    "duration": "9:59",
+                    "track_spotify_url": "https://open.spotify.com/track/6J3PEotX3uFRwnqcmxjD0y"
+                },
+                {
+                    "name": "Yes I Am Experienced - Live 1968",
+                    "track_number": 3,
+                    "duration": "4:33",
+                    "track_spotify_url": "https://open.spotify.com/track/77LFm369j7F8059ae7xiQA"
+                },
+                {
+                    "name": "San Franciscan Nights - Live 1968",
+                    "track_number": 4,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/49BaAqhEcSUVpdvhBv2tQF"
+                },
+                {
+                    "name": "Monterey - Live 1968",
+                    "track_number": 5,
+                    "duration": "6:13",
+                    "track_spotify_url": "https://open.spotify.com/track/2klkJsfqQsduPD2cvNs7V6"
+                },
+                {
+                    "name": "Paint It Black - Live 1968",
+                    "track_number": 6,
+                    "duration": "6:35",
+                    "track_spotify_url": "https://open.spotify.com/track/5Ttmt0NkVXqBxiXMsraazn"
+                }
+            ]
+        },
+        {
+            "id": "1Ubndtnvi6j4tdWsagCj2w",
+            "name": "San Franciscan Nights (Billboard Hot 100 - No 09)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273d0f8ad4a0f55397107c5319f",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851d0f8ad4a0f55397107c5319f",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2018-12-20",
+            "release_date_precision": "day",
+            "release_year": "2018",
+            "release_month": "12",
+            "album_spotify_url": "https://open.spotify.com/album/1Ubndtnvi6j4tdWsagCj2w",
+            "tracks": [
+                {
+                    "name": "San Franciscan Nights - Rerecorded",
+                    "track_number": 1,
+                    "duration": "3:26",
+                    "track_spotify_url": "https://open.spotify.com/track/3pFX6t5Oj5NbzaY3BKx82a"
+                }
+            ]
+        },
+        {
+            "id": "6ekwutm9R9leKU3cuLECuo",
+            "name": "House of the Rising Sun (Billboard Hot 100 - No 01)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273a5c6ed8003c1b3e6d79c002c",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a5c6ed8003c1b3e6d79c002c",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2018-12-20",
+            "release_date_precision": "day",
+            "release_year": "2018",
+            "release_month": "12",
+            "album_spotify_url": "https://open.spotify.com/album/6ekwutm9R9leKU3cuLECuo",
+            "tracks": [
+                {
+                    "name": "House of the Rising Sun - Rerecorded",
+                    "track_number": 1,
+                    "duration": "4:27",
+                    "track_spotify_url": "https://open.spotify.com/track/6YOzorSue4rth45mFIc32r"
+                }
+            ]
+        },
+        {
+            "id": "6kHIx0mMTbIB8jB3Khu1ci",
+            "name": "We Gotta Get Outta Dis Place",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2732ebabf82da34fdaa445b6372",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048512ebabf82da34fdaa445b6372",
+            "total_tracks": 2,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2003-01-01",
+            "release_date_precision": "day",
+            "release_year": "2003",
+            "release_month": "01",
+            "album_spotify_url": "https://open.spotify.com/album/6kHIx0mMTbIB8jB3Khu1ci",
+            "tracks": [
+                {
+                    "name": "We Gotta Get Outta Dis Place - Docklands Mix",
+                    "track_number": 1,
+                    "duration": "7:12",
+                    "track_spotify_url": "https://open.spotify.com/track/0RxQXorLkRxGIXI7VRPvb5"
+                },
+                {
+                    "name": "Please Don't Let Me Be Misunderstood - Acid It Mix",
+                    "track_number": 2,
+                    "duration": "8:21",
+                    "track_spotify_url": "https://open.spotify.com/track/2LKxNRlRoK0tK4CcIE54qD"
+                }
+            ]
+        },
+        {
+            "id": "6ERYgKZvl8Lf41lIPDM2PY",
+            "name": "The Animals",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273ce4472e6e38d3d15d616fdfc",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ce4472e6e38d3d15d616fdfc",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "1995",
+            "release_date_precision": "year",
+            "release_year": "1995",
+            "release_month": 1,
+            "album_spotify_url": "https://open.spotify.com/album/6ERYgKZvl8Lf41lIPDM2PY",
+            "tracks": [
+                {
+                    "name": "Don't Let Me Be Misunderstood",
+                    "track_number": 1,
+                    "duration": "3:55",
+                    "track_spotify_url": "https://open.spotify.com/track/5Es7PAzxBLYVTlCaY2YEbg"
+                }
+            ]
+        },
+        {
+            "id": "66YFxXigwJExOwDZQBkSsO",
+            "name": "The Animals",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2733f761f95268a77cf484b91e2",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048513f761f95268a77cf484b91e2",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "1995",
+            "release_date_precision": "year",
+            "release_year": "1995",
+            "release_month": 1,
+            "album_spotify_url": "https://open.spotify.com/album/66YFxXigwJExOwDZQBkSsO",
+            "tracks": [
+                {
+                    "name": "House of the Rising Sun",
+                    "track_number": 1,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/4fgLQFHIpTkpkRbdInkWWM"
+                }
+            ]
+        },
+        {
+            "id": "36E6RIQJreCqIdBL95Qa3O",
+            "name": "The Animals",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27312aea4c4680f4f052f04c31d",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485112aea4c4680f4f052f04c31d",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "1995",
+            "release_date_precision": "year",
+            "release_year": "1995",
+            "release_month": 1,
+            "album_spotify_url": "https://open.spotify.com/album/36E6RIQJreCqIdBL95Qa3O",
+            "tracks": [
+                {
+                    "name": "We Gotta Get out of This Place",
+                    "track_number": 1,
+                    "duration": "3:40",
+                    "track_spotify_url": "https://open.spotify.com/track/6gZFDvwzAWxA3xjKUK5k0I"
+                }
+            ]
+        },
+        {
+            "id": "2GkmC6hsvA8854l5kLsTOg",
+            "name": "The House of the Rising Sun: Best of The Animals",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273177c39d848987d806b51c2a3",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851177c39d848987d806b51c2a3",
+            "total_tracks": 35,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "2019-02-01",
+            "release_date_precision": "day",
+            "release_year": "2019",
+            "release_month": "02",
+            "album_spotify_url": "https://open.spotify.com/album/2GkmC6hsvA8854l5kLsTOg",
+            "tracks": [
+                {
+                    "name": "The House of the Rising Sun",
+                    "track_number": 1,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/3TETmhGNWOcquUTtcr6RIR"
+                },
+                {
+                    "name": "Don't Let Me Be Misunderstood",
+                    "track_number": 2,
+                    "duration": "2:25",
+                    "track_spotify_url": "https://open.spotify.com/track/2vZydp26rEXUVzHlgrtBdv"
+                },
+                {
+                    "name": "We've Gotta Get Out of This Place",
+                    "track_number": 3,
+                    "duration": "3:14",
+                    "track_spotify_url": "https://open.spotify.com/track/6aE0uNY6ADT5k0Kz2VZut5"
+                },
+                {
+                    "name": "It's My Life",
+                    "track_number": 4,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/2LXRimJdOQRh29oPbWIeN4"
+                },
+                {
+                    "name": "Bring It On Home to Me",
+                    "track_number": 5,
+                    "duration": "2:43",
+                    "track_spotify_url": "https://open.spotify.com/track/3sisyLq6c3FL8BwiLBkFdA"
+                },
+                {
+                    "name": "Hallelujah I Love Her So",
+                    "track_number": 6,
+                    "duration": "2:49",
+                    "track_spotify_url": "https://open.spotify.com/track/0hx6D2YHM7QUvp4URdCabS"
+                },
+                {
+                    "name": "Roadrunner",
+                    "track_number": 7,
+                    "duration": "2:49",
+                    "track_spotify_url": "https://open.spotify.com/track/44zVlTU6wpwNu1xcvkPj9k"
+                },
+                {
+                    "name": "I'm Going to Change the World",
+                    "track_number": 8,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/6rpAQg5SrJcHSEVSfZ8ymy"
+                },
+                {
+                    "name": "I Believe to My Soul",
+                    "track_number": 9,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/6KTsySYNvmUCtfA65lXUGt"
+                },
+                {
+                    "name": "I'm Crying",
+                    "track_number": 10,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/3KmP29CFQk90qQzlP6eUTY"
+                },
+                {
+                    "name": "Boom Boom",
+                    "track_number": 11,
+                    "duration": "3:19",
+                    "track_spotify_url": "https://open.spotify.com/track/7KP3JKLhiGDVAzkG7Yj4vz"
+                },
+                {
+                    "name": "Let the Good Times Roll",
+                    "track_number": 12,
+                    "duration": "1:57",
+                    "track_spotify_url": "https://open.spotify.com/track/4yPpjKQWXawQsLkDuEHtHr"
+                },
+                {
+                    "name": "Baby Let Me Take You Home",
+                    "track_number": 13,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/64ezEzPgJiREVlv1gaQ2pL"
+                },
+                {
+                    "name": "Gonna Send You Back to Walker",
+                    "track_number": 14,
+                    "duration": "2:28",
+                    "track_spotify_url": "https://open.spotify.com/track/75RspxyYM0QsTQ2oSNhqJ0"
+                },
+                {
+                    "name": "How You've Changed",
+                    "track_number": 15,
+                    "duration": "3:15",
+                    "track_spotify_url": "https://open.spotify.com/track/2KU3jaOKWkkiKyleIGrbQq"
+                },
+                {
+                    "name": "The Girl Can't Help It",
+                    "track_number": 16,
+                    "duration": "2:23",
+                    "track_spotify_url": "https://open.spotify.com/track/3OD8yRehE6xC88lpxzYfZ6"
+                },
+                {
+                    "name": "Club-A-Go-Go",
+                    "track_number": 17,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/2TrFXrSrgIZVhKv0MerLy3"
+                },
+                {
+                    "name": "I'm Mad Again",
+                    "track_number": 18,
+                    "duration": "4:18",
+                    "track_spotify_url": "https://open.spotify.com/track/7szVnA2mwvm0fzXlRyNam9"
+                },
+                {
+                    "name": "Dimples",
+                    "track_number": 19,
+                    "duration": "3:19",
+                    "track_spotify_url": "https://open.spotify.com/track/70K9S1yYXNXEkE1ArCqlVZ"
+                },
+                {
+                    "name": "Mess Around",
+                    "track_number": 20,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/6TWgFLl02yH2Pe89wPIzTW"
+                },
+                {
+                    "name": "For Miss Caulker",
+                    "track_number": 21,
+                    "duration": "4:02",
+                    "track_spotify_url": "https://open.spotify.com/track/54pQaqutlZvTZXK1W9I0iZ"
+                },
+                {
+                    "name": "Talkin' 'Bout You",
+                    "track_number": 22,
+                    "duration": "1:54",
+                    "track_spotify_url": "https://open.spotify.com/track/5TVq4OrBYqpecZOgh745h1"
+                },
+                {
+                    "name": "I'm In Love Again",
+                    "track_number": 23,
+                    "duration": "3:03",
+                    "track_spotify_url": "https://open.spotify.com/track/5STDAnhgeBbuflT56GubhO"
+                },
+                {
+                    "name": "The Story of Bo Diddley",
+                    "track_number": 24,
+                    "duration": "5:45",
+                    "track_spotify_url": "https://open.spotify.com/track/0jlcbHXN7Yg0l2EcR5SR02"
+                },
+                {
+                    "name": "She Said Yeah",
+                    "track_number": 25,
+                    "duration": "2:21",
+                    "track_spotify_url": "https://open.spotify.com/track/7rDRgWXxU0n5QJuNFYTRy3"
+                },
+                {
+                    "name": "Bury My Body",
+                    "track_number": 26,
+                    "duration": "2:52",
+                    "track_spotify_url": "https://open.spotify.com/track/5rE9LkKMQSi4MOOrgYiW4P"
+                },
+                {
+                    "name": "Worried Life Blues",
+                    "track_number": 27,
+                    "duration": "4:16",
+                    "track_spotify_url": "https://open.spotify.com/track/5AIuJEpN55QOQFgTq0BFHE"
+                },
+                {
+                    "name": "Blue Feeling",
+                    "track_number": 28,
+                    "duration": "2:33",
+                    "track_spotify_url": "https://open.spotify.com/track/0nXp9A5fyIH1ZhhdGjryxy"
+                },
+                {
+                    "name": "Roberta",
+                    "track_number": 29,
+                    "duration": "2:07",
+                    "track_spotify_url": "https://open.spotify.com/track/3JxG8ofe5rcncjGrycp4P0"
+                },
+                {
+                    "name": "Memphis Tennessee",
+                    "track_number": 30,
+                    "duration": "3:08",
+                    "track_spotify_url": "https://open.spotify.com/track/4Ed2A2AHziZ8pfLxhSapBs"
+                },
+                {
+                    "name": "I Ain't Got You",
+                    "track_number": 31,
+                    "duration": "2:32",
+                    "track_spotify_url": "https://open.spotify.com/track/20eGoluE5crok7t6Xt0ZEs"
+                },
+                {
+                    "name": "Take It Easy",
+                    "track_number": 32,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/6D8WdUEwCwvQ4bii286rkQ"
+                },
+                {
+                    "name": "F-E-E-L",
+                    "track_number": 33,
+                    "duration": "2:44",
+                    "track_spotify_url": "https://open.spotify.com/track/6seNbLl0fPXVdaohTMFBme"
+                },
+                {
+                    "name": "Around and Around",
+                    "track_number": 34,
+                    "duration": "2:45",
+                    "track_spotify_url": "https://open.spotify.com/track/6qMSK2oc9qcnqcfpSfNIFh"
+                },
+                {
+                    "name": "The Right Time",
+                    "track_number": 35,
+                    "duration": "3:48",
+                    "track_spotify_url": "https://open.spotify.com/track/47X30rl5Vptii1KE0aROB6"
+                }
+            ]
+        },
+        {
+            "id": "3sTJvsgm7JtUbdgXvK20cx",
+            "name": "The Greatest Hits (Live)",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273e2abae44f9dbed27c69d35c2",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851e2abae44f9dbed27c69d35c2",
+            "total_tracks": 11,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "2013-05-14",
+            "release_date_precision": "day",
+            "release_year": "2013",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/3sTJvsgm7JtUbdgXvK20cx",
+            "tracks": [
+                {
+                    "name": "It's Too Late",
+                    "track_number": 1,
+                    "duration": "4:01",
+                    "track_spotify_url": "https://open.spotify.com/track/6gL63rs2jZJTuu5AeSydaI"
+                },
+                {
+                    "name": "House of the Rising Sun",
+                    "track_number": 2,
+                    "duration": "4:09",
+                    "track_spotify_url": "https://open.spotify.com/track/5HQvBnHpUZTxNaQpTdzKy7"
+                },
+                {
+                    "name": "It's My Life",
+                    "track_number": 3,
+                    "duration": "3:13",
+                    "track_spotify_url": "https://open.spotify.com/track/0NDdMjmx1vnGvoxrtm9XUq"
+                },
+                {
+                    "name": "Don't Bring Me Down",
+                    "track_number": 4,
+                    "duration": "4:06",
+                    "track_spotify_url": "https://open.spotify.com/track/3rooBoorgOtxTQPs3C9YWq"
+                },
+                {
+                    "name": "Don't Let Me Be Misunderstood",
+                    "track_number": 5,
+                    "duration": "5:50",
+                    "track_spotify_url": "https://open.spotify.com/track/4FkC43MMMA1KLzEbdEEHyr"
+                },
+                {
+                    "name": "I'm Crying",
+                    "track_number": 6,
+                    "duration": "3:43",
+                    "track_spotify_url": "https://open.spotify.com/track/0D7FkSdaEYMpR6gCmKWIXd"
+                },
+                {
+                    "name": "Bring It on Home to Me",
+                    "track_number": 7,
+                    "duration": "4:44",
+                    "track_spotify_url": "https://open.spotify.com/track/54qX93RQ1B5bC8r8CLR86y"
+                },
+                {
+                    "name": "O Lucly Man!",
+                    "track_number": 8,
+                    "duration": "2:37",
+                    "track_spotify_url": "https://open.spotify.com/track/4okro1w06m6bHX7plrSzac"
+                },
+                {
+                    "name": "Boom Boom",
+                    "track_number": 9,
+                    "duration": "4:34",
+                    "track_spotify_url": "https://open.spotify.com/track/19G1LPxN84Z1VSmBZxJ8WC"
+                },
+                {
+                    "name": "We Gotta Get out of This Place",
+                    "track_number": 10,
+                    "duration": "7:42",
+                    "track_spotify_url": "https://open.spotify.com/track/1HFUjul1k9uxFMrOCi8jVx"
+                },
+                {
+                    "name": "When I Was Young",
+                    "track_number": 11,
+                    "duration": "5:12",
+                    "track_spotify_url": "https://open.spotify.com/track/5khS7MQTgrRefNzFUflm93"
+                }
+            ]
+        },
+        {
+            "id": "5PPJARZ9TyE48ABZFD8Eua",
+            "name": "A's B's & EP's",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273f34da9e40d7895bc380c45c1",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851f34da9e40d7895bc380c45c1",
+            "total_tracks": 24,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "2003-05-05",
+            "release_date_precision": "day",
+            "release_year": "2003",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/5PPJARZ9TyE48ABZFD8Eua",
+            "tracks": [
+                {
+                    "name": "Baby Let Me Take You Home",
+                    "track_number": 1,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/4XvV1aEY0CUjGKaYW1WNmm"
+                },
+                {
+                    "name": "Gonna Send You Back to Walker",
+                    "track_number": 2,
+                    "duration": "2:28",
+                    "track_spotify_url": "https://open.spotify.com/track/5itzvExbCEwTcr1MzmvLxB"
+                },
+                {
+                    "name": "House of the Rising Sun",
+                    "track_number": 3,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/3cW2eGdRZAhHftAgTCbhoQ"
+                },
+                {
+                    "name": "Talkin' 'Bout You",
+                    "track_number": 4,
+                    "duration": "1:54",
+                    "track_spotify_url": "https://open.spotify.com/track/5UWcqHicYIwLuphYP4lO3r"
+                },
+                {
+                    "name": "I'm Crying",
+                    "track_number": 5,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/44EGUVaZ46fHC5bgsABWVv"
+                },
+                {
+                    "name": "Boom Boom",
+                    "track_number": 6,
+                    "duration": "3:18",
+                    "track_spotify_url": "https://open.spotify.com/track/4jy2GsFcfFxn0Hq5ieCwr9"
+                },
+                {
+                    "name": "Around and Around",
+                    "track_number": 7,
+                    "duration": "2:44",
+                    "track_spotify_url": "https://open.spotify.com/track/0zcDoLkD9hksm6jCBenS5f"
+                },
+                {
+                    "name": "Dimples",
+                    "track_number": 8,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/44G9zkpSmYEmPrNEmG9ZRf"
+                },
+                {
+                    "name": "I've Been Around",
+                    "track_number": 9,
+                    "duration": "1:36",
+                    "track_spotify_url": "https://open.spotify.com/track/75X3Ei4wnxwyEWE9Oj1k56"
+                },
+                {
+                    "name": "Don't Let Me Be Misunderstood",
+                    "track_number": 10,
+                    "duration": "2:25",
+                    "track_spotify_url": "https://open.spotify.com/track/0V1hBXTdYOWv3N2FVzG3OM"
+                },
+                {
+                    "name": "Club-A-Go-Go",
+                    "track_number": 11,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/0cMDdhY3qlIXkqAJf1ctrB"
+                },
+                {
+                    "name": "Bring It on Home to Me",
+                    "track_number": 12,
+                    "duration": "2:43",
+                    "track_spotify_url": "https://open.spotify.com/track/7GfALEZb8RZQwKDhxfWX28"
+                },
+                {
+                    "name": "For Miss Caulker",
+                    "track_number": 13,
+                    "duration": "3:59",
+                    "track_spotify_url": "https://open.spotify.com/track/4ubYhtRSkaufh3nYy15mQM"
+                },
+                {
+                    "name": "I'm in Love Again",
+                    "track_number": 14,
+                    "duration": "3:01",
+                    "track_spotify_url": "https://open.spotify.com/track/4RrSqO6rNCwP4ww64HMEG6"
+                },
+                {
+                    "name": "Bury My Body",
+                    "track_number": 15,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/0Sn9bRVaReFXh4LzOGpyYg"
+                },
+                {
+                    "name": "I'm Mad Again",
+                    "track_number": 16,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/6BvBx4tCuV9XcJoeF5lw77"
+                },
+                {
+                    "name": "She Said Yeah",
+                    "track_number": 17,
+                    "duration": "2:20",
+                    "track_spotify_url": "https://open.spotify.com/track/05BeDivcvT8bvaFkh5NVoC"
+                },
+                {
+                    "name": "We've Gotta Get out of This Place",
+                    "track_number": 18,
+                    "duration": "3:12",
+                    "track_spotify_url": "https://open.spotify.com/track/0a02GnkPBoTV4lXL4zQbxg"
+                },
+                {
+                    "name": "It's My Life",
+                    "track_number": 19,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/5Z6f9eNiSkpmdYd7MnZLOv"
+                },
+                {
+                    "name": "I'm Going to Change the World",
+                    "track_number": 20,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/04O8NxW82LFuzr89icPNjy"
+                },
+                {
+                    "name": "How You've Changed",
+                    "track_number": 21,
+                    "duration": "3:15",
+                    "track_spotify_url": "https://open.spotify.com/track/7GHzs7XqtWnbWU1XNmfkEW"
+                },
+                {
+                    "name": "I Believe to My Soul",
+                    "track_number": 22,
+                    "duration": "3:26",
+                    "track_spotify_url": "https://open.spotify.com/track/5lFcIWjTGaky63xHwc6ZJP"
+                },
+                {
+                    "name": "Let the Good Times Roll",
+                    "track_number": 23,
+                    "duration": "1:57",
+                    "track_spotify_url": "https://open.spotify.com/track/4kNUvBUEMkSehkXxqDEU83"
+                },
+                {
+                    "name": "Worried Life Blues",
+                    "track_number": 24,
+                    "duration": "4:13",
+                    "track_spotify_url": "https://open.spotify.com/track/06loetjmEau2eU4ceufkx7"
+                }
+            ]
+        },
+        {
+            "id": "7FDy2xgipAapbf3bRA8Vuv",
+            "name": "The Best of the Animals",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27399c35f23f4edae24d409d271",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485199c35f23f4edae24d409d271",
+            "total_tracks": 20,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "1996-08-19",
+            "release_date_precision": "day",
+            "release_year": "1996",
+            "release_month": "08",
+            "album_spotify_url": "https://open.spotify.com/album/7FDy2xgipAapbf3bRA8Vuv",
+            "tracks": [
+                {
+                    "name": "House of the Rising Sun",
+                    "track_number": 1,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/1D8MLfoyeJr3W7sEYsDoyv"
+                },
+                {
+                    "name": "Don't Let Me Be Misunderstood",
+                    "track_number": 2,
+                    "duration": "2:25",
+                    "track_spotify_url": "https://open.spotify.com/track/3ssRihdkljA2TOHT13pV49"
+                },
+                {
+                    "name": "We've Gotta Get out of This Place",
+                    "track_number": 3,
+                    "duration": "3:12",
+                    "track_spotify_url": "https://open.spotify.com/track/6xGATXuBYO1kOpzpulwD8x"
+                },
+                {
+                    "name": "Roadrunner",
+                    "track_number": 4,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/7EhuJizKCqWvTphUy7TOHX"
+                },
+                {
+                    "name": "Baby Let Me Take You Home",
+                    "track_number": 5,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/2WqeH3EeYbE1aYeuIrl4GQ"
+                },
+                {
+                    "name": "Club-A-Go-Go",
+                    "track_number": 6,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/78YasCB5RnqFERzXFNMwXv"
+                },
+                {
+                    "name": "Boom Boom",
+                    "track_number": 7,
+                    "duration": "3:18",
+                    "track_spotify_url": "https://open.spotify.com/track/3LnSDyJbI8ytYqf8nuj2Gq"
+                },
+                {
+                    "name": "Gonna Send You Back to Walker",
+                    "track_number": 8,
+                    "duration": "2:28",
+                    "track_spotify_url": "https://open.spotify.com/track/10hJcg5qnsADFqqolNEyWW"
+                },
+                {
+                    "name": "Dimples",
+                    "track_number": 9,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/66raOq91iWFZS3yh9ZqVh2"
+                },
+                {
+                    "name": "I'm Crying",
+                    "track_number": 10,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/5NIOQniXDNOhfo7RsZ3gA5"
+                },
+                {
+                    "name": "Talkin' 'Bout You - Full Version",
+                    "track_number": 11,
+                    "duration": "7:04",
+                    "track_spotify_url": "https://open.spotify.com/track/5CqRufs6qbF3lgZ9fwUsN1"
+                },
+                {
+                    "name": "I'm Mad Again",
+                    "track_number": 12,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/0F9zxrZwCZFM9EIsVJlQol"
+                },
+                {
+                    "name": "I Believe to My Soul",
+                    "track_number": 13,
+                    "duration": "3:26",
+                    "track_spotify_url": "https://open.spotify.com/track/3l6CSp8yEBgweSnYRjTKSM"
+                },
+                {
+                    "name": "I Ain't Got You",
+                    "track_number": 14,
+                    "duration": "2:28",
+                    "track_spotify_url": "https://open.spotify.com/track/448cKpzFdL3qfgrn4lpZGS"
+                },
+                {
+                    "name": "Bring It on Home to Me",
+                    "track_number": 15,
+                    "duration": "2:43",
+                    "track_spotify_url": "https://open.spotify.com/track/7G7pOhH50ZWkcl0BhmJdqw"
+                },
+                {
+                    "name": "It's My Life",
+                    "track_number": 16,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/5xv04xQ74rrC1InjtlgsS2"
+                },
+                {
+                    "name": "Bright Lights Big City",
+                    "track_number": 17,
+                    "duration": "2:54",
+                    "track_spotify_url": "https://open.spotify.com/track/0ktirXhDqdW2vfiJd1g7Ic"
+                },
+                {
+                    "name": "I'm Going to Change the World",
+                    "track_number": 18,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/72hQ8ms1jlBOj0fjl7varr"
+                },
+                {
+                    "name": "Don't Bring Me Down",
+                    "track_number": 19,
+                    "duration": "3:16",
+                    "track_spotify_url": "https://open.spotify.com/track/1rAE0Jf4uJ08ZebPhhRe66"
+                },
+                {
+                    "name": "Inside Looking Out",
+                    "track_number": 20,
+                    "duration": "3:45",
+                    "track_spotify_url": "https://open.spotify.com/track/77Yb8RXP7vyBrCb7g2CQbv"
+                }
+            ]
+        },
+        {
+            "id": "0Vhk3dVT59LnhwSHFXLIXA",
+            "name": "Most of the Animals",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273128b823a82be808648739034",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851128b823a82be808648739034",
+            "total_tracks": 16,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "1992-02-24",
+            "release_date_precision": "day",
+            "release_year": "1992",
+            "release_month": "02",
+            "album_spotify_url": "https://open.spotify.com/album/0Vhk3dVT59LnhwSHFXLIXA",
+            "tracks": [
+                {
+                    "name": "House of the Rising Sun",
+                    "track_number": 1,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/3XC7Jd6SfrQYKZJ6inyRHK"
+                },
+                {
+                    "name": "We've Gotta Get out of This Place",
+                    "track_number": 2,
+                    "duration": "3:12",
+                    "track_spotify_url": "https://open.spotify.com/track/6ZMBR8nPA10HTmbtIUXpO6"
+                },
+                {
+                    "name": "Roadrunner",
+                    "track_number": 3,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/2yIJ513gZXUTUXc0C1Bpwv"
+                },
+                {
+                    "name": "Let the Good Times Roll",
+                    "track_number": 4,
+                    "duration": "1:57",
+                    "track_spotify_url": "https://open.spotify.com/track/7vO8dTZ8lsU8GhLmZzKyQx"
+                },
+                {
+                    "name": "Hallelujah I Love Her So",
+                    "track_number": 5,
+                    "duration": "2:48",
+                    "track_spotify_url": "https://open.spotify.com/track/5gSZqlCMz3MODlVpAcHKkt"
+                },
+                {
+                    "name": "I'm Going to Change the World",
+                    "track_number": 6,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/0XnlDnMUkELwKsjb22B7lb"
+                },
+                {
+                    "name": "Bring It on Home to Me",
+                    "track_number": 7,
+                    "duration": "2:43",
+                    "track_spotify_url": "https://open.spotify.com/track/0IKE9oIA0LLOsQpUHlf0qM"
+                },
+                {
+                    "name": "Worried Life Blues",
+                    "track_number": 8,
+                    "duration": "4:13",
+                    "track_spotify_url": "https://open.spotify.com/track/4QamLMcLD5peS3VbwOj7ze"
+                },
+                {
+                    "name": "Baby Let Me Take You Home",
+                    "track_number": 9,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/5Exl9ARSFGBZdkS2ZvSQHy"
+                },
+                {
+                    "name": "For Miss Caulker",
+                    "track_number": 10,
+                    "duration": "3:59",
+                    "track_spotify_url": "https://open.spotify.com/track/18zo8CgBYj45ATurtb4H4W"
+                },
+                {
+                    "name": "I Believe to My Soul",
+                    "track_number": 11,
+                    "duration": "3:26",
+                    "track_spotify_url": "https://open.spotify.com/track/4WEyCiPRAvB1ztzCmaPrru"
+                },
+                {
+                    "name": "How You've Changed",
+                    "track_number": 12,
+                    "duration": "3:15",
+                    "track_spotify_url": "https://open.spotify.com/track/0DuQIp9mv0L7KHpjYw0MQR"
+                },
+                {
+                    "name": "Don't Let Me Be Misunderstood",
+                    "track_number": 13,
+                    "duration": "2:25",
+                    "track_spotify_url": "https://open.spotify.com/track/1Jir5FdBXsz98t9CHYEDW2"
+                },
+                {
+                    "name": "It's My Life",
+                    "track_number": 14,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/37PAhZKEdzpohI3SE0W13F"
+                },
+                {
+                    "name": "Club-A-Go-Go",
+                    "track_number": 15,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/1CT7rYnIO7elddUrwIBJmC"
+                },
+                {
+                    "name": "I'm Crying",
+                    "track_number": 16,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/1iOhZfWgusj8yQgzlcJnxT"
+                }
+            ]
+        },
+        {
+            "id": "7oAWqSPWeuz7DInMBu6IzF",
+            "name": "The Complete Animals",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273b49cefa2e0f92604950a0a63",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851b49cefa2e0f92604950a0a63",
+            "total_tracks": 40,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "1990-07-01",
+            "release_date_precision": "day",
+            "release_year": "1990",
+            "release_month": "07",
+            "album_spotify_url": "https://open.spotify.com/album/7oAWqSPWeuz7DInMBu6IzF",
+            "tracks": [
+                {
+                    "name": "Boom Boom",
+                    "track_number": 1,
+                    "duration": "3:18",
+                    "track_spotify_url": "https://open.spotify.com/track/2geN6AJAKxZ8XDe5315tHM"
+                },
+                {
+                    "name": "Talkin' 'Bout You - Full Version",
+                    "track_number": 2,
+                    "duration": "7:04",
+                    "track_spotify_url": "https://open.spotify.com/track/7rNoJPPKJEl3MnXN3hUO5j"
+                },
+                {
+                    "name": "Blue Feeling",
+                    "track_number": 3,
+                    "duration": "2:33",
+                    "track_spotify_url": "https://open.spotify.com/track/2gI10dqBeToyBZEUNKV0UI"
+                },
+                {
+                    "name": "Dimples",
+                    "track_number": 4,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/1GrGrFdDeUytGjvgK4czha"
+                },
+                {
+                    "name": "Baby Let Me Take You Home",
+                    "track_number": 5,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/0Wv4DGlXzVwLbbswBAUwlr"
+                },
+                {
+                    "name": "Gonna Send You Back to Walker",
+                    "track_number": 6,
+                    "duration": "2:28",
+                    "track_spotify_url": "https://open.spotify.com/track/4xFdnooyujENMjz6OdSy9L"
+                },
+                {
+                    "name": "Baby What's Wrong",
+                    "track_number": 7,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/6i1qKzddbRXSDc3u3f9ZpU"
+                },
+                {
+                    "name": "House of the Rising Sun",
+                    "track_number": 8,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/0ev91hkSfD8mR15VBiAHts"
+                },
+                {
+                    "name": "F-E-E-L",
+                    "track_number": 9,
+                    "duration": "2:44",
+                    "track_spotify_url": "https://open.spotify.com/track/3XGdMolNoK7si4bEJYGrcI"
+                },
+                {
+                    "name": "I'm Mad Again",
+                    "track_number": 10,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/1FDYuHjgOZtWXuQJ9pDNkv"
+                },
+                {
+                    "name": "The Right Time",
+                    "track_number": 11,
+                    "duration": "3:47",
+                    "track_spotify_url": "https://open.spotify.com/track/4tLy2uozSGbJhFxfW5nJrP"
+                },
+                {
+                    "name": "Around and Around",
+                    "track_number": 12,
+                    "duration": "2:44",
+                    "track_spotify_url": "https://open.spotify.com/track/03lZDKQlVryP2HSPhZqsnT"
+                },
+                {
+                    "name": "I'm in Love Again",
+                    "track_number": 13,
+                    "duration": "3:01",
+                    "track_spotify_url": "https://open.spotify.com/track/4QrPr3Iq5cI0KDJfM0SF64"
+                },
+                {
+                    "name": "Bury My Body",
+                    "track_number": 14,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/62xkiPf0dtGNn9zcWUGGf9"
+                },
+                {
+                    "name": "She Said Yeah",
+                    "track_number": 15,
+                    "duration": "2:20",
+                    "track_spotify_url": "https://open.spotify.com/track/5UKSmiWwKQhg82lQfQtPIk"
+                },
+                {
+                    "name": "I'm Crying",
+                    "track_number": 16,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/1Kc1zMGlPxHsCgSIgPRnlx"
+                },
+                {
+                    "name": "Take It Easy",
+                    "track_number": 17,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/7xJGgETp6kW2seooAtYdQL"
+                },
+                {
+                    "name": "The Story of Bo Diddley",
+                    "track_number": 18,
+                    "duration": "5:45",
+                    "track_spotify_url": "https://open.spotify.com/track/62VXWGJtXFjyUfDw3mVCPA"
+                },
+                {
+                    "name": "The Girl Can't Help It",
+                    "track_number": 19,
+                    "duration": "2:23",
+                    "track_spotify_url": "https://open.spotify.com/track/1qUw5oWVUxzG7qUs1HiAPn"
+                },
+                {
+                    "name": "I've Been Around",
+                    "track_number": 20,
+                    "duration": "1:36",
+                    "track_spotify_url": "https://open.spotify.com/track/45EHhwqhUcO61OFbzSq8Du"
+                },
+                {
+                    "name": "Memphis Tennessee",
+                    "track_number": 1,
+                    "duration": "3:08",
+                    "track_spotify_url": "https://open.spotify.com/track/0mVHOd8rYr6GQCWCVSABEi"
+                },
+                {
+                    "name": "Don't Let Me Be Misunderstood",
+                    "track_number": 2,
+                    "duration": "2:25",
+                    "track_spotify_url": "https://open.spotify.com/track/7Idr41qqKPfgV7WjFpEwMQ"
+                },
+                {
+                    "name": "Club-A-Go-Go",
+                    "track_number": 3,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/5CJ6SEByfqZKrwVptB4mXJ"
+                },
+                {
+                    "name": "Roadrunner",
+                    "track_number": 4,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/33lSmXu1JuRow25UmzrC3o"
+                },
+                {
+                    "name": "Hallelujah I Love Her So",
+                    "track_number": 5,
+                    "duration": "2:48",
+                    "track_spotify_url": "https://open.spotify.com/track/1wYmXE2iaSmi4IQXXnxl3f"
+                },
+                {
+                    "name": "Don't Want Much",
+                    "track_number": 6,
+                    "duration": "3:25",
+                    "track_spotify_url": "https://open.spotify.com/track/7nmjwchPsTUhSio4hY9dmo"
+                },
+                {
+                    "name": "I Believe to My Soul",
+                    "track_number": 7,
+                    "duration": "3:26",
+                    "track_spotify_url": "https://open.spotify.com/track/0Dais91RQKrnkdKKjHvl0d"
+                },
+                {
+                    "name": "Let the Good Times Roll",
+                    "track_number": 8,
+                    "duration": "1:57",
+                    "track_spotify_url": "https://open.spotify.com/track/3VL416nSmVnGR3JcSlyaV1"
+                },
+                {
+                    "name": "Mess Around",
+                    "track_number": 9,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/3uNDamLpL0ydtDDL2NLmlq"
+                },
+                {
+                    "name": "How You've Changed",
+                    "track_number": 10,
+                    "duration": "3:15",
+                    "track_spotify_url": "https://open.spotify.com/track/3sE3GNKJmM33Va4JwmoZRR"
+                },
+                {
+                    "name": "I Ain't Got You",
+                    "track_number": 11,
+                    "duration": "2:28",
+                    "track_spotify_url": "https://open.spotify.com/track/1R4lFptKYS3330ZVOdITmR"
+                },
+                {
+                    "name": "Roberta",
+                    "track_number": 12,
+                    "duration": "2:07",
+                    "track_spotify_url": "https://open.spotify.com/track/1PCkW5jXpyI8QNEBigiO1H"
+                },
+                {
+                    "name": "Bright Lights Big City",
+                    "track_number": 13,
+                    "duration": "2:54",
+                    "track_spotify_url": "https://open.spotify.com/track/6bXwoYAr3Fj6fgMnYfdM9L"
+                },
+                {
+                    "name": "Worried Life Blues",
+                    "track_number": 14,
+                    "duration": "4:13",
+                    "track_spotify_url": "https://open.spotify.com/track/0qZtmZB14Y3jG091IZ8B5Z"
+                },
+                {
+                    "name": "Bring It on Home to Me",
+                    "track_number": 15,
+                    "duration": "2:43",
+                    "track_spotify_url": "https://open.spotify.com/track/0Yjb370GsrO24rJrJqG7jL"
+                },
+                {
+                    "name": "For Miss Caulker",
+                    "track_number": 16,
+                    "duration": "3:59",
+                    "track_spotify_url": "https://open.spotify.com/track/3dLXYIGeVUih3pEPeBqW3L"
+                },
+                {
+                    "name": "I Can't Believe It",
+                    "track_number": 17,
+                    "duration": "3:34",
+                    "track_spotify_url": "https://open.spotify.com/track/3U0JESFYHgCw8XxpKeWz2a"
+                },
+                {
+                    "name": "We've Gotta Get out of This Place",
+                    "track_number": 18,
+                    "duration": "3:12",
+                    "track_spotify_url": "https://open.spotify.com/track/48t1ooCntbAzQW4HVGofkc"
+                },
+                {
+                    "name": "It's My Life",
+                    "track_number": 19,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/2Uab83g0cf6PKsbuBqv6gF"
+                },
+                {
+                    "name": "I'm Going to Change the World",
+                    "track_number": 20,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/4DgWlR928NaqOZay5gf0T0"
+                }
+            ]
+        },
+        {
+            "id": "1v4O55JGou3T0Vlj06fdXz",
+            "name": "The Singles Plus",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273015c484a7aca592df1a77828",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851015c484a7aca592df1a77828",
+            "total_tracks": 20,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "1987-10-19",
+            "release_date_precision": "day",
+            "release_year": "1987",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/1v4O55JGou3T0Vlj06fdXz",
+            "tracks": [
+                {
+                    "name": "Baby Let Me Take You Home",
+                    "track_number": 1,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/6At69lWfh9MV42ljVllpFZ"
+                },
+                {
+                    "name": "Gonna Send You Back to Walker",
+                    "track_number": 2,
+                    "duration": "2:28",
+                    "track_spotify_url": "https://open.spotify.com/track/49Y2fMzBNuX7WVjk3xXJ4n"
+                },
+                {
+                    "name": "House of the Rising Sun",
+                    "track_number": 3,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l"
+                },
+                {
+                    "name": "Talkin' 'Bout You",
+                    "track_number": 4,
+                    "duration": "1:54",
+                    "track_spotify_url": "https://open.spotify.com/track/3dh4w2g27YEdtDATgEVa6Z"
+                },
+                {
+                    "name": "I'm Crying",
+                    "track_number": 5,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/5zhHaQJXiD8jFVwhpPColg"
+                },
+                {
+                    "name": "Take It Easy",
+                    "track_number": 6,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/1M7LecLdQzwbDzCA3fHg3s"
+                },
+                {
+                    "name": "Don't Let Me Be Misunderstood",
+                    "track_number": 7,
+                    "duration": "2:25",
+                    "track_spotify_url": "https://open.spotify.com/track/0KpTFH1SzexN8SGc0GPILC"
+                },
+                {
+                    "name": "Club-A-Go-Go",
+                    "track_number": 8,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/4vhkyKkw9hRd9Vn1UBeCuD"
+                },
+                {
+                    "name": "Bring It on Home to Me",
+                    "track_number": 9,
+                    "duration": "2:43",
+                    "track_spotify_url": "https://open.spotify.com/track/1Ik0YhQ9F353MoBnr4PPq3"
+                },
+                {
+                    "name": "For Miss Caulker",
+                    "track_number": 10,
+                    "duration": "3:59",
+                    "track_spotify_url": "https://open.spotify.com/track/2RILU9JshopCfB4u93GYu8"
+                },
+                {
+                    "name": "We've Gotta Get out of This Place",
+                    "track_number": 11,
+                    "duration": "3:12",
+                    "track_spotify_url": "https://open.spotify.com/track/6Y0ed41KYLRnJJyYGGaDgY"
+                },
+                {
+                    "name": "I Can't Believe It",
+                    "track_number": 12,
+                    "duration": "3:34",
+                    "track_spotify_url": "https://open.spotify.com/track/01jgBajEVAf7SHWIryrIAZ"
+                },
+                {
+                    "name": "It's My Life",
+                    "track_number": 13,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/2IXGIhLcTl5WsCcFYuq3Tt"
+                },
+                {
+                    "name": "I'm Going to Change the World",
+                    "track_number": 14,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/1g5pqRagjv8CEYeJeDZ2I9"
+                },
+                {
+                    "name": "Bury My Body",
+                    "track_number": 15,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/5SKBJ7EiELHWU6t1u4SdQ3"
+                },
+                {
+                    "name": "Dimples",
+                    "track_number": 16,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/7pLC8a6wI8ZKAt9dY80TUP"
+                },
+                {
+                    "name": "She Said Yeah",
+                    "track_number": 17,
+                    "duration": "2:20",
+                    "track_spotify_url": "https://open.spotify.com/track/0dtMb8lC7sem5FQOJnUitp"
+                },
+                {
+                    "name": "The Right Time",
+                    "track_number": 18,
+                    "duration": "3:47",
+                    "track_spotify_url": "https://open.spotify.com/track/7tigDtpPMkohalaAVfsYnc"
+                },
+                {
+                    "name": "Bright Lights Big City",
+                    "track_number": 19,
+                    "duration": "2:54",
+                    "track_spotify_url": "https://open.spotify.com/track/1ybVtHenKQA41SFgaHcom1"
+                },
+                {
+                    "name": "Let the Good Times Roll",
+                    "track_number": 20,
+                    "duration": "1:57",
+                    "track_spotify_url": "https://open.spotify.com/track/6DJIYNYl0PDmSrRoGf2TG7"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1797 @@
+{
+    "band": "Cream",
+    "band_spotify_url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw",
+    "band_link_text": "Open Album in Spotify Cream",
+    "albums": [
+        {
+            "id": "129WDVQcldRABYolUje2Et",
+            "name": "Goodbye Tour \u2013 Live 1968",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273dc045d28104ad7cb6fda7a7f",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851dc045d28104ad7cb6fda7a7f",
+            "total_tracks": 36,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2020-03-06",
+            "release_date_precision": "day",
+            "release_year": "2020",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/129WDVQcldRABYolUje2Et",
+            "tracks": [
+                {
+                    "name": "White Room - Live At Oakland Coliseum Arena, California / 1968",
+                    "track_number": 1,
+                    "duration": "6:03",
+                    "track_spotify_url": "https://open.spotify.com/track/0Si8hGTsq3CIsgfu3Ivcsr"
+                },
+                {
+                    "name": "Politician - Live",
+                    "track_number": 2,
+                    "duration": "5:07",
+                    "track_spotify_url": "https://open.spotify.com/track/1DVXwrvN7G5H6CxvMkMXk4"
+                },
+                {
+                    "name": "Crossroads - Live At Oakland Coliseum Arena, California / 1968",
+                    "track_number": 3,
+                    "duration": "4:07",
+                    "track_spotify_url": "https://open.spotify.com/track/2VYBD1Xtz5HnEwcm5micsE"
+                },
+                {
+                    "name": "Sunshine Of Your Love - Live At Oakland Coliseum Arena, California / 1968",
+                    "track_number": 4,
+                    "duration": "5:36",
+                    "track_spotify_url": "https://open.spotify.com/track/2Czob0PEBq5JgtkTbYh36w"
+                },
+                {
+                    "name": "Spoonful - Live At Oakland Coliseum Arena, California / 1968",
+                    "track_number": 5,
+                    "duration": "16:46",
+                    "track_spotify_url": "https://open.spotify.com/track/3KScJmFRT46DtHH5BjzWjr"
+                },
+                {
+                    "name": "Deserted Cities Of The Heart - Live",
+                    "track_number": 6,
+                    "duration": "4:24",
+                    "track_spotify_url": "https://open.spotify.com/track/418StzIm7TRV5OLGBo63oT"
+                },
+                {
+                    "name": "Passing The Time - Live At Oakland Coliseum Arena, California / 1968",
+                    "track_number": 7,
+                    "duration": "10:39",
+                    "track_spotify_url": "https://open.spotify.com/track/680ZatkPEFvDm3oNgX3m70"
+                },
+                {
+                    "name": "I'm So Glad - Live At Oakland Coliseum Arena, California / 1968",
+                    "track_number": 8,
+                    "duration": "7:09",
+                    "track_spotify_url": "https://open.spotify.com/track/5jlrbDk1oakiXoJW7sfouh"
+                },
+                {
+                    "name": "Introduction - Live At The Forum, Los Angeles / 1968",
+                    "track_number": 1,
+                    "duration": "1:38",
+                    "track_spotify_url": "https://open.spotify.com/track/7G880Fd5oLzlfKsBas1y12"
+                },
+                {
+                    "name": "White Room - Live At The Forum, Los Angeles / 1968",
+                    "track_number": 2,
+                    "duration": "6:29",
+                    "track_spotify_url": "https://open.spotify.com/track/688lqIPgs1VUNVJwfofYQ4"
+                },
+                {
+                    "name": "Politician - Live At The Forum, Los Angeles / 1968",
+                    "track_number": 3,
+                    "duration": "6:45",
+                    "track_spotify_url": "https://open.spotify.com/track/2fxdwnN1jSR1NTLxZS815Q"
+                },
+                {
+                    "name": "I'm So Glad - Live At The Forum, Los Angeles / 1968",
+                    "track_number": 4,
+                    "duration": "9:31",
+                    "track_spotify_url": "https://open.spotify.com/track/1BmVMKhbDbk1quhOSaH6qF"
+                },
+                {
+                    "name": "Sitting On Top Of The World - Live At The Forum, Los Angeles / 1968",
+                    "track_number": 5,
+                    "duration": "4:52",
+                    "track_spotify_url": "https://open.spotify.com/track/71Etpmn8HUyN21oVtiVCsE"
+                },
+                {
+                    "name": "Crossroads - Live At The Forum, Los Angeles / 1968",
+                    "track_number": 6,
+                    "duration": "4:12",
+                    "track_spotify_url": "https://open.spotify.com/track/3dgY4Gn6l1osx6ig2wiZcs"
+                },
+                {
+                    "name": "Sunshine Of Your Love - Live At The Forum, Los Angeles / 1968",
+                    "track_number": 7,
+                    "duration": "6:22",
+                    "track_spotify_url": "https://open.spotify.com/track/2zmIREAmkJHRKXeareKFql"
+                },
+                {
+                    "name": "Traintime - Live At The Forum, Los Angeles / 1968",
+                    "track_number": 8,
+                    "duration": "7:48",
+                    "track_spotify_url": "https://open.spotify.com/track/6vgKthrjEsJnLCrtXnTuLZ"
+                },
+                {
+                    "name": "Toad - Live At The Forum, Los Angeles / 1968",
+                    "track_number": 9,
+                    "duration": "12:55",
+                    "track_spotify_url": "https://open.spotify.com/track/0I7nyAornbtCgOWCXDwoZ3"
+                },
+                {
+                    "name": "Spoonful - Live At The Forum, Los Angeles / 1968",
+                    "track_number": 10,
+                    "duration": "17:26",
+                    "track_spotify_url": "https://open.spotify.com/track/2h315UJ0jwGhjknSd7URp5"
+                },
+                {
+                    "name": "White Room - Live At The San Diego Sports Arena, USA / 1968",
+                    "track_number": 1,
+                    "duration": "6:35",
+                    "track_spotify_url": "https://open.spotify.com/track/6dY73GdkMlR35ZBPw6D4ZY"
+                },
+                {
+                    "name": "Politician - Live At The San Diego Sports Arena, USA / 1968",
+                    "track_number": 2,
+                    "duration": "6:10",
+                    "track_spotify_url": "https://open.spotify.com/track/0UpWejhgYv41sXmazpZMDA"
+                },
+                {
+                    "name": "I'm So Glad - Live At The San Diego Sports Arena, USA / 1968",
+                    "track_number": 3,
+                    "duration": "7:02",
+                    "track_spotify_url": "https://open.spotify.com/track/300t932EOfS1RIF2oaqImj"
+                },
+                {
+                    "name": "Sitting On Top Of The World - Live At The San Diego Sports Arena, USA / 1968",
+                    "track_number": 4,
+                    "duration": "5:02",
+                    "track_spotify_url": "https://open.spotify.com/track/5w1jVeT0wpRFOCXjcKIaHW"
+                },
+                {
+                    "name": "Sunshine Of Your Love - Live At The San Diego Sports Arena, USA / 1968",
+                    "track_number": 5,
+                    "duration": "4:56",
+                    "track_spotify_url": "https://open.spotify.com/track/2OS1dLpO2wDR770ni8gIUE"
+                },
+                {
+                    "name": "Crossroads - Live At The San Diego Sports Arena, USA / 1968",
+                    "track_number": 6,
+                    "duration": "4:01",
+                    "track_spotify_url": "https://open.spotify.com/track/5wS6QedgylubIyJIaLobUb"
+                },
+                {
+                    "name": "Traintime - Live At The San Diego Sports Arena, USA / 1968",
+                    "track_number": 7,
+                    "duration": "9:14",
+                    "track_spotify_url": "https://open.spotify.com/track/4OXLDcTVNN2YuTaIldTb4p"
+                },
+                {
+                    "name": "Toad - Live At The San Diego Sports Arena, USA / 1968",
+                    "track_number": 8,
+                    "duration": "13:45",
+                    "track_spotify_url": "https://open.spotify.com/track/4f8D7pBpodAuVpu5l2BRTW"
+                },
+                {
+                    "name": "Spoonful - Live At The San Diego Sports Arena, USA / 1968",
+                    "track_number": 9,
+                    "duration": "15:04",
+                    "track_spotify_url": "https://open.spotify.com/track/1tWCv5BsTZtWoQkDYVVP6m"
+                },
+                {
+                    "name": "White Room - Live At The Royal Albert Hall, UK / 1968",
+                    "track_number": 1,
+                    "duration": "6:09",
+                    "track_spotify_url": "https://open.spotify.com/track/1DQcNO6lh8os8dGMtMmbOB"
+                },
+                {
+                    "name": "Politician - Live At The Royal Albert Hall, UK / 1968",
+                    "track_number": 2,
+                    "duration": "6:17",
+                    "track_spotify_url": "https://open.spotify.com/track/2gLuXjAfn15NONOaJFzhFc"
+                },
+                {
+                    "name": "I'm So Glad - Live At The Royal Albert Hall, UK / 1968",
+                    "track_number": 3,
+                    "duration": "6:41",
+                    "track_spotify_url": "https://open.spotify.com/track/2N7YoaY3Dn6vDpeRuHdfYS"
+                },
+                {
+                    "name": "Sitting On Top Of The World - Live At The Royal Albert Hall, UK / 1968",
+                    "track_number": 4,
+                    "duration": "4:44",
+                    "track_spotify_url": "https://open.spotify.com/track/7spnRCe2H0Yw0FfPpaYGzQ"
+                },
+                {
+                    "name": "Crossroads - Live At The Royal Albert Hall, UK / 1968",
+                    "track_number": 5,
+                    "duration": "4:38",
+                    "track_spotify_url": "https://open.spotify.com/track/1RZbhtw2fmCrlVeHJeFriS"
+                },
+                {
+                    "name": "Toad - Live At The Royal Albert Hall, UK / 1968",
+                    "track_number": 6,
+                    "duration": "10:41",
+                    "track_spotify_url": "https://open.spotify.com/track/1rQE2gTFkOEtl6viziiNF9"
+                },
+                {
+                    "name": "Spoonful - Live At The Royal Albert Hall, UK / 1968",
+                    "track_number": 7,
+                    "duration": "12:53",
+                    "track_spotify_url": "https://open.spotify.com/track/6qN6QgEJFouxIKENPNwneE"
+                },
+                {
+                    "name": "Sunshine Of Your Love - Live At The Royal Albert Hall, UK / 1968",
+                    "track_number": 8,
+                    "duration": "5:58",
+                    "track_spotify_url": "https://open.spotify.com/track/6XdXp5ucLjk6eC4DsEWk4f"
+                },
+                {
+                    "name": "Steppin' Out - Live At The Royal Albert Hall, UK / 1968",
+                    "track_number": 9,
+                    "duration": "4:18",
+                    "track_spotify_url": "https://open.spotify.com/track/09gDuAOHC5eYXruCtOXBZ6"
+                }
+            ]
+        },
+        {
+            "id": "0ORDgTTzFGjl4v01kHKzRe",
+            "name": "Royal Albert Hall London May 2-3-5-6 2005 (Live)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27348c2ac091356474f26241675",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485148c2ac091356474f26241675",
+            "total_tracks": 18,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2005-09-30",
+            "release_date_precision": "day",
+            "release_year": "2005",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/0ORDgTTzFGjl4v01kHKzRe",
+            "tracks": [
+                {
+                    "name": "I'm so Glad - Live",
+                    "track_number": 1,
+                    "duration": "6:19",
+                    "track_spotify_url": "https://open.spotify.com/track/6BIWuw1FXzd8Pzo43l1T30"
+                },
+                {
+                    "name": "Spoonful - Live",
+                    "track_number": 2,
+                    "duration": "7:29",
+                    "track_spotify_url": "https://open.spotify.com/track/3NNYDSuFVPHaYu60aOrZZr"
+                },
+                {
+                    "name": "Outside Woman Blues - Live",
+                    "track_number": 3,
+                    "duration": "4:33",
+                    "track_spotify_url": "https://open.spotify.com/track/5kK6CseyNmuRxPcTEefuJ9"
+                },
+                {
+                    "name": "Pressed Rat and Warthog - Live",
+                    "track_number": 4,
+                    "duration": "3:21",
+                    "track_spotify_url": "https://open.spotify.com/track/009jbPjTApzYnSQJsLJBK5"
+                },
+                {
+                    "name": "Sleepy Time Time - Live",
+                    "track_number": 5,
+                    "duration": "6:07",
+                    "track_spotify_url": "https://open.spotify.com/track/5TLbLvUr9QsFvpmO5BjoCy"
+                },
+                {
+                    "name": "N.S.U. - Live",
+                    "track_number": 6,
+                    "duration": "6:02",
+                    "track_spotify_url": "https://open.spotify.com/track/4OEfEc9tFXLX1fXnjoVCjl"
+                },
+                {
+                    "name": "Politician - Live",
+                    "track_number": 7,
+                    "duration": "5:08",
+                    "track_spotify_url": "https://open.spotify.com/track/74LTNUH0drpcpEBtotEQTo"
+                },
+                {
+                    "name": "Sweet Wine - Live",
+                    "track_number": 8,
+                    "duration": "6:29",
+                    "track_spotify_url": "https://open.spotify.com/track/5iNCEvYCA380ge5pNlFKSS"
+                },
+                {
+                    "name": "Rollin' and Tumblin' - Live",
+                    "track_number": 9,
+                    "duration": "5:03",
+                    "track_spotify_url": "https://open.spotify.com/track/6HMt1FMlGSQbFjgAYdu4dl"
+                },
+                {
+                    "name": "Stormy Monday - Live",
+                    "track_number": 10,
+                    "duration": "8:09",
+                    "track_spotify_url": "https://open.spotify.com/track/7EhLes7NMh9LJg2yQIaHFe"
+                },
+                {
+                    "name": "Deserted Cities of the Heart - Live",
+                    "track_number": 11,
+                    "duration": "3:56",
+                    "track_spotify_url": "https://open.spotify.com/track/0dG2G9o9rLBBH7pQnTSH2w"
+                },
+                {
+                    "name": "Born Under a Bad Sign - Live",
+                    "track_number": 12,
+                    "duration": "5:31",
+                    "track_spotify_url": "https://open.spotify.com/track/0o18UGffAjc3MPsUGbvWci"
+                },
+                {
+                    "name": "We're Going Wrong - Live",
+                    "track_number": 13,
+                    "duration": "8:27",
+                    "track_spotify_url": "https://open.spotify.com/track/6a1m6vUjD6L0oVUI4iC32b"
+                },
+                {
+                    "name": "Crossroads - Live",
+                    "track_number": 14,
+                    "duration": "4:25",
+                    "track_spotify_url": "https://open.spotify.com/track/1gemztY3W3qm0lPiGeK9dW"
+                },
+                {
+                    "name": "White Room - Live",
+                    "track_number": 15,
+                    "duration": "5:38",
+                    "track_spotify_url": "https://open.spotify.com/track/2PadXOLbliv9xJj7AKSq5L"
+                },
+                {
+                    "name": "Toad - Live",
+                    "track_number": 16,
+                    "duration": "10:06",
+                    "track_spotify_url": "https://open.spotify.com/track/0N5GSprl9dUDsAJiRyx2UQ"
+                },
+                {
+                    "name": "Sunshine of Your Love - Live",
+                    "track_number": 17,
+                    "duration": "8:42",
+                    "track_spotify_url": "https://open.spotify.com/track/5v7iVMTHbl3IOmTzerLiYi"
+                },
+                {
+                    "name": "Sleepy Time Time - Live; Alternate",
+                    "track_number": 18,
+                    "duration": "6:06",
+                    "track_spotify_url": "https://open.spotify.com/track/3nrVNHsc4x6dNaTpSZ7fb0"
+                }
+            ]
+        },
+        {
+            "id": "0wS2YwC8uPIwJPH5bqWKKi",
+            "name": "BBC Sessions",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27303c100a7bac95d341797f8a6",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485103c100a7bac95d341797f8a6",
+            "total_tracks": 26,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2003-01-01",
+            "release_date_precision": "day",
+            "release_year": "2003",
+            "release_month": "01",
+            "album_spotify_url": "https://open.spotify.com/album/0wS2YwC8uPIwJPH5bqWKKi",
+            "tracks": [
+                {
+                    "name": "Sweet Wine - BBC Sessions",
+                    "track_number": 1,
+                    "duration": "3:27",
+                    "track_spotify_url": "https://open.spotify.com/track/6hQjqg2i44T4BeOctz0iXK"
+                },
+                {
+                    "name": "Eric Clapton Interview 1",
+                    "track_number": 2,
+                    "duration": "0:53",
+                    "track_spotify_url": "https://open.spotify.com/track/2I4XLaTqlR902tZ7eflT8s"
+                },
+                {
+                    "name": "Wrapping Paper - BBC Sessions",
+                    "track_number": 3,
+                    "duration": "2:29",
+                    "track_spotify_url": "https://open.spotify.com/track/5cx6niOVnGrlStdKIMKHaw"
+                },
+                {
+                    "name": "Rollin' And Tumblin' - BBC Sessions",
+                    "track_number": 4,
+                    "duration": "3:02",
+                    "track_spotify_url": "https://open.spotify.com/track/0gEfwBXCzUbQx8Zzo5Oyqd"
+                },
+                {
+                    "name": "Steppin' Out - BBC Sessions",
+                    "track_number": 5,
+                    "duration": "1:50",
+                    "track_spotify_url": "https://open.spotify.com/track/4v44u58jFugALmKnC3N92o"
+                },
+                {
+                    "name": "Crossroads - BBC Sessions",
+                    "track_number": 6,
+                    "duration": "1:53",
+                    "track_spotify_url": "https://open.spotify.com/track/0oN7DfXiCFCgG7oER9LJwq"
+                },
+                {
+                    "name": "Cat's Squirrel - BBC Sessions",
+                    "track_number": 7,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/1LVIzTPSDTcXPuZGlCZiqq"
+                },
+                {
+                    "name": "Traintime - BBC Sessions",
+                    "track_number": 8,
+                    "duration": "2:50",
+                    "track_spotify_url": "https://open.spotify.com/track/1NyqkzLTdFUbdrtcU6ab03"
+                },
+                {
+                    "name": "I'm So Glad - BBC Sessions",
+                    "track_number": 9,
+                    "duration": "4:22",
+                    "track_spotify_url": "https://open.spotify.com/track/5rjfpuDdjopBZXiMIeSPsO"
+                },
+                {
+                    "name": "Lawdy Mama - BBC Sessions",
+                    "track_number": 10,
+                    "duration": "1:53",
+                    "track_spotify_url": "https://open.spotify.com/track/5vyxXfBuwrhQtKi8a6zri9"
+                },
+                {
+                    "name": "Eric Clapton Interview 2",
+                    "track_number": 11,
+                    "duration": "0:48",
+                    "track_spotify_url": "https://open.spotify.com/track/6hTeA4HGR8cOTuNsr2gXuN"
+                },
+                {
+                    "name": "I Feel Free - BBC Sessions",
+                    "track_number": 12,
+                    "duration": "2:54",
+                    "track_spotify_url": "https://open.spotify.com/track/2qPhPlWkVmfQDLxVe5X4Cq"
+                },
+                {
+                    "name": "N.S.U. - BBC Sessions",
+                    "track_number": 13,
+                    "duration": "2:54",
+                    "track_spotify_url": "https://open.spotify.com/track/1clQKJ2TQL3QtPuphruddi"
+                },
+                {
+                    "name": "Four Until Late - BBC Sessions",
+                    "track_number": 14,
+                    "duration": "1:54",
+                    "track_spotify_url": "https://open.spotify.com/track/6qCe0vDXMWYm2YoFDFlXsI"
+                },
+                {
+                    "name": "Strange Brew - BBC Sessions",
+                    "track_number": 15,
+                    "duration": "3:00",
+                    "track_spotify_url": "https://open.spotify.com/track/5KhlKWDuwRewJm3yREtsXa"
+                },
+                {
+                    "name": "Eric Clapton Interview 3",
+                    "track_number": 16,
+                    "duration": "0:44",
+                    "track_spotify_url": "https://open.spotify.com/track/2yqKgZeqDHAFFIg0CwmRzv"
+                },
+                {
+                    "name": "Tales Of Brave Ulysses - BBC Sessions",
+                    "track_number": 17,
+                    "duration": "2:55",
+                    "track_spotify_url": "https://open.spotify.com/track/1Ep4NjJQe2qm3eKbVtAicj"
+                },
+                {
+                    "name": "We're Going Wrong - BBC Sessions",
+                    "track_number": 18,
+                    "duration": "3:25",
+                    "track_spotify_url": "https://open.spotify.com/track/15LVMPxGic5jm3bt0YDi0U"
+                },
+                {
+                    "name": "Eric Clapton Interview 4",
+                    "track_number": 19,
+                    "duration": "0:37",
+                    "track_spotify_url": "https://open.spotify.com/track/5Wvs94v8XZTBVBFr4LPN1x"
+                },
+                {
+                    "name": "Born Under A Bad Sign - BBC Sessions",
+                    "track_number": 20,
+                    "duration": "3:03",
+                    "track_spotify_url": "https://open.spotify.com/track/500iGiB9x4I1Nxjn0y52rr"
+                },
+                {
+                    "name": "Outside Woman Blues - BBC Sessions",
+                    "track_number": 21,
+                    "duration": "3:18",
+                    "track_spotify_url": "https://open.spotify.com/track/7kFPbJoFJ5ZHnO40Hh6mdU"
+                },
+                {
+                    "name": "Take It Back - BBC Sessions",
+                    "track_number": 22,
+                    "duration": "2:17",
+                    "track_spotify_url": "https://open.spotify.com/track/3ptn0OB4czjlkEGBzBOL8E"
+                },
+                {
+                    "name": "Sunshine Of Your Love - BBC Sessions",
+                    "track_number": 23,
+                    "duration": "4:08",
+                    "track_spotify_url": "https://open.spotify.com/track/6p5udl5Uah44g0hIAcknNM"
+                },
+                {
+                    "name": "Politician - BBC Sessions",
+                    "track_number": 24,
+                    "duration": "3:59",
+                    "track_spotify_url": "https://open.spotify.com/track/18M9yO1GKtJbxHB42HTpIh"
+                },
+                {
+                    "name": "SWLABR - BBC Session",
+                    "track_number": 25,
+                    "duration": "2:32",
+                    "track_spotify_url": "https://open.spotify.com/track/5FdEf3A0IT3vlQVLi0ziI3"
+                },
+                {
+                    "name": "Steppin' Out - BBC Sessions",
+                    "track_number": 26,
+                    "duration": "3:36",
+                    "track_spotify_url": "https://open.spotify.com/track/5wD0xvuDu2tw8hhk6ilp2e"
+                }
+            ]
+        },
+        {
+            "id": "3y9gLoczbAcmoFyvlcDY5d",
+            "name": "Live Cream",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273af2103bc62d8ca9b4016a4ac",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851af2103bc62d8ca9b4016a4ac",
+            "total_tracks": 5,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1970-04-01",
+            "release_date_precision": "day",
+            "release_year": "1970",
+            "release_month": "04",
+            "album_spotify_url": "https://open.spotify.com/album/3y9gLoczbAcmoFyvlcDY5d",
+            "tracks": [
+                {
+                    "name": "N.S.U. - Live At Winterland, San Francisco / 1968",
+                    "track_number": 1,
+                    "duration": "10:12",
+                    "track_spotify_url": "https://open.spotify.com/track/4mtMaV2JNs9Hrq6bwsWmFG"
+                },
+                {
+                    "name": "Sleepy Time Time - Live At Winterland, San Francisco / 1968",
+                    "track_number": 2,
+                    "duration": "6:50",
+                    "track_spotify_url": "https://open.spotify.com/track/7Ho1F2rWZSbK3CEbTwtoWD"
+                },
+                {
+                    "name": "Sweet Wine - Live At Winterland, San Francisco / 1968",
+                    "track_number": 3,
+                    "duration": "15:14",
+                    "track_spotify_url": "https://open.spotify.com/track/1qeW7tNuXnuQlzwgVvf6pV"
+                },
+                {
+                    "name": "Rollin' And Tumblin' - Live At Fillmore West, Los Angeles / 1968",
+                    "track_number": 4,
+                    "duration": "6:42",
+                    "track_spotify_url": "https://open.spotify.com/track/55YQJrBPfmc3APgzfp8gNx"
+                },
+                {
+                    "name": "Lawdy Mama - Version 2",
+                    "track_number": 5,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/4L48wnpCfdQDVEkxTRqgd5"
+                }
+            ]
+        },
+        {
+            "id": "2tVc8PhqDSRkpgiGOw7Ukb",
+            "name": "Goodbye",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2736e14114e634f57610bc24170",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048516e14114e634f57610bc24170",
+            "total_tracks": 6,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1969-03-01",
+            "release_date_precision": "day",
+            "release_year": "1969",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/2tVc8PhqDSRkpgiGOw7Ukb",
+            "tracks": [
+                {
+                    "name": "I'm So Glad - Live",
+                    "track_number": 1,
+                    "duration": "9:13",
+                    "track_spotify_url": "https://open.spotify.com/track/4NN7QebrqYxqDNHDFN8CN1"
+                },
+                {
+                    "name": "Politician - Live",
+                    "track_number": 2,
+                    "duration": "6:20",
+                    "track_spotify_url": "https://open.spotify.com/track/770RHsvKyRnGLWvFr71ORs"
+                },
+                {
+                    "name": "Sitting On Top Of The World - Live At The Forum, Los Angeles / 1968",
+                    "track_number": 3,
+                    "duration": "5:01",
+                    "track_spotify_url": "https://open.spotify.com/track/412gXXG3XTY1VOtNkTd6jz"
+                },
+                {
+                    "name": "Badge",
+                    "track_number": 4,
+                    "duration": "2:44",
+                    "track_spotify_url": "https://open.spotify.com/track/08xsXR637CEqbxJmpFcuSA"
+                },
+                {
+                    "name": "Doing That Scrapyard Thing",
+                    "track_number": 5,
+                    "duration": "3:15",
+                    "track_spotify_url": "https://open.spotify.com/track/3F0H6MqGb5dPy3Z6T8iOOP"
+                },
+                {
+                    "name": "What A Bringdown",
+                    "track_number": 6,
+                    "duration": "3:57",
+                    "track_spotify_url": "https://open.spotify.com/track/5DBEWS86BGEwAkVkhHRpuK"
+                }
+            ]
+        },
+        {
+            "id": "0zrtTZC7yY2TOEhnbJzSb9",
+            "name": "Wheels Of Fire",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2735c7731f5acdcb2d02d78b7ee",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048515c7731f5acdcb2d02d78b7ee",
+            "total_tracks": 13,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1968-07-01",
+            "release_date_precision": "day",
+            "release_year": "1968",
+            "release_month": "07",
+            "album_spotify_url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9",
+            "tracks": [
+                {
+                    "name": "White Room",
+                    "track_number": 1,
+                    "duration": "4:58",
+                    "track_spotify_url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
+                },
+                {
+                    "name": "Sitting On Top Of The World",
+                    "track_number": 2,
+                    "duration": "4:58",
+                    "track_spotify_url": "https://open.spotify.com/track/0aY5bJ4jRHiOd8eCMWmcy8"
+                },
+                {
+                    "name": "Passing The Time",
+                    "track_number": 3,
+                    "duration": "4:32",
+                    "track_spotify_url": "https://open.spotify.com/track/7wxd5oR50LKSTtqqJQxYSX"
+                },
+                {
+                    "name": "As You Said",
+                    "track_number": 4,
+                    "duration": "4:20",
+                    "track_spotify_url": "https://open.spotify.com/track/7b6lqlyTFvHKBL2op6OhsS"
+                },
+                {
+                    "name": "Pressed Rat And Warthog",
+                    "track_number": 5,
+                    "duration": "3:13",
+                    "track_spotify_url": "https://open.spotify.com/track/20JyPoNRMR68kKp9IQUlZ6"
+                },
+                {
+                    "name": "Politician",
+                    "track_number": 6,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/4MYMykrz2e39HaVYutp24u"
+                },
+                {
+                    "name": "Those Were The Days",
+                    "track_number": 7,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/5iagU6Cu2OWCahju7T4iDL"
+                },
+                {
+                    "name": "Born Under A Bad Sign",
+                    "track_number": 8,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/2uxsnsH0XzOBZkMrSFVmll"
+                },
+                {
+                    "name": "Deserted Cities Of The Heart",
+                    "track_number": 9,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/5YYgdRGxr41WEV4C0qvzCI"
+                },
+                {
+                    "name": "Crossroads - Live",
+                    "track_number": 1,
+                    "duration": "4:18",
+                    "track_spotify_url": "https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7"
+                },
+                {
+                    "name": "Spoonful - Live",
+                    "track_number": 2,
+                    "duration": "16:46",
+                    "track_spotify_url": "https://open.spotify.com/track/7AVWo6sgu8PPF61WQrZtYF"
+                },
+                {
+                    "name": "Traintime - Live",
+                    "track_number": 3,
+                    "duration": "7:01",
+                    "track_spotify_url": "https://open.spotify.com/track/7cJgHvkMpSkZDw9aYWYTWm"
+                },
+                {
+                    "name": "Toad - Live",
+                    "track_number": 4,
+                    "duration": "16:15",
+                    "track_spotify_url": "https://open.spotify.com/track/1sXZBC3ViBpX9481xVORgR"
+                }
+            ]
+        },
+        {
+            "id": "6fRqzJT070Kp9RWlSXmKcY",
+            "name": "Disraeli Gears",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273f7d3ba2473d4452b83ba61c4",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851f7d3ba2473d4452b83ba61c4",
+            "total_tracks": 11,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1967-11-02",
+            "release_date_precision": "day",
+            "release_year": "1967",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY",
+            "tracks": [
+                {
+                    "name": "Strange Brew",
+                    "track_number": 1,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun"
+                },
+                {
+                    "name": "Sunshine Of Your Love",
+                    "track_number": 2,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
+                },
+                {
+                    "name": "World Of Pain",
+                    "track_number": 3,
+                    "duration": "3:02",
+                    "track_spotify_url": "https://open.spotify.com/track/24EhnOUjhczzfm7nmvy0mM"
+                },
+                {
+                    "name": "Dance The Night Away",
+                    "track_number": 4,
+                    "duration": "3:34",
+                    "track_spotify_url": "https://open.spotify.com/track/0J1AxYrjQ2JelfzvBljsYQ"
+                },
+                {
+                    "name": "Blue Condition",
+                    "track_number": 5,
+                    "duration": "3:29",
+                    "track_spotify_url": "https://open.spotify.com/track/5LffAyGdb4cR9X1NbpTtsS"
+                },
+                {
+                    "name": "Tales Of Brave Ulysses",
+                    "track_number": 6,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/2mKY3LWyyLYgz3aFsHQk83"
+                },
+                {
+                    "name": "SWLABR",
+                    "track_number": 7,
+                    "duration": "2:31",
+                    "track_spotify_url": "https://open.spotify.com/track/5F6sBKmwQLNktg96Qxxhyt"
+                },
+                {
+                    "name": "We're Going Wrong",
+                    "track_number": 8,
+                    "duration": "3:27",
+                    "track_spotify_url": "https://open.spotify.com/track/6nfaFdZdist5RjdFr3zcuZ"
+                },
+                {
+                    "name": "Outside Woman Blues",
+                    "track_number": 9,
+                    "duration": "2:24",
+                    "track_spotify_url": "https://open.spotify.com/track/5BSN3UcARskPfzxA6YhJCM"
+                },
+                {
+                    "name": "Take It Back",
+                    "track_number": 10,
+                    "duration": "3:05",
+                    "track_spotify_url": "https://open.spotify.com/track/7oqSDdrXn1qDvRMyjn9Tut"
+                },
+                {
+                    "name": "Mother's Lament",
+                    "track_number": 11,
+                    "duration": "1:47",
+                    "track_spotify_url": "https://open.spotify.com/track/0JDPyERyQQAhIf2P56Qggk"
+                }
+            ]
+        },
+        {
+            "id": "6iyKqDoL9pRSHUsDBYemlB",
+            "name": "Fresh Cream",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27393a3bb62961a598ecaad1f75",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485193a3bb62961a598ecaad1f75",
+            "total_tracks": 11,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1966-12-09",
+            "release_date_precision": "day",
+            "release_year": "1966",
+            "release_month": "12",
+            "album_spotify_url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB",
+            "tracks": [
+                {
+                    "name": "I Feel Free",
+                    "track_number": 1,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
+                },
+                {
+                    "name": "N.S.U.",
+                    "track_number": 2,
+                    "duration": "2:43",
+                    "track_spotify_url": "https://open.spotify.com/track/7AAR1uYiqJ3z7aDi8KboqK"
+                },
+                {
+                    "name": "Sleepy Time Time",
+                    "track_number": 3,
+                    "duration": "4:20",
+                    "track_spotify_url": "https://open.spotify.com/track/1SqetdO8Ib2vqbQASpM23S"
+                },
+                {
+                    "name": "Dreaming",
+                    "track_number": 4,
+                    "duration": "1:58",
+                    "track_spotify_url": "https://open.spotify.com/track/7xF61dJ6ZU7nasaLUCTxdi"
+                },
+                {
+                    "name": "Sweet Wine",
+                    "track_number": 5,
+                    "duration": "3:17",
+                    "track_spotify_url": "https://open.spotify.com/track/3nIlHQIJAyBtUfialns8tk"
+                },
+                {
+                    "name": "Spoonful",
+                    "track_number": 6,
+                    "duration": "6:30",
+                    "track_spotify_url": "https://open.spotify.com/track/5v2Hwf7w2j4Xpy8kdRgpK2"
+                },
+                {
+                    "name": "Cat's Squirrel",
+                    "track_number": 7,
+                    "duration": "3:03",
+                    "track_spotify_url": "https://open.spotify.com/track/2nZhrWtQm8NKEF7MWpPSl0"
+                },
+                {
+                    "name": "Four Until Late",
+                    "track_number": 8,
+                    "duration": "2:07",
+                    "track_spotify_url": "https://open.spotify.com/track/1Ld5xyyqkZCRQAmlyuHoQk"
+                },
+                {
+                    "name": "Rollin' And Tumblin'",
+                    "track_number": 9,
+                    "duration": "4:42",
+                    "track_spotify_url": "https://open.spotify.com/track/3YJUHrWpfQjgqReHFxzKte"
+                },
+                {
+                    "name": "I'm So Glad",
+                    "track_number": 10,
+                    "duration": "3:58",
+                    "track_spotify_url": "https://open.spotify.com/track/5UCSVXqaP7yv38ZtS6Iu4X"
+                },
+                {
+                    "name": "Toad",
+                    "track_number": 11,
+                    "duration": "5:09",
+                    "track_spotify_url": "https://open.spotify.com/track/11RuqNiPXDGjRvu8cw2TPO"
+                }
+            ]
+        },
+        {
+            "id": "2VcHVpVmpUf1c2C4hUktyM",
+            "name": "Revolution Club (Live '68)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27353dcc2375addeb40ef5fcf3d",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485153dcc2375addeb40ef5fcf3d",
+            "total_tracks": 3,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2021-03-31",
+            "release_date_precision": "day",
+            "release_year": "2021",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/2VcHVpVmpUf1c2C4hUktyM",
+            "tracks": [
+                {
+                    "name": "Spoonful - Live",
+                    "track_number": 1,
+                    "duration": "8:38",
+                    "track_spotify_url": "https://open.spotify.com/track/6sWqFT6887Rg6G36coSreN"
+                },
+                {
+                    "name": "Tales Of Brave Ulysses - Live",
+                    "track_number": 2,
+                    "duration": "3:42",
+                    "track_spotify_url": "https://open.spotify.com/track/4xOPMYoQosTe9HoeIpf6Gg"
+                },
+                {
+                    "name": "Sunshine Of Your Love - Live",
+                    "track_number": 3,
+                    "duration": "5:14",
+                    "track_spotify_url": "https://open.spotify.com/track/2WY23dGXcSTTcLWtMTRSo8"
+                }
+            ]
+        },
+        {
+            "id": "28ecJ7Q68UJzQMHugW28B6",
+            "name": "Leavin' Town Baby (Stockholm, March 7th 1967 Sveriges Broadcast)",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2739aaeaad2d93dc4306f0f17f8",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048519aaeaad2d93dc4306f0f17f8",
+            "total_tracks": 5,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2020-07-14",
+            "release_date_precision": "day",
+            "release_year": "2020",
+            "release_month": "07",
+            "album_spotify_url": "https://open.spotify.com/album/28ecJ7Q68UJzQMHugW28B6",
+            "tracks": [
+                {
+                    "name": "N.S.U. - Live",
+                    "track_number": 1,
+                    "duration": "4:17",
+                    "track_spotify_url": "https://open.spotify.com/track/7uVZqfwxoR4OQaei5mcfju"
+                },
+                {
+                    "name": "Steppin' Out - Live",
+                    "track_number": 2,
+                    "duration": "3:43",
+                    "track_spotify_url": "https://open.spotify.com/track/3SctWRrXuQrasaNKOlS1In"
+                },
+                {
+                    "name": "Train Time - Live",
+                    "track_number": 3,
+                    "duration": "5:52",
+                    "track_spotify_url": "https://open.spotify.com/track/06UTFLGDvIAJndVldZdZst"
+                },
+                {
+                    "name": "Toad - Live",
+                    "track_number": 4,
+                    "duration": "7:21",
+                    "track_spotify_url": "https://open.spotify.com/track/4RTvpmcWpszmnJdeKOiWSr"
+                },
+                {
+                    "name": "I'm So Glad - Live",
+                    "track_number": 5,
+                    "duration": "4:58",
+                    "track_spotify_url": "https://open.spotify.com/track/3lLBwjdN6TzSNRpLpiQ6b7"
+                }
+            ]
+        },
+        {
+            "id": "1OL9R5tOpQKH2RSfGMg1Wg",
+            "name": "Sunshine Of Your Love - A Life In Music",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2732d849a2c47aea8b2e9225990",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048512d849a2c47aea8b2e9225990",
+            "total_tracks": 35,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "2015-10-09",
+            "release_date_precision": "day",
+            "release_year": "2015",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/1OL9R5tOpQKH2RSfGMg1Wg",
+            "tracks": [
+                {
+                    "name": "N.S.U.",
+                    "track_number": 1,
+                    "duration": "2:45",
+                    "track_spotify_url": "https://open.spotify.com/track/2ecNBcQAeGg9yQWS0olJV5"
+                },
+                {
+                    "name": "I Feel Free - Mono Version",
+                    "track_number": 2,
+                    "duration": "2:49",
+                    "track_spotify_url": "https://open.spotify.com/track/7nRFGg8P626SSryFFAPNUM"
+                },
+                {
+                    "name": "I'm So Glad - Stereo Mix",
+                    "track_number": 3,
+                    "duration": "3:59",
+                    "track_spotify_url": "https://open.spotify.com/track/4Aav2I61b8S0NLlAQ8k2OL"
+                },
+                {
+                    "name": "Sunshine Of Your Love",
+                    "track_number": 4,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/6zDYYWL3FZysnZTZmrmxDu"
+                },
+                {
+                    "name": "We're Going Wrong",
+                    "track_number": 5,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/64pzUMF7W4mxTs5mSVezZ3"
+                },
+                {
+                    "name": "White Room",
+                    "track_number": 6,
+                    "duration": "4:59",
+                    "track_spotify_url": "https://open.spotify.com/track/7i9fB9AHh65gx9cd6HJJr6"
+                },
+                {
+                    "name": "Deserted Cities Of The Heart",
+                    "track_number": 7,
+                    "duration": "3:40",
+                    "track_spotify_url": "https://open.spotify.com/track/4W6kwlPxI4xeQ7USDl8ISa"
+                },
+                {
+                    "name": "Doing That Scrapyard Thing",
+                    "track_number": 8,
+                    "duration": "3:15",
+                    "track_spotify_url": "https://open.spotify.com/track/0ABXXFaqj8tk7xUiKTrczl"
+                },
+                {
+                    "name": "Never Tell Your Mother She's Out Of Tune",
+                    "track_number": 9,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/2gpAZG4q5IOFmfHeA8ByZO"
+                },
+                {
+                    "name": "Rope Ladder To The Moon",
+                    "track_number": 10,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/4mv9sVGJyQuvQOIfxNY1QV"
+                },
+                {
+                    "name": "Theme For An Imaginary Western",
+                    "track_number": 11,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/0zhIpIO91WlvEpa3RWazgF"
+                },
+                {
+                    "name": "Weird Of Hermiston",
+                    "track_number": 12,
+                    "duration": "2:22",
+                    "track_spotify_url": "https://open.spotify.com/track/2TjGX4cOFYaNXore55OjFp"
+                },
+                {
+                    "name": "Folk Song",
+                    "track_number": 13,
+                    "duration": "4:18",
+                    "track_spotify_url": "https://open.spotify.com/track/0c2HfTREzlHluig7UYRhH0"
+                },
+                {
+                    "name": "Can You Follow",
+                    "track_number": 14,
+                    "duration": "1:34",
+                    "track_spotify_url": "https://open.spotify.com/track/7H559Sf3KylVVbt3EbHbMt"
+                },
+                {
+                    "name": "Morning Story",
+                    "track_number": 15,
+                    "duration": "4:55",
+                    "track_spotify_url": "https://open.spotify.com/track/33Rx3IEHCL0pAf9lmheU1T"
+                },
+                {
+                    "name": "You Burned The Tables On Me",
+                    "track_number": 16,
+                    "duration": "3:50",
+                    "track_spotify_url": "https://open.spotify.com/track/58NFUXtTRxaeqRaox5bRCv"
+                },
+                {
+                    "name": "Pieces Of Mind",
+                    "track_number": 17,
+                    "duration": "5:33",
+                    "track_spotify_url": "https://open.spotify.com/track/5S4IuDojCNmReYOcl9EToR"
+                },
+                {
+                    "name": "Running Through Our Hands",
+                    "track_number": 18,
+                    "duration": "4:12",
+                    "track_spotify_url": "https://open.spotify.com/track/2k8yMfMbplhWMJuMziNBM4"
+                },
+                {
+                    "name": "Keep It Down",
+                    "track_number": 19,
+                    "duration": "3:42",
+                    "track_spotify_url": "https://open.spotify.com/track/0grHdvMb94XQcT9fCTnlqC"
+                },
+                {
+                    "name": "Something To Live For",
+                    "track_number": 20,
+                    "duration": "5:14",
+                    "track_spotify_url": "https://open.spotify.com/track/4xibBY3zg1X2YsCYd4nNdI"
+                },
+                {
+                    "name": "Without A Word",
+                    "track_number": 1,
+                    "duration": "5:47",
+                    "track_spotify_url": "https://open.spotify.com/track/0nVZZnuGNYp44dqpGiOogF"
+                },
+                {
+                    "name": "How's Tricks",
+                    "track_number": 2,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/5ADWXAkwhQUUcxKDg1i4OL"
+                },
+                {
+                    "name": "Childsong",
+                    "track_number": 3,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/37nA2YPFrszleYNt0vpHiT"
+                },
+                {
+                    "name": "The Best Is Still To Come",
+                    "track_number": 4,
+                    "duration": "4:12",
+                    "track_spotify_url": "https://open.spotify.com/track/3zxarAQoP0TiLz6hBc21px"
+                },
+                {
+                    "name": "She's Moving On",
+                    "track_number": 5,
+                    "duration": "6:25",
+                    "track_spotify_url": "https://open.spotify.com/track/3t9gzvFBtnnaRP5jByuIrB"
+                },
+                {
+                    "name": "Jet Set Jewel",
+                    "track_number": 6,
+                    "duration": "5:23",
+                    "track_spotify_url": "https://open.spotify.com/track/6eH77Idlfbv9DZlpmxMCeo"
+                },
+                {
+                    "name": "Ships In The Night",
+                    "track_number": 7,
+                    "duration": "5:21",
+                    "track_spotify_url": "https://open.spotify.com/track/0hTvIZFfL7ss2XJZJM4bhG"
+                },
+                {
+                    "name": "City Of Gold - Remastered 2002",
+                    "track_number": 8,
+                    "duration": "3:56",
+                    "track_spotify_url": "https://open.spotify.com/track/0nj2WmNzGKJNWjsl5RPGuB"
+                },
+                {
+                    "name": "Waiting In The Wings - Remastered 2002",
+                    "track_number": 9,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/266Rlw1RWbdK3l5ksKF4BW"
+                },
+                {
+                    "name": "Out Into The Fields",
+                    "track_number": 10,
+                    "duration": "5:24",
+                    "track_spotify_url": "https://open.spotify.com/track/464yydZDdMO6b3luKwPM2c"
+                },
+                {
+                    "name": "The Night That Once Was Mine",
+                    "track_number": 11,
+                    "duration": "3:55",
+                    "track_spotify_url": "https://open.spotify.com/track/35Tss1Mgwn9t8PMb40aX1h"
+                },
+                {
+                    "name": "Candlelight",
+                    "track_number": 12,
+                    "duration": "4:20",
+                    "track_spotify_url": "https://open.spotify.com/track/4a90apOgVRyCp2LOzn7E9h"
+                },
+                {
+                    "name": "Fields Of Forever",
+                    "track_number": 13,
+                    "duration": "4:35",
+                    "track_spotify_url": "https://open.spotify.com/track/1ySHyEWl5AFrr6vFkomnlT"
+                },
+                {
+                    "name": "Reach For The Night",
+                    "track_number": 14,
+                    "duration": "6:20",
+                    "track_spotify_url": "https://open.spotify.com/track/7yJZzWxI5asSfibecI21JT"
+                },
+                {
+                    "name": "Don\u2019t Look Now",
+                    "track_number": 15,
+                    "duration": "5:06",
+                    "track_spotify_url": "https://open.spotify.com/track/3faGw5v0ZF6GxkpgAyGbQC"
+                }
+            ]
+        },
+        {
+            "id": "15yy77Dkncl1KA91ZDSkYp",
+            "name": "Gold",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2738bdcc07a88f79f7d33636ac3",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518bdcc07a88f79f7d33636ac3",
+            "total_tracks": 29,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "2005-01-01",
+            "release_date_precision": "day",
+            "release_year": "2005",
+            "release_month": "01",
+            "album_spotify_url": "https://open.spotify.com/album/15yy77Dkncl1KA91ZDSkYp",
+            "tracks": [
+                {
+                    "name": "I Feel Free",
+                    "track_number": 1,
+                    "duration": "2:52",
+                    "track_spotify_url": "https://open.spotify.com/track/0tWfy6tlwp5jy934GLJXBJ"
+                },
+                {
+                    "name": "N.S.U.",
+                    "track_number": 2,
+                    "duration": "2:43",
+                    "track_spotify_url": "https://open.spotify.com/track/3BE6gSfuVA6BEVpY83fmd4"
+                },
+                {
+                    "name": "Sweet Wine",
+                    "track_number": 3,
+                    "duration": "3:18",
+                    "track_spotify_url": "https://open.spotify.com/track/7e9bzUAVJkWDdKZDFZVH1M"
+                },
+                {
+                    "name": "I'm So Glad",
+                    "track_number": 4,
+                    "duration": "3:58",
+                    "track_spotify_url": "https://open.spotify.com/track/48yo77Yg078PLq7jXUHXPI"
+                },
+                {
+                    "name": "Strange Brew",
+                    "track_number": 5,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/0JUFucaOv8cWWb124FL5IZ"
+                },
+                {
+                    "name": "Sunshine Of Your Love",
+                    "track_number": 6,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/2m1h5rE64aq60pqJyKmZWC"
+                },
+                {
+                    "name": "World Of Pain",
+                    "track_number": 7,
+                    "duration": "3:02",
+                    "track_spotify_url": "https://open.spotify.com/track/6KSFXaeiaTsjoexgz7A3B7"
+                },
+                {
+                    "name": "Tales Of Brave Ulysses",
+                    "track_number": 8,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/1uFASl5ZJ4V7JHMQrERdFn"
+                },
+                {
+                    "name": "SWLABR",
+                    "track_number": 9,
+                    "duration": "2:31",
+                    "track_spotify_url": "https://open.spotify.com/track/4ntoVZZmlF7N7IfEJE8DH9"
+                },
+                {
+                    "name": "We're Going Wrong",
+                    "track_number": 10,
+                    "duration": "3:26",
+                    "track_spotify_url": "https://open.spotify.com/track/1NAx0sJQsFrYebG1M3RZuK"
+                },
+                {
+                    "name": "White Room",
+                    "track_number": 11,
+                    "duration": "4:58",
+                    "track_spotify_url": "https://open.spotify.com/track/7g6j2SGvsvcUi6OLD9Qe1o"
+                },
+                {
+                    "name": "Sitting On Top Of The World",
+                    "track_number": 12,
+                    "duration": "4:59",
+                    "track_spotify_url": "https://open.spotify.com/track/0bBiHuN6GIgIeQc3sHBDs6"
+                },
+                {
+                    "name": "Passing The Time",
+                    "track_number": 13,
+                    "duration": "4:32",
+                    "track_spotify_url": "https://open.spotify.com/track/6ixcVTKYphGbNS4eSRTCAQ"
+                },
+                {
+                    "name": "Politician",
+                    "track_number": 14,
+                    "duration": "4:12",
+                    "track_spotify_url": "https://open.spotify.com/track/1LSm1u2d4YIfsoTkimPsUZ"
+                },
+                {
+                    "name": "Those Were The Days",
+                    "track_number": 15,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/3SUYxRR4JPy2GNTFwGTAFT"
+                },
+                {
+                    "name": "Born Under A Bad Sign",
+                    "track_number": 16,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/4RvjBcCzE0Locnni5pBOzZ"
+                },
+                {
+                    "name": "Deserted Cities Of The Heart",
+                    "track_number": 17,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/4PhkkpxJEP1FAMA6L14LZP"
+                },
+                {
+                    "name": "Anyone For Tennis",
+                    "track_number": 18,
+                    "duration": "2:38",
+                    "track_spotify_url": "https://open.spotify.com/track/6ll62on65ixqN1vtGSLgGR"
+                },
+                {
+                    "name": "Badge",
+                    "track_number": 19,
+                    "duration": "2:45",
+                    "track_spotify_url": "https://open.spotify.com/track/4a7Xu1edRTAGhjScmeGsUF"
+                },
+                {
+                    "name": "Doing That Scrapyard Thing",
+                    "track_number": 20,
+                    "duration": "3:14",
+                    "track_spotify_url": "https://open.spotify.com/track/6BXIXmrCKWdQQyYhfi9HX7"
+                },
+                {
+                    "name": "What A Bringdown",
+                    "track_number": 21,
+                    "duration": "3:57",
+                    "track_spotify_url": "https://open.spotify.com/track/1B6mCuDUuoUODvotCvT6DP"
+                },
+                {
+                    "name": "N.S.U. - Live At Winterland, San Francisco / 1968",
+                    "track_number": 1,
+                    "duration": "10:13",
+                    "track_spotify_url": "https://open.spotify.com/track/3GB5LrQi4Zy6hW4bNYunAq"
+                },
+                {
+                    "name": "Sleepy Time Time - Live At Winterland, San Francisco / 1968",
+                    "track_number": 2,
+                    "duration": "6:50",
+                    "track_spotify_url": "https://open.spotify.com/track/1mM2cKOrmWf8sy3TEtPIz6"
+                },
+                {
+                    "name": "Rollin' And Tumblin' - Live At Fillmore West, Los Angeles / 1968",
+                    "track_number": 3,
+                    "duration": "6:34",
+                    "track_spotify_url": "https://open.spotify.com/track/0edhHvVWoLvQDFwAaw9NuC"
+                },
+                {
+                    "name": "Spoonful - Live",
+                    "track_number": 4,
+                    "duration": "16:45",
+                    "track_spotify_url": "https://open.spotify.com/track/38Asq4kFHLmhDbKAwUvnLP"
+                },
+                {
+                    "name": "Crossroads - Live",
+                    "track_number": 5,
+                    "duration": "4:14",
+                    "track_spotify_url": "https://open.spotify.com/track/41eJMDppJm0yhQRSbgC3ka"
+                },
+                {
+                    "name": "Sunshine Of Your Love - Live",
+                    "track_number": 6,
+                    "duration": "7:24",
+                    "track_spotify_url": "https://open.spotify.com/track/6LLVp2UqzPkpnXQ0F8sRgr"
+                },
+                {
+                    "name": "I'm So Glad - Live",
+                    "track_number": 7,
+                    "duration": "9:12",
+                    "track_spotify_url": "https://open.spotify.com/track/5iznks9AFQNbMoewr38OE4"
+                },
+                {
+                    "name": "Toad - Live",
+                    "track_number": 8,
+                    "duration": "16:15",
+                    "track_spotify_url": "https://open.spotify.com/track/19cOmmKjJCIRstP3XjB0jq"
+                }
+            ]
+        },
+        {
+            "id": "0Wq3eHLz3FM7JwhPobsjkY",
+            "name": "The Best Of Cream 20th Century Masters The MIllennium Collection",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273116c3731235b71d8eed4ac3c",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851116c3731235b71d8eed4ac3c",
+            "total_tracks": 11,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "2000-01-01",
+            "release_date_precision": "day",
+            "release_year": "2000",
+            "release_month": "01",
+            "album_spotify_url": "https://open.spotify.com/album/0Wq3eHLz3FM7JwhPobsjkY",
+            "tracks": [
+                {
+                    "name": "I Feel Free",
+                    "track_number": 1,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/4IGlPyJWPFAlA0MwhG10BR"
+                },
+                {
+                    "name": "N.S.U.",
+                    "track_number": 2,
+                    "duration": "2:45",
+                    "track_spotify_url": "https://open.spotify.com/track/6JQPPBPZXf3PlYuNCpcxkT"
+                },
+                {
+                    "name": "Sweet Wine",
+                    "track_number": 3,
+                    "duration": "3:20",
+                    "track_spotify_url": "https://open.spotify.com/track/2vJpGmpsZmrAlfiQkSYd7H"
+                },
+                {
+                    "name": "Spoonful",
+                    "track_number": 4,
+                    "duration": "6:31",
+                    "track_spotify_url": "https://open.spotify.com/track/6Sw7c1AwsfK8NNAoTmLuHz"
+                },
+                {
+                    "name": "Strange Brew",
+                    "track_number": 5,
+                    "duration": "2:49",
+                    "track_spotify_url": "https://open.spotify.com/track/720GFNampyYJkrFeRLzNzT"
+                },
+                {
+                    "name": "Sunshine Of Your Love",
+                    "track_number": 6,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/1EtMz5zpqqgMVW48OYRkFG"
+                },
+                {
+                    "name": "Tales Of Brave Ulysses",
+                    "track_number": 7,
+                    "duration": "2:47",
+                    "track_spotify_url": "https://open.spotify.com/track/3c1zC1Ma3987kQcHQfcG0Q"
+                },
+                {
+                    "name": "White Room",
+                    "track_number": 8,
+                    "duration": "4:57",
+                    "track_spotify_url": "https://open.spotify.com/track/5HW0dYTapDzP6DUUTa6ImI"
+                },
+                {
+                    "name": "Politician",
+                    "track_number": 9,
+                    "duration": "4:12",
+                    "track_spotify_url": "https://open.spotify.com/track/3NX6MrOlAhfcvNEzSikmzP"
+                },
+                {
+                    "name": "Crossroads - Live",
+                    "track_number": 10,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/6p5qvRkLOJpDCG9S0WG3cn"
+                },
+                {
+                    "name": "Badge",
+                    "track_number": 11,
+                    "duration": "2:45",
+                    "track_spotify_url": "https://open.spotify.com/track/0VBKaQnI6oyopBJBDbjkl9"
+                }
+            ]
+        },
+        {
+            "id": "6uTteowoZyrRDJ9GHITrEp",
+            "name": "The Cream Of Clapton",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273ceac5a7a4847838b8d7b6e9e",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ceac5a7a4847838b8d7b6e9e",
+            "total_tracks": 18,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "1995-03-07",
+            "release_date_precision": "day",
+            "release_year": "1995",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/6uTteowoZyrRDJ9GHITrEp",
+            "tracks": [
+                {
+                    "name": "Layla",
+                    "track_number": 1,
+                    "duration": "7:10",
+                    "track_spotify_url": "https://open.spotify.com/track/6aznXKHZOc2RbmmKy3AI6a"
+                },
+                {
+                    "name": "Badge",
+                    "track_number": 2,
+                    "duration": "2:43",
+                    "track_spotify_url": "https://open.spotify.com/track/05hauPT6APUR9OhFad6vna"
+                },
+                {
+                    "name": "I Feel Free",
+                    "track_number": 3,
+                    "duration": "2:54",
+                    "track_spotify_url": "https://open.spotify.com/track/7Dclmopi4DlzmMqVEyHzG8"
+                },
+                {
+                    "name": "Sunshine Of Your Love",
+                    "track_number": 4,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/7BPo1ITVhDU1drP3HNRKbB"
+                },
+                {
+                    "name": "Crossroads - Live",
+                    "track_number": 5,
+                    "duration": "4:13",
+                    "track_spotify_url": "https://open.spotify.com/track/2ETejAvEOWY7vUk6OSCOTx"
+                },
+                {
+                    "name": "Strange Brew",
+                    "track_number": 6,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/0WmaWxZoOI2Mhs6L47mjxa"
+                },
+                {
+                    "name": "White Room",
+                    "track_number": 7,
+                    "duration": "4:59",
+                    "track_spotify_url": "https://open.spotify.com/track/2fSMMJUU8yRgvPsxkYqmbE"
+                },
+                {
+                    "name": "Bell Bottom Blues",
+                    "track_number": 8,
+                    "duration": "5:03",
+                    "track_spotify_url": "https://open.spotify.com/track/0kzuHiTkK8HLpg4sG8Uzky"
+                },
+                {
+                    "name": "Cocaine",
+                    "track_number": 9,
+                    "duration": "3:35",
+                    "track_spotify_url": "https://open.spotify.com/track/3hZ5IBC7RGhtcw5taxSwA6"
+                },
+                {
+                    "name": "I Shot The Sheriff",
+                    "track_number": 10,
+                    "duration": "4:23",
+                    "track_spotify_url": "https://open.spotify.com/track/7e86jAidgJWUh9E6uQizRy"
+                },
+                {
+                    "name": "After Midnight",
+                    "track_number": 11,
+                    "duration": "3:11",
+                    "track_spotify_url": "https://open.spotify.com/track/7zxlVGjj2CyzMuWdhKjSbM"
+                },
+                {
+                    "name": "Swing Low Sweet Chariot",
+                    "track_number": 12,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/4fGfkaYNhtvziyKtx1TQ8Y"
+                },
+                {
+                    "name": "Lay Down Sally",
+                    "track_number": 13,
+                    "duration": "3:51",
+                    "track_spotify_url": "https://open.spotify.com/track/13yVMtXoDheeVsq4aRHpWF"
+                },
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "track_number": 14,
+                    "duration": "4:24",
+                    "track_spotify_url": "https://open.spotify.com/track/7fIZpIYzxzSV9s7oc6u1IA"
+                },
+                {
+                    "name": "Wonderful Tonight",
+                    "track_number": 15,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/3ADBhAlEhgFepasNdWCq4a"
+                },
+                {
+                    "name": "Let It Grow",
+                    "track_number": 16,
+                    "duration": "4:57",
+                    "track_spotify_url": "https://open.spotify.com/track/1nITT1viRbLoicldOUBs7q"
+                },
+                {
+                    "name": "Promises",
+                    "track_number": 17,
+                    "duration": "3:00",
+                    "track_spotify_url": "https://open.spotify.com/track/3uPFHDZPmawUQhvWifDnqo"
+                },
+                {
+                    "name": "I Can't Stand It",
+                    "track_number": 18,
+                    "duration": "4:09",
+                    "track_spotify_url": "https://open.spotify.com/track/2K1KgN8sqqNW5vi7lvEjkZ"
+                }
+            ]
+        },
+        {
+            "id": "4MjvgrLG57gPHWTREFZRrT",
+            "name": "The Very Best Of Cream",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273389b913c29b0d8ad0590d776",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851389b913c29b0d8ad0590d776",
+            "total_tracks": 20,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "1995-01-01",
+            "release_date_precision": "day",
+            "release_year": "1995",
+            "release_month": "01",
+            "album_spotify_url": "https://open.spotify.com/album/4MjvgrLG57gPHWTREFZRrT",
+            "tracks": [
+                {
+                    "name": "Wrapping Paper",
+                    "track_number": 1,
+                    "duration": "2:21",
+                    "track_spotify_url": "https://open.spotify.com/track/2BHytg2H34vFGwHiYrM9b1"
+                },
+                {
+                    "name": "I Feel Free",
+                    "track_number": 2,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/0qB7OWu6p2vn7ENfKRHr3S"
+                },
+                {
+                    "name": "N.S.U.",
+                    "track_number": 3,
+                    "duration": "2:43",
+                    "track_spotify_url": "https://open.spotify.com/track/34NCvOoA42HkusLZPYdS5B"
+                },
+                {
+                    "name": "Sweet Wine",
+                    "track_number": 4,
+                    "duration": "3:17",
+                    "track_spotify_url": "https://open.spotify.com/track/46VtxjwNbjot1LgH8n6vKm"
+                },
+                {
+                    "name": "I'm So Glad",
+                    "track_number": 5,
+                    "duration": "3:57",
+                    "track_spotify_url": "https://open.spotify.com/track/1GRq4aA691cGAT9lUpj7cJ"
+                },
+                {
+                    "name": "Spoonful",
+                    "track_number": 6,
+                    "duration": "6:30",
+                    "track_spotify_url": "https://open.spotify.com/track/2h0kQA4sihb5RSlUZfBXpc"
+                },
+                {
+                    "name": "Strange Brew",
+                    "track_number": 7,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/4PjmmpOQVklBlIz2L23XOK"
+                },
+                {
+                    "name": "Sunshine Of Your Love",
+                    "track_number": 8,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/28KRPwiw64NNwk8Mp8fihZ"
+                },
+                {
+                    "name": "Tales Of Brave Ulysses",
+                    "track_number": 9,
+                    "duration": "2:46",
+                    "track_spotify_url": "https://open.spotify.com/track/7tkskqf5SK3YUOJnJjOOkt"
+                },
+                {
+                    "name": "SWLABR",
+                    "track_number": 10,
+                    "duration": "2:31",
+                    "track_spotify_url": "https://open.spotify.com/track/6RiBDDrIE9TFNsfmDy7yIG"
+                },
+                {
+                    "name": "We're Going Wrong",
+                    "track_number": 11,
+                    "duration": "3:27",
+                    "track_spotify_url": "https://open.spotify.com/track/4yxXNjNpsFWBiVACj515of"
+                },
+                {
+                    "name": "White Room",
+                    "track_number": 12,
+                    "duration": "4:58",
+                    "track_spotify_url": "https://open.spotify.com/track/0mA8YVcK3fYTot54K1abTq"
+                },
+                {
+                    "name": "Sitting On Top Of The World",
+                    "track_number": 13,
+                    "duration": "4:58",
+                    "track_spotify_url": "https://open.spotify.com/track/0XiS12Z9MCm3M5xDLZ1iKA"
+                },
+                {
+                    "name": "Politician",
+                    "track_number": 14,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/3FwV1RwDPdPoUIRgMkwD2v"
+                },
+                {
+                    "name": "Those Were The Days",
+                    "track_number": 15,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/0CL5YJI5k8oFurrzQ4GLnc"
+                },
+                {
+                    "name": "Born Under A Bad Sign",
+                    "track_number": 16,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/3D6R7NsCl3xdqtGZ9xrihk"
+                },
+                {
+                    "name": "Deserted Cities Of The Heart",
+                    "track_number": 17,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/46PTDPBhMm3CNnDT85p6Mj"
+                },
+                {
+                    "name": "Crossroads - Live",
+                    "track_number": 18,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/1J1h1hp8sEOr4gjnHhEUfH"
+                },
+                {
+                    "name": "Anyone For Tennis",
+                    "track_number": 19,
+                    "duration": "2:38",
+                    "track_spotify_url": "https://open.spotify.com/track/6vJ7Eh9EnJ8i4RXUV1usRz"
+                },
+                {
+                    "name": "Badge",
+                    "track_number": 20,
+                    "duration": "2:44",
+                    "track_spotify_url": "https://open.spotify.com/track/3oKzaTg2qzg0tdnb4Hic4M"
+                }
+            ]
+        },
+        {
+            "id": "7K0oBo0bLIyX7PdSunoQX5",
+            "name": "Live Cream Volume 2",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273497b9485a504874335d54eed",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851497b9485a504874335d54eed",
+            "total_tracks": 6,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "1972-03-01",
+            "release_date_precision": "day",
+            "release_year": "1972",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/7K0oBo0bLIyX7PdSunoQX5",
+            "tracks": [
+                {
+                    "name": "Deserted Cities Of The Heart - Live",
+                    "track_number": 1,
+                    "duration": "4:32",
+                    "track_spotify_url": "https://open.spotify.com/track/24NcDfU0TwRVN5LRC7Slrs"
+                },
+                {
+                    "name": "White Room - Live",
+                    "track_number": 2,
+                    "duration": "5:39",
+                    "track_spotify_url": "https://open.spotify.com/track/2WwjBi8bL0bZvIUNa6BUSP"
+                },
+                {
+                    "name": "Politician - Live",
+                    "track_number": 3,
+                    "duration": "5:06",
+                    "track_spotify_url": "https://open.spotify.com/track/73Sus8vhU9tig5SM1q5dzy"
+                },
+                {
+                    "name": "Tales Of Brave Ulysses - Live",
+                    "track_number": 4,
+                    "duration": "4:44",
+                    "track_spotify_url": "https://open.spotify.com/track/60YrfGAWVSaCwXNArRK5M1"
+                },
+                {
+                    "name": "Sunshine Of Your Love - Live",
+                    "track_number": 5,
+                    "duration": "7:25",
+                    "track_spotify_url": "https://open.spotify.com/track/4KQilA0T8noRB4uwAQyiXz"
+                },
+                {
+                    "name": "Steppin' Out - Live",
+                    "track_number": 6,
+                    "duration": "13:38",
+                    "track_spotify_url": "https://open.spotify.com/track/1aWvwbR5saWdou5XmuYHBT"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "band": "Blind Faith",
+    "band_spotify_url": "https://open.spotify.com/artist/5GUVj2b1lJ4DolQyHlzyaO",
+    "band_link_text": "Open Album in Spotify Blind Faith",
+    "albums": [
+        {
+            "id": "0OqAnhSYcVBuX054ADshAX",
+            "name": "Hyde Park '69",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273accedc78b3cff641f052a366",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851accedc78b3cff641f052a366",
+            "total_tracks": 9,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2020-01-21",
+            "release_date_precision": "day",
+            "release_year": "2020",
+            "release_month": "01",
+            "album_spotify_url": "https://open.spotify.com/album/0OqAnhSYcVBuX054ADshAX",
+            "tracks": [
+                {
+                    "name": "Intro / Well\u2026 All Right - Live: Hyde Park, London 7th June 1969",
+                    "track_number": 1,
+                    "duration": "7:52",
+                    "track_spotify_url": "https://open.spotify.com/track/1Fyojtn0xkeOHviAez5oVm"
+                },
+                {
+                    "name": "Sea Of Joy - Live: Hyde Park, London 7th June 1969",
+                    "track_number": 2,
+                    "duration": "6:13",
+                    "track_spotify_url": "https://open.spotify.com/track/3Snymkk9XTJ7i5ikjr0OYc"
+                },
+                {
+                    "name": "Under My Thumb - Live: Hyde Park, London 7th June 1969",
+                    "track_number": 3,
+                    "duration": "6:06",
+                    "track_spotify_url": "https://open.spotify.com/track/65gOzKThX6w9BLCmDQaiZ2"
+                },
+                {
+                    "name": "Can\u2019t Find My Way Home - Live: Hyde Park, London 7th June 1969",
+                    "track_number": 4,
+                    "duration": "6:13",
+                    "track_spotify_url": "https://open.spotify.com/track/48IwdFnDPabDRHZTSHtgxL"
+                },
+                {
+                    "name": "Sleeping In The Ground - Live: Hyde Park, London 7th June 1969",
+                    "track_number": 5,
+                    "duration": "4:41",
+                    "track_spotify_url": "https://open.spotify.com/track/4KHi2NumS3mS3UvnX5rBrH"
+                },
+                {
+                    "name": "Do What You Like - Live: Hyde Park, London 7th June 1969",
+                    "track_number": 6,
+                    "duration": "5:30",
+                    "track_spotify_url": "https://open.spotify.com/track/49ghb30gDVEXY2CPpZKLa4"
+                },
+                {
+                    "name": "Presence Of The Lord - Live: Hyde Park, London 7th June 1969",
+                    "track_number": 7,
+                    "duration": "6:28",
+                    "track_spotify_url": "https://open.spotify.com/track/3vKmpwyK1UAZ7Q43b4KnyJ"
+                },
+                {
+                    "name": "Means To An End - Live: Hyde Park, London 7th June 1969",
+                    "track_number": 8,
+                    "duration": "4:21",
+                    "track_spotify_url": "https://open.spotify.com/track/7yZTjBygRmgtuQW7lYltUS"
+                },
+                {
+                    "name": "Had To Cry Today / Outro - Live: Hyde Park, London 7th June 1969",
+                    "track_number": 9,
+                    "duration": "7:39",
+                    "track_spotify_url": "https://open.spotify.com/track/4UrrPXakfiRGt120gxxGgf"
+                }
+            ]
+        },
+        {
+            "id": "7jFuZTgaZzOtGiyAE527ZZ",
+            "name": "Blind Faith",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27327f2d001b8f00603795ec93f",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485127f2d001b8f00603795ec93f",
+            "total_tracks": 6,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1969-08",
+            "release_date_precision": "month",
+            "release_year": "1969",
+            "release_month": "08",
+            "album_spotify_url": "https://open.spotify.com/album/7jFuZTgaZzOtGiyAE527ZZ",
+            "tracks": [
+                {
+                    "name": "Had To Cry Today",
+                    "track_number": 1,
+                    "duration": "8:48",
+                    "track_spotify_url": "https://open.spotify.com/track/0iwSCBiqp5WQ6v75lzR31M"
+                },
+                {
+                    "name": "Can't Find My Way Home",
+                    "track_number": 2,
+                    "duration": "3:16",
+                    "track_spotify_url": "https://open.spotify.com/track/107K6xieSp2ihzoA2vTv2q"
+                },
+                {
+                    "name": "Well All Right",
+                    "track_number": 3,
+                    "duration": "4:26",
+                    "track_spotify_url": "https://open.spotify.com/track/1ciyo6fXse9dyYhxnVXUIi"
+                },
+                {
+                    "name": "Presence Of The Lord",
+                    "track_number": 4,
+                    "duration": "4:47",
+                    "track_spotify_url": "https://open.spotify.com/track/5Y3xK9NcczoGXKtJkHFm7C"
+                },
+                {
+                    "name": "Sea Of Joy",
+                    "track_number": 5,
+                    "duration": "5:21",
+                    "track_spotify_url": "https://open.spotify.com/track/0MVV5qvdj439PGVWPlCZp3"
+                },
+                {
+                    "name": "Do What You Like",
+                    "track_number": 6,
+                    "duration": "15:18",
+                    "track_spotify_url": "https://open.spotify.com/track/2qWn2E1zg2BVaoWRGYw3vE"
+                }
+            ]
+        },
+        {
+            "id": "3N1z3ANQfd1IkKgCQq1ZF8",
+            "name": "Gothenburg '69",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2731401961148e954850aff638d",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048511401961148e954850aff638d",
+            "total_tracks": 9,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2021-11-01",
+            "release_date_precision": "day",
+            "release_year": "2021",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/3N1z3ANQfd1IkKgCQq1ZF8",
+            "tracks": [
+                {
+                    "name": "Well All Right - Live: Gothenburg, Sweden 18 June 1969",
+                    "track_number": 1,
+                    "duration": "6:28",
+                    "track_spotify_url": "https://open.spotify.com/track/2MSvlm87BaR6UY7YEHWjDx"
+                },
+                {
+                    "name": "Sleeping In The Ground - Live: Gothenburg, Sweden 18 June 1969",
+                    "track_number": 2,
+                    "duration": "5:07",
+                    "track_spotify_url": "https://open.spotify.com/track/2MUJCwJC2W9uco0zSwnVnm"
+                },
+                {
+                    "name": "Sea Of Joy - Live: Gothenburg, Sweden 18 June 1969",
+                    "track_number": 3,
+                    "duration": "8:36",
+                    "track_spotify_url": "https://open.spotify.com/track/1mEwSbvi6PtxyFLvroUZBS"
+                },
+                {
+                    "name": "Under My Thumb - Live: Gothenburg, Sweden 18 June 1969",
+                    "track_number": 4,
+                    "duration": "7:45",
+                    "track_spotify_url": "https://open.spotify.com/track/5haXp9TTeTNqOnpljbrGNf"
+                },
+                {
+                    "name": "Can't Find My Way Home - Live: Gothenburg, Sweden 18 June 1969",
+                    "track_number": 5,
+                    "duration": "8:30",
+                    "track_spotify_url": "https://open.spotify.com/track/0hXAKoGeXEJV9p9Z9D41HO"
+                },
+                {
+                    "name": "Do What You Like - Live: Gothenburg, Sweden 18 June 1969",
+                    "track_number": 6,
+                    "duration": "19:49",
+                    "track_spotify_url": "https://open.spotify.com/track/1WLx6m3xY2LIGuKJP36PMG"
+                },
+                {
+                    "name": "Presence Of The Lord - Live: Gothenburg, Sweden 18 June 1969",
+                    "track_number": 7,
+                    "duration": "6:29",
+                    "track_spotify_url": "https://open.spotify.com/track/0JcUhRjAs1wQ6BhzMZaU9J"
+                },
+                {
+                    "name": "Means To An End - Live: Gothenburg, Sweden 18 June 1969",
+                    "track_number": 8,
+                    "duration": "5:44",
+                    "track_spotify_url": "https://open.spotify.com/track/3YxT9LuN0gt0IdzttjVVAS"
+                },
+                {
+                    "name": "Had To Cry Today - Live: Gothenburg, Sweden 18 June 1969",
+                    "track_number": 9,
+                    "duration": "8:03",
+                    "track_spotify_url": "https://open.spotify.com/track/2672iIZoBZtnJWr2CObcgm"
+                }
+            ]
+        }
+    ]
+}

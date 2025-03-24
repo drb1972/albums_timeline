@@ -1,0 +1,2590 @@
+{
+    "band": "AC/DC",
+    "band_spotify_url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un",
+    "band_link_text": "Open Album in Spotify AC/DC",
+    "albums": [
+        {
+            "id": "3bTNxJYk2bwdWBMtrjBxb0",
+            "name": "POWER UP",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27304db0e3bcd166c1d6cfd81f9",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485104db0e3bcd166c1d6cfd81f9",
+            "total_tracks": 12,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2020-11-13",
+            "release_date_precision": "day",
+            "release_year": "2020",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0",
+            "tracks": [
+                {
+                    "name": "Realize",
+                    "track_number": 1,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/4JDjZ2AzlHnde5uUy0TveV"
+                },
+                {
+                    "name": "Rejection",
+                    "track_number": 2,
+                    "duration": "4:06",
+                    "track_spotify_url": "https://open.spotify.com/track/4gLrfXB3CgRlIPH7KTVKA4"
+                },
+                {
+                    "name": "Shot In The Dark",
+                    "track_number": 3,
+                    "duration": "3:05",
+                    "track_spotify_url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
+                },
+                {
+                    "name": "Through The Mists Of Time",
+                    "track_number": 4,
+                    "duration": "3:32",
+                    "track_spotify_url": "https://open.spotify.com/track/3FR2w9O5i9q3unY3gyjq6E"
+                },
+                {
+                    "name": "Kick You When You're Down",
+                    "track_number": 5,
+                    "duration": "3:10",
+                    "track_spotify_url": "https://open.spotify.com/track/0Kq6RzOqkHxnfiA9OGqReU"
+                },
+                {
+                    "name": "Witch's Spell",
+                    "track_number": 6,
+                    "duration": "3:42",
+                    "track_spotify_url": "https://open.spotify.com/track/06hy0gi5aLXcWRjnj9fgoh"
+                },
+                {
+                    "name": "Demon Fire",
+                    "track_number": 7,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/6jtUOVRO4p09Z7E35ERRL7"
+                },
+                {
+                    "name": "Wild Reputation",
+                    "track_number": 8,
+                    "duration": "2:54",
+                    "track_spotify_url": "https://open.spotify.com/track/1ZyQEn0iceHj0Lbt6I6Op3"
+                },
+                {
+                    "name": "No Man's Land",
+                    "track_number": 9,
+                    "duration": "3:39",
+                    "track_spotify_url": "https://open.spotify.com/track/3fKXS93P7YOS4xEUnWzkUz"
+                },
+                {
+                    "name": "Systems Down",
+                    "track_number": 10,
+                    "duration": "3:12",
+                    "track_spotify_url": "https://open.spotify.com/track/1uhPCuhxeC9wEYl7smMByK"
+                },
+                {
+                    "name": "Money Shot",
+                    "track_number": 11,
+                    "duration": "3:05",
+                    "track_spotify_url": "https://open.spotify.com/track/0l3jBCAEdeLR9OgQqES9CI"
+                },
+                {
+                    "name": "Code Red",
+                    "track_number": 12,
+                    "duration": "3:31",
+                    "track_spotify_url": "https://open.spotify.com/track/1nuPjx9gZH0aHZt8Q5Njx6"
+                }
+            ]
+        },
+        {
+            "id": "6OwvO40ahugJE5PH4TjqTg",
+            "name": "Rock or Bust",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273f5ea32b7c7b4ee3a4583d5df",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851f5ea32b7c7b4ee3a4583d5df",
+            "total_tracks": 11,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2014-11-28",
+            "release_date_precision": "day",
+            "release_year": "2014",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg",
+            "tracks": [
+                {
+                    "name": "Rock or Bust",
+                    "track_number": 1,
+                    "duration": "3:03",
+                    "track_spotify_url": "https://open.spotify.com/track/2vyae4DvSU2gs8OMOGwXF2"
+                },
+                {
+                    "name": "Play Ball",
+                    "track_number": 2,
+                    "duration": "2:47",
+                    "track_spotify_url": "https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz"
+                },
+                {
+                    "name": "Rock the Blues Away",
+                    "track_number": 3,
+                    "duration": "3:24",
+                    "track_spotify_url": "https://open.spotify.com/track/5xGHeN58fFOcORW0pRZznn"
+                },
+                {
+                    "name": "Miss Adventure",
+                    "track_number": 4,
+                    "duration": "2:57",
+                    "track_spotify_url": "https://open.spotify.com/track/4WpGOn71DcfB9zMvnN9mLl"
+                },
+                {
+                    "name": "Dogs of War",
+                    "track_number": 5,
+                    "duration": "3:35",
+                    "track_spotify_url": "https://open.spotify.com/track/2eSsmjwzDB9JTGvn2ZPLE9"
+                },
+                {
+                    "name": "Got Some Rock & Roll Thunder",
+                    "track_number": 6,
+                    "duration": "3:22",
+                    "track_spotify_url": "https://open.spotify.com/track/5CqTorhnA1GUNh1Z8PnGiS"
+                },
+                {
+                    "name": "Hard Times",
+                    "track_number": 7,
+                    "duration": "2:44",
+                    "track_spotify_url": "https://open.spotify.com/track/5aoTIWdzgcjGo3SdjxqWSf"
+                },
+                {
+                    "name": "Baptism By Fire",
+                    "track_number": 8,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/1ULNWGJD3skjg0jWjhCFHc"
+                },
+                {
+                    "name": "Rock the House",
+                    "track_number": 9,
+                    "duration": "2:42",
+                    "track_spotify_url": "https://open.spotify.com/track/57NrsUX4Ix819R67iiwcos"
+                },
+                {
+                    "name": "Sweet Candy",
+                    "track_number": 10,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/7qnCJHj5rzdKzQKkQmrlad"
+                },
+                {
+                    "name": "Emission Control",
+                    "track_number": 11,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/1v2dqCvCUf2TmxtbKXvLFN"
+                }
+            ]
+        },
+        {
+            "id": "4H6JMsvxmh0U7VBYiWiyLa",
+            "name": "Live at River Plate",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2730a80b890ab011362fd7aa73b",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048510a80b890ab011362fd7aa73b",
+            "total_tracks": 19,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2012-11-19",
+            "release_date_precision": "day",
+            "release_year": "2012",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/4H6JMsvxmh0U7VBYiWiyLa",
+            "tracks": [
+                {
+                    "name": "Rock N Roll Train - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 1,
+                    "duration": "4:41",
+                    "track_spotify_url": "https://open.spotify.com/track/2hzg8fX8NGSK4loyJbNLr1"
+                },
+                {
+                    "name": "Hell Ain't a Bad Place to Be - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 2,
+                    "duration": "4:27",
+                    "track_spotify_url": "https://open.spotify.com/track/5x1wkgdotvZwgmgscxFWcz"
+                },
+                {
+                    "name": "Back In Black - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 3,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/7JLqofLzcpdjFHc6oRSBGf"
+                },
+                {
+                    "name": "Big Jack - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 4,
+                    "duration": "4:07",
+                    "track_spotify_url": "https://open.spotify.com/track/4eJTrppVPYaf4RTVhFoLiV"
+                },
+                {
+                    "name": "Dirty Deeds Done Dirt Cheap - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 5,
+                    "duration": "4:58",
+                    "track_spotify_url": "https://open.spotify.com/track/0q3cKVAjGC0NqmkcEcQDy8"
+                },
+                {
+                    "name": "Shot Down in Flames - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 6,
+                    "duration": "3:47",
+                    "track_spotify_url": "https://open.spotify.com/track/6q7XBzRnDqSXggczzNgSbE"
+                },
+                {
+                    "name": "Thunderstruck - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 7,
+                    "duration": "5:32",
+                    "track_spotify_url": "https://open.spotify.com/track/7eHlRQ5acXEIMdGAKe00fO"
+                },
+                {
+                    "name": "Black Ice - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 8,
+                    "duration": "3:44",
+                    "track_spotify_url": "https://open.spotify.com/track/0YhEKbKui5CB39vlvUzpkm"
+                },
+                {
+                    "name": "The Jack - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 9,
+                    "duration": "10:12",
+                    "track_spotify_url": "https://open.spotify.com/track/7DXTI7oKuIr06wNQ7WVmjV"
+                },
+                {
+                    "name": "Hells Bells - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 10,
+                    "duration": "5:37",
+                    "track_spotify_url": "https://open.spotify.com/track/6ZIM0F8bSeI2OH6n3sJByc"
+                },
+                {
+                    "name": "Shoot to Thrill - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 1,
+                    "duration": "5:55",
+                    "track_spotify_url": "https://open.spotify.com/track/3C4D0HOQdvc4AWhMeW4fFt"
+                },
+                {
+                    "name": "War Machine - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 2,
+                    "duration": "3:39",
+                    "track_spotify_url": "https://open.spotify.com/track/26xgWDWwV01L1f3jV1Fu3D"
+                },
+                {
+                    "name": "Dog Eat Dog - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 3,
+                    "duration": "5:09",
+                    "track_spotify_url": "https://open.spotify.com/track/1hBoa6sbaicdHqQY3a9xWF"
+                },
+                {
+                    "name": "You Shook Me All Night Long - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 4,
+                    "duration": "4:01",
+                    "track_spotify_url": "https://open.spotify.com/track/778MsQxm8FaGUpZH6jttfr"
+                },
+                {
+                    "name": "T.N.T. - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 5,
+                    "duration": "3:57",
+                    "track_spotify_url": "https://open.spotify.com/track/5q7dkO4CQpC3INAvMx55wT"
+                },
+                {
+                    "name": "Whole Lotta Rosie - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 6,
+                    "duration": "5:57",
+                    "track_spotify_url": "https://open.spotify.com/track/6bZQwL1KmpE3y4TH3jIVgr"
+                },
+                {
+                    "name": "Let There Be Rock - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 7,
+                    "duration": "18:06",
+                    "track_spotify_url": "https://open.spotify.com/track/2q0FeOVtIivDv9WWzvPH6J"
+                },
+                {
+                    "name": "Highway to Hell - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 8,
+                    "duration": "4:44",
+                    "track_spotify_url": "https://open.spotify.com/track/7vTCGXUv3XOKScExgMtmel"
+                },
+                {
+                    "name": "For Those About to Rock (We Salute You) - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+                    "track_number": 9,
+                    "duration": "7:45",
+                    "track_spotify_url": "https://open.spotify.com/track/6CszSinwzUcQRponsCm2CR"
+                }
+            ]
+        },
+        {
+            "id": "7qVfz4UGONwEd5nQjj0ESN",
+            "name": "Black Ice",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273107d182a8d39586f8f3f23a0",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851107d182a8d39586f8f3f23a0",
+            "total_tracks": 15,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2008-10-20",
+            "release_date_precision": "day",
+            "release_year": "2008",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN",
+            "tracks": [
+                {
+                    "name": "Rock N Roll Train",
+                    "track_number": 1,
+                    "duration": "4:21",
+                    "track_spotify_url": "https://open.spotify.com/track/4feXJ5IC3avXsVW9WNFSag"
+                },
+                {
+                    "name": "Skies on Fire",
+                    "track_number": 2,
+                    "duration": "3:34",
+                    "track_spotify_url": "https://open.spotify.com/track/4K3ReloaWQZmMz6jrLQ34V"
+                },
+                {
+                    "name": "Big Jack",
+                    "track_number": 3,
+                    "duration": "3:57",
+                    "track_spotify_url": "https://open.spotify.com/track/6vgEMqEmhSkv2G23nl1VTu"
+                },
+                {
+                    "name": "Anything Goes",
+                    "track_number": 4,
+                    "duration": "3:22",
+                    "track_spotify_url": "https://open.spotify.com/track/4OrKIUhgiIiOefxwmrVedV"
+                },
+                {
+                    "name": "War Machine",
+                    "track_number": 5,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/5YnNWHKCJaJKwbagXDb5Uf"
+                },
+                {
+                    "name": "Smash N Grab",
+                    "track_number": 6,
+                    "duration": "4:06",
+                    "track_spotify_url": "https://open.spotify.com/track/6GIow0bPNRxQwCgCJODRHq"
+                },
+                {
+                    "name": "Spoilin' for a Fight",
+                    "track_number": 7,
+                    "duration": "3:17",
+                    "track_spotify_url": "https://open.spotify.com/track/5yx3jekDsFzX987CIHX2Yn"
+                },
+                {
+                    "name": "Wheels",
+                    "track_number": 8,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/2L4PQQuGuGaCpT8pYNxka6"
+                },
+                {
+                    "name": "Decibel",
+                    "track_number": 9,
+                    "duration": "3:33",
+                    "track_spotify_url": "https://open.spotify.com/track/1KS8jTXFTx6Ue7GijLLGTU"
+                },
+                {
+                    "name": "Stormy May Day",
+                    "track_number": 10,
+                    "duration": "3:10",
+                    "track_spotify_url": "https://open.spotify.com/track/4Pm55wDKHjx8JQtzUK0loE"
+                },
+                {
+                    "name": "She Likes Rock N Roll",
+                    "track_number": 11,
+                    "duration": "3:52",
+                    "track_spotify_url": "https://open.spotify.com/track/6QitPoNJ9DPtBAA5N6LWYA"
+                },
+                {
+                    "name": "Money Made",
+                    "track_number": 12,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/7kiKiDlZVrwufrqegBdUqt"
+                },
+                {
+                    "name": "Rock N Roll Dream",
+                    "track_number": 13,
+                    "duration": "4:40",
+                    "track_spotify_url": "https://open.spotify.com/track/6RYm3vNuXgILX6yTVWl4ln"
+                },
+                {
+                    "name": "Rocking All the Way",
+                    "track_number": 14,
+                    "duration": "3:22",
+                    "track_spotify_url": "https://open.spotify.com/track/54Qq4F7r3l1CsMOVxj2GJQ"
+                },
+                {
+                    "name": "Black Ice",
+                    "track_number": 15,
+                    "duration": "3:25",
+                    "track_spotify_url": "https://open.spotify.com/track/3Axmw41lmMoXih3NJYzbXb"
+                }
+            ]
+        },
+        {
+            "id": "5JPVHEB67TREre4Q8JOfCQ",
+            "name": "Stiff Upper Lip",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2736376f65001ec44cb380e12c1",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048516376f65001ec44cb380e12c1",
+            "total_tracks": 12,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "2000-02-25",
+            "release_date_precision": "day",
+            "release_year": "2000",
+            "release_month": "02",
+            "album_spotify_url": "https://open.spotify.com/album/5JPVHEB67TREre4Q8JOfCQ",
+            "tracks": [
+                {
+                    "name": "Stiff Upper Lip",
+                    "track_number": 1,
+                    "duration": "3:34",
+                    "track_spotify_url": "https://open.spotify.com/track/1KBuhAHzia2qoD4u6YhvER"
+                },
+                {
+                    "name": "Meltdown",
+                    "track_number": 2,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/6x4UZ92rUZbRxUzvx0JVl6"
+                },
+                {
+                    "name": "House of Jazz",
+                    "track_number": 3,
+                    "duration": "3:56",
+                    "track_spotify_url": "https://open.spotify.com/track/2BNFtsFjAXw46wRq0injZj"
+                },
+                {
+                    "name": "Hold Me Back",
+                    "track_number": 4,
+                    "duration": "3:59",
+                    "track_spotify_url": "https://open.spotify.com/track/79fB8SJnwlaGCbP4hFFWG0"
+                },
+                {
+                    "name": "Safe in New York City",
+                    "track_number": 5,
+                    "duration": "3:59",
+                    "track_spotify_url": "https://open.spotify.com/track/6xs17NF4X10Y7UGwto7S7Z"
+                },
+                {
+                    "name": "Can't Stand Still",
+                    "track_number": 6,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/4GLQAKOPFXOI07JzfrniZs"
+                },
+                {
+                    "name": "Can't Stop Rock 'n' Roll",
+                    "track_number": 7,
+                    "duration": "4:02",
+                    "track_spotify_url": "https://open.spotify.com/track/2TCEl9FdIPmIXyM2Jd6Lws"
+                },
+                {
+                    "name": "Satellite Blues",
+                    "track_number": 8,
+                    "duration": "3:46",
+                    "track_spotify_url": "https://open.spotify.com/track/7lrBHMaXy0klQR4KFZuwAs"
+                },
+                {
+                    "name": "Damned",
+                    "track_number": 9,
+                    "duration": "3:52",
+                    "track_spotify_url": "https://open.spotify.com/track/6MJ5Q5tcNIWDrdBt3woKdj"
+                },
+                {
+                    "name": "Come and Get It",
+                    "track_number": 10,
+                    "duration": "4:02",
+                    "track_spotify_url": "https://open.spotify.com/track/1B7YWCnmn6bWii1Pyy8cfK"
+                },
+                {
+                    "name": "All Screwed Up",
+                    "track_number": 11,
+                    "duration": "4:36",
+                    "track_spotify_url": "https://open.spotify.com/track/2filqLyVGxteotSCD8b4Jt"
+                },
+                {
+                    "name": "Give It Up",
+                    "track_number": 12,
+                    "duration": "3:55",
+                    "track_spotify_url": "https://open.spotify.com/track/3rwdLlTki1Y5YLU9DOU4ks"
+                }
+            ]
+        },
+        {
+            "id": "1zXYNAA57WJ33GgZJHchhX",
+            "name": "Ballbreaker",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273dd72be577ed91add8f268f5e",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851dd72be577ed91add8f268f5e",
+            "total_tracks": 11,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1995-09-22",
+            "release_date_precision": "day",
+            "release_year": "1995",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX",
+            "tracks": [
+                {
+                    "name": "Hard as a Rock",
+                    "track_number": 1,
+                    "duration": "4:31",
+                    "track_spotify_url": "https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g"
+                },
+                {
+                    "name": "Cover You in Oil",
+                    "track_number": 2,
+                    "duration": "4:32",
+                    "track_spotify_url": "https://open.spotify.com/track/56OSb0BpuPI9tp4tDvhC8i"
+                },
+                {
+                    "name": "The Furor",
+                    "track_number": 3,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/6ijCRYmsTbeOWp4qEgl9e0"
+                },
+                {
+                    "name": "Boogie Man",
+                    "track_number": 4,
+                    "duration": "4:06",
+                    "track_spotify_url": "https://open.spotify.com/track/2eeDDhFzhTi78mVOQMEnDw"
+                },
+                {
+                    "name": "The Honey Roll",
+                    "track_number": 5,
+                    "duration": "5:35",
+                    "track_spotify_url": "https://open.spotify.com/track/6EV7R20p1qHi1HwldZorHi"
+                },
+                {
+                    "name": "Burnin' Alive",
+                    "track_number": 6,
+                    "duration": "5:05",
+                    "track_spotify_url": "https://open.spotify.com/track/4iAZhaVvrX1d1By5f0QWSB"
+                },
+                {
+                    "name": "Hail Caesar",
+                    "track_number": 7,
+                    "duration": "5:14",
+                    "track_spotify_url": "https://open.spotify.com/track/5Pa0DPtpyGUlpRJgxq9BMk"
+                },
+                {
+                    "name": "Love Bomb",
+                    "track_number": 8,
+                    "duration": "3:14",
+                    "track_spotify_url": "https://open.spotify.com/track/0uCshTeOj3C39Qj4bS539q"
+                },
+                {
+                    "name": "Caught with Your Pants Down",
+                    "track_number": 9,
+                    "duration": "4:14",
+                    "track_spotify_url": "https://open.spotify.com/track/0vT0i6fUPaE0UB4BO74bFI"
+                },
+                {
+                    "name": "Whiskey on the Rocks",
+                    "track_number": 10,
+                    "duration": "4:35",
+                    "track_spotify_url": "https://open.spotify.com/track/4KytLdPRCctWfEvXRhbHB4"
+                },
+                {
+                    "name": "Ballbreaker",
+                    "track_number": 11,
+                    "duration": "4:30",
+                    "track_spotify_url": "https://open.spotify.com/track/1TJX5KxBVqwqPPUPH16MFL"
+                }
+            ]
+        },
+        {
+            "id": "6jOO0YHvuHP4UkJuDpcAoz",
+            "name": "Live (Collector's Edition)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27326b32820b869763b5d706c26",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485126b32820b869763b5d706c26",
+            "total_tracks": 23,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1992-10-27",
+            "release_date_precision": "day",
+            "release_year": "1992",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/6jOO0YHvuHP4UkJuDpcAoz",
+            "tracks": [
+                {
+                    "name": "Thunderstruck - Live - 1991",
+                    "track_number": 1,
+                    "duration": "6:35",
+                    "track_spotify_url": "https://open.spotify.com/track/726FgWV2ZRP5rkJ5MfGbSr"
+                },
+                {
+                    "name": "Shoot to Thrill - Live - 1991",
+                    "track_number": 2,
+                    "duration": "5:20",
+                    "track_spotify_url": "https://open.spotify.com/track/4D3qnFFio2eUuiwCM4O023"
+                },
+                {
+                    "name": "Back In Black - Live - 1991",
+                    "track_number": 3,
+                    "duration": "4:27",
+                    "track_spotify_url": "https://open.spotify.com/track/1MfedNodDKkvTVkNkwIBSo"
+                },
+                {
+                    "name": "Sin City - Live - 1991",
+                    "track_number": 4,
+                    "duration": "5:40",
+                    "track_spotify_url": "https://open.spotify.com/track/5KCCaVQOSe4gLzyGJ3oZnL"
+                },
+                {
+                    "name": "Who Made Who - Live - 1991",
+                    "track_number": 5,
+                    "duration": "5:15",
+                    "track_spotify_url": "https://open.spotify.com/track/5bx6dKRA1X04ZeTfxCNJMA"
+                },
+                {
+                    "name": "Heatseeker - Live - 1991",
+                    "track_number": 6,
+                    "duration": "3:36",
+                    "track_spotify_url": "https://open.spotify.com/track/6WnA9KrJ3r9YfJOmxmZRaC"
+                },
+                {
+                    "name": "Fire Your Guns - Live - 1991",
+                    "track_number": 7,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/3dduxlMxKeJzAYMBWjCHbP"
+                },
+                {
+                    "name": "Jailbreak - Live - 1991",
+                    "track_number": 8,
+                    "duration": "14:41",
+                    "track_spotify_url": "https://open.spotify.com/track/6OvZ0eYTiRbvE4yflbKlnt"
+                },
+                {
+                    "name": "The Jack - Live - 1991",
+                    "track_number": 9,
+                    "duration": "6:56",
+                    "track_spotify_url": "https://open.spotify.com/track/2HBUDl71pACQkvOnhpo1ra"
+                },
+                {
+                    "name": "The Razors Edge - Live - 1991",
+                    "track_number": 10,
+                    "duration": "4:34",
+                    "track_spotify_url": "https://open.spotify.com/track/6TiX53RD1JzwV5saZRIt5z"
+                },
+                {
+                    "name": "Dirty Deeds Done Dirt Cheap - Live - 1991",
+                    "track_number": 11,
+                    "duration": "5:02",
+                    "track_spotify_url": "https://open.spotify.com/track/6r9ruVF8mF1QTH1J2S89G3"
+                },
+                {
+                    "name": "Moneytalks - Live - 1991",
+                    "track_number": 12,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/6clRKCagfZikejWk1er68O"
+                },
+                {
+                    "name": "Hells Bells - Live - 1991",
+                    "track_number": 1,
+                    "duration": "6:00",
+                    "track_spotify_url": "https://open.spotify.com/track/3zEg8Ztp2RNK1rN2fNuUyu"
+                },
+                {
+                    "name": "Are You Ready - Live - 1991",
+                    "track_number": 2,
+                    "duration": "4:32",
+                    "track_spotify_url": "https://open.spotify.com/track/5TXfht88qy2zLb13TIu47d"
+                },
+                {
+                    "name": "That's the Way I Wanna Rock 'N' Roll - Live - 1991",
+                    "track_number": 3,
+                    "duration": "3:56",
+                    "track_spotify_url": "https://open.spotify.com/track/7ks1X6WVC5RI52ljlbG66p"
+                },
+                {
+                    "name": "High Voltage - Live - 1991",
+                    "track_number": 4,
+                    "duration": "10:32",
+                    "track_spotify_url": "https://open.spotify.com/track/3orPMvpxWGqzWhYzpuXeAB"
+                },
+                {
+                    "name": "You Shook Me All Night Long - Live - 1991",
+                    "track_number": 5,
+                    "duration": "3:53",
+                    "track_spotify_url": "https://open.spotify.com/track/0leqOXgFI7Klsd1d82sAqr"
+                },
+                {
+                    "name": "Whole Lotta Rosie - Live - 1991",
+                    "track_number": 6,
+                    "duration": "4:30",
+                    "track_spotify_url": "https://open.spotify.com/track/0V6mxSZnwc59wL8KJ8x6PM"
+                },
+                {
+                    "name": "Let There Be Rock - Live - 1991",
+                    "track_number": 7,
+                    "duration": "12:16",
+                    "track_spotify_url": "https://open.spotify.com/track/6DULdxBZGGDEf5VKVoIMgC"
+                },
+                {
+                    "name": "Bonny - Live - 1991",
+                    "track_number": 8,
+                    "duration": "1:03",
+                    "track_spotify_url": "https://open.spotify.com/track/2CrEgRDdADE4td2Ot6KaOx"
+                },
+                {
+                    "name": "Highway to Hell - Live - 1991",
+                    "track_number": 9,
+                    "duration": "3:53",
+                    "track_spotify_url": "https://open.spotify.com/track/3Hbbkj9PerBqZJ9DjINjN6"
+                },
+                {
+                    "name": "T.N.T. - Live - 1991",
+                    "track_number": 10,
+                    "duration": "3:48",
+                    "track_spotify_url": "https://open.spotify.com/track/1Eaqc5EdMMvFcI4Z1Wh4VG"
+                },
+                {
+                    "name": "For Those About to Rock (We Salute You) - Live - 1991",
+                    "track_number": 11,
+                    "duration": "7:17",
+                    "track_spotify_url": "https://open.spotify.com/track/7aslZ5LcxlHxizdVSfvZbH"
+                }
+            ]
+        },
+        {
+            "id": "1dmBXO2zmCbsf8qAicqbs0",
+            "name": "Live",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273c5a5b4be2acc36cddc42fb8f",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851c5a5b4be2acc36cddc42fb8f",
+            "total_tracks": 14,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1992-10-27",
+            "release_date_precision": "day",
+            "release_year": "1992",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/1dmBXO2zmCbsf8qAicqbs0",
+            "tracks": [
+                {
+                    "name": "Thunderstruck - Live - 1991",
+                    "track_number": 1,
+                    "duration": "6:35",
+                    "track_spotify_url": "https://open.spotify.com/track/4f5V6rbtGt67AWtNGRS9vx"
+                },
+                {
+                    "name": "Shoot to Thrill - Live - 1991",
+                    "track_number": 2,
+                    "duration": "5:20",
+                    "track_spotify_url": "https://open.spotify.com/track/78OmqSJbNCPvzoewaDRJvy"
+                },
+                {
+                    "name": "Back In Black - Live - 1991",
+                    "track_number": 3,
+                    "duration": "4:26",
+                    "track_spotify_url": "https://open.spotify.com/track/5dvfYJR8yXaO9SHtqJWeL5"
+                },
+                {
+                    "name": "Who Made Who - Live - 1991",
+                    "track_number": 4,
+                    "duration": "5:15",
+                    "track_spotify_url": "https://open.spotify.com/track/56uIblkbP8nt42e4h7NYcC"
+                },
+                {
+                    "name": "Heatseeker - Live - 1991",
+                    "track_number": 5,
+                    "duration": "3:35",
+                    "track_spotify_url": "https://open.spotify.com/track/1dJOOi2Byt4uWFDJWqR6AR"
+                },
+                {
+                    "name": "The Jack - Live - 1991",
+                    "track_number": 6,
+                    "duration": "6:56",
+                    "track_spotify_url": "https://open.spotify.com/track/5fMM9S5N2MloZXHCT08WC6"
+                },
+                {
+                    "name": "Moneytalks - Live - 1991",
+                    "track_number": 7,
+                    "duration": "4:18",
+                    "track_spotify_url": "https://open.spotify.com/track/6prcnLMTKrcHzvp4XwUnUj"
+                },
+                {
+                    "name": "Hells Bells - Live - 1991",
+                    "track_number": 8,
+                    "duration": "6:00",
+                    "track_spotify_url": "https://open.spotify.com/track/3aSUhKMYQkfEOjkdBwWcoC"
+                },
+                {
+                    "name": "Dirty Deeds Done Dirt Cheap - Live - 1991",
+                    "track_number": 9,
+                    "duration": "5:02",
+                    "track_spotify_url": "https://open.spotify.com/track/4SUhlKM0n3ejiHQwqTjb9F"
+                },
+                {
+                    "name": "Whole Lotta Rosie - Live - 1991",
+                    "track_number": 10,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/4eoGQROWDgOs43F0WEYR8a"
+                },
+                {
+                    "name": "You Shook Me All Night Long - Live - 1991",
+                    "track_number": 11,
+                    "duration": "3:52",
+                    "track_spotify_url": "https://open.spotify.com/track/4QR6LcLBL8bLDd6lbNwmbC"
+                },
+                {
+                    "name": "Highway to Hell - Live - 1991",
+                    "track_number": 12,
+                    "duration": "3:57",
+                    "track_spotify_url": "https://open.spotify.com/track/5Mu7WviNvT9yJeF79V1HS5"
+                },
+                {
+                    "name": "T.N.T. - Live - 1991",
+                    "track_number": 13,
+                    "duration": "3:47",
+                    "track_spotify_url": "https://open.spotify.com/track/6MWkewqqntx7y6AyOqEoXM"
+                },
+                {
+                    "name": "For Those About to Rock (We Salute You) - Live - 1991",
+                    "track_number": 14,
+                    "duration": "7:17",
+                    "track_spotify_url": "https://open.spotify.com/track/5v2EJjf4VcVvXQT5P84twb"
+                }
+            ]
+        },
+        {
+            "id": "4vu7F6h90Br1ZtYYaqfITy",
+            "name": "The Razors Edge",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2738399047ff71200928f5b6508",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518399047ff71200928f5b6508",
+            "total_tracks": 12,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1990-09-24",
+            "release_date_precision": "day",
+            "release_year": "1990",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy",
+            "tracks": [
+                {
+                    "name": "Thunderstruck",
+                    "track_number": 1,
+                    "duration": "4:52",
+                    "track_spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+                },
+                {
+                    "name": "Fire Your Guns",
+                    "track_number": 2,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/0cLvKgKkqlaJ9UajbitH4l"
+                },
+                {
+                    "name": "Moneytalks",
+                    "track_number": 3,
+                    "duration": "3:45",
+                    "track_spotify_url": "https://open.spotify.com/track/5u5F7qLDvZjBSktaDp4HxB"
+                },
+                {
+                    "name": "The Razors Edge",
+                    "track_number": 4,
+                    "duration": "4:22",
+                    "track_spotify_url": "https://open.spotify.com/track/4ObCns6nM6tShx5a5tHiGC"
+                },
+                {
+                    "name": "Mistress for Christmas",
+                    "track_number": 5,
+                    "duration": "3:59",
+                    "track_spotify_url": "https://open.spotify.com/track/6xwxKqCIdrs0RDWkmFxzZs"
+                },
+                {
+                    "name": "Rock Your Heart Out",
+                    "track_number": 6,
+                    "duration": "4:06",
+                    "track_spotify_url": "https://open.spotify.com/track/1SbRJXUX4yNmAr7CZumctk"
+                },
+                {
+                    "name": "Are You Ready",
+                    "track_number": 7,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/7A1odihHBrI8n9k0Fefh2j"
+                },
+                {
+                    "name": "Got You by the Balls",
+                    "track_number": 8,
+                    "duration": "4:30",
+                    "track_spotify_url": "https://open.spotify.com/track/1i0hnGnt14GL713mmOgJHh"
+                },
+                {
+                    "name": "Shot of Love",
+                    "track_number": 9,
+                    "duration": "3:56",
+                    "track_spotify_url": "https://open.spotify.com/track/0NIotBOwHkVRocCRzi41da"
+                },
+                {
+                    "name": "Let's Make It",
+                    "track_number": 10,
+                    "duration": "3:32",
+                    "track_spotify_url": "https://open.spotify.com/track/0FWmC11IDbq8T2ZTOnnBiL"
+                },
+                {
+                    "name": "Goodbye and Good Riddance to Bad Luck",
+                    "track_number": 11,
+                    "duration": "3:13",
+                    "track_spotify_url": "https://open.spotify.com/track/3Y23ZSLRdk0d8YWAu4SnFb"
+                },
+                {
+                    "name": "If You Dare",
+                    "track_number": 12,
+                    "duration": "3:18",
+                    "track_spotify_url": "https://open.spotify.com/track/60YOadmxT3GeNlAHbrhR8U"
+                }
+            ]
+        },
+        {
+            "id": "5jfgUmvXCar7Qf5lidVkqI",
+            "name": "Blow Up Your Video",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2737d29629468b9a39131b6d718",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048517d29629468b9a39131b6d718",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1988-02-01",
+            "release_date_precision": "day",
+            "release_year": "1988",
+            "release_month": "02",
+            "album_spotify_url": "https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI",
+            "tracks": [
+                {
+                    "name": "Heatseeker",
+                    "track_number": 1,
+                    "duration": "3:50",
+                    "track_spotify_url": "https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21"
+                },
+                {
+                    "name": "That's the Way I Wanna Rock 'N' Roll",
+                    "track_number": 2,
+                    "duration": "3:45",
+                    "track_spotify_url": "https://open.spotify.com/track/0u8J52fqQhQXKvAC23ICvO"
+                },
+                {
+                    "name": "Meanstreak",
+                    "track_number": 3,
+                    "duration": "4:08",
+                    "track_spotify_url": "https://open.spotify.com/track/3C2qc99Ay92Iv43DknVttB"
+                },
+                {
+                    "name": "Go Zone",
+                    "track_number": 4,
+                    "duration": "4:26",
+                    "track_spotify_url": "https://open.spotify.com/track/1a6B2hBwnJoqETESO6NDj3"
+                },
+                {
+                    "name": "Kissin' Dynamite",
+                    "track_number": 5,
+                    "duration": "3:58",
+                    "track_spotify_url": "https://open.spotify.com/track/6MZc25P5QQDCYwUpYZ4gBA"
+                },
+                {
+                    "name": "Nick of Time",
+                    "track_number": 6,
+                    "duration": "4:16",
+                    "track_spotify_url": "https://open.spotify.com/track/3wYDl8yi2F90kJdSUkyhJG"
+                },
+                {
+                    "name": "Some Sin for Nuthin'",
+                    "track_number": 7,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/05spmNSk1TB5CFAEbAvLuu"
+                },
+                {
+                    "name": "Ruff Stuff",
+                    "track_number": 8,
+                    "duration": "4:28",
+                    "track_spotify_url": "https://open.spotify.com/track/6D1r9yXvmn0zcw5vZuPSw5"
+                },
+                {
+                    "name": "Two's Up",
+                    "track_number": 9,
+                    "duration": "5:19",
+                    "track_spotify_url": "https://open.spotify.com/track/4UBIdb16eo8bIykBM6JHE2"
+                },
+                {
+                    "name": "This Means War",
+                    "track_number": 10,
+                    "duration": "4:32",
+                    "track_spotify_url": "https://open.spotify.com/track/3TzodHWz58jKxePzBDqHf0"
+                }
+            ]
+        },
+        {
+            "id": "07EFoHHspqSwsmkbnWaB4A",
+            "name": "Who Made Who",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273febe8d3decc4565315adff23",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851febe8d3decc4565315adff23",
+            "total_tracks": 9,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1986-05-24",
+            "release_date_precision": "day",
+            "release_year": "1986",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A",
+            "tracks": [
+                {
+                    "name": "Who Made Who",
+                    "track_number": 1,
+                    "duration": "3:27",
+                    "track_spotify_url": "https://open.spotify.com/track/6rvldt6EoZwzogApECUCwd"
+                },
+                {
+                    "name": "You Shook Me All Night Long",
+                    "track_number": 2,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/6yl8Es1tCYD9WdSkeVLFw4"
+                },
+                {
+                    "name": "D.T.",
+                    "track_number": 3,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/1nUk7iNwJ26jIhNaEHt910"
+                },
+                {
+                    "name": "Sink the Pink",
+                    "track_number": 4,
+                    "duration": "4:13",
+                    "track_spotify_url": "https://open.spotify.com/track/3yGEXeeMSZtXoEvfcLFF1m"
+                },
+                {
+                    "name": "Ride On",
+                    "track_number": 5,
+                    "duration": "5:49",
+                    "track_spotify_url": "https://open.spotify.com/track/6vLemwLlTYDqQqbtXHRLRN"
+                },
+                {
+                    "name": "Hells Bells",
+                    "track_number": 6,
+                    "duration": "5:12",
+                    "track_spotify_url": "https://open.spotify.com/track/2P884dqfjksDMSzUZksfrS"
+                },
+                {
+                    "name": "Shake Your Foundations",
+                    "track_number": 7,
+                    "duration": "3:51",
+                    "track_spotify_url": "https://open.spotify.com/track/0dY2imDqcunCyIWoBfrcxB"
+                },
+                {
+                    "name": "Chase the Ace",
+                    "track_number": 8,
+                    "duration": "3:01",
+                    "track_spotify_url": "https://open.spotify.com/track/4LZyChIF8hKAAtGuPsvKCY"
+                },
+                {
+                    "name": "For Those About to Rock (We Salute You)",
+                    "track_number": 9,
+                    "duration": "5:53",
+                    "track_spotify_url": "https://open.spotify.com/track/1Qf7H7d1TNP8VfPVDRLY0D"
+                }
+            ]
+        },
+        {
+            "id": "0rOXa1wPbBrCNl6knMyDBW",
+            "name": "Fly On the Wall",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2738c956231b82b953273c78001",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518c956231b82b953273c78001",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1985-06-28",
+            "release_date_precision": "day",
+            "release_year": "1985",
+            "release_month": "06",
+            "album_spotify_url": "https://open.spotify.com/album/0rOXa1wPbBrCNl6knMyDBW",
+            "tracks": [
+                {
+                    "name": "Fly on the Wall",
+                    "track_number": 1,
+                    "duration": "3:44",
+                    "track_spotify_url": "https://open.spotify.com/track/4KLh3zTfRqxBPDVzOOy2yE"
+                },
+                {
+                    "name": "Shake Your Foundations",
+                    "track_number": 2,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/1L21YTLKh6eJaIjQWRgzo7"
+                },
+                {
+                    "name": "First Blood",
+                    "track_number": 3,
+                    "duration": "3:46",
+                    "track_spotify_url": "https://open.spotify.com/track/3u73GFE4Vr2Agnf6afmW0V"
+                },
+                {
+                    "name": "Danger",
+                    "track_number": 4,
+                    "duration": "4:22",
+                    "track_spotify_url": "https://open.spotify.com/track/4s0zx7jUjCe2qOswnEmQur"
+                },
+                {
+                    "name": "Sink the Pink",
+                    "track_number": 5,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/4tEO5sXXoEOtxEPZJ15pgO"
+                },
+                {
+                    "name": "Playing with Girls",
+                    "track_number": 6,
+                    "duration": "3:44",
+                    "track_spotify_url": "https://open.spotify.com/track/4BE5gpzdVEVA9uROkm7GI9"
+                },
+                {
+                    "name": "Stand Up",
+                    "track_number": 7,
+                    "duration": "3:53",
+                    "track_spotify_url": "https://open.spotify.com/track/1UBmFT0L9ilDySXuuMBfK5"
+                },
+                {
+                    "name": "Hell or High Water",
+                    "track_number": 8,
+                    "duration": "4:32",
+                    "track_spotify_url": "https://open.spotify.com/track/44WgrjG7hWuKqx6KL4AyCR"
+                },
+                {
+                    "name": "Back in Business",
+                    "track_number": 9,
+                    "duration": "4:24",
+                    "track_spotify_url": "https://open.spotify.com/track/6FCp2G9cQKTBl2nd34vciA"
+                },
+                {
+                    "name": "Send for the Man",
+                    "track_number": 10,
+                    "duration": "3:36",
+                    "track_spotify_url": "https://open.spotify.com/track/0limokbfqb60BMM7c7Z2HE"
+                }
+            ]
+        },
+        {
+            "id": "0ZD2tIjWo9fwzPndZ04wDY",
+            "name": "Flick of the Switch",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2739a0c5b4e72a4aaf8912fa3f7",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048519a0c5b4e72a4aaf8912fa3f7",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1983-08-15",
+            "release_date_precision": "day",
+            "release_year": "1983",
+            "release_month": "08",
+            "album_spotify_url": "https://open.spotify.com/album/0ZD2tIjWo9fwzPndZ04wDY",
+            "tracks": [
+                {
+                    "name": "Rising Power",
+                    "track_number": 1,
+                    "duration": "3:43",
+                    "track_spotify_url": "https://open.spotify.com/track/1P0SDqCttZZnmSU7YtPxQY"
+                },
+                {
+                    "name": "This House Is on Fire",
+                    "track_number": 2,
+                    "duration": "3:23",
+                    "track_spotify_url": "https://open.spotify.com/track/6SRadf7zJ0PdkSqQ4Sqkvm"
+                },
+                {
+                    "name": "Flick of the Switch",
+                    "track_number": 3,
+                    "duration": "3:13",
+                    "track_spotify_url": "https://open.spotify.com/track/0oIox8T3bdGZnhQKnaDK2a"
+                },
+                {
+                    "name": "Nervous Shakedown",
+                    "track_number": 4,
+                    "duration": "4:27",
+                    "track_spotify_url": "https://open.spotify.com/track/05gjrT0jcQ0fRkHuYgJTdR"
+                },
+                {
+                    "name": "Landslide",
+                    "track_number": 5,
+                    "duration": "3:57",
+                    "track_spotify_url": "https://open.spotify.com/track/0qKMZuEM8aejK1wz6Dmn8M"
+                },
+                {
+                    "name": "Guns for Hire",
+                    "track_number": 6,
+                    "duration": "3:24",
+                    "track_spotify_url": "https://open.spotify.com/track/31F5kR9fPxI7lBV0Stfl4V"
+                },
+                {
+                    "name": "Deep in the Hole",
+                    "track_number": 7,
+                    "duration": "3:19",
+                    "track_spotify_url": "https://open.spotify.com/track/5h8XlKa4TvIhOcJXsPvDX7"
+                },
+                {
+                    "name": "Bedlam in Belgium",
+                    "track_number": 8,
+                    "duration": "3:52",
+                    "track_spotify_url": "https://open.spotify.com/track/1FeFtmh1lljY1AISeZLrhf"
+                },
+                {
+                    "name": "Badlands",
+                    "track_number": 9,
+                    "duration": "3:38",
+                    "track_spotify_url": "https://open.spotify.com/track/4wL7XxJ7DNtIao5EaynvuP"
+                },
+                {
+                    "name": "Brain Shake",
+                    "track_number": 10,
+                    "duration": "4:09",
+                    "track_spotify_url": "https://open.spotify.com/track/79Tq4tCfNGFJChySkOS5Dy"
+                }
+            ]
+        },
+        {
+            "id": "7DUvURQ0wfA1kgG8j99frR",
+            "name": "For Those About to Rock (We Salute You)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2730d025344564dfda2e57f9ffd",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048510d025344564dfda2e57f9ffd",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1981-11-23",
+            "release_date_precision": "day",
+            "release_year": "1981",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR",
+            "tracks": [
+                {
+                    "name": "For Those About to Rock (We Salute You)",
+                    "track_number": 1,
+                    "duration": "5:44",
+                    "track_spotify_url": "https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb"
+                },
+                {
+                    "name": "I Put the Finger on You",
+                    "track_number": 2,
+                    "duration": "3:25",
+                    "track_spotify_url": "https://open.spotify.com/track/7KGbYZv593eAMISQjYqTDT"
+                },
+                {
+                    "name": "Let's Get It Up",
+                    "track_number": 3,
+                    "duration": "3:54",
+                    "track_spotify_url": "https://open.spotify.com/track/1EJIEPzahlUiev5IQ1HnuL"
+                },
+                {
+                    "name": "Inject the Venom",
+                    "track_number": 4,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/31KSQBbHS275MsHgHmTD21"
+                },
+                {
+                    "name": "Snowballed",
+                    "track_number": 5,
+                    "duration": "3:23",
+                    "track_spotify_url": "https://open.spotify.com/track/1is13OusVjtwAvLx5PcxcZ"
+                },
+                {
+                    "name": "Evil Walks",
+                    "track_number": 6,
+                    "duration": "4:23",
+                    "track_spotify_url": "https://open.spotify.com/track/5ahPl557niKxia8Kquw1yh"
+                },
+                {
+                    "name": "C.O.D.",
+                    "track_number": 7,
+                    "duration": "3:19",
+                    "track_spotify_url": "https://open.spotify.com/track/3zR16RvuoDiglmh4iTacvN"
+                },
+                {
+                    "name": "Breaking the Rules",
+                    "track_number": 8,
+                    "duration": "4:23",
+                    "track_spotify_url": "https://open.spotify.com/track/1W0rNaAXmNzvfgp47JzcVQ"
+                },
+                {
+                    "name": "Night of the Long Knives",
+                    "track_number": 9,
+                    "duration": "3:25",
+                    "track_spotify_url": "https://open.spotify.com/track/4NQJn1aSV9r6UmYErgzS4s"
+                },
+                {
+                    "name": "Spellbound",
+                    "track_number": 10,
+                    "duration": "4:39",
+                    "track_spotify_url": "https://open.spotify.com/track/124CQLjNlenz6CTKVCV931"
+                }
+            ]
+        },
+        {
+            "id": "6mUdeDZCsExyJLMdAfDuwh",
+            "name": "Back In Black",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048510b51f8d91f3a21e8426361ae",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1980-07-25",
+            "release_date_precision": "day",
+            "release_year": "1980",
+            "release_month": "07",
+            "album_spotify_url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh",
+            "tracks": [
+                {
+                    "name": "Hells Bells",
+                    "track_number": 1,
+                    "duration": "5:12",
+                    "track_spotify_url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
+                },
+                {
+                    "name": "Shoot to Thrill",
+                    "track_number": 2,
+                    "duration": "5:17",
+                    "track_spotify_url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
+                },
+                {
+                    "name": "What Do You Do for Money Honey",
+                    "track_number": 3,
+                    "duration": "3:35",
+                    "track_spotify_url": "https://open.spotify.com/track/6Th6ND8RQPywiyelecP5Lf"
+                },
+                {
+                    "name": "Givin the Dog a Bone",
+                    "track_number": 4,
+                    "duration": "3:31",
+                    "track_spotify_url": "https://open.spotify.com/track/6rAy2MsMUabbqu2VygrblP"
+                },
+                {
+                    "name": "Let Me Put My Love Into You",
+                    "track_number": 5,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/5XeMsYb1rWxQL1bUUaZajn"
+                },
+                {
+                    "name": "Back In Black",
+                    "track_number": 6,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+                },
+                {
+                    "name": "You Shook Me All Night Long",
+                    "track_number": 7,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+                },
+                {
+                    "name": "Have a Drink on Me",
+                    "track_number": 8,
+                    "duration": "3:58",
+                    "track_spotify_url": "https://open.spotify.com/track/4dDurgTN3eGyU0ghzFJ0T1"
+                },
+                {
+                    "name": "Shake a Leg",
+                    "track_number": 9,
+                    "duration": "4:05",
+                    "track_spotify_url": "https://open.spotify.com/track/2MCUmp0I98gsJBmey7DfZS"
+                },
+                {
+                    "name": "Rock and Roll Ain't Noise Pollution",
+                    "track_number": 10,
+                    "duration": "4:26",
+                    "track_spotify_url": "https://open.spotify.com/track/6J17MkMmuzBiIOjRH6MOBZ"
+                }
+            ]
+        },
+        {
+            "id": "10v912xgTZbjAtYfyKWJCS",
+            "name": "Highway to Hell",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27351c02a77d09dfcd53c8676d0",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485151c02a77d09dfcd53c8676d0",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1979-07-27",
+            "release_date_precision": "day",
+            "release_year": "1979",
+            "release_month": "07",
+            "album_spotify_url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS",
+            "tracks": [
+                {
+                    "name": "Highway to Hell",
+                    "track_number": 1,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+                },
+                {
+                    "name": "Girls Got Rhythm",
+                    "track_number": 2,
+                    "duration": "3:23",
+                    "track_spotify_url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
+                },
+                {
+                    "name": "Walk All Over You",
+                    "track_number": 3,
+                    "duration": "5:10",
+                    "track_spotify_url": "https://open.spotify.com/track/5xquYn2sr3uEcyuKU9BmCJ"
+                },
+                {
+                    "name": "Touch Too Much",
+                    "track_number": 4,
+                    "duration": "4:26",
+                    "track_spotify_url": "https://open.spotify.com/track/2j0zExWFB0PowLOeoZosjK"
+                },
+                {
+                    "name": "Beating Around the Bush",
+                    "track_number": 5,
+                    "duration": "3:55",
+                    "track_spotify_url": "https://open.spotify.com/track/7sZKoFbEu4mPuCMX5cxLSb"
+                },
+                {
+                    "name": "Shot Down in Flames",
+                    "track_number": 6,
+                    "duration": "3:22",
+                    "track_spotify_url": "https://open.spotify.com/track/6pivm7pNF4GyBkHNGseHCS"
+                },
+                {
+                    "name": "Get It Hot",
+                    "track_number": 7,
+                    "duration": "2:34",
+                    "track_spotify_url": "https://open.spotify.com/track/7HbHwtTGM3kCjDtmP00x4h"
+                },
+                {
+                    "name": "If You Want Blood (You've Got It)",
+                    "track_number": 8,
+                    "duration": "4:34",
+                    "track_spotify_url": "https://open.spotify.com/track/7zscdQe9CjzXnqT3P1Ey7K"
+                },
+                {
+                    "name": "Love Hungry Man",
+                    "track_number": 9,
+                    "duration": "4:17",
+                    "track_spotify_url": "https://open.spotify.com/track/1Kbc8nH6BhsWnTuM22qypl"
+                },
+                {
+                    "name": "Night Prowler",
+                    "track_number": 10,
+                    "duration": "6:27",
+                    "track_spotify_url": "https://open.spotify.com/track/7w04gIWA7mIbqR03Ghyrkl"
+                }
+            ]
+        },
+        {
+            "id": "38MklVAM0DEnMCLucNckDD",
+            "name": "If You Want Blood You've Got It (Live)",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27383493eb8edb7ffc099986d1a",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485183493eb8edb7ffc099986d1a",
+            "total_tracks": 10,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1978-10-13",
+            "release_date_precision": "day",
+            "release_year": "1978",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/38MklVAM0DEnMCLucNckDD",
+            "tracks": [
+                {
+                    "name": "Riff Raff - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",
+                    "track_number": 1,
+                    "duration": "5:59",
+                    "track_spotify_url": "https://open.spotify.com/track/3TUyK8veWjZqlKFZRPwojT"
+                },
+                {
+                    "name": "Hell Ain't a Bad Place to Be - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",
+                    "track_number": 2,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/3K8xCiaZKUhHHbO9QDpYjz"
+                },
+                {
+                    "name": "Bad Boy Boogie - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",
+                    "track_number": 3,
+                    "duration": "7:29",
+                    "track_spotify_url": "https://open.spotify.com/track/4Fa0k3oOSA5KTwpqhfGSSU"
+                },
+                {
+                    "name": "The Jack - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",
+                    "track_number": 4,
+                    "duration": "5:48",
+                    "track_spotify_url": "https://open.spotify.com/track/20vUoaDskVhjYMsNMryrD0"
+                },
+                {
+                    "name": "Problem Child - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",
+                    "track_number": 5,
+                    "duration": "4:40",
+                    "track_spotify_url": "https://open.spotify.com/track/0fUyiY8d2SxITRs5cJWR4X"
+                },
+                {
+                    "name": "Whole Lotta Rosie - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",
+                    "track_number": 6,
+                    "duration": "4:05",
+                    "track_spotify_url": "https://open.spotify.com/track/23t7CA5Oa5D1gRXyQL7wm8"
+                },
+                {
+                    "name": "Rock 'N' Roll Damnation - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",
+                    "track_number": 7,
+                    "duration": "3:41",
+                    "track_spotify_url": "https://open.spotify.com/track/3zVf2mdjHI2dCAVMyCGOKr"
+                },
+                {
+                    "name": "High Voltage - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",
+                    "track_number": 8,
+                    "duration": "5:05",
+                    "track_spotify_url": "https://open.spotify.com/track/4cQAnZie2nr9ZhymIBXi9v"
+                },
+                {
+                    "name": "Let There Be Rock - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",
+                    "track_number": 9,
+                    "duration": "8:33",
+                    "track_spotify_url": "https://open.spotify.com/track/3Vy9XOOTEU6zMvTozAcHZK"
+                },
+                {
+                    "name": "Rocker - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",
+                    "track_number": 10,
+                    "duration": "3:24",
+                    "track_spotify_url": "https://open.spotify.com/track/3gG3w52fGzMpJdhcJURwaB"
+                }
+            ]
+        },
+        {
+            "id": "4iMaHsHqTg3rwOtRa5wEbm",
+            "name": "Powerage",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2733bf8d1987a42dd781a8039de",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048513bf8d1987a42dd781a8039de",
+            "total_tracks": 9,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1978-05-05",
+            "release_date_precision": "day",
+            "release_year": "1978",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm",
+            "tracks": [
+                {
+                    "name": "Rock 'N' Roll Damnation",
+                    "track_number": 1,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/2308VPPaMh7Q3AX1Zap99A"
+                },
+                {
+                    "name": "Down Payment Blues",
+                    "track_number": 2,
+                    "duration": "6:03",
+                    "track_spotify_url": "https://open.spotify.com/track/4TJzAQN4lSRLMafylE0c4a"
+                },
+                {
+                    "name": "Gimme a Bullet",
+                    "track_number": 3,
+                    "duration": "3:21",
+                    "track_spotify_url": "https://open.spotify.com/track/64CT9WMHVxDmqF8Aa0IjAj"
+                },
+                {
+                    "name": "Riff Raff",
+                    "track_number": 4,
+                    "duration": "5:11",
+                    "track_spotify_url": "https://open.spotify.com/track/0DZwrC4QQOYqpcxCeZzwDg"
+                },
+                {
+                    "name": "Sin City",
+                    "track_number": 5,
+                    "duration": "4:45",
+                    "track_spotify_url": "https://open.spotify.com/track/3UQQ7g6J8fiMB7oldQzBoq"
+                },
+                {
+                    "name": "What's Next to the Moon",
+                    "track_number": 6,
+                    "duration": "3:31",
+                    "track_spotify_url": "https://open.spotify.com/track/2wr9GtUc8xPMhTVZTc191u"
+                },
+                {
+                    "name": "Gone Shootin'",
+                    "track_number": 7,
+                    "duration": "5:05",
+                    "track_spotify_url": "https://open.spotify.com/track/69MwNXryg6NT1lV7buN7U7"
+                },
+                {
+                    "name": "Up to My Neck in You",
+                    "track_number": 8,
+                    "duration": "4:13",
+                    "track_spotify_url": "https://open.spotify.com/track/61iaXFZKvm1cGv4hBleohH"
+                },
+                {
+                    "name": "Kicked in the Teeth",
+                    "track_number": 9,
+                    "duration": "4:03",
+                    "track_spotify_url": "https://open.spotify.com/track/0r1gRXwNZiGljDRa2EToL8"
+                }
+            ]
+        },
+        {
+            "id": "3JwFNl80WWeXPiKEjIFbqa",
+            "name": "Let There Be Rock",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27305a19220d37bc871db939b64",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485105a19220d37bc871db939b64",
+            "total_tracks": 8,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1977-03-21",
+            "release_date_precision": "day",
+            "release_year": "1977",
+            "release_month": "03",
+            "album_spotify_url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa",
+            "tracks": [
+                {
+                    "name": "Go Down",
+                    "track_number": 1,
+                    "duration": "5:31",
+                    "track_spotify_url": "https://open.spotify.com/track/7A944u5mXbkCz0I5BdLckI"
+                },
+                {
+                    "name": "Dog Eat Dog",
+                    "track_number": 2,
+                    "duration": "3:34",
+                    "track_spotify_url": "https://open.spotify.com/track/0L0x35hQnmCLtHeSGQlEZj"
+                },
+                {
+                    "name": "Let There Be Rock",
+                    "track_number": 3,
+                    "duration": "6:06",
+                    "track_spotify_url": "https://open.spotify.com/track/753KutoAy00apPsplMRetG"
+                },
+                {
+                    "name": "Bad Boy Boogie",
+                    "track_number": 4,
+                    "duration": "4:27",
+                    "track_spotify_url": "https://open.spotify.com/track/6HGkds3oqTAr4qyCRZmy4b"
+                },
+                {
+                    "name": "Problem Child",
+                    "track_number": 5,
+                    "duration": "5:24",
+                    "track_spotify_url": "https://open.spotify.com/track/5wTuWXWREngkFGtBXhOaI9"
+                },
+                {
+                    "name": "Overdose",
+                    "track_number": 6,
+                    "duration": "6:09",
+                    "track_spotify_url": "https://open.spotify.com/track/7EIPa69XVt6wTdLRkXklXq"
+                },
+                {
+                    "name": "Hell Ain't a Bad Place to Be",
+                    "track_number": 7,
+                    "duration": "4:14",
+                    "track_spotify_url": "https://open.spotify.com/track/79KUOd1p6yNjh2Jkr9IQHk"
+                },
+                {
+                    "name": "Whole Lotta Rosie",
+                    "track_number": 8,
+                    "duration": "5:33",
+                    "track_spotify_url": "https://open.spotify.com/track/4wYq5wugZDzQiMZQYG4wVB"
+                }
+            ]
+        },
+        {
+            "id": "76mvVgXOde87B9aOzLXCOI",
+            "name": "Dirty Deeds Done Dirt Cheap",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27368b03027356fb05501948f62",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485168b03027356fb05501948f62",
+            "total_tracks": 9,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1976-09-20",
+            "release_date_precision": "day",
+            "release_year": "1976",
+            "release_month": "09",
+            "album_spotify_url": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI",
+            "tracks": [
+                {
+                    "name": "Dirty Deeds Done Dirt Cheap",
+                    "track_number": 1,
+                    "duration": "3:51",
+                    "track_spotify_url": "https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT"
+                },
+                {
+                    "name": "Love at First Feel",
+                    "track_number": 2,
+                    "duration": "3:11",
+                    "track_spotify_url": "https://open.spotify.com/track/4bP7RH0Ce8Y1XmNye0SVYs"
+                },
+                {
+                    "name": "Big Balls",
+                    "track_number": 3,
+                    "duration": "2:38",
+                    "track_spotify_url": "https://open.spotify.com/track/2KmSnPWWCIsEomVsKnbE1a"
+                },
+                {
+                    "name": "Rocker",
+                    "track_number": 4,
+                    "duration": "2:51",
+                    "track_spotify_url": "https://open.spotify.com/track/4eutZb21bHZerJnxqW5lB0"
+                },
+                {
+                    "name": "Problem Child",
+                    "track_number": 5,
+                    "duration": "5:45",
+                    "track_spotify_url": "https://open.spotify.com/track/4cKoFvIkCA88axbQ6hfbRC"
+                },
+                {
+                    "name": "There's Gonna Be Some Rockin'",
+                    "track_number": 6,
+                    "duration": "3:18",
+                    "track_spotify_url": "https://open.spotify.com/track/1OFNVz8rx3pMl9FrL1IlDE"
+                },
+                {
+                    "name": "Ain't No Fun (Waiting Round to Be a Millionaire)",
+                    "track_number": 7,
+                    "duration": "6:54",
+                    "track_spotify_url": "https://open.spotify.com/track/73HVgj1xXW9vuiRsFAKwyr"
+                },
+                {
+                    "name": "Ride On",
+                    "track_number": 8,
+                    "duration": "5:50",
+                    "track_spotify_url": "https://open.spotify.com/track/594ONMYoHlJnqHPEx98t08"
+                },
+                {
+                    "name": "Squealer",
+                    "track_number": 9,
+                    "duration": "5:27",
+                    "track_spotify_url": "https://open.spotify.com/track/7EERPGGkPTXUcjXFo4o7jN"
+                }
+            ]
+        },
+        {
+            "id": "19AUoKWRAaQYrggVvdQnqq",
+            "name": "High Voltage",
+            "type": "album",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273286a0837ff3424065a735e0a",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851286a0837ff3424065a735e0a",
+            "total_tracks": 9,
+            "album_group": "album",
+            "album_type": "album",
+            "release_date": "1976-05-14",
+            "release_date_precision": "day",
+            "release_year": "1976",
+            "release_month": "05",
+            "album_spotify_url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq",
+            "tracks": [
+                {
+                    "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+                    "track_number": 1,
+                    "duration": "5:01",
+                    "track_spotify_url": "https://open.spotify.com/track/7nemcVsXVFZF01iqpIIo2Y"
+                },
+                {
+                    "name": "Rock 'N' Roll Singer",
+                    "track_number": 2,
+                    "duration": "5:03",
+                    "track_spotify_url": "https://open.spotify.com/track/65Wa8Fu1ASV3B0dz2vwKNQ"
+                },
+                {
+                    "name": "The Jack",
+                    "track_number": 3,
+                    "duration": "5:52",
+                    "track_spotify_url": "https://open.spotify.com/track/3k1WwLG1OXCm6iQ13VrJEL"
+                },
+                {
+                    "name": "Live Wire",
+                    "track_number": 4,
+                    "duration": "5:48",
+                    "track_spotify_url": "https://open.spotify.com/track/6FWoYwZa13llS7nj0SG65F"
+                },
+                {
+                    "name": "T.N.T.",
+                    "track_number": 5,
+                    "duration": "3:34",
+                    "track_spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
+                },
+                {
+                    "name": "Can I Sit Next to You Girl",
+                    "track_number": 6,
+                    "duration": "4:11",
+                    "track_spotify_url": "https://open.spotify.com/track/75uv44LGpyL0DhyLli3aXh"
+                },
+                {
+                    "name": "Little Lover",
+                    "track_number": 7,
+                    "duration": "5:38",
+                    "track_spotify_url": "https://open.spotify.com/track/4XyONPP3WOcquMO5WVj4mw"
+                },
+                {
+                    "name": "She's Got Balls",
+                    "track_number": 8,
+                    "duration": "4:51",
+                    "track_spotify_url": "https://open.spotify.com/track/1Qvghv6QpCSB3RiycaDiWz"
+                },
+                {
+                    "name": "High Voltage",
+                    "track_number": 9,
+                    "duration": "4:14",
+                    "track_spotify_url": "https://open.spotify.com/track/5pLgH1bCkBV3bbmvm0qvom"
+                }
+            ]
+        },
+        {
+            "id": "4s6UkDgz073CrsXH931iSQ",
+            "name": "Realize",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27330285008e8de096cb71dc3f2",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485130285008e8de096cb71dc3f2",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2020-11-11",
+            "release_date_precision": "day",
+            "release_year": "2020",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/4s6UkDgz073CrsXH931iSQ",
+            "tracks": [
+                {
+                    "name": "Realize",
+                    "track_number": 1,
+                    "duration": "3:37",
+                    "track_spotify_url": "https://open.spotify.com/track/3mjSvzk1uqa9k8QxNy36mU"
+                }
+            ]
+        },
+        {
+            "id": "1Rz3Q2PIhrCs21itNShUxB",
+            "name": "Shot In The Dark",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b2731f36a89354d71bdeba55de1c",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048511f36a89354d71bdeba55de1c",
+            "total_tracks": 1,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "2020-10-07",
+            "release_date_precision": "day",
+            "release_year": "2020",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB",
+            "tracks": [
+                {
+                    "name": "Shot In The Dark",
+                    "track_number": 1,
+                    "duration": "3:05",
+                    "track_spotify_url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
+                }
+            ]
+        },
+        {
+            "id": "7kkopGL8qBX9KNQu88tH2y",
+            "name": "'74 Jailbreak",
+            "type": "single",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27310bf017ea10a0887469e2763",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485110bf017ea10a0887469e2763",
+            "total_tracks": 5,
+            "album_group": "single",
+            "album_type": "single",
+            "release_date": "1984-10-15",
+            "release_date_precision": "day",
+            "release_year": "1984",
+            "release_month": "10",
+            "album_spotify_url": "https://open.spotify.com/album/7kkopGL8qBX9KNQu88tH2y",
+            "tracks": [
+                {
+                    "name": "Jailbreak",
+                    "track_number": 1,
+                    "duration": "4:40",
+                    "track_spotify_url": "https://open.spotify.com/track/5UKeFkVeUfvP6S43I8s9mt"
+                },
+                {
+                    "name": "You Ain't Got a Hold on Me",
+                    "track_number": 2,
+                    "duration": "3:31",
+                    "track_spotify_url": "https://open.spotify.com/track/70yYLMP76qrdhfNNos0wxd"
+                },
+                {
+                    "name": "Show Business",
+                    "track_number": 3,
+                    "duration": "4:46",
+                    "track_spotify_url": "https://open.spotify.com/track/2wtfGQcX5Sv0xWHgREAP26"
+                },
+                {
+                    "name": "Soul Stripper",
+                    "track_number": 4,
+                    "duration": "6:25",
+                    "track_spotify_url": "https://open.spotify.com/track/0HQE2SbrXTX849UcgfXLad"
+                },
+                {
+                    "name": "Baby, Please Don't Go",
+                    "track_number": 5,
+                    "duration": "5:00",
+                    "track_spotify_url": "https://open.spotify.com/track/1jyznfH2Lp3TrIHx5cFQwv"
+                }
+            ]
+        },
+        {
+            "id": "4ydl8Ci7OsndhI2ALnrpIv",
+            "name": "Iron Man 2",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273b56115c0e231fbf69d3205c6",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851b56115c0e231fbf69d3205c6",
+            "total_tracks": 15,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "2010-04-29",
+            "release_date_precision": "day",
+            "release_year": "2010",
+            "release_month": "04",
+            "album_spotify_url": "https://open.spotify.com/album/4ydl8Ci7OsndhI2ALnrpIv",
+            "tracks": [
+                {
+                    "name": "Shoot to Thrill",
+                    "track_number": 1,
+                    "duration": "5:17",
+                    "track_spotify_url": "https://open.spotify.com/track/6GzCkTddOn1vSln1gbSr8y"
+                },
+                {
+                    "name": "Rock 'N' Roll Damnation",
+                    "track_number": 2,
+                    "duration": "3:36",
+                    "track_spotify_url": "https://open.spotify.com/track/1Ru1scJuR193OlnCnVvYjM"
+                },
+                {
+                    "name": "Guns for Hire",
+                    "track_number": 3,
+                    "duration": "3:24",
+                    "track_spotify_url": "https://open.spotify.com/track/01sno3m5rqaFy2YVE1A7LZ"
+                },
+                {
+                    "name": "Cold Hearted Man",
+                    "track_number": 4,
+                    "duration": "3:34",
+                    "track_spotify_url": "https://open.spotify.com/track/4IT9XxTHKgivxPk6lS8ZE5"
+                },
+                {
+                    "name": "Back In Black",
+                    "track_number": 5,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/2iEGj7kAwH7HAa5epwYwLB"
+                },
+                {
+                    "name": "Thunderstruck",
+                    "track_number": 6,
+                    "duration": "4:52",
+                    "track_spotify_url": "https://open.spotify.com/track/52UWtKlYjZO3dHoRlWuz9S"
+                },
+                {
+                    "name": "If You Want Blood (You've Got It)",
+                    "track_number": 7,
+                    "duration": "4:33",
+                    "track_spotify_url": "https://open.spotify.com/track/1V6kRlJnTC4W319N0BvJag"
+                },
+                {
+                    "name": "Evil Walks",
+                    "track_number": 8,
+                    "duration": "4:23",
+                    "track_spotify_url": "https://open.spotify.com/track/3KAjzE9Y4KXhSYLN0E9Kpb"
+                },
+                {
+                    "name": "T.N.T.",
+                    "track_number": 9,
+                    "duration": "3:33",
+                    "track_spotify_url": "https://open.spotify.com/track/1EHNrwZlxW9Wp07Ohv1Jbw"
+                },
+                {
+                    "name": "Hell Ain't a Bad Place to Be",
+                    "track_number": 10,
+                    "duration": "4:13",
+                    "track_spotify_url": "https://open.spotify.com/track/3GeGYkJIP9c7JN5cpu6h2Z"
+                },
+                {
+                    "name": "Have a Drink on Me",
+                    "track_number": 11,
+                    "duration": "3:58",
+                    "track_spotify_url": "https://open.spotify.com/track/3mCfSExH1q3d2lLnddgiWV"
+                },
+                {
+                    "name": "The Razors Edge",
+                    "track_number": 12,
+                    "duration": "4:22",
+                    "track_spotify_url": "https://open.spotify.com/track/2nYGPpX3DEab0aql1oAwXY"
+                },
+                {
+                    "name": "Let There Be Rock",
+                    "track_number": 13,
+                    "duration": "6:06",
+                    "track_spotify_url": "https://open.spotify.com/track/7pZYTjl0SQhdsi5qsWS8Q0"
+                },
+                {
+                    "name": "War Machine",
+                    "track_number": 14,
+                    "duration": "3:09",
+                    "track_spotify_url": "https://open.spotify.com/track/1QUwyTmV8Ld17iqMGNdfmR"
+                },
+                {
+                    "name": "Highway to Hell",
+                    "track_number": 15,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/1OIYK9Ya6EgwJ4fMngrPcK"
+                }
+            ]
+        },
+        {
+            "id": "0I7FkYrckzJtK1ND8vzqoO",
+            "name": "Backtracks",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b273a254f3777d9d262b432ebc1a",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a254f3777d9d262b432ebc1a",
+            "total_tracks": 47,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "2009-11-10",
+            "release_date_precision": "day",
+            "release_year": "2009",
+            "release_month": "11",
+            "album_spotify_url": "https://open.spotify.com/album/0I7FkYrckzJtK1ND8vzqoO",
+            "tracks": [
+                {
+                    "name": "High Voltage - Original Australian Release",
+                    "track_number": 1,
+                    "duration": "4:16",
+                    "track_spotify_url": "https://open.spotify.com/track/6ySAWTfJo2gFV6KcCFuMyE"
+                },
+                {
+                    "name": "Stick Around",
+                    "track_number": 2,
+                    "duration": "4:38",
+                    "track_spotify_url": "https://open.spotify.com/track/00xP5q2bUJ00LS6MrBSYvw"
+                },
+                {
+                    "name": "Love Song",
+                    "track_number": 3,
+                    "duration": "5:14",
+                    "track_spotify_url": "https://open.spotify.com/track/7sLe5h6KBURlOOBi6UxdUh"
+                },
+                {
+                    "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll) - Original Australian Release",
+                    "track_number": 4,
+                    "duration": "5:12",
+                    "track_spotify_url": "https://open.spotify.com/track/4jD93WpDpa7BjRlfG46hxl"
+                },
+                {
+                    "name": "Rocker - Original Australian Release",
+                    "track_number": 5,
+                    "duration": "2:53",
+                    "track_spotify_url": "https://open.spotify.com/track/7Fit1vOod3VlhfFxSghtBD"
+                },
+                {
+                    "name": "Fling Thing",
+                    "track_number": 6,
+                    "duration": "1:59",
+                    "track_spotify_url": "https://open.spotify.com/track/2nK6PpUzyOf5NLNpfD15eq"
+                },
+                {
+                    "name": "Dirty Deeds Done Dirt Cheap - Original Australian Release",
+                    "track_number": 7,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/4Kqmo5fHocP1zyjBdppjkJ"
+                },
+                {
+                    "name": "Ain't No Fun (Waiting Around to Be a Millionaire) - Original Australian Release",
+                    "track_number": 8,
+                    "duration": "7:30",
+                    "track_spotify_url": "https://open.spotify.com/track/2OtQScKNlsNMoRuOZCZyJJ"
+                },
+                {
+                    "name": "R.I.P. (Rock In Peace)",
+                    "track_number": 9,
+                    "duration": "3:34",
+                    "track_spotify_url": "https://open.spotify.com/track/68BtOetr0J6bl3XueCHRfz"
+                },
+                {
+                    "name": "Carry Me Home",
+                    "track_number": 10,
+                    "duration": "3:56",
+                    "track_spotify_url": "https://open.spotify.com/track/6EGsvchOgeJqNofXHpnBGj"
+                },
+                {
+                    "name": "Crabsody In Blue",
+                    "track_number": 11,
+                    "duration": "4:43",
+                    "track_spotify_url": "https://open.spotify.com/track/7cfIbiGjrAnJT5faa9Tv19"
+                },
+                {
+                    "name": "Cold Hearted Man",
+                    "track_number": 12,
+                    "duration": "3:35",
+                    "track_spotify_url": "https://open.spotify.com/track/3yrQNktNSLNwSt4CXqFkhY"
+                },
+                {
+                    "name": "Who Made Who - 12\" Extended Mix",
+                    "track_number": 13,
+                    "duration": "4:50",
+                    "track_spotify_url": "https://open.spotify.com/track/5MgiVPaj4oIzLET2iyKE3U"
+                },
+                {
+                    "name": "Snake Eye",
+                    "track_number": 14,
+                    "duration": "3:16",
+                    "track_spotify_url": "https://open.spotify.com/track/6pJeeeyhnH6ae9guxkeZuB"
+                },
+                {
+                    "name": "Borrowed Time",
+                    "track_number": 15,
+                    "duration": "3:44",
+                    "track_spotify_url": "https://open.spotify.com/track/4FJedqxP3MTKX0l5kQeCSn"
+                },
+                {
+                    "name": "Down On the Borderline",
+                    "track_number": 16,
+                    "duration": "4:14",
+                    "track_spotify_url": "https://open.spotify.com/track/0klO16rq5QFO0cUglDCODS"
+                },
+                {
+                    "name": "Big Gun",
+                    "track_number": 17,
+                    "duration": "4:19",
+                    "track_spotify_url": "https://open.spotify.com/track/7zjzu90Q4mtNNaE9Ol9Zbv"
+                },
+                {
+                    "name": "Cyberspace",
+                    "track_number": 18,
+                    "duration": "2:55",
+                    "track_spotify_url": "https://open.spotify.com/track/7o1gGnFhd3OSAXpy3mpcP0"
+                },
+                {
+                    "name": "Dirty Deeds Done Dirt Cheap - Live Sydney Festival, Jan. 30, 1977",
+                    "track_number": 1,
+                    "duration": "5:10",
+                    "track_spotify_url": "https://open.spotify.com/track/4F7BVQES76Xf5M5Cka39Sr"
+                },
+                {
+                    "name": "Dog Eat Dog - Live Apollo Theatre, Glasgow, Apr. 30, 1978",
+                    "track_number": 2,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/0Y2Yrar413rmT7e46X8Fl5"
+                },
+                {
+                    "name": "Live Wire - Live Hammersmith Odeon, London, Nov. 2, 1979",
+                    "track_number": 3,
+                    "duration": "5:05",
+                    "track_spotify_url": "https://open.spotify.com/track/2doQykZcOidcZYfrrZYWCu"
+                },
+                {
+                    "name": "Shot Down in Flames - Live Hammersmith Odeon, London, Nov. 2, 1979",
+                    "track_number": 4,
+                    "duration": "3:28",
+                    "track_spotify_url": "https://open.spotify.com/track/4ZYzY71nzNrNTBkZ9Q6vrz"
+                },
+                {
+                    "name": "Back In Black - Live Capital Center, Landover MD, Dec. 21, 1981",
+                    "track_number": 5,
+                    "duration": "4:19",
+                    "track_spotify_url": "https://open.spotify.com/track/2altsuLJCVT6heXo0GI2Xa"
+                },
+                {
+                    "name": "T.N.T. - Live Capital Center, Landover MD, Dec. 21, 1981",
+                    "track_number": 6,
+                    "duration": "3:52",
+                    "track_spotify_url": "https://open.spotify.com/track/6AzR1ZhCLhnVd7NAtVSwy4"
+                },
+                {
+                    "name": "Let There Be Rock - Live Capital Center, Landover MD, Dec. 21, 1981",
+                    "track_number": 7,
+                    "duration": "7:30",
+                    "track_spotify_url": "https://open.spotify.com/track/52MqqY7xM7qIWv7HvKmF26"
+                },
+                {
+                    "name": "Guns for Hire - Live Joe Louis Arena, Detroit MI, Nov. 18, 1983",
+                    "track_number": 8,
+                    "duration": "5:22",
+                    "track_spotify_url": "https://open.spotify.com/track/5TvyeKc5kBcWZEM1m1Q2kY"
+                },
+                {
+                    "name": "Sin City - Live Joe Louis Arena, Detroit MI, Nov. 18, 1983",
+                    "track_number": 9,
+                    "duration": "5:30",
+                    "track_spotify_url": "https://open.spotify.com/track/5j1EUFs1XKBbzSxDz63Qeo"
+                },
+                {
+                    "name": "Rock and Roll Ain't Noise Pollution - Live Joe Louis Arena, Detroit MI, Nov. 18, 1983",
+                    "track_number": 10,
+                    "duration": "4:10",
+                    "track_spotify_url": "https://open.spotify.com/track/4QaUvcib9Awiy5bj4x4iEu"
+                },
+                {
+                    "name": "This House Is on Fire - Live Joe Louis Arena, Detroit MI, Nov. 18, 1983",
+                    "track_number": 11,
+                    "duration": "3:22",
+                    "track_spotify_url": "https://open.spotify.com/track/56JYesUOZPWlUn26jsQrbX"
+                },
+                {
+                    "name": "You Shook Me All Night Long - Live Joe Louis Arena, Detroit MI, Nov. 18, 1983",
+                    "track_number": 12,
+                    "duration": "3:26",
+                    "track_spotify_url": "https://open.spotify.com/track/7ATJ6J95TDw6Y8XP64ztvq"
+                },
+                {
+                    "name": "Jailbreak - Live Dallas TX, Oct. 12, 1985",
+                    "track_number": 13,
+                    "duration": "13:20",
+                    "track_spotify_url": "https://open.spotify.com/track/0vK2K462Hh9QBejff9R0Mq"
+                },
+                {
+                    "name": "Shoot to Thrill - Live Donington Park, Aug. 17, 1991",
+                    "track_number": 14,
+                    "duration": "5:28",
+                    "track_spotify_url": "https://open.spotify.com/track/6JPyfOTiZ2GFaLGaUVc0N3"
+                },
+                {
+                    "name": "Hell Ain't a Bad Place to Be - Live Donington Park, Aug. 17, 1991",
+                    "track_number": 15,
+                    "duration": "4:29",
+                    "track_spotify_url": "https://open.spotify.com/track/2HniSNpjwaCSpyzHNIEIbZ"
+                },
+                {
+                    "name": "High Voltage - Live - 1991",
+                    "track_number": 1,
+                    "duration": "9:21",
+                    "track_spotify_url": "https://open.spotify.com/track/53R6RPZh4JEgVJzVcTJHFa"
+                },
+                {
+                    "name": "Hells Bells - Live Donington Park, Aug. 17, 1991",
+                    "track_number": 2,
+                    "duration": "5:52",
+                    "track_spotify_url": "https://open.spotify.com/track/0ei2sDyrLOuMmSHEtdENHu"
+                },
+                {
+                    "name": "Whole Lotta Rosie - Live Donington Park, Aug. 17, 1991",
+                    "track_number": 3,
+                    "duration": "4:40",
+                    "track_spotify_url": "https://open.spotify.com/track/1zLMoFKaJanOQxaTDptaMf"
+                },
+                {
+                    "name": "Dirty Deeds Done Dirt Cheap - Live - 1991",
+                    "track_number": 4,
+                    "duration": "4:51",
+                    "track_spotify_url": "https://open.spotify.com/track/7N3uSWJQ1YRyEvVPyOWiMq"
+                },
+                {
+                    "name": "Highway to Hell - Live Tushino Airfield, Moscow, Sept. 28, 1991",
+                    "track_number": 5,
+                    "duration": "3:58",
+                    "track_spotify_url": "https://open.spotify.com/track/6cSa4xkauqRSuZs7CrW3c4"
+                },
+                {
+                    "name": "Back In Black - Live Tushino Airfield, Moscow, Sept. 28, 1991",
+                    "track_number": 6,
+                    "duration": "4:09",
+                    "track_spotify_url": "https://open.spotify.com/track/1JIH0lBuvJR7tIHWWY5zWK"
+                },
+                {
+                    "name": "For Those About to Rock (We Salute You) - Live Tushino Airfield, Moscow, Sept. 28, 1991",
+                    "track_number": 7,
+                    "duration": "6:54",
+                    "track_spotify_url": "https://open.spotify.com/track/5nGDDlK7wR21nbf4chhHBZ"
+                },
+                {
+                    "name": "Ballbreaker - Live Plaza De Toros De Las Ventas, Madrid, July 10, 1996",
+                    "track_number": 8,
+                    "duration": "4:40",
+                    "track_spotify_url": "https://open.spotify.com/track/4fmlkx9UZHAcNY7mD78nlI"
+                },
+                {
+                    "name": "Hard as a Rock - Live Plaza De Toros De Las Ventas, Madrid, July 10, 1996",
+                    "track_number": 9,
+                    "duration": "4:45",
+                    "track_spotify_url": "https://open.spotify.com/track/60OnhUvpQHHaLM9Z8mHkpj"
+                },
+                {
+                    "name": "Dog Eat Dog - Live Plaza De Toros De Las Ventas, Madrid, July 10, 1996",
+                    "track_number": 10,
+                    "duration": "4:49",
+                    "track_spotify_url": "https://open.spotify.com/track/4BG8mEqni68mBbVQkd2odH"
+                },
+                {
+                    "name": "Hail Caesar - Live Plaza De Toros De Las Ventas, Madrid, July 10, 1996",
+                    "track_number": 11,
+                    "duration": "5:28",
+                    "track_spotify_url": "https://open.spotify.com/track/3snhs2Ol7pJmC2CiOQwCpv"
+                },
+                {
+                    "name": "Whole Lotta Rosie - Live Plaza De Toros De Las Ventas, Madrid, July 10, 1996",
+                    "track_number": 12,
+                    "duration": "5:24",
+                    "track_spotify_url": "https://open.spotify.com/track/0JIAfRGw90J2OyAVdtv01W"
+                },
+                {
+                    "name": "You Shook Me All Night Long - Live Plaza De Toros De Las Ventas, Madrid, July 10, 1996",
+                    "track_number": 13,
+                    "duration": "4:00",
+                    "track_spotify_url": "https://open.spotify.com/track/6sAuhbD8JjeDvKcV12sEu0"
+                },
+                {
+                    "name": "Safe in New York City - Live Phoenix AZ, Sept. 13, 2000",
+                    "track_number": 14,
+                    "duration": "3:54",
+                    "track_spotify_url": "https://open.spotify.com/track/1FgtJBLoeKKSd2SyHElDTP"
+                }
+            ]
+        },
+        {
+            "id": "4zc05VOEyUmG4YTze8tMnZ",
+            "name": "Bonfire",
+            "type": "compilation",
+            "album_cover": "https://i.scdn.co/image/ab67616d0000b27375ea0497c0a9ffc7a64c7b19",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485175ea0497c0a9ffc7a64c7b19",
+            "total_tracks": 42,
+            "album_group": "compilation",
+            "album_type": "compilation",
+            "release_date": "1997",
+            "release_date_precision": "year",
+            "release_year": "1997",
+            "release_month": 1,
+            "album_spotify_url": "https://open.spotify.com/album/4zc05VOEyUmG4YTze8tMnZ",
+            "tracks": [
+                {
+                    "name": "Live Wire - Live from the Atlantic Studios, New York, NY - December 1977",
+                    "track_number": 1,
+                    "duration": "6:17",
+                    "track_spotify_url": "https://open.spotify.com/track/4iHeJ9K0SQg0RXY5skSZ0v"
+                },
+                {
+                    "name": "Problem Child - Live from the Atlantic Studios, New York, NY - December 1977",
+                    "track_number": 2,
+                    "duration": "4:39",
+                    "track_spotify_url": "https://open.spotify.com/track/2FkqGZoiJBwuROPIX3Si0K"
+                },
+                {
+                    "name": "High Voltage - Live from the Atlantic Studios, New York, NY - December 1977",
+                    "track_number": 3,
+                    "duration": "5:56",
+                    "track_spotify_url": "https://open.spotify.com/track/30WbmSsG3VbRikYna7cjDO"
+                },
+                {
+                    "name": "Hell Ain't a Bad Place to Be - Live from the Atlantic Studios, New York, NY - December 1977",
+                    "track_number": 4,
+                    "duration": "4:13",
+                    "track_spotify_url": "https://open.spotify.com/track/1KPHxaSIXNffSnH8VQSE83"
+                },
+                {
+                    "name": "Dog Eat Dog - Live from the Atlantic Studios, New York, NY - December 1977",
+                    "track_number": 5,
+                    "duration": "4:41",
+                    "track_spotify_url": "https://open.spotify.com/track/2HeGKUV5v0sWKd4etyZE1k"
+                },
+                {
+                    "name": "The Jack - Live from the Atlantic Studios, New York, NY - December 1977",
+                    "track_number": 6,
+                    "duration": "8:36",
+                    "track_spotify_url": "https://open.spotify.com/track/1Sf7lIMN8OylNpmqo7bW36"
+                },
+                {
+                    "name": "Whole Lotta Rosie - Live from the Atlantic Studios, New York, NY - December 1977",
+                    "track_number": 7,
+                    "duration": "5:10",
+                    "track_spotify_url": "https://open.spotify.com/track/3oI0zCA5soqCs2A25Vsgdr"
+                },
+                {
+                    "name": "Rocker - Live from the Atlantic Studios, New York, NY - December 1977",
+                    "track_number": 8,
+                    "duration": "5:30",
+                    "track_spotify_url": "https://open.spotify.com/track/1TXJrYeSTxgG8u8C0ahNoE"
+                },
+                {
+                    "name": "Live Wire - Live at the Pavillion de Paris, Paris, France - December 1979",
+                    "track_number": 1,
+                    "duration": "8:04",
+                    "track_spotify_url": "https://open.spotify.com/track/2n4CbZOmlHNrL0bEsTK9cN"
+                },
+                {
+                    "name": "Shot Down in Flames - Live at the Pavillion de Paris, Paris, France - December 1979",
+                    "track_number": 2,
+                    "duration": "3:39",
+                    "track_spotify_url": "https://open.spotify.com/track/1wzpRr1ZR7p89fsDgR2eA7"
+                },
+                {
+                    "name": "Hell Ain't a Bad Place to Be - Live at the Pavillion de Paris, Paris, France - December 1979",
+                    "track_number": 3,
+                    "duration": "4:31",
+                    "track_spotify_url": "https://open.spotify.com/track/3BTI2R58bwM0NUTUM94DHd"
+                },
+                {
+                    "name": "Sin City - Live at the Pavillion de Paris, Paris, France - December 1979",
+                    "track_number": 4,
+                    "duration": "5:25",
+                    "track_spotify_url": "https://open.spotify.com/track/72PCjon4gw5wSouPkHpGcw"
+                },
+                {
+                    "name": "Walk All Over You - Live at the Pavillion de Paris, Paris, France - December 1979",
+                    "track_number": 5,
+                    "duration": "5:06",
+                    "track_spotify_url": "https://open.spotify.com/track/7HojQrHgL7u2VXEsZqXP1i"
+                },
+                {
+                    "name": "Bad Boy Boogie - Live at the Pavillion de Paris, Paris, France - December 1979",
+                    "track_number": 6,
+                    "duration": "13:21",
+                    "track_spotify_url": "https://open.spotify.com/track/0p2SSiw8FU5WSj2O80byTW"
+                },
+                {
+                    "name": "The Jack - Live at the Pavillion de Paris, Paris, France - December 1979",
+                    "track_number": 1,
+                    "duration": "6:05",
+                    "track_spotify_url": "https://open.spotify.com/track/2gtnOAeKLD3bNTjSQXTwbl"
+                },
+                {
+                    "name": "Highway to Hell - Live at the Pavillion de Paris, Paris, France - December 1979",
+                    "track_number": 2,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/4bhnFz3ifrmriULNwLoEHj"
+                },
+                {
+                    "name": "Girls Got Rhythm - Live at the Pavillion de Paris, Paris, France - December 1979",
+                    "track_number": 3,
+                    "duration": "3:19",
+                    "track_spotify_url": "https://open.spotify.com/track/44Kzb7yAD9ZUlTwQUdobvr"
+                },
+                {
+                    "name": "High Voltage - Live at the Pavillion de Paris, Paris, France - December 1979",
+                    "track_number": 4,
+                    "duration": "6:32",
+                    "track_spotify_url": "https://open.spotify.com/track/7beRxve5OBFPgxLwQnPODg"
+                },
+                {
+                    "name": "Whole Lotta Rosie - Live at the Pavillion de Paris, Paris, France - December 1979",
+                    "track_number": 5,
+                    "duration": "4:55",
+                    "track_spotify_url": "https://open.spotify.com/track/0gLBPZkCnGJYLAfYZbWov5"
+                },
+                {
+                    "name": "Rocker - Live at the Pavillion de Paris, Paris, France - December 1979",
+                    "track_number": 6,
+                    "duration": "10:45",
+                    "track_spotify_url": "https://open.spotify.com/track/1aznhDo1g1LlQbOsNsZmnV"
+                },
+                {
+                    "name": "T.N.T. - Live at the Pavillion de Paris, Paris, France - December 1979",
+                    "track_number": 7,
+                    "duration": "4:13",
+                    "track_spotify_url": "https://open.spotify.com/track/6RgeDNnSXnJGmuHIhdfq9J"
+                },
+                {
+                    "name": "Let There Be Rock - Live at the Pavillion de Paris, Paris, France - December 1979",
+                    "track_number": 8,
+                    "duration": "7:32",
+                    "track_spotify_url": "https://open.spotify.com/track/2xJ5UlGI08o5QsFRWzTl6G"
+                },
+                {
+                    "name": "Dirty Eyes - Demo",
+                    "track_number": 1,
+                    "duration": "3:21",
+                    "track_spotify_url": "https://open.spotify.com/track/7wuBWouiEMxc44t5EqK5y5"
+                },
+                {
+                    "name": "Touch Too Much - Demo",
+                    "track_number": 2,
+                    "duration": "6:34",
+                    "track_spotify_url": "https://open.spotify.com/track/4fvaUoWdftUubTo0wKcoYe"
+                },
+                {
+                    "name": "If You Want Blood You Got It - Demo",
+                    "track_number": 3,
+                    "duration": "4:26",
+                    "track_spotify_url": "https://open.spotify.com/track/6ndOxUZjuo2meoRhTBXKtt"
+                },
+                {
+                    "name": "Back Seat Confidential - Demo",
+                    "track_number": 4,
+                    "duration": "5:23",
+                    "track_spotify_url": "https://open.spotify.com/track/1LheCZ3RXeYZ9jdXMQhQwc"
+                },
+                {
+                    "name": "Get It Hot - Demo",
+                    "track_number": 5,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/6Kj0gHv6mDniSFvkkDsKNy"
+                },
+                {
+                    "name": "Sin City - Live from \"Midnight Special\" - 1978",
+                    "track_number": 6,
+                    "duration": "4:53",
+                    "track_spotify_url": "https://open.spotify.com/track/3900Lrw5AxKpYAA29AWzZ7"
+                },
+                {
+                    "name": "She's Got Balls - From \"Bondi Lifesaver\" - 1977",
+                    "track_number": 7,
+                    "duration": "7:56",
+                    "track_spotify_url": "https://open.spotify.com/track/3dd2DZdy0eeqFrEJiRlsJo"
+                },
+                {
+                    "name": "School Days - From \"TNT\" (Australian Release)",
+                    "track_number": 8,
+                    "duration": "5:21",
+                    "track_spotify_url": "https://open.spotify.com/track/0CoockzKplqmJ6bCCFc9zc"
+                },
+                {
+                    "name": "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
+                    "track_number": 9,
+                    "duration": "5:16",
+                    "track_spotify_url": "https://open.spotify.com/track/3EQjW604d5Cfbn8FnZmqyF"
+                },
+                {
+                    "name": "Ride On",
+                    "track_number": 10,
+                    "duration": "9:44",
+                    "track_spotify_url": "https://open.spotify.com/track/1IofZLGklWjj0tc2QQKVHW"
+                },
+                {
+                    "name": "Hells Bells",
+                    "track_number": 1,
+                    "duration": "5:12",
+                    "track_spotify_url": "https://open.spotify.com/track/1vXLRQneLqNrkuRTGp6AvN"
+                },
+                {
+                    "name": "Shoot to Thrill",
+                    "track_number": 2,
+                    "duration": "5:17",
+                    "track_spotify_url": "https://open.spotify.com/track/5dXhC3HFJZUcYWzJ59960b"
+                },
+                {
+                    "name": "What Do You Do for Money Honey",
+                    "track_number": 3,
+                    "duration": "3:35",
+                    "track_spotify_url": "https://open.spotify.com/track/1DIrE92CoQVgQaFqmfRhXW"
+                },
+                {
+                    "name": "Givin the Dog a Bone",
+                    "track_number": 4,
+                    "duration": "3:31",
+                    "track_spotify_url": "https://open.spotify.com/track/60mSnMxdnC8WewObu7FJdr"
+                },
+                {
+                    "name": "Let Me Put My Love Into You",
+                    "track_number": 5,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/26BorykMVImKnsC2SsOLG6"
+                },
+                {
+                    "name": "Back In Black",
+                    "track_number": 6,
+                    "duration": "4:15",
+                    "track_spotify_url": "https://open.spotify.com/track/0FAW42EiDHgi14Ji6q5NBb"
+                },
+                {
+                    "name": "You Shook Me All Night Long",
+                    "track_number": 7,
+                    "duration": "3:30",
+                    "track_spotify_url": "https://open.spotify.com/track/45qAp7LPaBAzDJuoReP7U4"
+                },
+                {
+                    "name": "Have a Drink on Me",
+                    "track_number": 8,
+                    "duration": "3:58",
+                    "track_spotify_url": "https://open.spotify.com/track/0IehwNrdT2TbGEprV52xPJ"
+                },
+                {
+                    "name": "Shake a Leg",
+                    "track_number": 9,
+                    "duration": "4:05",
+                    "track_spotify_url": "https://open.spotify.com/track/66P4g7V1kz8P0rcP2v5B91"
+                },
+                {
+                    "name": "Rock and Roll Ain't Noise Pollution",
+                    "track_number": 10,
+                    "duration": "4:26",
+                    "track_spotify_url": "https://open.spotify.com/track/0Htz5O5XmKp9iFjtE0zQy9"
+                }
+            ]
+        }
+    ]
+}
