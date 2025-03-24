@@ -10,7 +10,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 st.set_page_config(page_title="Bands Timeline", layout="wide")
-st.logo("images/Gafas-Turkas-6.png",size="large")
+# st.logo("images/Gafas-Turkas-6.png",size="large")
 # st.title("Bands Timeline")
 
 #------------------- SESSION STATE ------------------------------------------
