@@ -53,57 +53,51 @@ if not st.session_state.token:
 #------------------- SIDEBAR ------------------------------------------------
 with st.sidebar:
 
-    col1, col2 = st.columns(2, vertical_alignment="top", border=True)
-# with st.container(border=True):
-   
-    with col1:
+    st.text('Search Band')
+    search = st.text_input("Search Band",placeholder='Type here', label_visibility="collapsed")
 
-        st.text('Search Band')
-        search = st.text_input("Search Band",placeholder='Type here', label_visibility="collapsed")
+    if search!='':
+            band_to_search = search.strip().replace(' ', '+')
+            spotify_search_bands_result = cf.spotify_search_bands(band_to_search, st.session_state.access_token)
+            
+            five_artists = []
+            for artist in spotify_search_bands_result['artists']['items']:
+                five_artists.append(artist["name"])
 
-        if search!='':
-                band_to_search = search.strip().replace(' ', '+')
-                spotify_search_bands_result = cf.spotify_search_bands(band_to_search, st.session_state.access_token)
-                
-                five_artists = []
-                for artist in spotify_search_bands_result['artists']['items']:
-                    five_artists.append(artist["name"])
+            selected_band = st.selectbox("Select from this list", five_artists, index=None)
+            artist_id = None
+            for artist in spotify_search_bands_result['artists']['items']:
+                if artist['name'] == selected_band:
+                    artist_id = artist['id'] # dxr
+                    logging.info(f"Artist added ---- {selected_band}")
+                    break
 
-                selected_band = st.selectbox("Select from this list", five_artists, index=None)
-                artist_id = None
-                for artist in spotify_search_bands_result['artists']['items']:
-                    if artist['name'] == selected_band:
-                        artist_id = artist['id'] # dxr
-                        logging.info(f"Artist added ---- {selected_band}")
-                        break
-
-                # Check if selected_band and artist_id are provided
-                if selected_band and artist_id and selected_band not in st.session_state.selected_bands_list:
-                    st.session_state.selected_bands_list.append(selected_band)
-                    with st.spinner(text="Building Timeline"):
-                        albums_data = cf.get_albums(st.session_state.access_token, selected_band, artist_id)
-                    st.session_state.all_bands_dict["items"].append(albums_data)
-                    selected_band = None
+            # Check if selected_band and artist_id are provided
+            if selected_band and artist_id and selected_band not in st.session_state.selected_bands_list:
+                st.session_state.selected_bands_list.append(selected_band)
+                with st.spinner(text="Building Timeline"):
+                    albums_data = cf.get_albums(st.session_state.access_token, selected_band, artist_id)
+                st.session_state.all_bands_dict["items"].append(albums_data)
+                selected_band = None
 
 
     
+  
+    st.caption("Remove from Timeline")
     with st.container(border=True):
-        with col2:
-            st.caption("Remove from Timeline")
-            with st.container(border=True):
-                for band in st.session_state.selected_bands_list:
-                    st.button(band, type="tertiary", key=f'{band}_remove')
-                    if st.session_state[f'{band}_remove']:
-                        st.write('band to revove', band)
-                        st.session_state.selected_bands_list.remove(band)
-                        for item in st.session_state.all_bands_dict["items"]:
-                            if item["band"] == band:
-                                st.session_state.all_bands_dict["items"].remove(item)
-                                print(f'{cf.timestamp()} - {band}')
-                                logging.info(f"Artist removed -- {band}")
-                                break
+        for band in st.session_state.selected_bands_list:
+            st.button(band, type="tertiary", key=f'{band}_remove')
+            if st.session_state[f'{band}_remove']:
+                st.write('band to revove', band)
+                st.session_state.selected_bands_list.remove(band)
+                for item in st.session_state.all_bands_dict["items"]:
+                    if item["band"] == band:
+                        st.session_state.all_bands_dict["items"].remove(item)
+                        print(f'{cf.timestamp()} - {band}')
+                        logging.info(f"Artist removed -- {band}")
+                        break
 
-                        st.rerun()
+                st.rerun()
 
 
     album_types_options = ["album", "single", "compilation"]
