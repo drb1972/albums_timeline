@@ -1,4 +1,4 @@
-# streamlit run main.py --server.port 8083
+# streamlit run main.py --server.port 8085
 import streamlit as st
 from streamlit_timeline import timeline
 import os
@@ -7,21 +7,38 @@ import yaml
 import cf
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-
+import logging
 
 st.set_page_config(page_title="Bands Timeline", layout="wide")
 # st.logo("images/Gafas-Turkas-6.png",size="large")
 # st.title("Bands Timeline")
 
+# Configure logging settings
+logging.basicConfig(
+    filename="app.log",       # Log file name
+    level=logging.DEBUG,      # Capture all log levels (DEBUG, INFO, WARNING, ERROR, CRITICAL)
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    filemode="a"              # Append mode to keep logs across runs
+)
+# Example log events
+# logging.debug("This is a DEBUG message (useful for troubleshooting).")
+# logging.info("Application started successfully.")
+# logging.warning("This is a WARNING about potential issues.")
+# logging.error("An ERROR occurred in function X.")
+# logging.critical("CRITICAL issue! System may crash.")
+
+
+
 #------------------- SESSION STATE ------------------------------------------
 if 'selected_bands_list' not in st.session_state:
     st.session_state.selected_bands_list = []
-if 'selected_ids_list' not in st.session_state:
-    st.session_state.selected_ids_list = []
 if 'token' not in st.session_state:
     st.session_state.token = False
-if 'album_data' not in st.session_state:
-    st.session_state.album_data = {"items": []}
+if 'all_bands_dict' not in st.session_state:
+    st.session_state.all_bands_dict = {"items": []}
+
+
+
 
 if not st.session_state.token:
     # Read input.yaml
@@ -48,31 +65,25 @@ with st.sidebar:
                 band_to_search = search.strip().replace(' ', '+')
                 spotify_search_bands_result = cf.spotify_search_bands(band_to_search, st.session_state.access_token)
                 
-                artists_info = []
+                five_artists = []
                 for artist in spotify_search_bands_result['artists']['items']:
-                    artist_info = {
-                        "name": artist['name'],
-                        "id": artist['id']
-                    }
-                    artists_info.append(artist_info)
-                artist_names = [artist["name"] for artist in artists_info]
-                selected_band = st.selectbox("Select from this list", artist_names, index=None)
+                    five_artists.append(artist["name"])
+
+                selected_band = st.selectbox("Select from this list", five_artists, index=None)
                 artist_id = None
                 for artist in spotify_search_bands_result['artists']['items']:
                     if artist['name'] == selected_band:
-                        artist_id = artist['id']
+                        artist_id = artist['id'] # dxr
+                        logging.info(f"Artist added ---- {selected_band}")
                         break
 
                 # Check if selected_band and artist_id are provided
                 if selected_band and artist_id and selected_band not in st.session_state.selected_bands_list:
                     st.session_state.selected_bands_list.append(selected_band)
-                    st.session_state.selected_ids_list.append(artist_id)
                     with st.spinner(text="Building Timeline"):
                         albums_data = cf.get_albums(st.session_state.access_token, selected_band, artist_id)
-                    for album in albums_data["items"]:
-                        if album not in st.session_state.album_data["items"]:
-                            st.session_state.album_data["items"].append(album)
-
+                    st.session_state.all_bands_dict["items"].append(albums_data)
+                    selected_band = None
 
 
     
@@ -83,10 +94,16 @@ with st.sidebar:
                 for band in st.session_state.selected_bands_list:
                     st.button(band, type="tertiary", key=f'{band}_remove')
                     if st.session_state[f'{band}_remove']:
-                        if band in st.session_state.selected_bands_list:
-                            st.session_state.selected_bands_list.remove(band)
-                            st.session_state.selected_ids_list.remove(artist_id)
-                            st.rerun()
+                        st.write('band to revove', band)
+                        st.session_state.selected_bands_list.remove(band)
+                        for item in st.session_state.all_bands_dict["items"]:
+                            if item["band"] == band:
+                                st.session_state.all_bands_dict["items"].remove(item)
+                                print(f'{cf.timestamp()} - {band}')
+                                logging.info(f"Artist removed -- {band}")
+                                break
+
+                        st.rerun()
 
 
     album_types_options = ["album", "single", "compilation"]
@@ -114,16 +131,15 @@ def get_year_month(release_date_precision, release_date):
 if album_type_filter==[]:
     st.write('Select at least 1 Album Type Filter')
 
-if st.session_state.selected_bands_list!=[]:
+elif st.session_state.all_bands_dict["items"]:
+    
     events = []
-    #- Read each band json file
-    for item in st.session_state.selected_ids_list: 
-        band = [band for band in st.session_state.album_data["items"] if band["artist_id"]==item][0]
 
+    for band in st.session_state.all_bands_dict["items"]:
 
         band_name = band["band"]
         band_spotify_url = band["band_spotify_url"]
-        band_link_text = f'Open "{band_name}" in Spotify'
+        band_link_text = f'Open Band: "{band_name}" in Spotify'
 
         for album in band["albums"]:
             #- Filter album type ----------------------------
@@ -139,7 +155,7 @@ if st.session_state.selected_bands_list!=[]:
             album_cover = album["album_cover"]
             thumbnail = album["thumbnail"]
             album_spotify_url = album["album_spotify_url"]
-            album_link_text = f'Open "{album_name}" in Spotify'
+            album_link_text = f'Open Album: "{album_name}" in Spotify'
             total_tracks = album["total_tracks"]
             album_type = album["album_type"]
             release_date = album["release_date"]

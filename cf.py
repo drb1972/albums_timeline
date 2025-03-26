@@ -232,6 +232,7 @@ def get_albums(access_token, band_name, band_id):
 
     band_dict = {
         "band": band_name,
+        "band_id": band_id,
         "band_spotify_url": band_spotify_url,
         "band_link_text": f'Open Album in Spotify {band_name}',
         "albums": albums_list
@@ -241,7 +242,7 @@ def get_albums(access_token, band_name, band_id):
 #--------------------------------------------------------
 
     #- Get all songs from albums ------------------------
-    get_record_tracks(band_dict, band_id, access_token)
+    band_dict = get_record_tracks(band_dict, band_id, access_token)
     #----------------------------------------------------
 
     return band_dict
@@ -290,12 +291,7 @@ def get_record_tracks(band_dict, band_id, access_token):
             if albums_items["id"]==album["id"]:
                 albums_items["tracks"] = tracks_list
 
-    # Save the band's album list as a JSON file -------------
-    print(f'{timestamp()} - Creating: ./bands/{band_id}.json')
-    with open(f'./bands/{band_id}.json', 'w') as json_file:
-        json.dump(band_dict, json_file, indent=4)
-    #--------------------------------------------------------
-    return
+    return band_dict
 
 
 
