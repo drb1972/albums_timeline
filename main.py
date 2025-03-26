@@ -36,6 +36,8 @@ if 'token' not in st.session_state:
     st.session_state.token = False
 if 'all_bands_dict' not in st.session_state:
     st.session_state.all_bands_dict = {"items": []}
+# if 'search' not in st.session_state:
+st.session_state.seach = None
 
 
 
@@ -54,10 +56,11 @@ if not st.session_state.token:
 with st.sidebar:
 
     st.text('Search Band')
-    search = st.text_input("Search Band",placeholder='Type here', label_visibility="collapsed")
+    # search = st.text_input("Search Band",placeholder='Type here', label_visibility="collapsed")
+    st.session_state.search = st.text_input("Search Band",placeholder='Type here', label_visibility="collapsed")
 
-    if search!='':
-            band_to_search = search.strip().replace(' ', '+')
+    if st.session_state.search!='':
+            band_to_search = st.session_state.search.strip().replace(' ', '+')
             spotify_search_bands_result = cf.spotify_search_bands(band_to_search, st.session_state.access_token)
             
             five_artists = []
@@ -78,7 +81,8 @@ with st.sidebar:
                 with st.spinner(text="Building Timeline"):
                     albums_data = cf.get_albums(st.session_state.access_token, selected_band, artist_id)
                 st.session_state.all_bands_dict["items"].append(albums_data)
-                selected_band = None
+                # selected_band = None
+                # search = None
 
 
     
@@ -89,6 +93,8 @@ with st.sidebar:
             st.button(band, type="tertiary", key=f'{band}_remove')
             if st.session_state[f'{band}_remove']:
                 st.write('band to revove', band)
+                # selected_band = '' # dxr
+                # search = '' # dxr
                 st.session_state.selected_bands_list.remove(band)
                 for item in st.session_state.all_bands_dict["items"]:
                     if item["band"] == band:
