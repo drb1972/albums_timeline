@@ -42,15 +42,15 @@ if 'all_bands_dict' not in st.session_state:
 #------------------- SIDEBAR ------------------------------------------------
 with st.sidebar:
 
-if not st.session_state.token:
-    # Read input.yaml
-    with open('input.yaml', 'r') as f:
-        input = yaml.safe_load(f)
-    client_id = input['client_id']
-    client_secret = input['client_secret']
-    st.session_state.access_token = cf.spotify_api_token(client_id, client_secret)
-    if not st.session_state.access_token:
-        print(f'{cf.timestamp()} - Error: Unable to get access token')
+    if not st.session_state.token:
+        # Read input.yaml
+        with open('input.yaml', 'r') as f:
+            input = yaml.safe_load(f)
+        client_id = input['client_id']
+        client_secret = input['client_secret']
+        st.session_state.access_token = cf.spotify_api_token(client_id, client_secret)
+        if not st.session_state.access_token:
+            print(f'{cf.timestamp()} - Error: Unable to get access token')
 
 
 
@@ -84,7 +84,7 @@ if not st.session_state.token:
             for artist in spotify_search_bands_result['artists']['items']:
                 five_artists.append(artist["name"])
 
-            selected_band = st.selectbox("Select from this list", five_artists, index=0)
+            selected_band = st.selectbox("Select from this list", five_artists, index=None)
             artist_id = None
             for artist in spotify_search_bands_result['artists']['items']:
                 if artist['name'] == selected_band:
@@ -101,9 +101,26 @@ if not st.session_state.token:
                 # selected_band = None
                 # search = None
                 st.rerun()
+    else:
+        st.caption("Remove from Timeline")
+        with st.container(border=True):
+            for band in st.session_state.selected_bands_list:
+                st.button(band, type="tertiary", key=f'{band}_remove')
+                if st.session_state[f'{band}_remove']:
+                    st.write('band to revove', band)
+                    # selected_band = '' # dxr
+                    # search = '' # dxr
+                    st.session_state.search!=''
+                    st.session_state.selected_bands_list.remove(band)
+                    for item in st.session_state.all_bands_dict["items"]:
+                        if item["band"] == band:
+                            st.session_state.all_bands_dict["items"].remove(item)
+                            print(f'{cf.timestamp()} - {band}')
+                            logging.info(f"Artist removed -- {band}")
+                            break
 
+                    st.rerun()    
     
-  
 
     album_types_options = ["album", "single", "compilation"]
     album_type_filter = st.segmented_control(
