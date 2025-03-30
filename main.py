@@ -5,6 +5,7 @@ import os
 import json
 import yaml
 import cf
+import streamlit.components.v1 as components
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -86,6 +87,26 @@ with st.sidebar:
                             print(f'{cf.timestamp()} -Removing {band}')
                             break
                     st.rerun()
+
+
+    # Embed the Buy Me a Coffee button
+    coffee_button_html = """
+    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+            data-name="bmc-button" 
+            data-slug="drb1972" 
+            data-color="#FFDD00" 
+            data-emoji="" 
+            data-font="Cookie" 
+            data-text="Buy me a coffee" 
+            data-outline-color="#000000" 
+            data-font-color="#000000" 
+            data-coffee-color="#ffffff">
+    </script>
+    """
+
+    # Use streamlit to display the button
+    components.html(coffee_button_html, height=100)
+
 #------------------- END OF SIDEBAR -----------------------------------------
 
 
