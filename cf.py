@@ -161,7 +161,7 @@ def get_albums(access_token, band_name, band_id):
 
     # Remove the unwanted albums ------------------------
     for album in albums_to_remove:
-        print(f'{timestamp()} - Removing: {band_name} - {band_id} - {album["name"]}') 
+        # print(f'{timestamp()} - Removing: {band_name} - {band_id} - {album["name"]}') 
 
         if album in band_full_response['items']:
             band_full_response['items'].remove(album)
