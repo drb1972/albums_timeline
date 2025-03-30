@@ -6346,3 +6346,22 @@
 2025-03-30 23:19:04,559 - DEBUG - Starting new HTTPS connection (1): api.spotify.com:443
 2025-03-30 23:19:04,866 - DEBUG - https://api.spotify.com:443 "GET /v1/search?q=triana&type=artist&limit=5 HTTP/11" 200 None
 2025-03-30 23:19:04,868 - INFO - Artist added ---- Triana
+2025-03-30 23:38:01,966 - DEBUG - Starting new HTTPS connection (1): accounts.spotify.com:443
+2025-03-30 23:38:02,085 - DEBUG - https://accounts.spotify.com:443 "POST /api/token HTTP/11" 200 None
+2025-03-30 23:38:06,308 - DEBUG - Starting new HTTPS connection (1): accounts.spotify.com:443
+2025-03-30 23:38:06,418 - DEBUG - https://accounts.spotify.com:443 "POST /api/token HTTP/11" 200 None
+2025-03-30 23:38:06,431 - DEBUG - Starting new HTTPS connection (1): api.spotify.com:443
+2025-03-30 23:38:06,638 - DEBUG - https://api.spotify.com:443 "GET /v1/search?q=cream&type=artist&limit=5 HTTP/11" 200 None
+2025-03-30 23:38:08,803 - DEBUG - Starting new HTTPS connection (1): accounts.spotify.com:443
+2025-03-30 23:38:08,918 - DEBUG - https://accounts.spotify.com:443 "POST /api/token HTTP/11" 200 None
+2025-03-30 23:38:08,925 - DEBUG - Starting new HTTPS connection (1): api.spotify.com:443
+2025-03-30 23:38:09,074 - DEBUG - https://api.spotify.com:443 "GET /v1/search?q=cream&type=artist&limit=5 HTTP/11" 200 None
+2025-03-30 23:38:09,076 - INFO - Artist added ---- Cream
+2025-03-30 23:38:09,079 - DEBUG - Starting new HTTPS connection (1): api.spotify.com:443
+2025-03-30 23:38:09,220 - DEBUG - https://api.spotify.com:443 "GET /v1/artists/74oJ4qxwOZvX6oSsu1DGnw/albums?market=ES&limit=50&include_groups=album,single,compilation,appears_on&offset=0 HTTP/11" 200 None
+2025-03-30 23:38:09,228 - DEBUG - Starting new HTTPS connection (1): api.spotify.com:443
+2025-03-30 23:38:09,378 - DEBUG - https://api.spotify.com:443 "GET /v1/artists/74oJ4qxwOZvX6oSsu1DGnw/albums?market=ES&limit=50&include_groups=album,single,compilation,appears_on&offset=50 HTTP/11" 200 None
+2025-03-30 23:38:09,388 - DEBUG - Starting new HTTPS connection (1): api.spotify.com:443
+2025-03-30 23:38:09,558 - DEBUG - https://api.spotify.com:443 "GET /v1/artists/74oJ4qxwOZvX6oSsu1DGnw/albums?market=ES&limit=50&include_groups=album,single,compilation,appears_on&offset=100 HTTP/11" 200 None
+2025-03-30 23:38:09,594 - DEBUG - Starting new HTTPS connection (1): api.spotify.com:443
+2025-03-30 23:38:09,938 - DEBUG - https://api.spotify.com:443 "GET /v1/albums?ids=129WDVQcldRABYolUje2Et,0ORDgTTzFGjl4v01kHKzRe,0wS2YwC8uPIwJPH5bqWKKi,3y9gLoczbAcmoFyvlcDY5d,2tVc8PhqDSRkpgiGOw7Ukb,0zrtTZC7yY2TOEhnbJzSb9,6fRqzJT070Kp9RWlSXmKcY,6iyKqDoL9pRSHUsDBYemlB,2VcHVpVmpUf1c2C4hUktyM,28ecJ7Q68UJzQMHugW28B6,1OL9R5tOpQKH2RSfGMg1Wg,15yy77Dkncl1KA91ZDSkYp,0Wq3eHLz3FM7JwhPobsjkY,6uTteowoZyrRDJ9GHITrEp,4MjvgrLG57gPHWTREFZRrT,7K0oBo0bLIyX7PdSunoQX5&market=ES HTTP/11" 200 None

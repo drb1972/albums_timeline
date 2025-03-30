@@ -40,11 +40,13 @@ if 'all_bands_dict' not in st.session_state:
 
 def get_token():
     # Read input.yaml
-    with open('input.yaml', 'r') as f:
-        input = yaml.safe_load(f)
-    client_id = input['client_id']
-    client_secret = input['client_secret']
-    st.session_state.access_token = cf.spotify_api_token(client_id, client_secret)
+    # with open('input.yaml', 'r') as f:
+    #     input = yaml.safe_load(f)
+    # client_id = input['client_id']
+    # client_secret = input['client_secret']
+    spotify_client_id = st.secrets['spotify_client_id']
+    spotify_client_secret = st.secrets['spotify_client_secret']
+    st.session_state.access_token = cf.spotify_api_token(spotify_client_id, spotify_client_secret)
     if not st.session_state.access_token:
         print(f'{cf.timestamp()} - Error: Unable to get access token')
 
