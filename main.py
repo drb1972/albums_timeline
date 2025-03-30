@@ -35,7 +35,7 @@ with st.sidebar:
     
     five_artists = []
     
-    st.text('Search Band')
+    st.text('Search Band - Add bands to the timeline')
     search = st.text_input("Search Band",placeholder='Type here', label_visibility="collapsed",key="search")
     if search!='':
         print(f'{cf.timestamp()} -Searching {search}')
