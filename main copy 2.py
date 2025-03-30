@@ -81,7 +81,7 @@ with st.sidebar:
     if st.session_state.search!='':
             band_to_search = st.session_state.search.strip().replace(' ', '+')
             spotify_search_bands_result = cf.spotify_search_bands(band_to_search, st.session_state.access_token)
-            st.session_state.search=''
+            # st.session_state.search=''
             five_artists = []
             for artist in spotify_search_bands_result['artists']['items']:
                 five_artists.append(artist["name"])
@@ -112,7 +112,7 @@ with st.sidebar:
                     st.write('band to revove', band)
                     # selected_band = '' # dxr
                     # search = '' # dxr
-                    st.session_state.search!=''
+                    # st.session_state.search!=''
                     st.session_state.selected_bands_list.remove(band)
                     for item in st.session_state.all_bands_dict["items"]:
                         if item["band"] == band:
