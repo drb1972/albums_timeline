@@ -7,27 +7,8 @@ import yaml
 import cf
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-import logging
 
 st.set_page_config(page_title="Bands Timeline", layout="wide")
-# st.logo("images/Gafas-Turkas-6.png",size="large")
-# st.title("Bands Timeline")
-
-# Configure logging settings
-logging.basicConfig(
-    filename="app.log",       # Log file name
-    level=logging.DEBUG,      # Capture all log levels (DEBUG, INFO, WARNING, ERROR, CRITICAL)
-    format="%(asctime)s - %(levelname)s - %(message)s",
-    filemode="a"              # Append mode to keep logs across runs
-)
-# Example log events
-# logging.debug("This is a DEBUG message (useful for troubleshooting).")
-# logging.info("Application started successfully.")
-# logging.warning("This is a WARNING about potential issues.")
-# logging.error("An ERROR occurred in function X.")
-# logging.critical("CRITICAL issue! System may crash.")
-
-
 
 #------------------- SESSION STATE ------------------------------------------
 if 'selected_bands_list' not in st.session_state:
@@ -39,11 +20,6 @@ if 'all_bands_dict' not in st.session_state:
 
 
 def get_token():
-    # Read input.yaml
-    # with open('input.yaml', 'r') as f:
-    #     input = yaml.safe_load(f)
-    # client_id = input['client_id']
-    # client_secret = input['client_secret']
     spotify_client_id = st.secrets['spotify_client_id']
     spotify_client_secret = st.secrets['spotify_client_secret']
     st.session_state.access_token = cf.spotify_api_token(spotify_client_id, spotify_client_secret)
@@ -61,6 +37,7 @@ with st.sidebar:
     st.text('Search Band')
     search = st.text_input("Search Band",placeholder='Type here', label_visibility="collapsed",key="search")
     if search!='':
+        print(f'{cf.timestamp()} -Searching {search}')
         band_to_search = search.strip().replace(' ', '+')
         spotify_search_bands_result = cf.spotify_search_bands(band_to_search, st.session_state.access_token)
         for artist in spotify_search_bands_result['artists']['items']:
@@ -75,10 +52,10 @@ with st.sidebar:
             for artist in spotify_search_bands_result['artists']['items']:
                 if artist['name'] == selected_band:
                     artist_id = artist['id'] 
-                    logging.info(f"Artist added ---- {selected_band}")
                     break
             # Check if selected_band and artist_id are provided
             if selected_band not in st.session_state.selected_bands_list:
+                print(f'{cf.timestamp()} -Removing {selected_band}')
                 st.session_state.selected_bands_list.append(selected_band)
                 with st.spinner(text="Building Timeline"):
                     albums_data = cf.get_albums(st.session_state.access_token, selected_band, artist_id)
@@ -107,7 +84,6 @@ with st.sidebar:
                         if item["band"] == band:
                             st.session_state.all_bands_dict["items"].remove(item)
                             print(f'{cf.timestamp()} -Removing {band}')
-                            logging.info(f"Artist removed -- {band}")
                             break
                     st.rerun()
 #------------------- END OF SIDEBAR -----------------------------------------
