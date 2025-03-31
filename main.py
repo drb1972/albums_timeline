@@ -25,14 +25,14 @@ st.set_page_config(page_title="Bands Timeline",
 
 
 #----------------------Hide Streamlit footer----------------------------
-hide_st_style = """
+# hide_st_style = """
 
-#MainMenu {visibility: hidden;}
-footer {visibility: hidden;}
-header {visibility: hidden;}
+# #MainMenu {visibility: hidden;}
+# footer {visibility: hidden;}
+# header {visibility: hidden;}
 
-"""
-st.markdown(hide_st_style, unsafe_allow_html=True)
+# """
+# st.markdown(hide_st_style, unsafe_allow_html=True)
 #--------------------------------------------------------------------
 
 #------------------- SESSION STATE ------------------------------------------
