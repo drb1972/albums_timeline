@@ -2,7 +2,6 @@
 import streamlit as st
 from streamlit_timeline import timeline
 import os
-import json
 import yaml
 import cf
 import streamlit.components.v1 as components
