@@ -1,8 +1,6 @@
 # streamlit run main.py --server.port 8085
 import streamlit as st
 from streamlit_timeline import timeline
-import os
-import yaml
 import cf
 import streamlit.components.v1 as components
 import urllib3
