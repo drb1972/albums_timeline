@@ -9,7 +9,9 @@ import streamlit.components.v1 as components
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-st.set_page_config(page_title="Bands Timeline", layout="wide")
+st.set_page_config(page_title="Bands Timeline",
+                   layout="wide",
+                   initial_sidebar_state="expanded")
 
 #------------------- SESSION STATE ------------------------------------------
 if 'selected_bands_list' not in st.session_state:
